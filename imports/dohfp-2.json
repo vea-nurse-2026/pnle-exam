@@ -1,0 +1,485 @@
+{
+ "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014)",
+ "questions": [
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "How do combined hormonal contraceptives mainly prevent pregnancy?",
+   "options": [
+    "Suppress ovulation",
+    "Kill sperm",
+    "Block the tubes",
+    "Cause early abortion"
+   ],
+   "answer": "A",
+   "rationale": "Estrogen gives negative feedback that suppresses follicle development and ovulation; progestin thickens cervical mucus.",
+   "explanations": [
+    "Correct.",
+    "Spermicide.",
+    "Tubal ligation.",
+    "CHCs are not abortifacient."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 How CHCs work (PDF p. 49)",
+   "quote": "CHCs suppress ovulation or the release of an egg from the ovary."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A woman on rifampicin for TB asks about using pills. The nurse explains that rifampicin:",
+   "options": [
+    "Lowers pill effectiveness",
+    "Has no effect on pills",
+    "Makes pills stronger",
+    "Is safe with any method"
+   ],
+   "answer": "A",
+   "rationale": "Rifampicin and most anticonvulsants reduce CHC effectiveness; most broad-spectrum antibiotics do not.",
+   "explanations": [
+    "Correct.",
+    "False.",
+    "False.",
+    "Hormonal methods affected."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 Drug interactions (PDF p. 57)",
+   "quote": "Certain antimicrobials (rifampicin)"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Which condition makes combined pills an unacceptable risk (MEC Category 4)?",
+   "options": [
+    "Migraine with aura",
+    "Varicose veins",
+    "Iron-deficiency anemia",
+    "Past ectopic pregnancy"
+   ],
+   "answer": "A",
+   "rationale": "Migraine with aura at any age is Category 4; varicose veins, anemia, and past ectopic are Category 1.",
+   "explanations": [
+    "Correct.",
+    "Category 1.",
+    "Category 1.",
+    "Category 1."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 MEC categories for CHCs (PDF p. 54)",
+   "quote": "Migraine with aura at any age"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A 38-year-old who smokes 20 cigarettes a day requests pills. Her MEC category for COCs is:",
+   "options": [
+    "Category 4",
+    "Category 1",
+    "Category 2",
+    "Category 3"
+   ],
+   "answer": "A",
+   "rationale": "Smoking more than 15 cigarettes/day over age 35 is Category 4 for COC, patch, and ring.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Fewer cigarettes."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 MEC categories for CHCs (PDF p. 54)",
+   "quote": "Women who smoke more than 15 cigarettes/day, aged more than 35 years"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A client's BP is 165/105 mm Hg. Regarding combined hormonal methods, she:",
+   "options": [
+    "Must not use them",
+    "May use without restriction",
+    "May use with follow-up",
+    "Needs only a backup"
+   ],
+   "answer": "A",
+   "rationale": "BP ≥160/100 is Category 4 for CHCs; 140–159/90–99 is Category 3.",
+   "explanations": [
+    "Correct.",
+    "Unsafe.",
+    "Unsafe.",
+    "Unsafe."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 MEC categories for CHCs (PDF p. 54)",
+   "quote": "Have high blood pressure (systolic of more than or equal to 160 mm Hg or diastolic of more than or equal to 100 mm Hg)"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Which symptom in a pill user requires immediate referral?",
+   "options": [
+    "Severe leg pain",
+    "Mild nausea in cycle 1",
+    "Breast tenderness",
+    "Spotting in month 1"
+   ],
+   "answer": "A",
+   "rationale": "Warning signs: jaundice, severe abdominal or chest pain, severe headache, eye problems, severe arm or leg pain.",
+   "explanations": [
+    "Correct.",
+    "Common, transient.",
+    "Common.",
+    "Common."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 Referral (PDF p. 56)",
+   "quote": "Severe arm or leg pain (difficulty in moving)"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Long-term COC use reduces the risk of which cancers?",
+   "options": [
+    "Ovarian and endometrial",
+    "Breast and cervical",
+    "Liver and colon",
+    "Lung and stomach"
+   ],
+   "answer": "A",
+   "rationale": "Protection against endometrial and ovarian cancer begins after a year and lasts at least 15 years after stopping.",
+   "explanations": [
+    "Correct.",
+    "Not reduced.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 Lasting effects (PDF p. 54)",
+   "quote": "Decreases the risk of cancers of the uterine lining and the ovary."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A client starts COCs on day 8 of her cycle. What should the nurse advise?",
+   "options": [
+    "Back-up method for 7 days",
+    "No back-up needed",
+    "Back-up for 1 month",
+    "Double the first dose"
+   ],
+   "answer": "A",
+   "rationale": "COCs started after day 5 need abstinence or a backup for the next 7 days.",
+   "explanations": [
+    "Correct.",
+    "Needed.",
+    "Too long.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 When to start COCs (PDF p. 62)",
+   "quote": "should practice abstinence or use a backup contraceptive for the next seven days"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Following Birth",
+   "situation": "",
+   "stem": "An exclusively breastfeeding mother wants pills. When may she start COCs?",
+   "options": [
+    "At 6 months or when weaning",
+    "Right after delivery",
+    "At 3 weeks",
+    "At 6 weeks"
+   ],
+   "answer": "A",
+   "rationale": "Estrogen may decrease milk; breastfeeding women start COCs at 6 months or when they stop breastfeeding.",
+   "explanations": [
+    "Correct.",
+    "Too early.",
+    "For non-breastfeeding.",
+    "Too early."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 When to start COCs (PDF p. 62)",
+   "quote": "Breastfeeding women may begin COCs at six months postpartum or when they quit breastfeeding."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Following Birth",
+   "situation": "",
+   "stem": "A mother who is not breastfeeding may start COCs at:",
+   "options": [
+    "3 weeks postpartum",
+    "Delivery day",
+    "6 months",
+    "1 year"
+   ],
+   "answer": "A",
+   "rationale": "Non-breastfeeding postpartum women may begin COCs three weeks after delivery.",
+   "explanations": [
+    "Correct.",
+    "Too early (clot risk).",
+    "Breastfeeding.",
+    "Too late."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 When to start COCs (PDF p. 62)",
+   "quote": "Postpartum women who are not breastfeeding may begin taking COCs three weeks after delivery."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A woman on 30-mcg pills forgot one active pill yesterday. What should she do?",
+   "options": [
+    "Take it now; next pill on time",
+    "Stop the pack",
+    "Use condoms for a month",
+    "Skip it entirely"
+   ],
+   "answer": "A",
+   "rationale": "For 1–2 missed pills (30–35 mcg EE), take one ASAP and the next at the usual time, even two in a day; no backup needed.",
+   "explanations": [
+    "Correct.",
+    "Not advised.",
+    "Not needed.",
+    "Wrong."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 Missed pills (PDF p. 63)",
+   "quote": "take one pill as soon as possible and then take the next pill at the regular time even if this means taking two pills in one day"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A woman missed three active 30-mcg pills in the second week. Besides resuming pills, she should:",
+   "options": [
+    "Use backup for 7 days",
+    "Need no backup",
+    "Take three pills at once",
+    "Start a new pack tomorrow"
+   ],
+   "answer": "A",
+   "rationale": "Missing 3 or more active pills requires abstinence or backup for 7 days.",
+   "explanations": [
+    "Correct.",
+    "Needed.",
+    "Not advised.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 Missed pills (PDF p. 63)",
+   "quote": "should abstain from sex or use a backup contraceptive for seven days in a row"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A pill user vomits within 2 hours of taking an active pill. She should:",
+   "options": [
+    "Take another active pill",
+    "Stop the pills",
+    "Do nothing",
+    "Start a new pack"
+   ],
+   "answer": "A",
+   "rationale": "Vomiting within two hours after an active pill: take another active pill.",
+   "explanations": [
+    "Correct.",
+    "Not needed.",
+    "Inadequate.",
+    "Not needed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 Vomiting or diarrhea (PDF p. 64)",
+   "quote": "If vomiting occurs within two hours after taking an active (hormonal) pill, the client should take another active pill."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "How often is a combined injectable contraceptive (e.g., Cyclofem) given?",
+   "options": [
+    "Monthly",
+    "Every 3 months",
+    "Weekly",
+    "Yearly"
+   ],
+   "answer": "A",
+   "rationale": "CICs are monthly IM injections; DMPA is every 3 months.",
+   "explanations": [
+    "Correct.",
+    "DMPA.",
+    "Patch.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 Combined injectables (PDF p. 65)",
+   "quote": "intramuscularly injected once a month"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "What is the grace period for a late monthly combined injectable without extra protection?",
+   "options": [
+    "7 days",
+    "2 weeks",
+    "1 month",
+    "1 day"
+   ],
+   "answer": "A",
+   "rationale": "The CIC grace period is 7 days; later, give if not pregnant plus backup for 7 days.",
+   "explanations": [
+    "Correct.",
+    "Too long.",
+    "Too long.",
+    "Too short."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 Delayed injection (PDF p. 72)",
+   "quote": "The grace period of CICs is seven days without the need for extra contraceptive protection."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Who may administer combined injectable contraceptives?",
+   "options": [
+    "A trained nurse or midwife",
+    "Only an OB-gynecologist",
+    "The client herself",
+    "Only a pharmacist"
+   ],
+   "answer": "A",
+   "rationale": "CICs can be provided by a trained nurse or midwife; no pelvic exam is needed.",
+   "explanations": [
+    "Correct.",
+    "Not only.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 Advantages of CICs (PDF p. 65)",
+   "quote": "Can be provided by a trained nurse or midwife"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Which site must be avoided when applying a contraceptive patch?",
+   "options": [
+    "On the breast",
+    "Buttock",
+    "Upper arm",
+    "Abdomen"
+   ],
+   "answer": "A",
+   "rationale": "Avoid the breast area because high local estrogen can cause tenderness; rotate sites.",
+   "explanations": [
+    "Correct.",
+    "Allowed.",
+    "Allowed.",
+    "Allowed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 Transdermal patch (PDF p. 77)",
+   "quote": "The breast or areas surrounding the breast must be avoided"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "How is the contraceptive patch used each cycle?",
+   "options": [
+    "Weekly x3, week off",
+    "Daily for 21 days",
+    "Once a month",
+    "Every 3 months"
+   ],
+   "answer": "A",
+   "rationale": "Change the patch weekly on the same day for 3 weeks, then a patch-free week.",
+   "explanations": [
+    "Correct.",
+    "Pills.",
+    "Ring/CIC.",
+    "DMPA."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 Transdermal patch (PDF p. 77)",
+   "quote": "The patch is changed once a week for three weeks (total of 21 days), followed by a patch-free week."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A patch has been off for more than 24 hours. What should the client do?",
+   "options": [
+    "Apply new patch; backup 7 days",
+    "Tape the old patch back",
+    "Wait for next cycle",
+    "Apply two patches"
+   ],
+   "answer": "A",
+   "rationale": "After 24 hours detached, apply a new patch (new change day) and use backup for 7 days; never tape it.",
+   "explanations": [
+    "Correct.",
+    "No tape.",
+    "Unprotected.",
+    "Not advised."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 Patch falls off (PDF p. 79)",
+   "quote": "If detached longer than 24 hours, a new patch should be applied"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Which counseling point is essential for every woman using combined hormonal methods?",
+   "options": [
+    "They do not protect against STIs",
+    "They protect against HIV",
+    "Smoking is harmless",
+    "No follow-up is needed"
+   ],
+   "answer": "A",
+   "rationale": "Emphasize correct use, warning signs, no STI/HIV protection (use condoms), and quitting smoking.",
+   "explanations": [
+    "Correct.",
+    "False.",
+    "False.",
+    "False."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 4 Counseling tips (PDF p. 58)",
+   "quote": "The fact that CHCs do not protect the client against STIs, including HIV, and that use of condoms is necessary."
+  }
+ ]
+}

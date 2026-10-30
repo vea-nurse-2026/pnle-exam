@@ -1,0 +1,557 @@
+{
+ "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014)",
+ "questions": [
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "Under DOH AO 2011-0005, Informed Choice and Voluntarism (ICV) in family planning means the client:",
+   "options": [
+    "Decides freely after full, accurate information",
+    "Follows the method the midwife recommends",
+    "Accepts a method to receive a cash incentive",
+    "Chooses only from methods in stock"
+   ],
+   "answer": "A",
+   "rationale": "ICV ensures clients freely decide based on accurate, complete information on a broad range of modern methods, without inducement or coercion.",
+   "explanations": [
+    "Correct.",
+    "Provider choice violates ICV.",
+    "Inducements violate ICV.",
+    "Clients must learn of all methods and be referred if unavailable."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 1 Informed Choice and Voluntarism (PDF p. 21)",
+   "quote": "ensuring that clients freely make their own decision based on accurate and complete information on a broad range of available modern FP methods"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "A lying-in owner docks a midwife's pay for failing to reach 10 postpartum IUD insertions a month. Which ICV principle is violated?",
+   "options": [
+    "No acceptor quotas",
+    "Right to privacy",
+    "Right to continuity",
+    "Full disclosure"
+   ],
+   "answer": "A",
+   "rationale": "Providers must not implement or be subject to quotas or targets for numbers of acceptors of a method.",
+   "explanations": [
+    "Correct.",
+    "Not this situation.",
+    "Not this situation.",
+    "Not this situation."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 1 Principles of ICV (PDF p. 23)",
+   "quote": "Service providers or referral agents shall not implement or be subject to quotas or other numerical targets"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "A barangay health center refuses to immunize the babies of mothers who decline family planning. This violates the principle that:",
+   "options": [
+    "No right or benefit is denied to non-acceptors",
+    "Clients must sign method-specific consent",
+    "Only natural methods may be funded",
+    "Counseling must be done face to face"
+   ],
+   "answer": "A",
+   "rationale": "Facilities shall not deny any right or benefit, including access to health care, because a client declines FP.",
+   "explanations": [
+    "Correct.",
+    "Not this issue.",
+    "Not this issue.",
+    "Not this issue."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 1 Principles of ICV (PDF p. 23)",
+   "quote": "Mothers who did not accept any FP method are denied immunization services."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "A woman in painful active labor is asked to sign consent for bilateral tubal ligation. What is wrong with this practice?",
+   "options": [
+    "Consent under duress is not voluntary",
+    "BTL never requires written consent",
+    "Only the husband may sign",
+    "Consent must be verbal only"
+   ],
+   "answer": "A",
+   "rationale": "Informed consent for permanent methods must be voluntary and documented after counseling, not obtained while the client is in painful labor.",
+   "explanations": [
+    "Correct.",
+    "Written consent is required.",
+    "The client consents.",
+    "Must be written."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 1 Principles of ICV (PDF p. 24)",
+   "quote": "While Sally was in painful labor, she was asked to sign the consent for BTL."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "A client wants BTL but no surgeon is available. What should the nurse do?",
+   "options": [
+    "Refer her to a facility that offers BTL",
+    "Send her home without a method",
+    "Tell her BTL is not allowed",
+    "Insert an IUD without asking"
+   ],
+   "answer": "A",
+   "rationale": "Programs must give access to a broad range of methods directly or through referral.",
+   "explanations": [
+    "Correct.",
+    "Violates ICV.",
+    "False.",
+    "No consent."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 1 Principles of ICV (PDF p. 24)",
+   "quote": "the provider should be able to refer the client to a facility where the services are available"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "How does informed consent differ from informed choice in family planning?",
+   "options": [
+    "Written, before a procedure",
+    "It is the same as choice",
+    "Given by the provider",
+    "Verbal for implants"
+   ],
+   "answer": "A",
+   "rationale": "Informed consent is the client's written voluntary decision to accept a method (sterilization, IUD, implant) before the procedure, after counseling.",
+   "explanations": [
+    "Correct.",
+    "They differ.",
+    "Client gives it.",
+    "Written."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 1 Informed Consent (PDF p. 24)",
+   "quote": "Informed consent is a written voluntary decision of an FP client stating that he/she accepts the particular method"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "Under the RPRH Act IRR as cited by DOH, a 17-year-old who already has a child asks for pills. What is required?",
+   "options": [
+    "Written consent of a parent or guardian",
+    "No consent because she is a mother",
+    "Her partner's consent only",
+    "A court order"
+   ],
+   "answer": "A",
+   "rationale": "Minors, including those with a previous pregnancy, need written parental or guardian consent for FP services.",
+   "explanations": [
+    "Correct.",
+    "Still a minor.",
+    "Not sufficient.",
+    "Not required."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 1 RPRH Act provisions (PDF p. 25)",
+   "quote": "Any minor who has had a previous pregnancy or is already a parent still requires parental consent"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "Which consent is required before a married woman undergoes bilateral tubal ligation?",
+   "options": [
+    "Spousal consent",
+    "Barangay captain's consent",
+    "Parental consent",
+    "No consent needed"
+   ],
+   "answer": "A",
+   "rationale": "Spousal consent is needed before permanent surgical contraceptive methods.",
+   "explanations": [
+    "Correct.",
+    "Not required.",
+    "For minors.",
+    "Required."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 1 RPRH Act provisions (PDF p. 25)",
+   "quote": "Spousal consent is needed prior to undergoing permanent surgical contraceptive methods."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "In the GATHER counseling approach, what does the 'H' stand for?",
+   "options": [
+    "Help make informed choices",
+    "Have consent signed",
+    "Hand out pills",
+    "Home visit"
+   ],
+   "answer": "A",
+   "rationale": "GATHER: Greet, Ask, Tell, Help, Explain, Return visits.",
+   "explanations": [
+    "Correct.",
+    "Not GATHER.",
+    "Not GATHER.",
+    "Not GATHER."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 2 GATHER (PDF p. 33)",
+   "quote": "H – Help clients make informed choices."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "During the 'Tell' step of GATHER, the nurse should:",
+   "options": [
+    "Describe choices, including using no method",
+    "Discuss only the method she prefers",
+    "Choose the method for the client",
+    "Skip methods not in stock"
+   ],
+   "answer": "A",
+   "rationale": "Tell clients their choices, including no method, focusing on those of interest but briefly mentioning others.",
+   "explanations": [
+    "Correct.",
+    "Mention others too.",
+    "Client decides.",
+    "Refer if needed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 2 GATHER (PDF p. 33)",
+   "quote": "tell them what reproductive health choices they have, including FP methods or using no method at all"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Which technique best confirms that a client understood how to use her chosen method?",
+   "options": [
+    "Ask her to repeat the instructions",
+    "Give a printed leaflet only",
+    "Ask 'Do you understand?'",
+    "Have her partner sign"
+   ],
+   "answer": "A",
+   "rationale": "Asking the client to repeat the instructions avoids misunderstandings, since many failures come from usage errors.",
+   "explanations": [
+    "Correct.",
+    "Not verified.",
+    "Yes/no is unreliable.",
+    "Not verification."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 2 Use of the chosen method (PDF p. 31)",
+   "quote": "A useful approach is to ask the client to repeat the instructions to avoid misunderstandings."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "In the ABCDE of safe sex, what does 'D' stand for?",
+   "options": [
+    "Do not share needles",
+    "Dual method use",
+    "Douche after sex",
+    "Delay marriage"
+   ],
+   "answer": "A",
+   "rationale": "ABCDE: Abstinence, Being mutually faithful, Condom use, Do not share needles, Education and information.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not advised.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 2 STI prevention (PDF p. 31)",
+   "quote": "Do not share needles"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A 16-year-old asks the nurse about contraception. Which approach is correct?",
+   "options": [
+    "Confidential, all methods",
+    "Assume sexual activity",
+    "Refuse to counsel minors",
+    "Abstinence only"
+   ],
+   "answer": "A",
+   "rationale": "Adolescents need confidential, age-appropriate counseling about all methods and abstinence; do not assume sexual activity. Family participation is encouraged.",
+   "explanations": [
+    "Correct.",
+    "Do not assume.",
+    "Counsel them.",
+    "Discuss all options."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 2 Counseling adolescents (PDF p. 35)",
+   "quote": "Providers must not assume that adolescents are sexually active simply because they are seeking FP services."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "Which statement must be explained before obtaining consent for sterilization?",
+   "options": [
+    "She can change her mind any time before surgery",
+    "Reversal is easy and guaranteed",
+    "Temporary methods are no longer available",
+    "Refusing loses other health benefits"
+   ],
+   "answer": "A",
+   "rationale": "Six elements include that temporary methods exist, it is surgery with risks, it is permanent, and the client can decide against it any time without losing benefits.",
+   "explanations": [
+    "Correct.",
+    "It is considered permanent.",
+    "They are available.",
+    "Benefits are kept."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 2 Informed consent for permanent methods (PDF p. 35)",
+   "quote": "The client can decide against the procedure at any time before it takes place"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "Who signs the FP consent form for a client who cannot give informed consent because of intellectual disability?",
+   "options": [
+    "Parent or legal guardian",
+    "The nurse",
+    "The barangay health worker",
+    "Any relative present"
+   ],
+   "answer": "A",
+   "rationale": "If the client cannot give informed consent, the parent or legal guardian signs.",
+   "explanations": [
+    "Correct.",
+    "Not allowed.",
+    "Not allowed.",
+    "Must be legal guardian."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 2 Ensuring informed consent (PDF p. 34)",
+   "quote": "the parent or legal guardian must sign the consent form"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Under the WHO Medical Eligibility Criteria, Category 4 means:",
+   "options": [
+    "Unacceptable health risk; do not use",
+    "No restriction",
+    "Advantages outweigh risks",
+    "Use with careful follow-up"
+   ],
+   "answer": "A",
+   "rationale": "Category 1 no restriction; 2 advantages outweigh risks; 3 risks usually outweigh advantages; 4 unacceptable risk.",
+   "explanations": [
+    "Correct.",
+    "Category 1.",
+    "Category 2.",
+    "Category 2–3."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 3 WHO MEC categories (PDF p. 38)",
+   "quote": "A condition where the use of a certain method has an unacceptable health risk. Do not provide the method."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "In a barangay setting with limited clinical judgment, a client with an MEC Category 3 condition is:",
+   "options": [
+    "Not eligible for the method",
+    "Eligible without follow-up",
+    "Eligible after one visit",
+    "Eligible if she insists"
+   ],
+   "answer": "A",
+   "rationale": "With limited clinical judgment, categories 1–2 mean use; categories 3–4 mean do not use.",
+   "explanations": [
+    "Correct.",
+    "Category 1–2.",
+    "Not this.",
+    "Safety first."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 3 Simplified MEC (PDF p. 38)",
+   "quote": "a Category 3 classification indicates that a client is not medically eligible to use the method"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Before which method is a pelvic examination mandatory?",
+   "options": [
+    "IUD insertion",
+    "Combined oral pills",
+    "Male condom",
+    "Progestin-only pills"
+   ],
+   "answer": "A",
+   "rationale": "Pelvic exam must be performed for IUD, surgical sterilization, or diaphragm.",
+   "explanations": [
+    "Correct.",
+    "Not required.",
+    "Not required.",
+    "Not required."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 3 Physical examination (PDF p. 41)",
+   "quote": "It must be performed on all women requesting an IUD, surgical sterilization, or diaphragm insertion."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A woman wants pills but her blood pressure cannot be measured at the remote health station. According to WHO guidance in the manual:",
+   "options": [
+    "Do not deny hormonal methods for this reason",
+    "Refuse all hormonal methods",
+    "Give pills only after 1 year",
+    "Require a pregnancy test instead"
+   ],
+   "answer": "A",
+   "rationale": "BP is ideally taken, but women should not be denied hormonal methods simply because BP cannot be measured where pregnancy risks are high.",
+   "explanations": [
+    "Correct.",
+    "Too restrictive.",
+    "Not this.",
+    "Different purpose."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Evaluating",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 3 Applicability of tests (PDF p. 43)",
+   "quote": "women should not be denied the use of hormonal methods simply because their blood pressure cannot be measured"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Which client can the nurse be reasonably sure is free of pregnancy without a test?",
+   "options": [
+    "Delivered 3 weeks ago",
+    "Last period was 7 weeks ago",
+    "Had unprotected sex 2 weeks ago",
+    "Has nausea and breast tenderness"
+   ],
+   "answer": "A",
+   "rationale": "A woman who gave birth within the last 4 weeks, started menses within 7 days, or aborted within 7 days is not pregnant.",
+   "explanations": [
+    "Correct.",
+    "Cannot rule out.",
+    "Cannot rule out.",
+    "Early pregnancy signs."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 3 Ruling out pregnancy (PDF p. 44)",
+   "quote": "She gave birth within the last four weeks."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A client's answers cannot rule out pregnancy and no test is available. The nurse should:",
+   "options": [
+    "Condoms, wait for menses",
+    "Start pills now",
+    "Insert an IUD",
+    "Give an injectable now"
+   ],
+   "answer": "A",
+   "rationale": "She should have a pregnancy test or wait for her next period, using condoms meanwhile.",
+   "explanations": [
+    "Correct.",
+    "Rule out first.",
+    "Rule out first.",
+    "Rule out first."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 3 Ruling out pregnancy (PDF p. 45)",
+   "quote": "wait until her next menstrual period before starting a method. She should be provided with condoms"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Which record documents a family planning client's assessment and follow-up visits?",
+   "options": [
+    "FP Form 1",
+    "Target Client List",
+    "Partograph",
+    "Mother's Book"
+   ],
+   "answer": "A",
+   "rationale": "FP Form 1 records history, PE, lab results, and every follow-up visit.",
+   "explanations": [
+    "Correct.",
+    "Program list.",
+    "Labor.",
+    "Maternal."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 3 Recording assessment (PDF p. 48)",
+   "quote": "The basic record used in assessing a client’s condition is the Family Planning Service Record or FP Form 1"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "How often should a woman perform breast self-examination once she has mastered it?",
+   "options": [
+    "Monthly, after menses",
+    "Weekly forever",
+    "Once a year",
+    "Only during menses"
+   ],
+   "answer": "A",
+   "rationale": "Self-exam weekly until mastered, then monthly, preferably one week after menstruation.",
+   "explanations": [
+    "Correct.",
+    "Until mastered.",
+    "Provider exam.",
+    "Not ideal."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 3 Physical examination (PDF p. 41)",
+   "quote": "preferably one week after every menstruation"
+  }
+ ]
+}

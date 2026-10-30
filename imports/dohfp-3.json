@@ -1,0 +1,461 @@
+{
+ "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014)",
+ "questions": [
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Following Birth",
+   "situation": "",
+   "stem": "Which pill is preferred for a breastfeeding mother at 6 weeks postpartum?",
+   "options": [
+    "Progestin-only pill",
+    "Combined pill",
+    "High-dose estrogen pill",
+    "Emergency pill daily"
+   ],
+   "answer": "A",
+   "rationale": "POPs (lynestrenol, desogestrel) can be used from 6 weeks postpartum without affecting milk quantity or quality.",
+   "explanations": [
+    "Correct.",
+    "Estrogen lowers milk.",
+    "Not used.",
+    "Not a method."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 Progestin-only pills (PDF p. 84)",
+   "quote": "Can be used by breastfeeding mothers six weeks after childbirth without affecting the quality and quantity of breast milk"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "What is the main way progestin-only pills prevent pregnancy?",
+   "options": [
+    "Thicken cervical mucus",
+    "Kill sperm",
+    "Prevent implantation only",
+    "Block the tubes"
+   ],
+   "answer": "A",
+   "rationale": "POPs mainly thicken cervical mucus (effective after 48 hours) and suppress ovulation in some cycles.",
+   "explanations": [
+    "Correct.",
+    "Spermicide.",
+    "Not main.",
+    "Surgery."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 How POPs work (PDF p. 83)",
+   "quote": "POPs mainly thicken the cervical mucus and impair the entry of sperm into the uterus."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A non-breastfeeding woman on lynestrenol POP took her pill 5 hours late. She should:",
+   "options": [
+    "Take it; backup for 48 hours",
+    "Need no backup",
+    "Stop the pills",
+    "Take 2 pills daily"
+   ],
+   "answer": "A",
+   "rationale": "Lynestrenol POP more than 3 hours late (desogestrel >12 hours): resume and use backup or abstain for 48 hours.",
+   "explanations": [
+    "Correct.",
+    "Needed.",
+    "Not advised.",
+    "Not advised."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 Missed POPs (PDF p. 91)",
+   "quote": "during the first 48 hours after restarting the pills"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Which statement about progestin-only pills is correct?",
+   "options": [
+    "Taken daily with no break",
+    "Taken 21 days, 7 off",
+    "Taken only before sex",
+    "Taken weekly"
+   ],
+   "answer": "A",
+   "rationale": "POPs are taken one daily at the same time, starting a new pack the day after finishing.",
+   "explanations": [
+    "Correct.",
+    "COC pattern.",
+    "Not a method.",
+    "Patch."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 Taking the POP (PDF p. 91)",
+   "quote": "take one pill every day at the same time until the packet is finished"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A POP user has had no menses for 50 days. The nurse advises:",
+   "options": [
+    "Exam and pregnancy test",
+    "Double the dose",
+    "Ignore it",
+    "Switch to combined pills"
+   ],
+   "answer": "A",
+   "rationale": "No menses for more than 45 days on POPs warrants examination and a pregnancy test.",
+   "explanations": [
+    "Correct.",
+    "Not advised.",
+    "Unsafe.",
+    "Not first."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 Missed POPs (PDF p. 92)",
+   "quote": "If she fails to have her menses for more than 45 days, she should see her healthcare provider"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "The only MEC Category 4 condition for progestin-only pills is:",
+   "options": [
+    "Current breast cancer",
+    "Smoking at any age",
+    "Varicose veins",
+    "Obesity"
+   ],
+   "answer": "A",
+   "rationale": "Current breast cancer is the only Category 4 condition for POPs.",
+   "explanations": [
+    "Correct.",
+    "Category 1.",
+    "Category 1.",
+    "Category 1."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 MEC for POPs (PDF p. 87)",
+   "quote": "Diagnosed with breast cancer"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "How often is DMPA 150 mg given?",
+   "options": [
+    "Every 12 weeks",
+    "Every 4 weeks",
+    "Every 8 weeks",
+    "Every 6 months"
+   ],
+   "answer": "A",
+   "rationale": "DMPA every 12 weeks (3 months); NET-EN every 8 weeks.",
+   "explanations": [
+    "Correct.",
+    "CIC.",
+    "NET-EN.",
+    "Too long."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 POI administration (PDF p. 100)",
+   "quote": "One dose of DMPA (150 mg) by deep IM injection given every 12 weeks"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "After giving DMPA, the nurse tells the client not to massage the site because massage:",
+   "options": [
+    "Speeds absorption",
+    "Causes infection",
+    "Causes bleeding",
+    "Weakens the vial"
+   ],
+   "answer": "A",
+   "rationale": "Massaging the site makes DMPA absorb too fast.",
+   "explanations": [
+    "Correct.",
+    "Not stated.",
+    "Not stated.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 DMPA administration (PDF p. 101)",
+   "quote": "Instruct the client not to massage or rub the site, as this can cause the DMPA to be absorbed fast."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Why is the DMPA vial gently shaken before drawing the dose?",
+   "options": [
+    "To mix the drug",
+    "To warm it",
+    "To remove air",
+    "To dilute it"
+   ],
+   "answer": "A",
+   "rationale": "Without mixing, drug remains as sediment, giving an inadequate dose; vigorous shaking makes it foamy.",
+   "explanations": [
+    "Correct.",
+    "Not purpose.",
+    "Not purpose.",
+    "Not diluted."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 DMPA administration (PDF p. 100)",
+   "quote": "Failure to mix the solution will cause some of the drug to remain as sediment in the vial"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A DMPA client returns 3 weeks after her due date. The nurse should:",
+   "options": [
+    "Reinject; no backup needed",
+    "Refuse injection",
+    "Require a 7-day backup",
+    "Do a pregnancy test first"
+   ],
+   "answer": "A",
+   "rationale": "DMPA can be given up to 4 weeks late without backup or pregnancy assessment.",
+   "explanations": [
+    "Correct.",
+    "Not needed.",
+    "Within 4 weeks.",
+    "Within 4 weeks."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 POI follow-up (PDF p. 103)",
+   "quote": "If the client is less than four weeks late for the next DMPA"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Which side effect is most common after a year of DMPA use?",
+   "options": [
+    "Amenorrhea",
+    "Heavy bleeding",
+    "Hair growth",
+    "Hypertension"
+   ],
+   "answer": "A",
+   "rationale": "About half of DMPA users have amenorrhea after a year; it is harmful to neither health nor future fertility.",
+   "explanations": [
+    "Correct.",
+    "Rare.",
+    "Not typical.",
+    "Not typical."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 POI effects (PDF p. 104)",
+   "quote": "Another 50% of women using DMPA develop amenorrhea after a year of use."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A woman plans to conceive within 6 months. Why might DMPA be a poor choice?",
+   "options": [
+    "Fertility returns slowly",
+    "It causes infertility",
+    "It causes birth defects",
+    "It must be removed surgically"
+   ],
+   "answer": "A",
+   "rationale": "Return of fertility is delayed by an average of 9–10 months after the last DMPA injection, but it is not permanent.",
+   "explanations": [
+    "Correct.",
+    "Not permanent.",
+    "False.",
+    "Injectable."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 Stopping POIs (PDF p. 105)",
+   "quote": "The average delay in return of fertility is 9 to 10 months for DMPA"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A DMPA user worries that her lack of menses means blood is 'building up' inside. The nurse explains:",
+   "options": [
+    "It is not harmful or retained",
+    "She must stop DMPA",
+    "She is likely pregnant",
+    "She needs a D&C"
+   ],
+   "answer": "A",
+   "rationale": "Amenorrhea is an expected effect on the endometrium; blood is not building up and it does not mean pregnancy.",
+   "explanations": [
+    "Correct.",
+    "Not needed.",
+    "Not likely.",
+    "Not needed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 POI effects (PDF p. 104)",
+   "quote": "menstrual blood is not building up inside her"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Which advice helps a DMPA user manage weight gain?",
+   "options": [
+    "Low-calorie diet",
+    "Stop all exercise",
+    "Double the dose",
+    "Take estrogen"
+   ],
+   "answer": "A",
+   "rationale": "Weight gain of about 1–2 kg per year from increased appetite can be controlled with a low-calorie diet.",
+   "explanations": [
+    "Correct.",
+    "Worsens.",
+    "Not advised.",
+    "Not advised."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 POI effects (PDF p. 104)",
+   "quote": "can be controlled by shifting to a low-calorie diet"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Implanon (single-rod etonogestrel implant) provides protection for:",
+   "options": [
+    "3 years",
+    "1 year",
+    "5 years",
+    "10 years"
+   ],
+   "answer": "A",
+   "rationale": "Implanon lasts 3 years; Jadelle (two rods, levonorgestrel) lasts up to 5 years.",
+   "explanations": [
+    "Correct.",
+    "Too short.",
+    "Jadelle.",
+    "Copper IUD."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 Subdermal implants (PDF p. 107)",
+   "quote": "The single-rod system (Implanon) releases etonogestrel and has a life span of three years."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Where is a subdermal contraceptive implant inserted?",
+   "options": [
+    "Inner upper arm",
+    "Outer buttock",
+    "Lower abdomen",
+    "Front thigh"
+   ],
+   "answer": "A",
+   "rationale": "Implants go under the skin of the inner upper arm, 8–10 cm from the medial epicondyle, under local anesthesia.",
+   "explanations": [
+    "Correct.",
+    "Injectable site.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 Implant insertion (PDF p. 112)",
+   "quote": "Mark the insertion site (8 cm to 10 cm from the medial epicondyle)."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Which is an advantage of subdermal implants?",
+   "options": [
+    "Fertility returns soon after removal",
+    "Client removes it herself",
+    "Protects against HIV",
+    "Needs daily action"
+   ],
+   "answer": "A",
+   "rationale": "Fertility returns almost immediately after removal; insertion and removal need a trained provider.",
+   "explanations": [
+    "Correct.",
+    "Provider removes.",
+    "No STI protection.",
+    "No daily action."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 Implant advantages (PDF p. 107)",
+   "quote": "Reversible, as fertility returns almost immediately after the rods are removed"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A client asks whether progestin injectables cause abortion. The nurse answers that POIs:",
+   "options": [
+    "Do not disrupt a pregnancy",
+    "End early pregnancy",
+    "Cause birth defects",
+    "Make her infertile"
+   ],
+   "answer": "A",
+   "rationale": "POIs neither disrupt an existing pregnancy nor cause abortion or birth defects; fertility returns after a delay.",
+   "explanations": [
+    "Correct.",
+    "False.",
+    "False.",
+    "False."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 Facts about POIs (PDF p. 106)",
+   "quote": "POIs neither disrupt an existing pregnancy nor cause an abortion."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A woman on DMPA bleeds lightly but irregularly. When is her next injection due?",
+   "options": [
+    "3 months after the last dose",
+    "When bleeding stops",
+    "At her next menses",
+    "When she feels ready"
+   ],
+   "answer": "A",
+   "rationale": "Bleeding should not guide the schedule; DMPA is given every 3 months regardless of bleeding.",
+   "explanations": [
+    "Correct.",
+    "Not a guide.",
+    "Not a guide.",
+    "Schedule matters."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "DOH Philippine Clinical Standards Manual on Family Planning (2014), Ch. 5 Facts about POIs (PDF p. 106)",
+   "quote": "bleeding episodes should not be used as a guide for the injection schedule"
+  }
+ ]
+}

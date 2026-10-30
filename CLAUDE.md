@@ -50,6 +50,7 @@ For small changes (site design, a fix), the same flow applies: change, `npm run 
   - old status epilepticus timing (30 min)
   - repealed laws (RA 6425, RA 8504, RA 3573)
   - outdated CPD unit counts
+  - spousal consent "required" for sterilization (struck down in Imbong v. Ochoa, 2014; only the client consents)
 - **Topics must be the exact Annex A names below.** A misspelled topic would create a new topic, so `--approve` refuses it instead. NP II and NP V have no "Health Education" topic, and "Acute Biologic Crisis & Emergency Care" exists only under NP V.
 - **Mix the difficulty and Bloom levels.** Keep the correct option's length similar to the others, and avoid NOT/EXCEPT stems.
 
@@ -74,8 +75,10 @@ For small changes (site design, a fix), the same flow applies: change, `npm run 
 | Udan: Comprehensive Review Vol. 2 (Scribd 1015187019, 532 pp.) | Waiting for the user to download it |
 | Udan: Medical-Surgical Nursing (Scribd 837094898, 274 pp., scanned) | Waiting for the download; needs OCR |
 | Udan: Fundamentals overview (Scribd 25006096, 29 pp.) | Waiting for the download |
+| DOH Philippine Clinical Standards Manual on Family Planning (2014) | Ch. 1–11 done (`imports/dohfp-*.json`); STI and FP-management chapters left |
+| Other free sources in `materials/openstax/` and `materials/doh/` (MNCHN MOP, NTP MOP, Dengue CPG 2023, mhGAP 2.0, PNF; OpenStax nursing books) | Downloaded and extracted; not yet converted |
 
-Bank on 2026-10-30: 3,129 approved (3,113 published; the other 16 are samples). By subject, NP I 416 · NP II 495 · NP III 1,010 · NP IV 767 · NP V 441. Update this line after each update.
+Bank on 2026-10-31: 3,256 approved (3,240 published; the other 16 are samples). Published by subject: NP I 412 · NP II 620 · NP III 1,006 · NP IV 764 · NP V 438. Update this line after each update.
 
 ## Never
 
