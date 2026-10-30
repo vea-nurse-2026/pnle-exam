@@ -44,15 +44,34 @@ export interface ImportResult {
   withWarnings: number;
   createdTopics: string[];
   errors: string[];
+  warned: { id: number; stem: string; warnings: string[] }[];
 }
 
 /** Adds questions as drafts for review. Unknown topics are created under their subject. */
-export function importQuestions(raw: unknown, label: string): ImportResult {
+/** Thrown by an approve-mode import that found problems; nothing was saved. */
+export class ImportRejected extends Error {
+  readonly errors: string[];
+  constructor(errors: string[]) {
+    super(`Import cancelled: ${errors.length} problem(s), nothing was saved.`);
+    this.errors = errors;
+  }
+}
+
+/**
+ * Imports question files. Default: drafts for the Review Queue, and an unknown topic name creates a topic.
+ * `approve`: for files Claude writes in this project. Items are approved on import, but only if every
+ * item is valid and every topic already exists (all or nothing), and the same file can't be imported twice.
+ */
+export function importQuestions(raw: unknown, label: string, opts: { approve?: boolean } = {}): ImportResult {
+  const approve = opts.approve === true;
+  if (approve && get("SELECT 1 FROM review_events WHERE action = 'imported' AND reason = ? LIMIT 1", label)) {
+    throw new ImportRejected([`${label} was already imported. Rename the file if these are new questions.`]);
+  }
   const file = ImportFile.parse(raw);
   const items = Array.isArray(file) ? file : file.questions;
   const defaultSource = Array.isArray(file) ? "" : (file.source ?? "");
   const subjects = all<{ id: number; code: string }>("SELECT id, code FROM subjects");
-  const result: ImportResult = { imported: 0, withWarnings: 0, createdTopics: [], errors: [] };
+  const result: ImportResult = { imported: 0, withWarnings: 0, createdTopics: [], errors: [], warned: [] };
 
   transaction(() => {
     items.forEach((candidate, i) => {
@@ -70,6 +89,11 @@ export function importQuestions(raw: unknown, label: string): ImportResult {
       }
 
       let topic = get<{ id: number }>("SELECT id FROM topics WHERE subject_id = ? AND lower(name) = lower(?)", subject.id, q.topic);
+      if (!topic && approve) {
+        const names = all<{ name: string }>("SELECT name FROM topics WHERE subject_id = ? ORDER BY sort", subject.id).map((t) => t.name);
+        result.errors.push(`#${i + 1}: "${q.topic}" is not a ${subject.code} topic. Use one of: ${names.join(" | ")}`);
+        return;
+      }
       if (!topic) {
         const sort = get<{ m: number | null }>("SELECT MAX(sort) AS m FROM topics WHERE subject_id = ?", subject.id)?.m ?? 0;
         topic = { id: run("INSERT INTO topics (subject_id, name, sort) VALUES (?, ?, ?)", subject.id, q.topic, sort + 1).id };
@@ -90,15 +114,18 @@ export function importQuestions(raw: unknown, label: string): ImportResult {
       const { id } = run(
         `INSERT INTO questions (subject_id, topic_id, situation, stem, options, correct_index, rationale, explanations,
            difficulty, bloom, format, status, warnings, source_quote, source_label)
-         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'draft', ?, ?, ?)`,
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
         subject.id, topic.id, fields.situation, fields.stem, JSON.stringify(fields.options), correctIndex, fields.rationale,
         JSON.stringify(fields.explanations), q.difficulty, q.bloom, fields.situation ? "situational" : "single",
-        JSON.stringify(warnings), fields.sourceQuote, q.source.trim() || defaultSource,
+        approve ? "approved" : "draft", JSON.stringify(warnings), fields.sourceQuote, q.source.trim() || defaultSource,
       );
       logReview(id, "imported", label);
+      if (approve) logReview(id, "approve", "Auto-approved on import");
+      if (warnings.length) result.warned.push({ id, stem: fields.stem, warnings });
       result.imported++;
       if (warnings.length) result.withWarnings++;
     });
+    if (approve && result.errors.length) throw new ImportRejected(result.errors);
   });
   return result;
 }

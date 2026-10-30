@@ -8,7 +8,8 @@
     "import": "node --disable-warning=ExperimentalWarning src/cli/import.ts",
     "extract": "node --disable-warning=ExperimentalWarning src/cli/extract.ts",
     "publish:exam": "node --disable-warning=ExperimentalWarning src/cli/publish.ts",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "fix": "node --disable-warning=ExperimentalWarning src/cli/fix.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^1.3.0",

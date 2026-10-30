@@ -11,6 +11,7 @@
     "build": "npm run build -w client",
     "start": "npm run start -w server",
     "import": "npm run import -w server --",
+    "fix": "npm run fix -w server --",
     "extract": "npm run extract -w server --",
     "publish:exam": "npm run publish:exam -w server --",
     "dev:exam": "npm run dev:exam -w client",

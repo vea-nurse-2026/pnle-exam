@@ -6,6 +6,13 @@ Question files written outside the app go here. Each file is imported into the R
 npm run import -- imports/<file>.json
 ```
 
+Files Claude writes for this project are approved on import instead (see [CLAUDE.md](../CLAUDE.md)):
+
+```bash
+npm run import -- imports/<file>.json --approve    # all or nothing; unknown topics are refused; one import per file name
+npm run fix -- <fixes.json> imports/<file>.json    # fix flagged items by id; updates the bank and this file
+```
+
 ## File format
 
 ```json
