@@ -1,0 +1,821 @@
+{
+ "source": "Udan, Medical-Surgical Nursing, 2nd ed.",
+ "questions": [
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A woman being treated for pelvic inflammatory disease should be placed in which position?",
+   "options": [
+    "Semi-Fowler's",
+    "Trendelenburg",
+    "Prone",
+    "Flat supine"
+   ],
+   "answer": "A",
+   "rationale": "Semi-Fowler's helps localize infection in the pelvis and promotes drainage.",
+   "explanations": [
+    "Correct.",
+    "Spreads infection upward.",
+    "Not helpful.",
+    "Not helpful."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 19 Pelvic inflammatory disease (PDF p. 296)",
+   "quote": "Bedrest(semi-Fowlersto localizeinfection withinthepelvicarea)"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A serious long-term consequence of pelvic inflammatory disease is:",
+   "options": [
+    "Tubal infertility",
+    "Breast cancer",
+    "Osteoporosis",
+    "Urinary stones"
+   ],
+   "answer": "A",
+   "rationale": "Tubal scarring from PID causes ectopic pregnancy, infertility and chronic pelvic pain.",
+   "explanations": [
+    "Correct.",
+    "Not linked.",
+    "Not linked.",
+    "Not linked."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 19 Pelvic inflammatory disease (PDF p. 296)",
+   "quote": "Ectopicpregnancy Infertility Chronicpelvicpain"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Which instruction is part of discharge teaching for a woman treated for PID?",
+   "options": [
+    "Have her partner examined and treated",
+    "Douche daily to clean the vagina",
+    "Resume intercourse right away",
+    "Use tampons only"
+   ],
+   "answer": "A",
+   "rationale": "Treat partners to prevent reinfection; avoid intercourse, tampons and douching for at least a week after therapy.",
+   "explanations": [
+    "Correct.",
+    "Avoid douching.",
+    "Avoid for a week.",
+    "Avoid tampons."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 19 PID patient education (PDF p. 296)",
+   "quote": "Encourage patient'ssexpartiner tobe examinedand treated."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A 58-year-old woman whose periods stopped 3 years ago now has vaginal spotting. The nurse should:",
+   "options": [
+    "Refer her promptly for evaluation",
+    "Reassure her it is normal",
+    "Advise her to wait 6 months",
+    "Suggest a herbal remedy"
+   ],
+   "answer": "A",
+   "rationale": "Bleeding 1 year or more after menopause is abnormal and needs evaluation to rule out endometrial cancer.",
+   "explanations": [
+    "Correct.",
+    "Not normal.",
+    "Delays diagnosis.",
+    "Not appropriate."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 19 Abnormal uterine bleeding (PDF p. 296)",
+   "quote": "Postmenopausal bleeding.Bleeding from the reproductive tract occuming1yearormoreaftermenopause."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Heavy or prolonged menstrual bleeding is called:",
+   "options": [
+    "Menorrhagia",
+    "Oligomenorrhea",
+    "Amenorrhea",
+    "Polymenorrhea"
+   ],
+   "answer": "A",
+   "rationale": "Menorrhagia is excessive amount or duration of flow; oligomenorrhea is infrequent; polymenorrhea is too frequent.",
+   "explanations": [
+    "Correct.",
+    "Infrequent.",
+    "Absent.",
+    "Too frequent."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 19 Uterine bleeding (PDF p. 296)",
+   "quote": "Menorhagia (hypermenomhea).Increased amount or duration of menstrualbleeding"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A college student misses classes due to cramping menstrual pain. Which drug is most appropriate?",
+   "options": [
+    "Ibuprofen",
+    "Codeine",
+    "Diazepam",
+    "Antacid"
+   ],
+   "answer": "A",
+   "rationale": "Primary dysmenorrhea is due to prostaglandins; NSAIDs block prostaglandin synthesis. Oral contraceptives also help.",
+   "explanations": [
+    "Correct.",
+    "Not first-line.",
+    "Not indicated.",
+    "Not indicated."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 19 Dysmenorrhea (PDF p. 297)",
+   "quote": "NSAID's(Ibuprofen,Naproxen)asprescrbed"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A 30-year-old has painful periods, pain with intercourse and difficulty conceiving. The nurse suspects:",
+   "options": [
+    "Endometriosis",
+    "Uterine prolapse",
+    "Menopause",
+    "Vaginal candidiasis"
+   ],
+   "answer": "A",
+   "rationale": "Endometrial tissue outside the uterus causes cyclic pelvic pain, dyspareunia, painful defecation and infertility.",
+   "explanations": [
+    "Correct.",
+    "Older, multiparous.",
+    "Age does not fit.",
+    "Itching, discharge."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 19 Endometriosis (PDF p. 297)",
+   "quote": "Isanabnormalgrowthofendometnal tissuesoutsidetheutenne cavity"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A woman with large uterine fibroids reports heavy periods with clots and fatigue. The nurse expects which lab finding?",
+   "options": [
+    "Low hemoglobin",
+    "High platelet count",
+    "High potassium",
+    "Low glucose"
+   ],
+   "answer": "A",
+   "rationale": "Leiomyomas cause heavy bleeding; gradual blood loss leads to anemia.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Not related.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 19 Leiomyomas (PDF p. 298)",
+   "quote": "Anemiacausedbygradual bloodlossovertime"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A grand multipara feels something \"falling out\" of her vagina and has stress incontinence. The most common cause of her condition is:",
+   "options": [
+    "Childbirth injury to pelvic supports",
+    "Sexually transmitted infection",
+    "Low-fiber diet",
+    "Oral contraceptive use"
+   ],
+   "answer": "A",
+   "rationale": "Uterine prolapse is most often from childbirth trauma; menopause and obesity contribute.",
+   "explanations": [
+    "Correct.",
+    "Not the cause.",
+    "Contributes little.",
+    "Not the cause."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 19 Uterine prolapse (PDF p. 298)",
+   "quote": "Most common cause:childbirth trauma like episiotomy extension"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "An elderly woman with uterine prolapse is a poor surgical risk. Which option supports the uterus without surgery?",
+   "options": [
+    "Vaginal pessary",
+    "Cervical cap",
+    "Intrauterine device",
+    "Tampon use"
+   ],
+   "answer": "A",
+   "rationale": "A pessary is worn in the vagina to support the uterus; Kegel exercises also improve pelvic tone.",
+   "explanations": [
+    "Correct.",
+    "Contraceptive.",
+    "Contraceptive.",
+    "No support."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 19 Uterine prolapse (PDF p. 298)",
+   "quote": "Pessaries:devices wom in the vagina to support the uterus for womenwhoarepoorsurgicalrisks."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Premenstrual syndrome symptoms typically appear:",
+   "options": [
+    "7–10 days before menses",
+    "During menstruation only",
+    "Right after menses",
+    "Only at ovulation"
+   ],
+   "answer": "A",
+   "rationale": "PMS occurs in the luteal phase, 7–10 days before menses, and eases with onset of flow.",
+   "explanations": [
+    "Correct.",
+    "Eases with flow.",
+    "Follicular phase.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 19 Premenstrual syndrome (PDF p. 298)",
+   "quote": "Symptoms generally appear7 to 10 daysbetore mensesanddecreasn with onset of menses."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Which advice helps a woman with premenstrual bloating and irritability?",
+   "options": [
+    "Limit salt, sugar and caffeine",
+    "Increase coffee intake",
+    "Eat more salty snacks",
+    "Skip sleep to exercise"
+   ],
+   "answer": "A",
+   "rationale": "Limiting salt, refined sugar, caffeine and animal fat, plus adequate rest, eases PMS.",
+   "explanations": [
+    "Correct.",
+    "Worsens.",
+    "Worsens bloating.",
+    "Fatigue worsens symptoms."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 19 Premenstrual syndrome (PDF p. 299)",
+   "quote": "Limitintakeofsalt,refinedsugar,caffeine,animal fats."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Two long-term health risks after menopause that the nurse should teach about are:",
+   "options": [
+    "Osteoporosis and heart disease",
+    "Diabetes insipidus and gout",
+    "Asthma and anemia",
+    "Glaucoma and hearing loss"
+   ],
+   "answer": "A",
+   "rationale": "Loss of estrogen increases bone loss and coronary heart disease risk.",
+   "explanations": [
+    "Correct.",
+    "Not linked.",
+    "Not linked.",
+    "Not linked."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 19 Menopause (PDF p. 299)",
+   "quote": "Potential Complications:osteoporosis,Coronary Heart diseases"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A man had a vasectomy last week and asks when he can stop using condoms. The nurse explains:",
+   "options": [
+    "After a clear semen test",
+    "Right away now",
+    "After three days",
+    "After one week"
+   ],
+   "answer": "A",
+   "rationale": "Sperm remain in the ducts for a time; unprotected sex is safe only after semen analysis is negative for sperm.",
+   "explanations": [
+    "Correct.",
+    "Sperm remain.",
+    "Too soon.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 19 Sterilization (PDF p. 300)",
+   "quote": "Semen should be negative for sperm,3 times before attemptingunprotected intercourse."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A couple has had regular unprotected intercourse for 14 months without pregnancy. They have had a child before. This is:",
+   "options": [
+    "Secondary infertility",
+    "Primary infertility",
+    "Sterility",
+    "Normal; wait 3 more years"
+   ],
+   "answer": "A",
+   "rationale": "Infertility is failure to conceive after 1 year; it is secondary if there has been a previous pregnancy.",
+   "explanations": [
+    "Correct.",
+    "No prior pregnancy.",
+    "Permanent inability.",
+    "Needs evaluation."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 19 Infertility (PDF p. 300)",
+   "quote": "Secondaryinfertilityfollowsatleastonepregnancy"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "The most common bacterial STI, often silent in women and a major cause of tubal infertility, is:",
+   "options": [
+    "Chlamydia",
+    "Syphilis",
+    "Chancroid",
+    "Trichomoniasis"
+   ],
+   "answer": "A",
+   "rationale": "Chlamydia trachomatis is the most common bacterial STI and a leading cause of PID and tubal infertility.",
+   "explanations": [
+    "Correct.",
+    "Less common.",
+    "Less common.",
+    "Protozoan."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 20 Chlamydia (PDF p. 302)",
+   "quote": "Mostcommonbacterial STD"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the Well Child (Neonate to Adolescent)",
+   "situation": "",
+   "stem": "A newborn of a mother with untreated chlamydia is at risk for:",
+   "options": [
+    "Conjunctivitis",
+    "Cleft lip",
+    "Hip dysplasia",
+    "Hypothyroidism"
+   ],
+   "answer": "A",
+   "rationale": "Passage through an infected birth canal can cause neonatal chlamydial conjunctivitis and pneumonia.",
+   "explanations": [
+    "Correct.",
+    "Not related.",
+    "Not related.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 20 Chlamydia (PDF p. 302)",
+   "quote": "passage through the birth canal of an infected mother can cause conjunctivitis andpneumonia inanewbom."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "A client treated for gonorrhea is usually also treated for which infection, because they often coexist?",
+   "options": [
+    "Chlamydia",
+    "Syphilis",
+    "Herpes",
+    "Candidiasis"
+   ],
+   "answer": "A",
+   "rationale": "Gonorrhea and chlamydia frequently occur together, so treatment covers both unless chlamydia is ruled out.",
+   "explanations": [
+    "Correct.",
+    "Screened, not co-treated.",
+    "Viral.",
+    "Fungal."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 20 Gonorrhea (PDF p. 303)",
+   "quote": "Allpersonstreatedforgonorheaneedtobetreatedconcurrentlyfor chlamydialinfection."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "A young man has a single painless, firm-edged ulcer on the penis. The nurse suspects:",
+   "options": [
+    "Primary syphilis",
+    "Chancroid",
+    "Genital herpes",
+    "Genital warts"
+   ],
+   "answer": "A",
+   "rationale": "The syphilitic chancre is painless with a raised firm border; chancroid ulcers are painful, herpes forms painful vesicles.",
+   "explanations": [
+    "Correct.",
+    "Painful ulcers.",
+    "Painful vesicles.",
+    "Painless growths, not ulcers."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 20 Syphilis (PDF p. 303)",
+   "quote": "A chancre is an oval ulcer witha raised fim borderthatdoesnotbleed readilyand ispainlessunlessinfected"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "A non-itchy rash on the palms and soles with mucous patches in the mouth is typical of:",
+   "options": [
+    "Secondary syphilis",
+    "Primary syphilis",
+    "Tertiary syphilis",
+    "Gonorrhea"
+   ],
+   "answer": "A",
+   "rationale": "Secondary syphilis (6–8 weeks after infection) causes a generalized rash on palms and soles that is infectious.",
+   "explanations": [
+    "Correct.",
+    "Chancre only.",
+    "Gummas, organ damage.",
+    "Discharge."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 20 Syphilis (PDF p. 303)",
+   "quote": "appears on the palmsofthe hands and solesofthe feet"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "After treatment for primary syphilis, how long should the client avoid sexual contact?",
+   "options": [
+    "1 month",
+    "1 day",
+    "3 days",
+    "1 year"
+   ],
+   "answer": "A",
+   "rationale": "Clients with primary or secondary syphilis should abstain for at least 1 month after treatment, and partners must be evaluated.",
+   "explanations": [
+    "Correct.",
+    "Too short.",
+    "Too short.",
+    "Too long."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 20 Syphilis treatment (PDF p. 304)",
+   "quote": "Clients with primary or secondary syphilis should abstain fromsexual contactforatleast1month aftertreatment."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother with Complications of Childbearing",
+   "situation": "",
+   "stem": "Why is syphilis screening important in every pregnant woman?",
+   "options": [
+    "It can cross the placenta at any stage",
+    "It only affects the mother",
+    "It cannot be treated in pregnancy",
+    "It causes twins"
+   ],
+   "answer": "A",
+   "rationale": "Untreated syphilis passes to the fetus transplacentally (congenital syphilis); penicillin treats both.",
+   "explanations": [
+    "Correct.",
+    "Affects fetus.",
+    "Treatable.",
+    "Not related."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 20 Syphilis (PDF p. 303)",
+   "quote": "The infection can also be passed transplacentally from an untreated pregnant woman to herfetus during ary stage of the disease"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother During Labor and Birth",
+   "situation": "",
+   "stem": "A woman in labor has active genital herpes lesions. The nurse anticipates:",
+   "options": [
+    "Cesarean delivery",
+    "Vaginal delivery with episiotomy",
+    "Forceps delivery",
+    "Induction with oxytocin"
+   ],
+   "answer": "A",
+   "rationale": "Newborns can be infected during vaginal birth when lesions are active; cesarean section prevents this.",
+   "explanations": [
+    "Correct.",
+    "Exposure risk.",
+    "Exposure risk.",
+    "Exposure risk."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 20 Genital herpes (PDF p. 304)",
+   "quote": "Caesareansectionpreventsthistransmission."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client with recurrent genital herpes asks if he can have sex safely when no sores are present. The nurse explains:",
+   "options": [
+    "Use condoms; spread can occur without sores",
+    "No risk without sores",
+    "Herpes is cured after the first attack",
+    "Only kissing spreads herpes"
+   ],
+   "answer": "A",
+   "rationale": "Herpes is a lifelong infection; viral shedding can occur without lesions, so condoms are advised.",
+   "explanations": [
+    "Correct.",
+    "Risk remains.",
+    "No cure.",
+    "Not true."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 20 Genital herpes (PDF p. 304)",
+   "quote": "The possible nisk of transmission existsevenwhenlesionsarenotpresent"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Multiple painful, deep genital ulcers with tender swollen inguinal nodes suggest:",
+   "options": [
+    "Chancroid",
+    "Primary syphilis",
+    "Genital warts",
+    "Chlamydia"
+   ],
+   "answer": "A",
+   "rationale": "Chancroid (Haemophilus ducreyi) causes painful ulcers and tender adenopathy; test also for HIV and syphilis.",
+   "explanations": [
+    "Correct.",
+    "Painless.",
+    "Painless growths.",
+    "Discharge."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 20 Chancroid (PDF p. 304)",
+   "quote": "multiplepainful,irregular and deepgenital ulcerswithtenderinguinallymphadenopathy."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Genital warts are caused by a virus strongly linked with:",
+   "options": [
+    "Cervical cancer",
+    "Liver cancer",
+    "Leukemia",
+    "Lung cancer"
+   ],
+   "answer": "A",
+   "rationale": "Human papillomavirus causes condylomata acuminata and is strongly associated with cervical and penile cancer; HPV vaccine prevents it.",
+   "explanations": [
+    "Correct.",
+    "Hepatitis B/C.",
+    "Not linked.",
+    "Smoking."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 20 Genital warts (PDF p. 304)",
+   "quote": "t is strongly associatedwith carcinoma of the genitals,including the cervixandpenis."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client on metronidazole should be told to avoid:",
+   "options": [
+    "Alcohol",
+    "Milk",
+    "Leafy vegetables",
+    "Sunlight"
+   ],
+   "answer": "A",
+   "rationale": "Alcohol with metronidazole causes a disulfiram-like reaction (flushing, vomiting).",
+   "explanations": [
+    "Correct.",
+    "No interaction.",
+    "No interaction.",
+    "Not the main warning."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 20 HIV-related drugs (PDF p. 305)",
+   "quote": "Avoid alcohol during treatment toprevent disulfiram- likemanifestations."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Which immunoglobulin crosses the placenta and protects the newborn?",
+   "options": [
+    "IgG",
+    "IgA",
+    "IgM",
+    "IgE"
+   ],
+   "answer": "A",
+   "rationale": "IgG is the most abundant antibody and the only one that crosses the placenta.",
+   "explanations": [
+    "Correct.",
+    "In colostrum.",
+    "Too large.",
+    "Allergy."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 21 Immunoglobulins (PDF p. 307)",
+   "quote": "Cancrosstheplacenta,responsibleforimmunityinthenewbom"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Breastfed infants get protection against intestinal infections mainly from which antibody in colostrum?",
+   "options": [
+    "IgA",
+    "IgG",
+    "IgD",
+    "IgE"
+   ],
+   "answer": "A",
+   "rationale": "Secretory IgA is found in colostrum, saliva, tears and mucus and protects mucosal surfaces.",
+   "explanations": [
+    "Correct.",
+    "Placental.",
+    "Receptor role.",
+    "Allergy."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 21 Immunoglobulins (PDF p. 307)",
+   "quote": "Addsprotectionagainstentericvirusesin thebreastfed infant"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "A newborn with absent thymus has tetany from low calcium. This suggests:",
+   "options": [
+    "DiGeorge syndrome",
+    "Bruton's agammaglobulinemia",
+    "Down syndrome",
+    "Cystic fibrosis"
+   ],
+   "answer": "A",
+   "rationale": "DiGeorge syndrome (thymic hypoplasia) causes T-cell deficiency and hypocalcemia from hypoparathyroidism.",
+   "explanations": [
+    "Correct.",
+    "B-cell, boys.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 21 Primary immunodeficiencies (PDF p. 308)",
+   "quote": "Absence of thymusin theneonate. Hypocalcemiaandtetany-secondarytohypoparathyroidism"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A client stung by a bee develops wheezing, hives and hypotension. The first drug the nurse expects to give is:",
+   "options": [
+    "Epinephrine 1:1,000",
+    "Diphenhydramine",
+    "Hydrocortisone",
+    "Paracetamol"
+   ],
+   "answer": "A",
+   "rationale": "Anaphylaxis (type I) is treated first with epinephrine; antihistamines and steroids follow.",
+   "explanations": [
+    "Correct.",
+    "Adjunct.",
+    "Adjunct, slow.",
+    "Not indicated."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 21 Type I hypersensitivity (PDF p. 309)",
+   "quote": "Epinephrine1:1,000solution"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A hemolytic reaction from ABO-incompatible blood is which type of hypersensitivity?",
+   "options": [
+    "Type II (cytotoxic)",
+    "Type I (anaphylactic)",
+    "Type III (immune complex)",
+    "Type IV (delayed)"
+   ],
+   "answer": "A",
+   "rationale": "Type II reactions involve antibodies against cell surfaces, as in ABO incompatibility and drug-induced hemolysis.",
+   "explanations": [
+    "Correct.",
+    "IgE, histamine.",
+    "Serum sickness, SLE.",
+    "T-cell, delayed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 21 Hypersensitivity (PDF p. 309)",
+   "quote": "Typell(Cytotoxic) ABOincompatibility"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A positive tuberculin skin test read after 48–72 hours is an example of which hypersensitivity?",
+   "options": [
+    "Type IV (delayed, T-cell)",
+    "Type I (immediate)",
+    "Type II (cytotoxic)",
+    "Type III (immune complex)"
+   ],
+   "answer": "A",
+   "rationale": "Type IV reactions are T-cell mediated and delayed: TB skin test, contact dermatitis, transplant rejection.",
+   "explanations": [
+    "Correct.",
+    "Minutes.",
+    "Antibody to cells.",
+    "Complexes."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 21 Hypersensitivity (PDF p. 309)",
+   "quote": "TypeIVHypersensitivityReaction Contact Dermatitis"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "An older client has bone pain, fractures, anemia and high serum calcium. The nurse suspects:",
+   "options": [
+    "Multiple myeloma",
+    "Osteoarthritis",
+    "Gout",
+    "Rheumatoid arthritis"
+   ],
+   "answer": "A",
+   "rationale": "Multiple myeloma, a plasma cell cancer, causes widespread bone destruction, anemia and hypercalcemia.",
+   "explanations": [
+    "Correct.",
+    "No anemia, hypercalcemia.",
+    "Uric acid.",
+    "Joint inflammation."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 21 Gammopathies (PDF p. 308)",
+   "quote": "MultipleMyeloma -charactenzedbywidespread bone destruction,anemia,hypercalcemia"
+  }
+ ]
+}
