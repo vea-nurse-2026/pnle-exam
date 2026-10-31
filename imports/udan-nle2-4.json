@@ -1,0 +1,965 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "The heart's natural pacemaker fires at:",
+   "options": [
+    "60–100 beats/min",
+    "40–60 beats/min",
+    "20–40 beats/min",
+    "100–150 beats/min"
+   ],
+   "answer": "A",
+   "rationale": "SA node 60–100; AV node 40–60; bundle of His and Purkinje fibers 20–40.",
+   "explanations": [
+    "Correct.",
+    "AV node.",
+    "Ventricles.",
+    "Tachycardia."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Conduction system (PDF p. 74)",
+   "quote": "The SA (sinoatrial) node is the natural pacemaker of the heart. It triggers 60 to 100 electrical firings per minute."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A heart rate of 70 and stroke volume of 70 mL give a cardiac output of about:",
+   "options": [
+    "5 L/min",
+    "1 L/min",
+    "10 L/min",
+    "70 mL/min"
+   ],
+   "answer": "A",
+   "rationale": "CO = HR × SV = 70 × 70 mL = 4,900 mL ≈ 5 L/min.",
+   "explanations": [
+    "Correct.",
+    "Too low.",
+    "Too high.",
+    "That is SV."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Cardiac output (PDF p. 74)",
+   "quote": "C.O. = Heart Rate x Stroke volume"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which blood test is the best indicator of myocardial infarction?",
+   "options": [
+    "Troponin",
+    "LDH",
+    "AST",
+    "ESR"
+   ],
+   "answer": "A",
+   "rationale": "Troponin is the most specific and sensitive marker of myocardial injury.",
+   "explanations": [
+    "Correct.",
+    "Nonspecific.",
+    "Nonspecific.",
+    "Inflammation only."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Troponin (PDF p. 77)",
+   "quote": "Best indicator for myocardial infarction (MI)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Tall, peaked T waves and a widened QRS on ECG suggest:",
+   "options": [
+    "Hyperkalemia",
+    "Hypokalemia",
+    "Hypercalcemia",
+    "Hyponatremia"
+   ],
+   "answer": "A",
+   "rationale": "Hyperkalemia: peaked T waves, prolonged QRS; hypokalemia: U waves, ST depression, flat T.",
+   "explanations": [
+    "Correct.",
+    "U waves.",
+    "Short QT.",
+    "Not typical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 ECG changes (PDF p. 78)",
+   "quote": "Prolonged QRS Complex Elevated ST segment Peaked T wave"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client on furosemide shows U waves on ECG. The nurse checks which lab first?",
+   "options": [
+    "Serum potassium",
+    "Serum sodium",
+    "Blood glucose",
+    "Hemoglobin"
+   ],
+   "answer": "A",
+   "rationale": "U waves suggest hypokalemia, a common effect of potassium-wasting diuretics.",
+   "explanations": [
+    "Correct.",
+    "Less likely.",
+    "Not related.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 ECG changes (PDF p. 78)",
+   "quote": "Hypokalemia U-wave"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "To read central venous pressure accurately, the manometer zero is placed at the:",
+   "options": [
+    "4th ICS, midaxillary line",
+    "Sternal notch",
+    "Umbilicus",
+    "Xiphoid process"
+   ],
+   "answer": "A",
+   "rationale": "The phlebostatic axis (4th intercostal space, midaxillary) approximates the right atrium; keep the same position each reading.",
+   "explanations": [
+    "Correct.",
+    "Not the axis.",
+    "Not the axis.",
+    "Not the axis."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Central venous pressure (PDF p. 78)",
+   "quote": "The level of the manometer is placed at the right, mid axillary, 4th ICS"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "With a pulmonary artery catheter, the balloon should be:",
+   "options": [
+    "Inflated only for wedge readings",
+    "Left inflated continuously",
+    "Never inflated",
+    "Inflated with saline"
+   ],
+   "answer": "A",
+   "rationale": "Inflate only to read PCWP, then deflate to avoid pulmonary infarction.",
+   "explanations": [
+    "Correct.",
+    "Infarction risk.",
+    "Needed for PCWP.",
+    "Air is used."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 PAP and PCWP (PDF p. 79)",
+   "quote": "Inflate the balloon only for PCWP readings; deflate between readings."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "After femoral cardiac catheterization, the nurse should:",
+   "options": [
+    "Leg straight, check pulses",
+    "Flex the hip to rest",
+    "Walk after 1 hour",
+    "Massage the site"
+   ],
+   "answer": "A",
+   "rationale": "Keep the extremity extended, maintain bed rest, apply pressure dressing and check pulses, color and temperature.",
+   "explanations": [
+    "Correct.",
+    "Bleeding risk.",
+    "Too early.",
+    "Bleeding risk."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Cardiac catheterization (PDF p. 81)",
+   "quote": "Immobilize affected extremity, in extension. To prevent bleeding and promote circulation."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Before a treadmill stress test, the client should:",
+   "options": [
+    "Skip coffee and smoking",
+    "Eat a heavy meal",
+    "Wear leather shoes",
+    "Stay up all night"
+   ],
+   "answer": "A",
+   "rationale": "Avoid caffeine, tea, alcohol and smoking; eat a light meal 2 hours before; wear rubber-soled shoes.",
+   "explanations": [
+    "Correct.",
+    "Light meal only.",
+    "Rubber soles.",
+    "Needs rest."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Treadmill test (PDF p. 80)",
+   "quote": "Avoid tea, coffee and alcohol on the day of the test."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which event commonly triggers angina?",
+   "options": [
+    "Eating a heavy meal",
+    "Sleeping",
+    "Sitting at rest",
+    "Taking nitroglycerin"
+   ],
+   "answer": "A",
+   "rationale": "The 4 E's: exertion, emotion, eating a heavy meal and exposure to cold raise myocardial O2 demand.",
+   "explanations": [
+    "Correct.",
+    "Low demand.",
+    "Low demand.",
+    "Relieves pain."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Angina pectoris (PDF p. 83)",
+   "quote": "The precipitating events to angina pectoris are exertion, strong emotions, eating a heavy meal, exposure to cold"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "How does anginal pain typically differ from MI pain?",
+   "options": [
+    "Rest and NTG relieve it",
+    "It lasts for hours",
+    "Never on exertion",
+    "It causes Q waves"
+   ],
+   "answer": "A",
+   "rationale": "Angina is exertion-related, brief and relieved by rest and NTG; MI pain is severe, prolonged and unrelieved.",
+   "explanations": [
+    "Correct.",
+    "Short.",
+    "Exertional.",
+    "MI sign."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Angina pectoris (PDF p. 83)",
+   "quote": "R-elieved by rest and Nitroglycerine"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which teaching about sublingual nitroglycerin is correct?",
+   "options": [
+    "Sit down before taking it",
+    "Store it in the refrigerator",
+    "Swallow it with water",
+    "Take up to 6 tablets"
+   ],
+   "answer": "A",
+   "rationale": "Sit or lie to prevent postural hypotension; take up to 3 tablets 5 minutes apart; keep in a dark, airtight container.",
+   "explanations": [
+    "Correct.",
+    "Dry, room temp.",
+    "Sublingual.",
+    "Maximum 3."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Nitroglycerin teaching (PDF p. 84)",
+   "quote": "Assume sitting or supine position for several minutes when taking the medication."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A client using a nitroglycerin patch is told to remove it at night to:",
+   "options": [
+    "Prevent drug tolerance",
+    "Avoid skin burns",
+    "Allow bathing",
+    "Save money"
+   ],
+   "answer": "A",
+   "rationale": "A nitrate-free interval (usually overnight) prevents tolerance.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Nitroglycerin teaching (PDF p. 85)",
+   "quote": "Nitroglycerine patch is removed during the night to prevent tolerance from the medication."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A client reports headache after his first nitroglycerin dose. The nurse explains this is:",
+   "options": [
+    "Common and expected",
+    "A sign of stroke",
+    "An allergic reaction",
+    "A sign of overdose"
+   ],
+   "answer": "A",
+   "rationale": "Headache from vasodilation is the most common side effect, especially early in therapy.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Not typical.",
+    "Not typical."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Nitroglycerin teaching (PDF p. 85)",
+   "quote": "Common side effect during first dose of nitroglycerine is headache."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Before giving metoprolol, the nurse should first check the:",
+   "options": [
+    "Apical pulse",
+    "Temperature",
+    "Blood glucose",
+    "Urine output"
+   ],
+   "answer": "A",
+   "rationale": "Beta-blockers can cause bradycardia; assess pulse (and BP) before giving.",
+   "explanations": [
+    "Correct.",
+    "Not related.",
+    "Secondary concern.",
+    "Not first."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Beta-blocker therapy (PDF p. 85)",
+   "quote": "Assess pulse rate before administration of the drug. Beta-blockers may cause bradycardia."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Propranolol is avoided in a client with:",
+   "options": [
+    "Asthma",
+    "Hypertension",
+    "Migraine",
+    "Angina"
+   ],
+   "answer": "A",
+   "rationale": "Nonselective beta-blockers like propranolol cause bronchoconstriction; they also mask hypoglycemia in diabetics.",
+   "explanations": [
+    "Correct.",
+    "Indication.",
+    "Indication.",
+    "Indication."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Beta-blocker therapy (PDF p. 85)",
+   "quote": "Propranolol causes bronchoconstriction and hypoglycemia."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which antidote should be ready for a client on a heparin drip?",
+   "options": [
+    "Protamine sulfate",
+    "Vitamin K",
+    "Naloxone",
+    "Flumazenil"
+   ],
+   "answer": "A",
+   "rationale": "Protamine reverses heparin; vitamin K reverses warfarin.",
+   "explanations": [
+    "Correct.",
+    "Warfarin.",
+    "Opioids.",
+    "Benzodiazepines."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Anticoagulant therapy (PDF p. 85)",
+   "quote": "The antidote for Heparin is Protamine sulfate."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "When giving subcutaneous heparin, the nurse should:",
+   "options": [
+    "Not aspirate or massage the site",
+    "Massage after injection",
+    "Aspirate first",
+    "Use the deltoid IM"
+   ],
+   "answer": "A",
+   "rationale": "Aspirating or massaging causes hematoma; give deep SC, usually in the abdomen.",
+   "explanations": [
+    "Correct.",
+    "Hematoma.",
+    "Hematoma.",
+    "Wrong route."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Anticoagulant therapy (PDF p. 85)",
+   "quote": "do not aspirate, do not massage site of injection"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which lab is used to adjust warfarin, and what is the usual target?",
+   "options": [
+    "INR 2–3",
+    "aPTT 2–2.5×",
+    "Platelets 150k",
+    "Bleeding time 1–9 min"
+   ],
+   "answer": "A",
+   "rationale": "Warfarin is monitored by PT/INR, usually target 2–3; heparin is monitored by aPTT.",
+   "explanations": [
+    "Correct.",
+    "Heparin.",
+    "Not monitoring.",
+    "Not used."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Anticoagulant therapy (PDF p. 86)",
+   "quote": "Therapeutic effect of Coumadin is INR 2 to 3"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "On ECG, an area of myocardial infarction (dead tissue) shows:",
+   "options": [
+    "Pathologic Q waves",
+    "Peaked T waves",
+    "U waves",
+    "Short PR interval"
+   ],
+   "answer": "A",
+   "rationale": "Inverted T = ischemia, ST elevation = injury, pathologic Q = infarction.",
+   "explanations": [
+    "Correct.",
+    "Hyperkalemia.",
+    "Hypokalemia.",
+    "Not MI."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Myocardial infarction (PDF p. 87)",
+   "quote": "pathologic/enlarged Q wave from the zone of infarction"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "After MI, why does the client use a bedside commode rather than a bedpan?",
+   "options": [
+    "To avoid Valsalva strain",
+    "It is cheaper",
+    "To ambulate far",
+    "To check urine"
+   ],
+   "answer": "A",
+   "rationale": "Bedpan use promotes straining (Valsalva), which increases cardiac workload; stool softeners also help.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the purpose.",
+    "Not the purpose."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 MI management (PDF p. 88)",
+   "quote": "Avoid Valsalva maneuver. Use of Valsalva maneuver increases cardiac workload. Use bedside commode instead of bedpan."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "After MI, a client may usually resume sexual activity when he can:",
+   "options": [
+    "Climb 2 flights of stairs",
+    "Walk to the bathroom",
+    "Sit up in bed",
+    "Eat a full meal"
+   ],
+   "answer": "A",
+   "rationale": "Ability to climb one or two flights of stairs without symptoms is the usual guide.",
+   "explanations": [
+    "Correct.",
+    "Too little.",
+    "Too little.",
+    "Not the guide."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 MI management (PDF p. 88)",
+   "quote": "Resumption of sexual activity may be allowed once the patient is able to climb I to 2 flights of stairs without difficulty."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "What is the most common cause of death after acute MI?",
+   "options": [
+    "Dysrhythmias",
+    "Infection",
+    "Stroke",
+    "Kidney failure"
+   ],
+   "answer": "A",
+   "rationale": "Dysrhythmias are the most common complication and main cause of death; continuous cardiac monitoring is essential.",
+   "explanations": [
+    "Correct.",
+    "Less common.",
+    "Less common.",
+    "Less common."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Complications of MI (PDF p. 88)",
+   "quote": "The most common complication and the most major cause of death among clients with MI is dysrhythmias."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "Before elective cardioversion for atrial fibrillation, the client is usually given:",
+   "options": [
+    "Anticoagulants",
+    "Antibiotics",
+    "Diuretics",
+    "Insulin"
+   ],
+   "answer": "A",
+   "rationale": "Anticoagulation first prevents dislodging atrial clots into the circulation.",
+   "explanations": [
+    "Correct.",
+    "Not needed.",
+    "Not needed.",
+    "Not needed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Atrial dysrhythmias (PDF p. 89)",
+   "quote": "client is anticoagulated first before cardioversion to prevent release of blood clots"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Equipment for High-Acuity & Emergency Care",
+   "situation": "",
+   "stem": "How does cardioversion differ from defibrillation?",
+   "options": [
+    "Cardioversion is synchronized to the R wave",
+    "Cardioversion is for ventricular fibrillation",
+    "Defibrillation is synchronized",
+    "They are the same"
+   ],
+   "answer": "A",
+   "rationale": "Cardioversion is synchronized (never on the T wave); defibrillation is unsynchronized, for VF and pulseless VT.",
+   "explanations": [
+    "Correct.",
+    "Defibrillation is.",
+    "Unsynchronized.",
+    "Different."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Cardioversion (PDF p. 95)",
+   "quote": "Electric shock is applied during the R-wave, never on the T-wave."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Equipment for High-Acuity & Emergency Care",
+   "situation": "",
+   "stem": "Before delivering a shock, the nurse's essential safety step is to:",
+   "options": [
+    "Call 'all clear' first",
+    "Hold the patient's hand",
+    "Use dry paddles",
+    "Turn off the monitor"
+   ],
+   "answer": "A",
+   "rationale": "Use gel or pads and call 'all clear' so no staff touch the patient or bed.",
+   "explanations": [
+    "Correct.",
+    "Shock hazard.",
+    "Burns.",
+    "Needed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Cardioversion and defibrillation (PDF p. 95)",
+   "quote": "Give command (\"warning chant\") for personnel to stand CLEAR of the patient and the bed."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "In two-rescuer CPR for an infant, the compression-to-ventilation ratio is:",
+   "options": [
+    "15:2",
+    "30:2",
+    "5:1",
+    "3:1"
+   ],
+   "answer": "A",
+   "rationale": "Adults use 30:2; for infants and children, single rescuer 30:2, two rescuers 15:2.",
+   "explanations": [
+    "Correct.",
+    "Single rescuer.",
+    "Outdated.",
+    "Newborn resuscitation."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Basic life support (PDF p. 96)",
+   "quote": "Two—man rescue: 15:2"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A rescuer finds a lone adult collapsed outside the hospital. After checking responsiveness, she should first:",
+   "options": [
+    "Call for emergency help",
+    "Do 2 minutes of CPR first",
+    "Look for ID",
+    "Give water"
+   ],
+   "answer": "A",
+   "rationale": "For adults, activate EMS first (sudden arrest is usually cardiac); for infants, do 2 minutes of CPR first.",
+   "explanations": [
+    "Correct.",
+    "Infant approach.",
+    "Delays care.",
+    "Unsafe."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Basic life support (PDF p. 96)",
+   "quote": "When performing CPR outside healthcare settings in adults, make an emergency call first, then do CPR."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "An unconscious patient may have a neck injury. To open the airway, the nurse uses:",
+   "options": [
+    "Jaw thrust",
+    "Head tilt–chin lift",
+    "Neck hyperextension",
+    "Sweep the mouth blindly"
+   ],
+   "answer": "A",
+   "rationale": "Use jaw thrust when cervical injury is suspected; hyperextension may worsen damage.",
+   "explanations": [
+    "Correct.",
+    "Moves the neck.",
+    "Harmful.",
+    "Not recommended."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Basic life support (PDF p. 96)",
+   "quote": "If neck injury or cervical spinal cord injury is suspected, use jaw thrust."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Three weeks after MI, a client has chest pain that worsens with twisting and eases when sitting up, plus fever. The nurse suspects:",
+   "options": [
+    "Dressler's syndrome",
+    "A new MI",
+    "Pneumonia",
+    "Stable angina"
+   ],
+   "answer": "A",
+   "rationale": "Dressler's syndrome occurs 1–6 weeks post-MI: pain worse with movement, relieved upright, with fever.",
+   "explanations": [
+    "Correct.",
+    "Not positional.",
+    "Different signs.",
+    "Exertional."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Pericarditis (PDF p. 97)",
+   "quote": "Sudden, severe chest pain that is aggravated by turning, twisting the torso and yawning, relieved by upright position."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "Distended neck veins, muffled heart sounds and hypotension (Beck's triad) indicate:",
+   "options": [
+    "Cardiac tamponade",
+    "Left heart failure",
+    "Pneumothorax",
+    "Pulmonary embolism"
+   ],
+   "answer": "A",
+   "rationale": "Beck's triad signals cardiac tamponade; treatment is pericardiocentesis.",
+   "explanations": [
+    "Correct.",
+    "Crackles.",
+    "Absent breath sounds.",
+    "Sudden dyspnea."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Cardiac tamponade (PDF p. 97)",
+   "quote": "jugular vein distention, muffled heart sounds, diminished or absent pulse (Beck's triad)"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Equipment for High-Acuity & Emergency Care",
+   "situation": "",
+   "stem": "An intra-aortic balloon pump inflates during:",
+   "options": [
+    "Diastole",
+    "Systole",
+    "Both phases",
+    "Only during arrest"
+   ],
+   "answer": "A",
+   "rationale": "IABP inflates in diastole to boost coronary perfusion and deflates in systole to reduce afterload.",
+   "explanations": [
+    "Correct.",
+    "Deflates.",
+    "No.",
+    "No."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 IABP (PDF p. 97)",
+   "quote": "The balloon of the IABP is inflated during diastole"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which finding points to left-sided heart failure?",
+   "options": [
+    "Crackles and orthopnea",
+    "Jugular vein distention",
+    "Ascites",
+    "Hepatomegaly"
+   ],
+   "answer": "A",
+   "rationale": "Left failure backs up into the lungs: dyspnea, orthopnea, PND, crackles, pink frothy sputum.",
+   "explanations": [
+    "Correct.",
+    "Right-sided.",
+    "Right-sided.",
+    "Right-sided."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Congestive heart failure (PDF p. 98)",
+   "quote": "Paroxysmal nocturnal dyspnea (PND) Orthopnea Rales/crackles"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A client's apical pulse is 54 before scheduled digoxin. The nurse should:",
+   "options": [
+    "Hold the dose and notify the doctor",
+    "Give half the dose",
+    "Give it and recheck later",
+    "Give it with food"
+   ],
+   "answer": "A",
+   "rationale": "Hold digoxin for adult apical rate below 60 and notify the physician.",
+   "explanations": [
+    "Correct.",
+    "Not allowed.",
+    "Unsafe.",
+    "Not the issue."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Digitalis therapy (PDF p. 100)",
+   "quote": "If apical rate is 60 bpm and below or 120 bpm and above, hold the medication and notify physician."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A client on digoxin reports nausea and yellow-green halos around lights. The nurse suspects:",
+   "options": [
+    "Digoxin toxicity",
+    "Cataracts",
+    "Migraine",
+    "Hypoglycemia"
+   ],
+   "answer": "A",
+   "rationale": "Toxicity: bradycardia, anorexia, nausea, vomiting, and visual disturbances (yellow-green vision, halos).",
+   "explanations": [
+    "Correct.",
+    "Not with nausea.",
+    "Not this pattern.",
+    "Not this pattern."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Digitalis toxicity (PDF p. 100)",
+   "quote": "Visual disturbances: yellow or green vision; halos/rainbows around the light"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Which lab result increases a client's risk of digoxin toxicity?",
+   "options": [
+    "Low potassium",
+    "High potassium",
+    "High sodium",
+    "Low glucose"
+   ],
+   "answer": "A",
+   "rationale": "Hypokalemia enhances digitalis toxicity; check potassium before giving.",
+   "explanations": [
+    "Correct.",
+    "Not the risk.",
+    "Not the risk.",
+    "Not the risk."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Digitalis therapy (PDF p. 100)",
+   "quote": "Hypokalemia enhances digitalis toxicity."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Why should furosemide be given in the morning rather than at bedtime?",
+   "options": [
+    "To avoid night-time voiding",
+    "It absorbs better",
+    "It prevents headache",
+    "It lowers potassium less"
+   ],
+   "answer": "A",
+   "rationale": "Give diuretics early (not after about 6 pm) to prevent sleep disruption from nocturia.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Diuretic therapy (PDF p. 101)",
+   "quote": "Administer the medication early morning and/or early afternoon, not later than 6 pm."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client on spironolactone should be taught to avoid:",
+   "options": [
+    "Salt substitutes",
+    "Low-sodium foods",
+    "Calcium tablets",
+    "Plain water"
+   ],
+   "answer": "A",
+   "rationale": "Spironolactone is potassium-sparing; avoid excess potassium (salt substitutes, high-K foods) to prevent hyperkalemia.",
+   "explanations": [
+    "Correct.",
+    "Fine.",
+    "Not related.",
+    "Needed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Diuretic therapy (PDF p. 102)",
+   "quote": "Advise the client to avoid potassium — rich foods."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A client with acute pulmonary edema is placed in high Fowler's with legs dangling to:",
+   "options": [
+    "Reduce venous return (preload)",
+    "Raise blood pressure",
+    "Improve leg circulation",
+    "Prevent falls"
+   ],
+   "answer": "A",
+   "rationale": "Legs down pools blood in the extremities and reduces venous return to the failing heart.",
+   "explanations": [
+    "Correct.",
+    "Not the aim.",
+    "Not the aim.",
+    "Not the aim."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Pulmonary edema (PDF p. 103)",
+   "quote": "High Fowler's position with legs lowered. To reduce preload."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Which instruction belongs in teaching for a client with a permanent pacemaker?",
+   "options": [
+    "Take your pulse daily on waking",
+    "Play contact sports",
+    "Stand near strong magnets",
+    "Ignore hiccups"
+   ],
+   "answer": "A",
+   "rationale": "Check pulse daily, report changes, avoid contact sports and strong electromagnetic sources; prolonged hiccups may signal failure.",
+   "explanations": [
+    "Correct.",
+    "Lead displacement.",
+    "Interference.",
+    "May signal failure."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 4 Pacemaker teaching (PDF p. 94)",
+   "quote": "Take daily pulse for one full minute upon arising in the morning."
+  }
+ ]
+}

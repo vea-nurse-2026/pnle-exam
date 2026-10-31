@@ -1,0 +1,557 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Which feature suggests a tumor is malignant rather than benign?",
+   "options": [
+    "Invades nearby tissue",
+    "Encapsulated and movable",
+    "Slow growth",
+    "Well-differentiated cells"
+   ],
+   "answer": "A",
+   "rationale": "Malignant tumors grow rapidly, infiltrate tissues, are not encapsulated and have poorly differentiated cells.",
+   "explanations": [
+    "Correct.",
+    "Benign.",
+    "Benign.",
+    "Benign."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Benign vs. malignant (PDF p. 14)",
+   "quote": "Infiltrates surrounding tissues"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Which test gives the definitive diagnosis of cancer?",
+   "options": [
+    "Biopsy",
+    "CT scan",
+    "Tumor markers",
+    "Ultrasound"
+   ],
+   "answer": "A",
+   "rationale": "Biopsy, with tissue examination, is the most accurate test for cancer.",
+   "explanations": [
+    "Correct.",
+    "Imaging only.",
+    "Supportive.",
+    "Imaging only."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Cancer detection (PDF p. 17)",
+   "quote": "Biopsy- the most accurate test for cancer"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Pain is usually which kind of sign in cancer?",
+   "options": [
+    "A late sign",
+    "The earliest sign",
+    "Absent always",
+    "Only in children"
+   ],
+   "answer": "A",
+   "rationale": "Cancer is initially painless (e.g., nontender breast mass, painless hematuria); pain is a late sign.",
+   "explanations": [
+    "Correct.",
+    "Often painless early.",
+    "It occurs later.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Pathophysiology (PDF p. 15)",
+   "quote": "Pain is a late sign of cancer"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A patient with bone metastasis has fatigue, constipation, polyuria and weak reflexes. The nurse suspects:",
+   "options": [
+    "Hypercalcemia",
+    "Hypokalemia",
+    "Hyponatremia",
+    "Hypermagnesemia"
+   ],
+   "answer": "A",
+   "rationale": "Bone metastasis releases calcium: fatigue, anorexia, constipation, polyuria, weakness and diminished DTRs.",
+   "explanations": [
+    "Correct.",
+    "Not typical pattern.",
+    "Confusion, edema.",
+    "Not this cause."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Hypercalcemia (PDF p. 29)",
+   "quote": "Signs and symptoms include fatigue, anorexia, nausea and vomiting, constipation, polyuria, severe muscle weakness, diminished deep tendon reflexes"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "When preparing chemotherapy, the nurse should:",
+   "options": [
+    "Wear gloves, mask and back-closing gown",
+    "Prepare it in the open ward",
+    "Recap needles by hand",
+    "Discard vials in regular trash"
+   ],
+   "answer": "A",
+   "rationale": "Safe handling: protective gloves, mask and back-closing gown, ideally a laminar flow hood, and hazardous waste disposal.",
+   "explanations": [
+    "Correct.",
+    "Use a hood.",
+    "Needlestick risk.",
+    "Hazardous waste."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Safe handling of chemotherapy (PDF p. 19)",
+   "quote": "Wear mask, gloves and back closing gown."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A patient on chemotherapy has stomatitis. Which mouth care is best?",
+   "options": [
+    "Warm saline rinses",
+    "Alcohol mouthwash",
+    "Citrus juice",
+    "Hard-bristled brush"
+   ],
+   "answer": "A",
+   "rationale": "Stomatitis: frequent saline rinses and soft care; avoid alcohol mouthwash, citrus and trauma.",
+   "explanations": [
+    "Correct.",
+    "Irritates.",
+    "Irritates.",
+    "Trauma."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Chemotherapy side effects (PDF p. 20)",
+   "quote": "Good oral care for stomatitis. Use warm saline rinse."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A patient's platelet count is low after chemotherapy. Which instruction is correct?",
+   "options": [
+    "Use an electric razor",
+    "Floss daily",
+    "Take aspirin for pain",
+    "Use a stiff toothbrush"
+   ],
+   "answer": "A",
+   "rationale": "Thrombocytopenia: electric razor, soft brush, no flossing, avoid aspirin/NSAIDs and straining.",
+   "explanations": [
+    "Correct.",
+    "Causes bleeding.",
+    "Impairs platelets.",
+    "Trauma."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Thrombocytopenia (PDF p. 21)",
+   "quote": "Male clients: use electric razor"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A mother visiting her neutropenic son on chemotherapy brings a bouquet of roses and a basket of mangoes. What should the nurse do?",
+   "options": [
+    "Not allow them in the room",
+    "Place them by the bed",
+    "Wash the fruit first",
+    "Allow only flowers"
+   ],
+   "answer": "A",
+   "rationale": "Neutropenic precautions: no fresh flowers, fresh fruit or raw foods; limit visitors.",
+   "explanations": [
+    "Correct.",
+    "Infection risk.",
+    "Still restricted.",
+    "Still restricted."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Neutropenia (PDF p. 21)",
+   "quote": "No fresh fruits/ fresh flowers in the patient's unit"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "To prevent hemorrhagic cystitis from cyclophosphamide, the patient should:",
+   "options": [
+    "Drink at least 2,500 mL daily",
+    "Restrict fluids",
+    "Avoid vitamin C",
+    "Test urine for glucose"
+   ],
+   "answer": "A",
+   "rationale": "Cyclophosphamide can cause hemorrhagic cystitis; high fluid intake dilutes irritating metabolites.",
+   "explanations": [
+    "Correct.",
+    "Worsens.",
+    "Not related.",
+    "Not related."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Hemorrhagic cystitis (PDF p. 21)",
+   "quote": "Increase fluid intake to 2,500 mls/day"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Before each dose of doxorubicin, the nurse should check the:",
+   "options": [
+    "ECG and cardiac status",
+    "Hearing",
+    "Visual fields",
+    "Gait"
+   ],
+   "answer": "A",
+   "rationale": "Doxorubicin and daunorubicin are cardiotoxic; monitor ECG and cardiac function.",
+   "explanations": [
+    "Correct.",
+    "Cisplatin-related.",
+    "Not this drug.",
+    "5-FU (ataxia)."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Chemotherapy side effects (PDF p. 20)",
+   "quote": "Check ECG changes if the patient receives Daunorubicin, Doxorubicin. These drugs are cardiotoxic."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Which drug is the antidote given with high-dose methotrexate?",
+   "options": [
+    "Leucovorin",
+    "Protamine",
+    "Vitamin K",
+    "Naloxone"
+   ],
+   "answer": "A",
+   "rationale": "Leucovorin (folinic acid) rescues normal cells from methotrexate toxicity.",
+   "explanations": [
+    "Correct.",
+    "Heparin.",
+    "Warfarin.",
+    "Opioids."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Chemotherapy side effects (PDF p. 20)",
+   "quote": "The antidote for methotrexate is Leucovorin."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Which chemotherapy drug requires close monitoring of urine output for nephrotoxicity?",
+   "options": [
+    "Cisplatin",
+    "Bleomycin",
+    "Vincristine",
+    "Tamoxifen"
+   ],
+   "answer": "A",
+   "rationale": "Cisplatin is nephrotoxic; bleomycin causes pulmonary toxicity.",
+   "explanations": [
+    "Correct.",
+    "Lungs.",
+    "Nerves.",
+    "Hormonal."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Chemotherapy side effects (PDF p. 20)",
+   "quote": "Cisplatin is nephrotoxic. Monitor intake and output"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A patient asks if he will be radioactive after external beam radiation. The nurse answers:",
+   "options": [
+    "No; no isolation is needed",
+    "Yes, for 48 hours",
+    "Yes; use separate utensils",
+    "Only his urine is"
+   ],
+   "answer": "A",
+   "rationale": "External radiation leaves no residual radioactivity; activities resume right after.",
+   "explanations": [
+    "Correct.",
+    "Internal sources.",
+    "Internal sources.",
+    "Unsealed internal."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 External radiation therapy (PDF p. 23)",
+   "quote": "Inform patient that there is no- residual radioactivity."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Skin over an external radiation field is red and dry. The nurse teaches the patient to:",
+   "options": [
+    "Wash with plain water and pat dry",
+    "Apply lotion and powder",
+    "Use a heating pad",
+    "Scrub off the markings"
+   ],
+   "answer": "A",
+   "rationale": "Keep the area dry, wash with water only, pat dry; avoid ointments, heat, sun and removing markings.",
+   "explanations": [
+    "Correct.",
+    "Avoid unless ordered.",
+    "Avoid heat.",
+    "Needed for aim."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Skin reactions (PDF p. 23)",
+   "quote": "Wash area with water, no soap; pat dry (do not rub)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A patient with a cervical radiation implant is in bed. Which is correct care?",
+   "options": [
+    "Bed rest with indwelling catheter",
+    "Ambulate to the bathroom",
+    "High-fiber diet",
+    "Assign a pregnant nurse"
+   ],
+   "answer": "A",
+   "rationale": "Complete bed rest, urinary catheter and low-residue diet prevent dislodgement; pregnant staff are not assigned.",
+   "explanations": [
+    "Correct.",
+    "May dislodge.",
+    "Low fiber needed.",
+    "Fetal risk."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Internal radiation (PDF p. 22)",
+   "quote": "Complete bed rest. - to prevent dislodgement of the radioisotope"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "The nurse finds a cervical implant lying in the bed. The best initial action is to:",
+   "options": [
+    "Long forceps, lead box",
+    "Pick up by hand",
+    "Reinsert it",
+    "Leave and call MD"
+   ],
+   "answer": "A",
+   "rationale": "Use long-handled forceps to place it in the lead container kept in the room; never touch it or reinsert it.",
+   "explanations": [
+    "Correct.",
+    "Direct exposure.",
+    "Not the nurse's role.",
+    "Delays safety."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Internal radiation (PDF p. 22)",
+   "quote": "use long forceps to pick up the dislodged radioisotope"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Which three principles protect the nurse caring for a patient with a radiation implant?",
+   "options": [
+    "Time, distance, shielding",
+    "Gloves, mask, gown",
+    "Speed, rest, fluids",
+    "Isolation, fasting, sedation"
+   ],
+   "answer": "A",
+   "rationale": "Limit time, keep distance when not giving care, and use shielding.",
+   "explanations": [
+    "Correct.",
+    "Infection control.",
+    "Not these.",
+    "Not these."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Radiation protection (PDF p. 24)",
+   "quote": "Principles of Radiation Protection"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "After a modified radical mastectomy, the best position is:",
+   "options": [
+    "Semi-Fowler's, arm up",
+    "Flat, arm at side",
+    "Prone",
+    "Trendelenburg"
+   ],
+   "answer": "A",
+   "rationale": "Semi-Fowler's aids lung expansion; elevating the affected arm promotes drainage and prevents lymphedema.",
+   "explanations": [
+    "Correct.",
+    "Swelling.",
+    "Pressure on site.",
+    "Not indicated."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Postop breast surgery (PDF p. 26)",
+   "quote": "semi-Fowler's position with arm abducted and elevated on pillows"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "After mastectomy, which arm care prevents lymphedema?",
+   "options": [
+    "No BP or needles on that arm",
+    "BP readings on that arm",
+    "Sun exposure",
+    "Tight sling at rest"
+   ],
+   "answer": "A",
+   "rationale": "Arm precautions: no BP, injections or blood draws on the affected side; avoid any trauma.",
+   "explanations": [
+    "Correct.",
+    "Avoid.",
+    "Burn risk.",
+    "Impairs flow."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Postop breast surgery (PDF p. 26)",
+   "quote": "No BP taking or puncturing of the arm on affected site."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "After emptying a Hemovac drain, the nurse should:",
+   "options": [
+    "Compress it before closing",
+    "Leave it expanded",
+    "Irrigate it with saline",
+    "Clamp the tubing"
+   ],
+   "answer": "A",
+   "rationale": "Compressing the Hemovac before closing restores negative pressure (suction).",
+   "explanations": [
+    "Correct.",
+    "No suction.",
+    "Not routine.",
+    "Stops drainage."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Postop breast surgery (PDF p. 26)",
+   "quote": "compress it before covering it to reestablish suction/negative pressure"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Which lab results suggest tumor lysis syndrome after chemotherapy?",
+   "options": [
+    "High K, high uric acid, low Ca",
+    "Low K, low phosphate",
+    "High Ca, low uric acid",
+    "Normal electrolytes"
+   ],
+   "answer": "A",
+   "rationale": "TLS: hyperkalemia, hyperuricemia, hyperphosphatemia and hypocalcemia, risking renal failure.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Opposite.",
+    "Not TLS."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Tumor lysis syndrome (PDF p. 27)",
+   "quote": "Hyperkalemia Hyperuricemia Hyperphosphatemia Hypocalcemia"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A lung cancer patient has facial swelling, distended neck veins and dyspnea. The nurse suspects:",
+   "options": [
+    "Superior vena cava syndrome",
+    "Tumor lysis syndrome",
+    "SIADH",
+    "Spinal cord compression"
+   ],
+   "answer": "A",
+   "rationale": "SVC obstruction reduces venous return: facial and arm swelling, JVD, dyspnea and orthopnea.",
+   "explanations": [
+    "Correct.",
+    "Electrolytes.",
+    "Hyponatremia.",
+    "Back pain, deficits."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Superior vena cava syndrome (PDF p. 27)",
+   "quote": "Facial swelling J VD (jugular vein distention)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A patient with metastatic cancer reports new back pain. Why is this urgent?",
+   "options": [
+    "It may signal spinal cord compression",
+    "It is normal fatigue",
+    "It means the tumor shrank",
+    "It is from bed rest only"
+   ],
+   "answer": "A",
+   "rationale": "Back pain usually precedes neurologic deficits in spinal cord compression; early steroids and radiation prevent paralysis.",
+   "explanations": [
+    "Correct.",
+    "Not benign here.",
+    "Not implied.",
+    "Don't assume."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 2 Spinal cord compression (PDF p. 28)",
+   "quote": "It causes backpain, usually before neurological deficits occurs."
+  }
+ ]
+}

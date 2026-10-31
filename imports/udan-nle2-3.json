@@ -1,0 +1,821 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Aspirated objects most often lodge in the right lung because the right main bronchus is:",
+   "options": [
+    "Shorter, wider and more vertical",
+    "Longer and narrower",
+    "More horizontal",
+    "Covered by the heart"
+   ],
+   "answer": "A",
+   "rationale": "The right bronchus is shorter, broader and more vertical, so aspiration and infection more often affect the right lung.",
+   "explanations": [
+    "Correct.",
+    "Left bronchus.",
+    "Left bronchus.",
+    "Not the reason."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Anatomy (PDF p. 40)",
+   "quote": "The right bronchus is shorter, broader, and more vertical."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "In a healthy person, the main chemical stimulus to breathe is:",
+   "options": [
+    "Rising blood CO2",
+    "Falling blood O2",
+    "Rising blood pH",
+    "Falling blood glucose"
+   ],
+   "answer": "A",
+   "rationale": "Central chemoreceptors in the medulla respond mainly to high CO2; peripheral receptors respond to low O2.",
+   "explanations": [
+    "Correct.",
+    "Peripheral, secondary.",
+    "Not the stimulus.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Respiratory centers (PDF p. 40)",
+   "quote": "The main chemical stimulus for breathing is high levels of carbon dioxide in the blood."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A high-pitched, musical sound heard mainly on expiration is a:",
+   "options": [
+    "Wheeze",
+    "Crackle",
+    "Pleural friction rub",
+    "Stridor"
+   ],
+   "answer": "A",
+   "rationale": "Wheezes are continuous high-pitched musical sounds on expiration; crackles are discontinuous pops.",
+   "explanations": [
+    "Correct.",
+    "Popping.",
+    "Creaking.",
+    "Inspiratory, upper airway."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Adventitious breath sounds (PDF p. 42)",
+   "quote": "Continuous, high-pitched, hissing (musical) on expiration"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A Mantoux test is read after:",
+   "options": [
+    "48 to 72 hours",
+    "15 minutes",
+    "24 hours",
+    "7 days"
+   ],
+   "answer": "A",
+   "rationale": "PPD is given intradermally and read at 48–72 hours; ≥10 mm induration is positive (≥5 mm if HIV-positive).",
+   "explanations": [
+    "Correct.",
+    "Too early.",
+    "Too early.",
+    "Too late."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Mantoux test (PDF p. 43)",
+   "quote": "Read result 48-72 hours after injection."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "For a client with HIV, what Mantoux induration is considered positive?",
+   "options": [
+    "5 mm",
+    "10 mm",
+    "15 mm",
+    "20 mm"
+   ],
+   "answer": "A",
+   "rationale": "For HIV-positive clients, 5 mm induration is positive; 10 mm for the general population.",
+   "explanations": [
+    "Correct.",
+    "General population.",
+    "Too high.",
+    "Too high."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Mantoux test (PDF p. 43)",
+   "quote": "For HIV positive clients, induration of 5 mm is considered positive."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "After bronchoscopy, when may the client drink?",
+   "options": [
+    "When the gag reflex returns",
+    "Right away",
+    "After 24 hours",
+    "When he asks"
+   ],
+   "answer": "A",
+   "rationale": "Throat anesthesia abolishes the gag reflex; keep NPO and side-lying until it returns to prevent aspiration.",
+   "explanations": [
+    "Correct.",
+    "Aspiration risk.",
+    "Not needed.",
+    "Unsafe."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 After bronchoscopy (PDF p. 44)",
+   "quote": "Check for the return of gag reflex before giving fluid per orem."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Mang Ben, admitted for suspected pneumonia, is due for a sputum culture. When and how should it be collected?",
+   "options": [
+    "Early morning, before antibiotics",
+    "After the first antibiotic dose",
+    "With mouthwash first",
+    "At bedtime"
+   ],
+   "answer": "A",
+   "rationale": "Early morning sputum is most plentiful; collect before antibiotics, rinse with plain water, use a sterile container.",
+   "explanations": [
+    "Correct.",
+    "Masks organisms.",
+    "Kills organisms.",
+    "Less sputum."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Sputum examination (PDF p. 45)",
+   "quote": "Sputum specimen for C & S is collected before the first dose of antimicrobial."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Before drawing an arterial blood gas from the radial artery, the nurse performs Allen's test to check:",
+   "options": [
+    "Ulnar collateral circulation",
+    "Radial pulse rate",
+    "Clotting time",
+    "Blood pressure"
+   ],
+   "answer": "A",
+   "rationale": "Allen's test confirms adequate collateral (ulnar) flow to the hand; color should return within about 6 seconds.",
+   "explanations": [
+    "Correct.",
+    "Not the purpose.",
+    "Not the purpose.",
+    "Not the purpose."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Arterial blood gas studies (PDF p. 46)",
+   "quote": "Allen's test is done to assess for adequacy of collateral circulation of the hand."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "During thoracentesis, the client is best positioned:",
+   "options": [
+    "Upright, leaning forward",
+    "Flat supine",
+    "Prone",
+    "Trendelenburg"
+   ],
+   "answer": "A",
+   "rationale": "Upright and leaning forward on a table spreads the ribs and lets fluid settle for aspiration.",
+   "explanations": [
+    "Correct.",
+    "Poor access.",
+    "Not used.",
+    "Not used."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Thoracentesis (PDF p. 46)",
+   "quote": "Position: upright, leaning on overbed table, feet supported on foot stooL"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which oxygen device delivers the highest concentration in an emergency?",
+   "options": [
+    "Non-rebreather mask",
+    "Nasal cannula",
+    "Simple face mask",
+    "Venturi mask"
+   ],
+   "answer": "A",
+   "rationale": "A non-rebreather at 10–15 L/min gives about 95–100%; nasal cannula gives 24–44%.",
+   "explanations": [
+    "Correct.",
+    "Low concentration.",
+    "Moderate.",
+    "Precise but lower."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Oxygen therapy (PDF p. 47)",
+   "quote": "The non-breather face mask is the most effective method of oxygen delivery."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A COPD client needs an exact, controlled oxygen concentration. The best device is a:",
+   "options": [
+    "Venturi mask",
+    "Non-rebreather mask",
+    "Simple mask",
+    "Face tent"
+   ],
+   "answer": "A",
+   "rationale": "The Venturi mask delivers accurate FiO2, preferred for clients who retain CO2; titrate to target saturation.",
+   "explanations": [
+    "Correct.",
+    "Too high.",
+    "Imprecise.",
+    "Imprecise."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Oxygen therapy (PDF p. 47)",
+   "quote": "Use venturi mask for clients with COPD"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "When suctioning a tracheostomy, suction is applied:",
+   "options": [
+    "Only while withdrawing the catheter",
+    "While inserting the catheter",
+    "For 30 seconds",
+    "Without pre-oxygenation"
+   ],
+   "answer": "A",
+   "rationale": "Apply suction on withdrawal for 10–15 seconds max, hyperoxygenating before and after, using sterile technique.",
+   "explanations": [
+    "Correct.",
+    "Traumatizes mucosa.",
+    "Causes hypoxia.",
+    "Causes hypoxia."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Tracheostomy suctioning (PDF p. 47)",
+   "quote": "Apply suction or negative pressure during withdrawal of catheter"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "During suctioning the heart rate drops from 88 to 52. This is due to:",
+   "options": [
+    "Vagal stimulation",
+    "Hypervolemia",
+    "Fever",
+    "Pain relief"
+   ],
+   "answer": "A",
+   "rationale": "Over-suctioning can cause hypoxia and vagal stimulation, seen as bradycardia and hypotension; stop and oxygenate.",
+   "explanations": [
+    "Correct.",
+    "Not related.",
+    "Raises HR.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Tracheostomy suctioning (PDF p. 47)",
+   "quote": "Vagal stimulation is manifested by bradycardia and hypotension."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Chest physiotherapy is best scheduled:",
+   "options": [
+    "Before meals or on waking",
+    "Right after meals",
+    "Only at midnight",
+    "During visiting hours"
+   ],
+   "answer": "A",
+   "rationale": "Postural drainage is done before meals and on waking, after bronchodilator treatment, to avoid vomiting and aid expectoration.",
+   "explanations": [
+    "Correct.",
+    "Vomiting risk.",
+    "Not required.",
+    "Not relevant."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Chest physiotherapy (PDF p. 48)",
+   "quote": "The procedure is best done before meals, upon awakening in the morning"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "In a chest drainage unit, continuous bubbling in the water-seal chamber means:",
+   "options": [
+    "An air leak in the system",
+    "Normal function",
+    "Suction is too low",
+    "The lung has re-expanded"
+   ],
+   "answer": "A",
+   "rationale": "Water-seal should fluctuate with breathing, not bubble continuously; constant bubbling signals an air leak.",
+   "explanations": [
+    "Correct.",
+    "Not normal.",
+    "Suction chamber sign.",
+    "Fluctuation stops."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Chest tube drainage (PDF p. 48)",
+   "quote": "Bubbling in the water-seal chamber indicates air leak in the system."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "The chest drainage bottle breaks. The nurse's first action is to:",
+   "options": [
+    "Submerge the tube end in sterile water",
+    "Clamp the tube for an hour",
+    "Remove the chest tube",
+    "Raise the tube above the chest"
+   ],
+   "answer": "A",
+   "rationale": "Immerse the tubing end in sterile saline or water to restore a water seal; prolonged clamping risks tension pneumothorax.",
+   "explanations": [
+    "Correct.",
+    "Tension risk.",
+    "Not the nurse's action.",
+    "Backflow."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Chest tube drainage (PDF p. 49)",
+   "quote": "If closed drainage system is broken, immerse end of tubing in normal saline or glass of water. Do not clamp."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A ventilator's high-pressure alarm sounds. The most common cause is:",
+   "options": [
+    "Secretions in the airway",
+    "Tubing disconnection",
+    "Cuff leak",
+    "Power failure"
+   ],
+   "answer": "A",
+   "rationale": "High pressure = obstruction (secretions, kinks, biting the tube); low pressure = disconnection or leak.",
+   "explanations": [
+    "Correct.",
+    "Low-pressure.",
+    "Low-pressure.",
+    "Different alarm."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Ventilator alarms (PDF p. 49)",
+   "quote": "O — Obstruction (mucuous secretions, kink in the tubing, client bites on the endotracheal tube)"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Equipment for High-Acuity & Emergency Care",
+   "situation": "",
+   "stem": "A ventilator keeps alarming after suctioning and checking connections. The nurse should:",
+   "options": [
+    "Disconnect and bag manually",
+    "Silence the alarm",
+    "Increase the rate",
+    "Wait for the RT"
+   ],
+   "answer": "A",
+   "rationale": "If the cause can't be fixed, disconnect and ventilate with a manual resuscitation bag.",
+   "explanations": [
+    "Correct.",
+    "Unsafe.",
+    "Not the fix.",
+    "Delays ventilation."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 ARDS and ventilators (PDF p. 56)",
+   "quote": "disconnect client from ventilator and do manual ventilation (Ambu bag)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which position helps stop an anterior nosebleed?",
+   "options": [
+    "Sitting up, leaning forward",
+    "Lying flat",
+    "Head tilted back",
+    "Trendelenburg"
+   ],
+   "answer": "A",
+   "rationale": "Leaning forward prevents swallowing and aspiration of blood; apply pressure and cold.",
+   "explanations": [
+    "Correct.",
+    "Aspiration.",
+    "Blood swallowed.",
+    "Increases bleeding."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Epistaxis (PDF p. 49)",
+   "quote": "The best position of the client is sitting up, leaning forward"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After tonsillectomy, which sign suggests bleeding?",
+   "options": [
+    "Frequent swallowing",
+    "Sore throat",
+    "Mild earache",
+    "Low-grade fever"
+   ],
+   "answer": "A",
+   "rationale": "Frequent swallowing signals bleeding; avoid straws, red fluids, milk and irritating foods.",
+   "explanations": [
+    "Correct.",
+    "Expected.",
+    "Referred pain.",
+    "Common."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Tonsillectomy (PDF p. 50)",
+   "quote": "Frequent swallowing indicates bleeding."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Why are drinking straws avoided after tonsillectomy?",
+   "options": [
+    "Suction may dislodge the clot",
+    "They cause infection",
+    "They carry germs",
+    "They hurt the teeth"
+   ],
+   "answer": "A",
+   "rationale": "Sucking through a straw can dislodge the clot at the operative site and cause bleeding.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Tonsillectomy (PDF p. 50)",
+   "quote": "Blood clot in the operative area may be dislodged as the client sucks through the straw."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "After total laryngectomy, the client will permanently lose the ability to:",
+   "options": [
+    "Speak and smell",
+    "Swallow food",
+    "Hear sounds",
+    "Breathe air"
+   ],
+   "answer": "A",
+   "rationale": "Total laryngectomy causes loss of voice, a permanent tracheostomy, loss of smell and inability to do Valsalva.",
+   "explanations": [
+    "Correct.",
+    "Still possible.",
+    "Not affected.",
+    "Via stoma."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Cancer of the larynx (PDF p. 51)",
+   "quote": "The client will have permanent tracheostomy, loss of sense of smell, and unable to do Valsalva maneuver."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "What is the earliest sign of laryngeal cancer?",
+   "options": [
+    "Persistent hoarseness",
+    "Hemoptysis",
+    "Weight loss",
+    "Neck mass"
+   ],
+   "answer": "A",
+   "rationale": "Persistent hoarseness is the initial manifestation.",
+   "explanations": [
+    "Correct.",
+    "Later.",
+    "Later.",
+    "Later."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Cancer of the larynx (PDF p. 51)",
+   "quote": "The initial manifestation of cancer of the larynx is persistent hoarseness of voice."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A COPD client asks why his diet should be lower in carbohydrates. The nurse explains carbohydrates:",
+   "options": [
+    "Produce more CO2",
+    "Cause wheezing",
+    "Raise blood pressure",
+    "Cause infection"
+   ],
+   "answer": "A",
+   "rationale": "CO2 is the end product of carbohydrate metabolism; COPD clients already retain CO2. Diet is high calorie and protein.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 COPD (PDF p. 51)",
+   "quote": "Low carbohydrate diet prevents excessive formation of carbon dioxide."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A client uses an inhaled bronchodilator and an inhaled steroid. Which teaching is correct?",
+   "options": [
+    "Bronchodilator first",
+    "Steroid first",
+    "Both at once",
+    "No rinsing needed"
+   ],
+   "answer": "A",
+   "rationale": "The bronchodilator opens airways so the steroid reaches deeper; rinse after the steroid to prevent thrush.",
+   "explanations": [
+    "Correct.",
+    "Less absorption.",
+    "Not advised.",
+    "Thrush risk."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Pharmacotherapy for COPD (PDF p. 52)",
+   "quote": "Bronchodilator inhalation should be given before steroid inhalation."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "An asthmatic's peak flow is 60% of her personal best. She is in which zone?",
+   "options": [
+    "Yellow",
+    "Green",
+    "Red",
+    "Blue"
+   ],
+   "answer": "A",
+   "rationale": "Green 80–100%, yellow 50–80% (caution, use prescribed medication), red <50% (medical alert).",
+   "explanations": [
+    "Correct.",
+    "Above 80%.",
+    "Below 50%.",
+    "Not a zone."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Peak flow meter (PDF p. 54)",
+   "quote": "50 to 80% of your usual or \"normal\" peak flow rate signals caution."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which drug class can trigger asthma attacks?",
+   "options": [
+    "Beta-blockers",
+    "Inhaled corticosteroids",
+    "Leukotriene antagonists",
+    "Short-acting beta-agonists"
+   ],
+   "answer": "A",
+   "rationale": "Aspirin, NSAIDs and beta-adrenergic blockers are known asthma triggers.",
+   "explanations": [
+    "Correct.",
+    "Controller.",
+    "Controller.",
+    "Reliever."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Asthma triggers (PDF p. 53)",
+   "quote": "Beta — adrenergic blockers"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A tension pneumothorax shifts the trachea toward the:",
+   "options": [
+    "Unaffected side",
+    "Affected side",
+    "Midline",
+    "Abdomen"
+   ],
+   "answer": "A",
+   "rationale": "Pneumothorax causes mediastinal shift toward the unaffected side, with absent breath sounds on the affected side.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Not shifted.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Pneumothorax (PDF p. 55)",
+   "quote": "Pneumothorax is accompanied by mediastinal shift (deviation of larynx and trachea) to the unaffected side."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After pneumonectomy, the client is positioned:",
+   "options": [
+    "Toward operative side",
+    "On unaffected side",
+    "Flat and prone",
+    "Trendelenburg"
+   ],
+   "answer": "A",
+   "rationale": "Turning slightly to the operative side lets the remaining lung expand; no chest tube is usually placed.",
+   "explanations": [
+    "Correct.",
+    "Compresses good lung.",
+    "Not advised.",
+    "Not advised."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Thoracic surgeries (PDF p. 55)",
+   "quote": "Best postop position is Semi Fowler's slightly turned to the affected side."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A client on isoniazid is given vitamin B6 to prevent:",
+   "options": [
+    "Peripheral neuropathy",
+    "Orange urine",
+    "Optic neuritis",
+    "Hearing loss"
+   ],
+   "answer": "A",
+   "rationale": "Pyridoxine prevents INH-induced peripheral neuritis.",
+   "explanations": [
+    "Correct.",
+    "Rifampicin, harmless.",
+    "Ethambutol.",
+    "Streptomycin."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Tuberculosis (PDF p. 56)",
+   "quote": "Vitamin B6 (pyridoxine) is administered to prevent INH-induced peripheral neuritis."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A client on ethambutol should be advised to have:",
+   "options": [
+    "Periodic eye exams",
+    "Hearing tests",
+    "Dental checkups",
+    "Skin biopsies"
+   ],
+   "answer": "A",
+   "rationale": "Ethambutol can cause optic neuritis (visual acuity, red-green color changes).",
+   "explanations": [
+    "Correct.",
+    "Streptomycin.",
+    "Not related.",
+    "Not related."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Tuberculosis (PDF p. 56)",
+   "quote": "Ethambutol causes optic neuritis. The client is advised to have periodic eye examination."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A crushed-chest patient's chest wall moves in on inspiration and out on expiration. This is:",
+   "options": [
+    "Flail chest",
+    "Pneumothorax",
+    "Pleural effusion",
+    "Asthma"
+   ],
+   "answer": "A",
+   "rationale": "Flail chest (two or more adjacent rib fractures) produces paradoxical chest movement.",
+   "explanations": [
+    "Correct.",
+    "Absent sounds.",
+    "Dull percussion.",
+    "Wheezing."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Flail chest (PDF p. 57)",
+   "quote": "It is characterized by paradoxical breathing chest segment moves inward during inspiration and outward during expiration."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A bedridden client after hip surgery suddenly has severe dyspnea, pleuritic pain and anxiety. The nurse suspects:",
+   "options": [
+    "Pulmonary embolism",
+    "Pneumonia",
+    "Asthma attack",
+    "Atelectasis"
+   ],
+   "answer": "A",
+   "rationale": "PE from venous stasis presents with sudden dyspnea, sharp pleuritic pain, restlessness and possibly hemoptysis.",
+   "explanations": [
+    "Correct.",
+    "Gradual, fever.",
+    "Wheezing history.",
+    "Gradual."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 Pulmonary embolism (PDF p. 57)",
+   "quote": "Characteristic manifestations are sudden severe dyspnea, restlessness, anxiety, sharp pleuritic pain"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "ABG: pH 7.30, PaCO2 52 mmHg, HCO3 24 mEq/L. This is:",
+   "options": [
+    "Respiratory acidosis",
+    "Metabolic acidosis",
+    "Respiratory alkalosis",
+    "Metabolic alkalosis"
+   ],
+   "answer": "A",
+   "rationale": "Low pH with high PaCO2 (opposite directions) and normal HCO3 = uncompensated respiratory acidosis (ROME).",
+   "explanations": [
+    "Correct.",
+    "HCO3 normal.",
+    "pH is low.",
+    "pH is low."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 3 ABG analysis (PDF p. 61)",
+   "quote": "Respiratory Opposite means: the directions of pH and paC02 are opposite."
+  }
+ ]
+}
