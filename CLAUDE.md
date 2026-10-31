@@ -33,8 +33,9 @@ Do the whole pipeline without stopping for check-ins, through deployment. The us
    git add -A
    git commit -m "<what changed, e.g. Add 120 NP II questions from Udan Vol 2>"
    git push
+   npx vercel deploy --prod --yes   # publishes the live site
    ```
-   The remote is `https://vea-nurse-2026@github.com/vea-nurse-2026/pnle-exam.git` (public; the user chose this). The local git identity is already set to vea-nurse-2026. Vercel rebuilds from `main` in about a minute; if a build fails, the old version stays live.
+   The remote is `https://vea-nurse-2026@github.com/vea-nurse-2026/pnle-exam.git` (public; the user chose this). The local git identity is already set to vea-nurse-2026. The live site is https://pnle-exam-vea-alonzo.vercel.app (Vercel project `pnle-exam-vea-alonzo`, team vea-the-nurse). That project is **not** connected to GitHub, so a push alone does not update the site; the `vercel deploy --prod` step does. This folder is already linked (`.vercel/`) and the CLI is logged in. `.vercelignore` keeps `materials/`, `server/data/` and `.env*` out of the upload. Afterwards, check that `/questions.json` on the live site has the new count. If a build fails, the old version stays live.
 8. **Report to the user:** questions added per subject, new totals, what you skipped and why, and the commit. Remind them to back up `server/data/pnle.db` (see Backups).
 
 For small changes (site design, a fix), the same flow applies: change, `npm run typecheck`, `npm run build:exam`, commit, push.

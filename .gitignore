@@ -5,3 +5,6 @@ server/data/
 .env
 *.log
 materials/
+
+.vercel
+.env*

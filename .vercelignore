@@ -1,0 +1,10 @@
+# Never upload these to Vercel (copyrighted books, the bank database, secrets)
+materials/
+server/data/
+.env
+*.log
+node_modules/
+client/dist/
+client/dist-exam/
+.env.local
+.vercel
