@@ -1,0 +1,509 @@
+{
+ "source": "Udan, Healthcare Ethics (2023)",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A professor wants to survey his own students for research. Which vulnerability is most at issue?",
+   "options": [
+    "Institutional",
+    "Medical",
+    "Economic",
+    "Cognitive"
+   ],
+   "answer": "A",
+   "rationale": "Institutional vulnerability affects people under formal authority (students, employees, prisoners); a third party should gather consent.",
+   "explanations": [
+    "Correct.",
+    "Illness-related.",
+    "Money-related.",
+    "Comprehension."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Categories of vulnerability (PDF p. 132)",
+   "quote": "Prisoners, student-professor relationships, end employee-employer relationships are all examples."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A terminally ill patient joins a drug trial believing it is a miracle cure. This reflects which vulnerability?",
+   "options": [
+    "Medical",
+    "Institutional",
+    "Legal",
+    "Deferential"
+   ],
+   "answer": "A",
+   "rationale": "Medical vulnerability: illness makes it hard to decide; the patient may see research as a cure.",
+   "explanations": [
+    "Correct.",
+    "Formal authority.",
+    "Legal status.",
+    "Informal deference."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Categories of vulnerability (PDF p. 132)",
+   "quote": "the patient may perceive the research study as a miracle cure for their ailment"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "A low-income volunteer is offered a very large payment to join a risky study. The REC would consider this:",
+   "options": [
+    "Undue inducement",
+    "Fair compensation",
+    "Required by law",
+    "Reimbursement"
+   ],
+   "answer": "A",
+   "rationale": "Payment that induces someone to accept risks they normally would not is unethical (economic vulnerability).",
+   "explanations": [
+    "Correct.",
+    "Not when it coerces.",
+    "Not law.",
+    "Covers expenses only."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Economic vulnerability (PDF p. 132)",
+   "quote": "Paying a low-income volunteer a big quantity of money to participate in a risky surgery, for example, would be unethical."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "A child is invited into a study and his parent consents. What else should the researcher do?",
+   "options": [
+    "Still ask the child",
+    "Ignore the child",
+    "Skip the parent",
+    "Pay the child"
+   ],
+   "answer": "A",
+   "rationale": "A surrogate consents for those lacking capacity, but the person should still be included in the consent process.",
+   "explanations": [
+    "Correct.",
+    "Should be included.",
+    "Surrogate needed.",
+    "Not a safeguard."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Cognitive vulnerability (PDF p. 132)",
+   "quote": "it is still necessary to inciude them in the consent process regardless of their capacity"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Within how many hours must a serious adverse event in a study be reported to the REC?",
+   "options": [
+    "24 hours",
+    "72 hours",
+    "7 days",
+    "30 days"
+   ],
+   "answer": "A",
+   "rationale": "SAEs are reported to the REC within 24 hours of discovery, with a report within 14 days.",
+   "explanations": [
+    "Correct.",
+    "Too long.",
+    "Too long.",
+    "Too long."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Summary and takeaways (PDF p. 134)",
+   "quote": "All significant adverse events (SAEs) must be reported to the REC within 24 hours of discovery"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "In student-initiated research, who must provide compensation for research-related injury?",
+   "options": [
+    "The investigator",
+    "The participant",
+    "The REC",
+    "The PRC"
+   ],
+   "answer": "A",
+   "rationale": "In investigator-initiated or student research, the investigator/institution is the sponsor and covers research-related injury.",
+   "explanations": [
+    "Correct.",
+    "Not the participant.",
+    "Reviewer only.",
+    "Not its role."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Summary and takeaways (PDF p. 134)",
+   "quote": "the investigator/institution conducting the study becomes the sponsor and is responsible for providing compensation"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Collaboration & Teamwork",
+   "situation": "",
+   "stem": "A nurse notices a coworker lacks the skill for a procedure. What is the ethical action?",
+   "options": [
+    "Report it to the nurse manager",
+    "Ignore it",
+    "Do it for her secretly",
+    "Tell the patient"
+   ],
+   "answer": "A",
+   "rationale": "Inadequate competency is an ethical issue; the nurse informs the manager so training can be provided.",
+   "explanations": [
+    "Correct.",
+    "Risks patient harm.",
+    "Not sustainable.",
+    "Not appropriate."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Inadequate competencies (PDF p. 135)",
+   "quote": "Nurses who recognize a coworker's lack of knowledge are faced with the ethical dilemma of whether or not to inform their nurse manager."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Therapeutic Communication",
+   "situation": "",
+   "stem": "A patient offers his nurse an expensive gift and asks for her phone number. This is an issue of:",
+   "options": [
+    "Professional boundaries",
+    "Informed consent",
+    "Resource allocation",
+    "Shared decision-making"
+   ],
+   "answer": "A",
+   "rationale": "Nurses set boundaries: patients should not rely unduly on nurses, form sexual ties or give gifts.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Setting professional boundaries (PDF p. 135)",
+   "quote": "Patients should not place undue reliance on nurses, nor should they form sexual ties with them or give them presents."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Shared decision-making mainly enhances the patient's:",
+   "options": [
+    "Autonomy",
+    "Dependence",
+    "Costs",
+    "Hospital stay"
+   ],
+   "answer": "A",
+   "rationale": "Shared decision-making lets patients and providers decide together, increasing autonomy and trust.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Not the aim.",
+    "Not the aim."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Shared decision-making (PDF p. 136)",
+   "quote": "Shared patient decision-making increases patient autonomy"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Reporting & Recording",
+   "situation": "",
+   "stem": "Which documentation practice follows the 'completeness' standard?",
+   "options": [
+    "No blank spaces between entries",
+    "Leave space for late notes",
+    "Use any abbreviation",
+    "Write 'slept well' only"
+   ],
+   "answer": "A",
+   "rationale": "Completeness means no spaces left between entries and documentation done on time with complete data.",
+   "explanations": [
+    "Correct.",
+    "Not allowed.",
+    "Only approved ones.",
+    "Meaningless phrase."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 5 The 5Cs (PDF p. 141)",
+   "quote": "Make sure not to leave space between entries to record delayed entries."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Reporting & Recording",
+   "situation": "",
+   "stem": "Which nursing note is best?",
+   "options": [
+    "'Ambulated 20 m, no dyspnea.'",
+    "'Usual day.'",
+    "'Slept well.'",
+    "'Patient is difficult.'"
+   ],
+   "answer": "A",
+   "rationale": "Notes must be factual and meaningful, avoiding phrases like 'slept well' or 'usual day' and personal judgments.",
+   "explanations": [
+    "Correct.",
+    "Meaningless.",
+    "Meaningless.",
+    "Judgmental."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 5 Guiding principle 1 (PDF p. 146)",
+   "quote": "avoids meaningless phrases such as 'slept well or 'usual day"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Reporting & Recording",
+   "situation": "",
+   "stem": "A nurse forgot to chart a medication given 2 hours ago. She should:",
+   "options": [
+    "Late entry, timed now",
+    "Squeeze it above notes",
+    "Erase and rewrite",
+    "Skip charting it"
+   ],
+   "answer": "A",
+   "rationale": "Late entries are recorded as soon as possible, prefaced with date and time; records stay chronological and non-erasable.",
+   "explanations": [
+    "Correct.",
+    "Falsifies order.",
+    "Not permitted.",
+    "Incomplete record."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 5 Guiding principle 1 (PDF p. 146)",
+   "quote": "chronological record of care (late entries recorded as soon as possible as to rectify the absence)"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Reporting & Recording",
+   "situation": "",
+   "stem": "Which abbreviations may a nurse use in the chart?",
+   "options": [
+    "Facility-approved ones",
+    "Any she knows",
+    "Texting shortcuts",
+    "Her own codes"
+   ],
+   "answer": "A",
+   "rationale": "Avoid abbreviations other than those approved in organizational policy by the Medical Records Department.",
+   "explanations": [
+    "Correct.",
+    "Risky.",
+    "Not acceptable.",
+    "Not acceptable."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 5 Guiding principle 1 (PDF p. 146)",
+   "quote": "avoid use of abbreviations (other than those approved and documented in organizational policy"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Reporting & Recording",
+   "situation": "",
+   "stem": "A nurse falsifies vital signs she did not take. A regulatory authority would deem this:",
+   "options": [
+    "Unprofessional conduct",
+    "Minor error",
+    "Acceptable if busy",
+    "A clerical issue"
+   ],
+   "answer": "A",
+   "rationale": "Falsifying or giving inaccurate documentation may be deemed unprofessional by a regulatory authority.",
+   "explanations": [
+    "Correct.",
+    "Serious.",
+    "Never acceptable.",
+    "Serious."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Evaluating",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 5 Legislative requirements (PDF p. 143)",
+   "quote": "falsifying documentation, providing incomplete or inaccurate documentation"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Reporting & Recording",
+   "situation": "",
+   "stem": "Using charts in audits and accreditation reviews serves which purpose of documentation?",
+   "options": [
+    "Quality improvement",
+    "Funding only",
+    "Patient entertainment",
+    "Advertising"
+   ],
+   "answer": "A",
+   "rationale": "Documentation is used in performance reviews, audits, accreditation and critical incident reviews.",
+   "explanations": [
+    "Correct.",
+    "Another purpose.",
+    "Not a purpose.",
+    "Not a purpose."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 5 Purposes of documentation (PDF p. 143)",
+   "quote": "Documentation can be used to assess professional practice as part of quality assurance procedures"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Reporting & Recording",
+   "situation": "",
+   "stem": "Which practice protects electronic health records?",
+   "options": [
+    "Log off when leaving the terminal",
+    "Share passwords with friends",
+    "Use birth date as password",
+    "Delete wrong entries"
+   ],
+   "answer": "A",
+   "rationale": "Fully log off, keep passwords private and hard to guess, and never delete information.",
+   "explanations": [
+    "Correct.",
+    "Breach.",
+    "Easily guessed.",
+    "Never delete."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 5 Electronic documentation (PDF p. 148)",
+   "quote": "fully logging off when not using the system or when leaving a terminal"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Documentation in Psychiatric Nursing",
+   "situation": "",
+   "stem": "How should old patient census sheets be disposed of?",
+   "options": [
+    "Shred or use confidential bins",
+    "Throw in regular trash",
+    "Reuse as scratch paper",
+    "Take them home"
+   ],
+   "answer": "A",
+   "rationale": "Documents are destroyed in a way that keeps confidentiality, e.g., shredding or confidential bins.",
+   "explanations": [
+    "Correct.",
+    "Breach.",
+    "Breach.",
+    "Breach."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 5 Guiding principle 3 (PDF p. 148)",
+   "quote": "disposing of documentation (where appropriate to destroy) in a manner which maintains confidentiality (eg confidential bins /shredding)"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Documentation in Psychiatric Nursing",
+   "situation": "",
+   "stem": "Advice given to a patient by telephone should be:",
+   "options": [
+    "Documented",
+    "Kept verbal only",
+    "Recorded only if asked",
+    "Forgotten"
+   ],
+   "answer": "A",
+   "rationale": "Documentation includes interventions via telephone, with information obtained and advice given.",
+   "explanations": [
+    "Correct.",
+    "Not enough.",
+    "Always record.",
+    "Not acceptable."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 5 Guiding principle 2 (PDF p. 147)",
+   "quote": "documentation of intervention via telephone ( including information obtained and advice given)"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Documentation in Psychiatric Nursing",
+   "situation": "",
+   "stem": "A psychiatric nursing note should be based on:",
+   "options": [
+    "Observed facts",
+    "Her feelings",
+    "Staff rumors",
+    "Assumptions"
+   ],
+   "answer": "A",
+   "rationale": "Documentation is based on professional observation and assessment, without unfounded conclusions or personal judgments.",
+   "explanations": [
+    "Correct.",
+    "Subjective.",
+    "Unfounded.",
+    "Unfounded."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 5 Guiding principle 2 (PDF p. 147)",
+   "quote": "based on professional observation and assessment that does not have any basis in unfounded conclusions of personal judgements"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Personal & Professional Development",
+   "situation": "",
+   "stem": "Which requirement of ethical decision-making is the desire to do right regardless of cost?",
+   "options": [
+    "Commitment",
+    "Consciousness",
+    "Competency",
+    "Compliance"
+   ],
+   "answer": "A",
+   "rationale": "Ethical decisions require commitment (desire to do right), consciousness (consistency) and competency (skill to evaluate).",
+   "explanations": [
+    "Correct.",
+    "Awareness and consistency.",
+    "Skill.",
+    "Not listed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 6 Moral decision-making (PDF p. 153)",
+   "quote": "Commitment: The desire to do the right thing regardless of the cost"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Personal & Professional Development",
+   "situation": "",
+   "stem": "An ethical nurse leader is best described as one who:",
+   "options": [
+    "Role-models ethical behavior",
+    "Avoids staff conflicts",
+    "Focuses only on budget",
+    "Never applies sanctions"
+   ],
+   "answer": "A",
+   "rationale": "Ethical leaders role-model ethics, create an ethical climate, and enforce sanctions for unethical conduct.",
+   "explanations": [
+    "Correct.",
+    "Not the trait.",
+    "Too narrow.",
+    "They do sanction."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 6 Introduction (PDF p. 151)",
+   "quote": "They serve as role models of ethical behaviour."
+  }
+ ]
+}

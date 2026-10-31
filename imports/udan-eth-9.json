@@ -1,0 +1,413 @@
+{
+ "source": "Udan, Healthcare Ethics (2023)",
+ "questions": [
+  {
+   "subject": "NP IV",
+   "topic": "Personal & Professional Development",
+   "situation": "",
+   "stem": "Nurses meet a senator's staff to push for a bill raising nurses' pay. This is:",
+   "options": [
+    "Lobbying",
+    "Advocacy only",
+    "Delegation",
+    "Counseling"
+   ],
+   "answer": "A",
+   "rationale": "Lobbying directs efforts at officials to influence legislation; advocacy raises and publicizes an issue.",
+   "explanations": [
+    "Correct.",
+    "Broader awareness.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 8 Lobbying and advocating (PDF p. 174)",
+   "quote": "Lobbying is the process of directing one's efforts toward individuals in positions of authority"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A nurse runs a social media campaign to raise awareness of dengue prevention. This is:",
+   "options": [
+    "Advocacy",
+    "Lobbying",
+    "Research",
+    "Delegation"
+   ],
+   "answer": "A",
+   "rationale": "Advocacy promotes a cause and raises awareness in a community; lobbying targets officials to pass laws.",
+   "explanations": [
+    "Correct.",
+    "Targets officials.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 8 Lobbying and advocating (PDF p. 174)",
+   "quote": "To advocate is to raise and publicize an issue within a community"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "In what year did the ICN first adopt an international code of ethics for nurses?",
+   "options": [
+    "1953",
+    "1912",
+    "1973",
+    "2002"
+   ],
+   "answer": "A",
+   "rationale": "The ICN first adopted its Code of Ethics for Nurses in 1953; it has been revised several times since.",
+   "explanations": [
+    "Correct.",
+    "Too early.",
+    "Revision period.",
+    "RA 9173 year."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 8 ICN Code of Ethics (PDF p. 177)",
+   "quote": "An international code of ethics for nurses was first adopted by the International Council of Nurses (ICN) in 1953."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "According to the ICN Code, nursing care is unrestricted by considerations of:",
+   "options": [
+    "Age, creed or status",
+    "Hospital policy",
+    "Physician orders",
+    "Insurance status"
+   ],
+   "answer": "A",
+   "rationale": "Nursing care respects human rights and is unrestricted by age, color, creed, culture, gender, nationality, politics or status.",
+   "explanations": [
+    "Correct.",
+    "Not in the code.",
+    "Not in the code.",
+    "Not in the code."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 8 ICN Code of Ethics (PDF p. 177)",
+   "quote": "Nursing care is respectful of and unrestricted by considerations of age, color, creed, culture, disability or illness, gender"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Personal & Professional Development",
+   "situation": "",
+   "stem": "Under the ICN Code, the nurse maintains competence through:",
+   "options": [
+    "Continual learning",
+    "Seniority",
+    "Overtime work",
+    "Patient feedback only"
+   ],
+   "answer": "A",
+   "rationale": "The nurse carries responsibility for practice and for maintaining competence by continual learning.",
+   "explanations": [
+    "Correct.",
+    "Not enough.",
+    "Not this.",
+    "Not enough."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 8 Nurses and practice (PDF p. 177)",
+   "quote": "for maintaining competence by continual learning"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Collaboration & Teamwork",
+   "situation": "",
+   "stem": "A nurse sees a co-worker endanger a patient. Under the ICN Code, she should:",
+   "options": [
+    "Act to safeguard the patient",
+    "Stay silent for teamwork",
+    "Wait for the shift to end",
+    "Post about it online"
+   ],
+   "answer": "A",
+   "rationale": "The nurse takes appropriate action to safeguard people when their health is endangered by a co-worker or anyone else.",
+   "explanations": [
+    "Correct.",
+    "Unsafe.",
+    "Unsafe.",
+    "Inappropriate."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 8 Nurses and co-workers (PDF p. 178)",
+   "quote": "The nurse takes appropriate action to safeguard individuals, families and communities when their health is endangered by a co-worker"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Under the Code of Ethics for Filipino RNs, when health can no longer be preserved, the nurse's obligation is to:",
+   "options": [
+    "Assist toward a peaceful death",
+    "Stop all care",
+    "Hasten death",
+    "Transfer the patient"
+   ],
+   "answer": "A",
+   "rationale": "The preamble states that when promotion, prevention, alleviation and restoration are not possible, assisting toward a peaceful death is the nurse's obligation.",
+   "explanations": [
+    "Correct.",
+    "Abandonment.",
+    "Unethical.",
+    "Not the duty."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 8 Code of Ethics for RNs, Art. I (PDF p. 182)",
+   "quote": "when the foregoing are not possible, assistance towards a peaceful death shall be his/her obligation"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Under the Code of Ethics for Filipino RNs, personal information acquired in giving care shall be:",
+   "options": [
+    "Held in strict confidence",
+    "Shared with the family",
+    "Posted for teaching",
+    "Told to the barangay"
+   ],
+   "answer": "A",
+   "rationale": "Article II: personal information acquired in giving nursing care is held in strict confidence.",
+   "explanations": [
+    "Correct.",
+    "Needs consent.",
+    "Breach.",
+    "Breach."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 8 Code of Ethics for RNs, Art. II (PDF p. 182)",
+   "quote": "Personal information acquired in the process of giving nursing care shall be held in strict confidence."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Personal & Professional Development",
+   "situation": "",
+   "stem": "Which body accredits nursing specialty certification programs of the Board of Nursing?",
+   "options": [
+    "Specialty Cert. Council",
+    "Higher Ed. Commission",
+    "Health Department",
+    "Health Insurance Corp."
+   ],
+   "answer": "A",
+   "rationale": "Professional programs for specialty certification by the BON are accredited through the NSCC.",
+   "explanations": [
+    "Correct.",
+    "Education degrees.",
+    "Health department.",
+    "Insurance."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 8 Code of Ethics for RNs, Sec. 5 (PDF p. 182)",
+   "quote": "accredited t}yough the Nursing Specialty Certification Council (NSCC)"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Under the Code of Ethics for Filipino RNs, the nurse is the patient's:",
+   "options": [
+    "Advocate",
+    "Employer",
+    "Guardian",
+    "Judge"
+   ],
+   "answer": "A",
+   "rationale": "Registered nurses are advocates of patients and take steps to safeguard their rights and privileges.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not legal role.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 8 Code of Ethics for RNs, Sec. 8 (PDF p. 183)",
+   "quote": "Registered Nurses are the advocates of the patients"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A grateful patient's family offers a nurse an envelope of cash. Per the Code of Ethics, she should:",
+   "options": [
+    "Decline it politely",
+    "Accept and share it",
+    "Accept if no one sees",
+    "Ask for more"
+   ],
+   "answer": "A",
+   "rationale": "Nurses decline any gift, favor or hospitality that might be interpreted as capitalizing on patients.",
+   "explanations": [
+    "Correct.",
+    "Still capitalizing.",
+    "Unethical.",
+    "Unethical."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 8 Code of Ethics for RNs, Sec. 11 (PDF p. 183)",
+   "quote": "Decline any gift, favor or hospitality which might be interpreted as capitalizing on patients."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A private-duty nurse pays a clinic aide a fee for every patient referred to her. This violates the Code because nurses must not:",
+   "options": [
+    "Give or take referral fees",
+    "Do private duty",
+    "Accept salaries",
+    "Work in clinics"
+   ],
+   "answer": "A",
+   "rationale": "Nurses must not demand or receive commissions or fees for referring or recommending patients.",
+   "explanations": [
+    "Correct.",
+    "Allowed.",
+    "Allowed.",
+    "Allowed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 8 Code of Ethics for RNs, Sec. 11 (PDF p. 183)",
+   "quote": "Not demand and receive any commission, fee or other compensations to the one referring or recommending a patient"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A nurse is asked to appear in a revealing uniform for a product advertisement. Per the Code, she should:",
+   "options": [
+    "Refuse; it demeans",
+    "Accept for the fee",
+    "Accept if masked",
+    "Ask PNA to pay"
+   ],
+   "answer": "A",
+   "rationale": "Nurses must not allow themselves to be used in advertisements that demean the profession (indecent exposure, dress code violations).",
+   "explanations": [
+    "Correct.",
+    "Unethical.",
+    "Still demeaning.",
+    "Not relevant."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 8 Code of Ethics for RNs, Sec. 11 (PDF p. 183)",
+   "quote": "Not allow themselves to be used in advertisement that should demean the image of the profession"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Collaboration & Teamwork",
+   "situation": "",
+   "stem": "A nurse makes unfair remarks to patients about a doctor's competence. Under the Code, this is:",
+   "options": [
+    "Prohibited",
+    "Allowed if true",
+    "Allowed off-duty",
+    "Encouraged"
+   ],
+   "answer": "A",
+   "rationale": "Nurses honor the reputation of other professions and refrain from unfair, unwarranted comments on their competence.",
+   "explanations": [
+    "Correct.",
+    "Must be fair and proper.",
+    "Still prohibited.",
+    "Not encouraged."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Evaluating",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 8 Code of Ethics for RNs, Sec. 13 (PDF p. 184)",
+   "quote": "refrain from making unfair and unwarranted comments or criticisms on their competence"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Under the Code, a nurse's duty to society includes:",
+   "options": [
+    "Active role in PHC",
+    "Avoid community work",
+    "Hospital work only",
+    "Avoid all politics"
+   ],
+   "answer": "A",
+   "rationale": "Nurses must know community health resources and take active roles in primary health care.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Too narrow.",
+    "Not stated."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 8 Code of Ethics for RNs, Sec. 15 (PDF p. 184)",
+   "quote": "take active roles in primary health care"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Personal & Professional Development",
+   "situation": "",
+   "stem": "Which organization does the Code require Filipino RNs to be members of?",
+   "options": [
+    "Phil. Nurses Assoc.",
+    "Intl. Council of Nurses",
+    "World Health Org.",
+    "American Nurses Assoc."
+   ],
+   "answer": "A",
+   "rationale": "Registered nurses must be members of the Accredited Professional Organization, the PNA.",
+   "explanations": [
+    "Correct.",
+    "Through PNA.",
+    "Not membership.",
+    "US organization."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 8 Code of Ethics for RNs, Sec. 17 (PDF p. 185)",
+   "quote": "Be members of the Accredited Professional Organization (PNA)."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Reporting & Recording",
+   "situation": "",
+   "stem": "Under the Code, patients' records may be released only to:",
+   "options": [
+    "Care team or by law",
+    "Any hospital staff",
+    "Relatives on request",
+    "The media"
+   ],
+   "answer": "A",
+   "rationale": "Records are available only to those professionally and directly involved in care, and when required by law.",
+   "explanations": [
+    "Correct.",
+    "Too broad.",
+    "Needs consent.",
+    "Breach."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 8 Code of Ethics for RNs, Sec. 5 (PDF p. 183)",
+   "quote": "Ensure that patients' records shall be available only if they are to be issued to those who are professionally and directly involved in their care"
+  }
+ ]
+}

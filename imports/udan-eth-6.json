@@ -1,0 +1,533 @@
+{
+ "source": "Udan, Healthcare Ethics (2023)",
+ "questions": [
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "What is the primary goal of research ethics?",
+   "options": [
+    "Protect participants",
+    "Speed up publication",
+    "Lower research costs",
+    "Raise sample size"
+   ],
+   "answer": "A",
+   "rationale": "The first and most important goal is to protect human participants, their dignity, rights and welfare.",
+   "explanations": [
+    "Correct.",
+    "Not the goal.",
+    "Not the goal.",
+    "Not the goal."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Goals of research ethics (PDF p. 114)",
+   "quote": "The primary and most important goal is to protect and safeguard human participants"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "Which body reviews a study to make sure participants' rights and welfare are protected?",
+   "options": [
+    "Research Ethics Committee",
+    "Hospital billing office",
+    "Nursing service office",
+    "Pharmacy committee"
+   ],
+   "answer": "A",
+   "rationale": "The REC/IRB examines research to see that it respects participants' rights, dignity and welfare.",
+   "explanations": [
+    "Correct.",
+    "Not its role.",
+    "Not its role.",
+    "Not its role."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Research ethics (PDF p. 114)",
+   "quote": "The Research Ethics Committee (REC)/Institutional Review Board (IRB) examines the research"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "The Declaration of Helsinki (1964) states that in research, the subject's well-being should take precedence over:",
+   "options": [
+    "Interests of science and society",
+    "The subject's own wishes",
+    "The informed consent",
+    "The sponsor's budget only"
+   ],
+   "answer": "A",
+   "rationale": "Helsinki: considerations of the subject's well-being take precedence over the interests of science and society.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Too narrow."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Nuremberg Code and Helsinki (PDF p. 115)",
+   "quote": "considerations related to the well-being of the human subject should take precedence over the interests of science and socieO'"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Which organization issued the Declaration of Helsinki?",
+   "options": [
+    "World Medical Association",
+    "World Health Organization",
+    "International Council of Nurses",
+    "US National Commission"
+   ],
+   "answer": "A",
+   "rationale": "The World Medical Association adopted the Declaration of Helsinki in 1964, building on the Nuremberg principles.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Belmont Report."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Nuremberg Code and Helsinki (PDF p. 115)",
+   "quote": "The World Medical Association adopted and developed the Nuremberg principles in the Declaration of Helsinki in 1964"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "A researcher lies to participants about the study, though the goal is worthwhile. Under a duty-based approach this research is:",
+   "options": [
+    "Unethical",
+    "Ethical due to its goal",
+    "Ethical if published",
+    "Exempt from review"
+   ],
+   "answer": "A",
+   "rationale": "In the duty-based approach, deceiving participants makes research unethical even if the goal is worthy.",
+   "explanations": [
+    "Correct.",
+    "Goal-based view.",
+    "Not relevant.",
+    "Not exempt."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Ethical approaches in research (PDF p. 116)",
+   "quote": "if the researcher lies to or dæeives the in any manrrr, the research would be considered unethical"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "A nurse researcher changes data so results look significant. This violates:",
+   "options": [
+    "Honesty in research",
+    "Openness",
+    "Responsible mentoring",
+    "Animal care"
+   ],
+   "answer": "A",
+   "rationale": "Honesty requires reporting data and results truthfully; fabrication and falsification are prohibited.",
+   "explanations": [
+    "Correct.",
+    "Sharing data.",
+    "Teaching students.",
+    "Not related."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Principles of research ethics (PDF p. 117)",
+   "quote": "Data fabrication, falsification, or misrepresentation are prohibited."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "A student copies paragraphs from a journal into her thesis without citing them. This is:",
+   "options": [
+    "Plagiarism",
+    "Paraphrasing",
+    "Fair use",
+    "Peer review"
+   ],
+   "answer": "A",
+   "rationale": "Respect for intellectual property requires crediting others; plagiarism is never acceptable.",
+   "explanations": [
+    "Correct.",
+    "Needs own words and citation.",
+    "Not without citation.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Principles of research ethics (PDF p. 118)",
+   "quote": "PlaØarism is never acceptable."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Keeping participants' names off all reports so no one can identify them protects:",
+   "options": [
+    "Anonymity",
+    "Beneficence",
+    "Openness",
+    "Social value"
+   ],
+   "answer": "A",
+   "rationale": "Anonymity means keeping the participant's identity hidden and not disclosing identifying details.",
+   "explanations": [
+    "Correct.",
+    "Maximizing benefit.",
+    "Sharing findings.",
+    "Relevance."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Principles of research ethics (PDF p. 118)",
+   "quote": "It entails keeping the participant's identity hidden."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "A participant holds out her arm for a blood pressure reading without saying anything. This is:",
+   "options": [
+    "Implied consent",
+    "Express consent",
+    "No consent",
+    "Proxy consent"
+   ],
+   "answer": "A",
+   "rationale": "Implied consent is inferred from behavior; express consent is an active oral or written assertion.",
+   "explanations": [
+    "Correct.",
+    "Needs words/writing.",
+    "Behavior shows consent.",
+    "Another person."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Informed consent (PDF p. 120)",
+   "quote": "Implied permission is based on an assumption inferted from behavior, such as the volunteering of an arm"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "Halfway through a study, the procedures change significantly. The researcher must:",
+   "options": [
+    "Renew participants' consent",
+    "Continue without telling",
+    "Stop all data",
+    "Ask only the sponsor"
+   ],
+   "answer": "A",
+   "rationale": "Consent is an ongoing process; if conditions or techniques change significantly, consent must be renewed.",
+   "explanations": [
+    "Correct.",
+    "Violates consent.",
+    "Not required.",
+    "Not enough."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Delivering information (PDF p. 121)",
+   "quote": "If the research's conditions or techniques change siY1ificantly, the consent must be renewed."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "A participant wants to leave a study midway. The researcher should:",
+   "options": [
+    "Allow it without penalty",
+    "Require a reason",
+    "Withhold her benefits",
+    "Ask her to finish first"
+   ],
+   "answer": "A",
+   "rationale": "Participants may withdraw at any time, without giving a reason, penalty or loss of benefits.",
+   "explanations": [
+    "Correct.",
+    "Not required.",
+    "Not allowed.",
+    "Coercive."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Information for participants (PDF p. 123)",
+   "quote": "free to withdraw from the research at any time without having to give any reason, and without penalty"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Prisoners and patients who cannot consent need extra protection in research because they are:",
+   "options": [
+    "Vulnerable",
+    "Unwilling",
+    "Uneducated",
+    "Unreliable"
+   ],
+   "answer": "A",
+   "rationale": "Vulnerability is a significant inability to protect one's own interests; vulnerable groups need special safeguards (CIOMS).",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Justice and vulnerability (PDF p. 121)",
+   "quote": "\"Vulnerability\" refers to a significant inability to safeguard one's own interests"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A study needs to give a placebo without telling participants which group they are in. Before using deception, the researcher must:",
+   "options": [
+    "Get REC approval",
+    "Ask only the sponsor",
+    "Tell no one",
+    "Pay participants more"
+   ],
+   "answer": "A",
+   "rationale": "Deception must be approved by a Research Ethics Committee and defended by the main investigator.",
+   "explanations": [
+    "Correct.",
+    "Not enough.",
+    "Not allowed.",
+    "Not a safeguard."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Deception (PDF p. 122)",
+   "quote": "A Research Ethics Committee must approve this procedure before it can be utilized"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "A study's relevance to a current health problem is called its:",
+   "options": [
+    "Social value",
+    "Risk level",
+    "Sample size",
+    "Funding source"
+   ],
+   "answer": "A",
+   "rationale": "Social value is the study's relevance to a current social or health problem; human participation is justified only by it.",
+   "explanations": [
+    "Correct.",
+    "Different issue.",
+    "Different issue.",
+    "Different issue."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Social value (PDF p. 122)",
+   "quote": "The social value of a study is defined as its relevance to a current social or health problem"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "In research, 'risk' combines the severity of possible harm with its:",
+   "options": [
+    "Probability",
+    "Cost",
+    "Duration only",
+    "Sponsor"
+   ],
+   "answer": "A",
+   "rationale": "Risk has two dimensions: the size or severity of harm and the likelihood that it occurs.",
+   "explanations": [
+    "Correct.",
+    "Not a dimension.",
+    "Not the definition.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Identifying risks (PDF p. 124)",
+   "quote": "(1) the size or severity of the possible harm, and (2) the possibility of that harm occurring"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Which research design is called the 'gold standard' because it reduces bias?",
+   "options": [
+    "Randomized controlled trial",
+    "Case report",
+    "Cross-sectional survey",
+    "Expert opinion"
+   ],
+   "answer": "A",
+   "rationale": "The RCT reduces bias and controls confounding; cohort or case-control designs are used when an RCT is not ethical or feasible.",
+   "explanations": [
+    "Correct.",
+    "Weak evidence.",
+    "No intervention.",
+    "Weakest evidence."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Identifying benefits (PDF p. 125)",
+   "quote": "the randomized controlled clinical trial (RCT) is sometimes referred to as the \"gold standard\" of research"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "Why can't researchers randomly assign non-smokers to start smoking to study harm?",
+   "options": [
+    "It would be unethical",
+    "It costs too much",
+    "Smokers refuse",
+    "Results are certain"
+   ],
+   "answer": "A",
+   "rationale": "Ethical limits rule out such RCTs; cohort or case-control designs are used instead.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not true."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Identifying benefits (PDF p. 125)",
+   "quote": "could not ethically conduct a study in which non-smokers were invited to start smoking"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Some argue an underpowered study is unethical because:",
+   "options": [
+    "Results lack power",
+    "It takes too long",
+    "It costs too much",
+    "It uses an RCT"
+   ],
+   "answer": "A",
+   "rationale": "Studies with too small samples may lack statistical power, so they expose participants to risk with little value.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Identifying benefits (PDF p. 125)",
+   "quote": "Some argue that underpowered experiments are intrinsically unethical because they have no potential value."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Storing research data with codes kept separate from names is a way to:",
+   "options": [
+    "Protect confidentiality",
+    "Increase sample size",
+    "Speed up analysis",
+    "Avoid consent"
+   ],
+   "answer": "A",
+   "rationale": "Ways to minimize risk include storing data so it cannot be linked to individuals and keeping key codes separate.",
+   "explanations": [
+    "Correct.",
+    "Not related.",
+    "Not the aim.",
+    "Consent still needed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Ways to minimize risk (PDF p. 129)",
+   "quote": "limit access to key codes and store it separately from the data"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "An anonymous survey with no identifiers usually qualifies for which REC review level?",
+   "options": [
+    "Exempt",
+    "Expedited",
+    "Full board",
+    "No review needed"
+   ],
+   "answer": "A",
+   "rationale": "Exempt review covers least-risk studies such as anonymous surveys; it still needs REC approval and registration.",
+   "explanations": [
+    "Correct.",
+    "Has identifiers.",
+    "Higher risk.",
+    "Still registered."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Levels of REC review (PDF p. 130)",
+   "quote": "Despite the term \"exempt,\" this type ofrescarch still requires REC/IRB approval and registration."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "Collecting saliva samples with names attached is usually reviewed as:",
+   "options": [
+    "Expedited review",
+    "Exempt review",
+    "No review",
+    "Emergency review"
+   ],
+   "answer": "A",
+   "rationale": "Minimal-risk studies collecting identified data or noninvasive specimens qualify for expedited review.",
+   "explanations": [
+    "Correct.",
+    "Has identifiers.",
+    "Review required.",
+    "Not a category."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 4 Levels of REC review (PDF p. 130)",
+   "quote": "Collection Of biological specimens (e.g., hair, saliva) for research by noninvasive means"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "When family members disagree about an incompetent patient's care, the nurse's first responsibility is to:",
+   "options": [
+    "Advocate for the patient",
+    "Side with the spouse",
+    "Side with the parents",
+    "Stay out of it"
+   ],
+   "answer": "A",
+   "rationale": "The nurse's primary responsibility is to the patient, advocating for her after understanding the conflict.",
+   "explanations": [
+    "Correct.",
+    "Not the priority.",
+    "Not the priority.",
+    "Abandons advocacy."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Case: end-of-life care and role of nurses (PDF p. 111)",
+   "quote": "The nurse's first and foremost responsibility is towards the primary patient"
+  }
+ ]
+}

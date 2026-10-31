@@ -1,0 +1,509 @@
+{
+ "source": "Udan, Healthcare Ethics (2023)",
+ "questions": [
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Giving a lethal injection to end a patient's suffering is:",
+   "options": [
+    "Active euthanasia",
+    "Passive euthanasia",
+    "Palliative sedation",
+    "Orthothanasia"
+   ],
+   "answer": "A",
+   "rationale": "Active euthanasia kills by active means, e.g., a lethal drug dose; passive euthanasia withholds life support.",
+   "explanations": [
+    "Correct.",
+    "Withholding support.",
+    "Intent is comfort.",
+    "Dying well."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Types of euthanasia (PDF p. 97)",
+   "quote": "Active euthanasia: killing a patient by active means"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A doctor gives a patient pills so the patient can end his own life. This is:",
+   "options": [
+    "Physician-assisted suicide",
+    "Passive euthanasia",
+    "Mercy-killing",
+    "Dysthanasia"
+   ],
+   "answer": "A",
+   "rationale": "In physician-assisted suicide, the physician provides the means and the patient administers it.",
+   "explanations": [
+    "Correct.",
+    "Withholding support.",
+    "Other-administered.",
+    "Prolonging death."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Types of euthanasia (PDF p. 97)",
+   "quote": "A physician provides the patient with a means, such as sufficient medication, for the patient to kill him or herself."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A dying patient is kept on machines with no regard for quality of life, only extending dying. This is:",
+   "options": [
+    "Dysthanasia",
+    "Orthothanasia",
+    "Euthanasia",
+    "Misthanasia"
+   ],
+   "answer": "A",
+   "rationale": "Dysthanasia extends the dying process through technology without regard to quality of life.",
+   "explanations": [
+    "Correct.",
+    "Dying well.",
+    "Hastening death.",
+    "Miserable death."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Dysthanasia (PDF p. 98)",
+   "quote": "has their biological life extended through technological means without regard to the person's quality of life"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A poor patient dies early in pain because treatable care was not available. This is called:",
+   "options": [
+    "Misthanasia",
+    "Orthothanasia",
+    "Dysthanasia",
+    "Euthanasia"
+   ],
+   "answer": "A",
+   "rationale": "Misthanasia (miserable death) includes deaths from lack of care, malpractice or abandonment.",
+   "explanations": [
+    "Correct.",
+    "Dying well.",
+    "Over-treatment.",
+    "Intended death."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Misthanasia (PDF p. 98)",
+   "quote": "Social euthanasia, or misthanasia (miserable death)"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Which approach helps a terminal patient die well, avoiding both hastening and prolonging death?",
+   "options": [
+    "Orthothanasia",
+    "Dysthanasia",
+    "Euthanasia",
+    "Misthanasia"
+   ],
+   "answer": "A",
+   "rationale": "Orthothanasia, the art of dying well, rejects euthanasia and dysthanasia and focuses on caring.",
+   "explanations": [
+    "Correct.",
+    "Prolongs dying.",
+    "Hastens death.",
+    "Neglect."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Orthothanasia (PDF p. 98)",
+   "quote": "Orthothanagia (art Of dying well) rejects all forms Of misthanasia without, however, falling into the trap of euthanasia or dysthanasia."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A terminally ill patient stops a painful treatment because the suffering is intolerable. Ethically, this is:",
+   "options": [
+    "Not suicide",
+    "Active suicide",
+    "Euthanasia",
+    "Murder"
+   ],
+   "answer": "A",
+   "rationale": "Refusing intolerable treatment intends the end of suffering, not death, so it is not regarded as suicide.",
+   "explanations": [
+    "Correct.",
+    "Not intended death.",
+    "No killing act.",
+    "No killing act."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Ethics of the patient (PDF p. 98)",
+   "quote": "we view refusing treatment not a suicide by common sense or practical wisdom standards"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Treatment of a terminal patient's disease is stopped with consent. What must continue?",
+   "options": [
+    "Basic care and comfort",
+    "Aggressive treatment",
+    "Nothing at all",
+    "Daily lab tests"
+   ],
+   "answer": "A",
+   "rationale": "It may be ethical to omit treatment, but never to omit care; dignity must be respected.",
+   "explanations": [
+    "Correct.",
+    "Stopped.",
+    "Abandonment.",
+    "Not needed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Cooperation with refusal (PDF p. 100)",
+   "quote": "But it is not ethical to omit care, since human dignity is to be respected."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Staff do a deliberately slow, half-hearted resuscitation to satisfy a family. This 'slow code' is:",
+   "options": [
+    "Deceptive and unethical",
+    "A valid partial code",
+    "Required by law",
+    "Good practice"
+   ],
+   "answer": "A",
+   "rationale": "The slow code deceives families and avoids public responsibility; decisions belong in a written order.",
+   "explanations": [
+    "Correct.",
+    "Must be written.",
+    "Not law.",
+    "Unethical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 The no-code order (PDF p. 102)",
+   "quote": "the deception involved should be condemned"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Documentation in Psychiatric Nursing",
+   "situation": "",
+   "stem": "A do-not-resuscitate order is valid when it is:",
+   "options": [
+    "Written and justified in the chart",
+    "Verbal from a relative",
+    "Assumed by the nurse",
+    "Written on a sticky note"
+   ],
+   "answer": "A",
+   "rationale": "A no-code order is a written order for which the physician accepts responsibility, justified on the chart.",
+   "explanations": [
+    "Correct.",
+    "Not valid.",
+    "Not valid.",
+    "Not part of record."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 The no-code order (PDF p. 102)",
+   "quote": "this is a %Titten order for which the physician accepts public responsibility and that should be medially justified on the chart"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "An order says 'chest compressions yes, intubation no.' This is a:",
+   "options": [
+    "Partial code",
+    "Full code",
+    "Slow code",
+    "No code"
+   ],
+   "answer": "A",
+   "rationale": "A partial code is a written order to omit some interventions and use others, with reasons charted.",
+   "explanations": [
+    "Correct.",
+    "All measures.",
+    "Deceptive.",
+    "No resuscitation."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Partial code (PDF p. 102)",
+   "quote": "The partial ode is a written order to omit some medical interventions, but to employ others."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A dying patient's visiting hours are limited. What does humanly intensive care call for?",
+   "options": [
+    "Remove visiting limits",
+    "Keep strict hours",
+    "Bar children always",
+    "Limit family calls"
+   ],
+   "answer": "A",
+   "rationale": "As death nears, limits on visits should be removed; even prepared children may visit to say goodbye.",
+   "explanations": [
+    "Correct.",
+    "Not supportive.",
+    "Children may visit.",
+    "Not supportive."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Care for the dying (PDF p. 103)",
+   "quote": "Limits on visits should be removed."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A terminal cancer patient says his pain is 8/10 but is lying still. The nurse should:",
+   "options": [
+    "Believe him and give analgesia",
+    "Wait for grimacing",
+    "Suspect drug-seeking",
+    "Give a placebo"
+   ],
+   "answer": "A",
+   "rationale": "The patient's own report is what matters; waiting for 'objective' signs leaves pain untreated.",
+   "explanations": [
+    "Correct.",
+    "Undertreats.",
+    "Biased.",
+    "Unethical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Pain control (PDF p. 103)",
+   "quote": "when the patient says he is in pain, his judgnent should be the one that matters"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A family fears their dying father will become addicted to morphine. The nurse explains that:",
+   "options": [
+    "Rarely, if used for pain",
+    "He must stop it now",
+    "Addiction is certain",
+    "Pain is safer than it"
+   ],
+   "answer": "A",
+   "rationale": "Narcotics used properly for pain are not addictive; dependence reflects persistent pain.",
+   "explanations": [
+    "Correct.",
+    "Unneeded suffering.",
+    "Myth.",
+    "Not ethical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Pain control (PDF p. 103)",
+   "quote": "even powerful narcotics like morphine are not addictive when used properly to treat pain"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Morphine is given to relieve a dying patient's pain, though it may depress breathing. This is justified by:",
+   "options": [
+    "Double effect",
+    "Euthanasia",
+    "Paternalism",
+    "Utilitarianism"
+   ],
+   "answer": "A",
+   "rationale": "Under double effect, the intended effect is pain relief; possible respiratory depression is foreseen, not intended.",
+   "explanations": [
+    "Correct.",
+    "Intent differs.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Hastening death (PDF p. 106)",
+   "quote": "the nurse or clinician should always consider what the intended effect of the intervention is"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "How does palliative sedation differ from euthanasia?",
+   "options": [
+    "Its intent is relief, not death",
+    "It always causes death",
+    "It needs no consent",
+    "It is done early in illness"
+   ],
+   "answer": "A",
+   "rationale": "Palliative sedation aims to relieve refractory suffering; euthanasia intends to cause death.",
+   "explanations": [
+    "Correct.",
+    "Not the intent.",
+    "Consent needed.",
+    "Death is imminent."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Palliative sedation (PDF p. 107)",
+   "quote": "The intent is not to hasten denth but to relieve suffering that cannot be relieved by any other available method."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Which is a criterion for palliative sedation?",
+   "options": [
+    "Death is expected in hours to days",
+    "Patient has mild pain",
+    "Patient is newly diagnosed",
+    "Family wants faster death"
+   ],
+   "answer": "A",
+   "rationale": "Criteria: terminal illness, intolerable refractory symptoms, DNR in effect, and death imminent (hours to days).",
+   "explanations": [
+    "Correct.",
+    "Not refractory.",
+    "Not terminal phase.",
+    "Not a criterion."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Criteria for palliative sedation (PDF p. 107)",
+   "quote": "Death is imminent (hours to days)"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A patient asks the nurse to help him end his life with an overdose. The nurse should:",
+   "options": [
+    "Decline and address his suffering",
+    "Prepare the overdose",
+    "Ignore the request",
+    "Tell him to ask a relative"
+   ],
+   "answer": "A",
+   "rationale": "Nursing ethics codes prohibit involvement in assisted dying; the nurse explores and relieves suffering.",
+   "explanations": [
+    "Correct.",
+    "Prohibited.",
+    "Not therapeutic.",
+    "Still assisting."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Assisted dying (PDF p. 107)",
+   "quote": "The vast rnnjority of ethical codes from the main nurses' organizations prohibit the involvement or a nurse in the assisted dying of patients."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Collaboration & Teamwork",
+   "situation": "",
+   "stem": "What is the role of a hospital ethics committee?",
+   "options": [
+    "Educate, set policy, and advise",
+    "Make binding court rulings",
+    "Replace the physician",
+    "Punish staff"
+   ],
+   "answer": "A",
+   "rationale": "Ethics committees educate, develop policies and act as advisory consultants; their advice is not legally binding.",
+   "explanations": [
+    "Correct.",
+    "Not a court.",
+    "Advisory only.",
+    "Not its role."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Ethics committees (PDF p. 108)",
+   "quote": "Third, they are to act as advisory consultants to health care providers and possibly families"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Collaboration & Teamwork",
+   "situation": "",
+   "stem": "Is a physician legally required to follow an ethics committee's recommendation?",
+   "options": [
+    "No, it is advisory",
+    "Yes, always",
+    "Only for minors",
+    "Only if written"
+   ],
+   "answer": "A",
+   "rationale": "There is no legal duty to follow ethics committee recommendations; they do not replace judicial review.",
+   "explanations": [
+    "Correct.",
+    "Not binding.",
+    "Not binding.",
+    "Not binding."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Ethics committees (PDF p. 109)",
+   "quote": "There is no legal duty to follow the recommendations of an ethics committee."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "As a patient nears death, the family should be treated as:",
+   "options": [
+    "Secondary patients",
+    "Visitors only",
+    "Decision-makers only",
+    "Outsiders"
+   ],
+   "answer": "A",
+   "rationale": "Family members become secondary patients who need information and emotional support.",
+   "explanations": [
+    "Correct.",
+    "Needs more.",
+    "Needs support too.",
+    "Not appropriate."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 The family in death and dying (PDF p. 109)",
+   "quote": "At a certain point in the dying process, the family members become secondary patients"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A competent, non-terminal patient refuses a medically indicated treatment. Who may overrule him?",
+   "options": [
+    "Only a court",
+    "The physician",
+    "The nurse",
+    "His employer"
+   ],
+   "answer": "A",
+   "rationale": "The competent patient keeps the right to refuse; only a court order or court-appointed guardian can overrule.",
+   "explanations": [
+    "Correct.",
+    "No authority.",
+    "No authority.",
+    "No authority."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 3.2 Refusal by a nonterminal patient (PDF p. 101)",
+   "quote": "Only a court order or a court-appointed guardian has the right to overrule the patient in these cases."
+  }
+ ]
+}

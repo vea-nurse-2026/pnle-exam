@@ -1,0 +1,485 @@
+{
+ "source": "Udan, Healthcare Ethics (2023)",
+ "questions": [
+  {
+   "subject": "NP IV",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Under the principle of well-formed conscience, a nurse facing an ethical question must first:",
+   "options": [
+    "Learn facts and norms",
+    "Follow her feelings",
+    "Ask the majority",
+    "Act right away"
+   ],
+   "answer": "A",
+   "rationale": "Inform oneself fully of facts and norms, form a morally certain judgment, act on it and accept responsibility.",
+   "explanations": [
+    "Correct.",
+    "Not the basis.",
+    "Not the basis.",
+    "Not first."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 6 Principle of well-formed conscience (PDF p. 154)",
+   "quote": "Informed themselves as fully as practically possible about the facts and the ethical norms"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Personal & Professional Development",
+   "situation": "",
+   "stem": "A nurse repeatedly cannot give the care her conscience demands because of heavy workload, and feels guilty. This is:",
+   "options": [
+    "Stress of conscience",
+    "Callous conscience",
+    "Moral sensitivity",
+    "Lax conscience"
+   ],
+   "answer": "A",
+   "rationale": "Stress of conscience arises from repeated situations that trouble the conscience and is linked to burnout.",
+   "explanations": [
+    "Correct.",
+    "No sensitivity.",
+    "Recognition only.",
+    "Careless."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 6 Conscience formation (PDF p. 154)",
+   "quote": "Stress of conscience is that type of stress that can arise for nurses when they repeatedly experience stressful situations that trouble their conscience."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "A patient sees sin in every small act even when there is none. This type of conscience is:",
+   "options": [
+    "Scrupulous",
+    "Lax",
+    "Callous",
+    "Pharisaical"
+   ],
+   "answer": "A",
+   "rationale": "A scrupulous conscience judges sin to be present when there is none.",
+   "explanations": [
+    "Correct.",
+    "Careless.",
+    "No sensitivity.",
+    "Judges others."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 6 Qualities of conscience (PDF p. 155)",
+   "quote": "Scrupulous tends to judge sin to be present when there is none."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Which type of conscience is considered the worst because it has no sensitivity to wrongdoing?",
+   "options": [
+    "Callous",
+    "Scrupulous",
+    "Strict",
+    "Certain"
+   ],
+   "answer": "A",
+   "rationale": "A callous conscience is the worst type, with no sensitivity to sin.",
+   "explanations": [
+    "Correct.",
+    "Over-sensitive.",
+    "Follows rules.",
+    "Sure judgment."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 6 Qualities of conscience (PDF p. 155)",
+   "quote": "Callous worst type — no sensitivity to sin."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A person who feels it is wrong to act and also wrong not to act has a(n):",
+   "options": [
+    "Perplexed conscience",
+    "Certain conscience",
+    "Lax conscience",
+    "Probable conscience"
+   ],
+   "answer": "A",
+   "rationale": "Perplexed: wrong if you do, wrong if you don't.",
+   "explanations": [
+    "Correct.",
+    "Sure.",
+    "Careless.",
+    "Decided but unsure."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 6 Degree of certitude (PDF p. 155)",
+   "quote": "Perplexed wrong if you d01ft do; wrong if you did."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A nurse sees a moral problem but is unsure what the right action is. This is:",
+   "options": [
+    "Moral uncertainty",
+    "Moral outrage",
+    "Moral distress",
+    "Callousness"
+   ],
+   "answer": "A",
+   "rationale": "Moral uncertainty: the nurse identifies a moral problem but is unsure of the morally correct action.",
+   "explanations": [
+    "Correct.",
+    "Someone else's immoral act.",
+    "Knows but is blocked.",
+    "No sensitivity."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 6 Moral distress (PDF p. 156)",
+   "quote": "moral uncertainty which occur when the nurse identifies a moral problem but is unsure of the morally correct action"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A nurse is angered when a colleague performs an act she believes is immoral. This is:",
+   "options": [
+    "Moral outrage",
+    "Moral uncertainty",
+    "Moral sensitivity",
+    "Stress of conscience"
+   ],
+   "answer": "A",
+   "rationale": "Moral outrage occurs when someone else in the setting performs an act the nurse believes to be immoral.",
+   "explanations": [
+    "Correct.",
+    "Unsure of action.",
+    "Recognition only.",
+    "Own repeated stress."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 6 Moral distress (PDF p. 156)",
+   "quote": "Occurs when someone else in the health care setting performs an act the nurse believes to be immoral."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Collaboration & Teamwork",
+   "situation": "",
+   "stem": "A nurse refuses to help a colleague and criticizes her work without reason. Nurse managers classify this as:",
+   "options": [
+    "Lack of collegial behavior",
+    "Moral outrage",
+    "Shared governance",
+    "Advocacy"
+   ],
+   "answer": "A",
+   "rationale": "Lack of collegial behavior includes denying help, unjust criticism and not trusting colleagues' work.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 6 Ethical problems of nurse managers (PDF p. 157)",
+   "quote": "criticizing colleagues without good reason, denying help to a colleague"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Value-based health care measures value as:",
+   "options": [
+    "Outcomes achieved for the cost",
+    "Lowest cost only",
+    "Number of procedures",
+    "Hospital revenue"
+   ],
+   "answer": "A",
+   "rationale": "Value is the improvement in patient outcomes relative to the cost; cost-cutting alone is not value.",
+   "explanations": [
+    "Correct.",
+    "Insufficient.",
+    "Not value.",
+    "Not value."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 6 Meaning and service value of care (PDF p. 158)",
+   "quote": "The value that underlies the implementation Of medical care can be measured by the improvement of patients' outcomes for the cost"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A standard day-by-day plan of treatment and nursing care for common dengue cases is a:",
+   "options": [
+    "Clinical pathway",
+    "Care plan for one patient",
+    "Incident report",
+    "Kardex only"
+   ],
+   "answer": "A",
+   "rationale": "Clinical pathways document a planned multidisciplinary approach for common problems to achieve cost-effective care.",
+   "explanations": [
+    "Correct.",
+    "Individual only.",
+    "Different purpose.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 6 Allocation of resources (PDF p. 159)",
+   "quote": "a clinical pathway where the day to day list of medical treatment, diagnostic procedures, laboratory work-ups and nursing care needed are placed"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "In value-based care, a patient's ability to live normally while getting care is called:",
+   "options": [
+    "Calm",
+    "Capability",
+    "Comfort",
+    "Coverage"
+   ],
+   "answer": "A",
+   "rationale": "Outcomes: capability (doing what defines them), comfort (relief of suffering), calm (living normally during care).",
+   "explanations": [
+    "Correct.",
+    "Function.",
+    "Relief.",
+    "Access element."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 6 Value-based health care (PDF p. 159)",
+   "quote": "Calm is the ability to live normally while getting care."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Under the UHC Act, who finances individual-based health services?",
+   "options": [
+    "PhilHealth",
+    "DOH",
+    "LGUs",
+    "DSWD"
+   ],
+   "answer": "A",
+   "rationale": "DOH and LGUs handle population-based services; PhilHealth finances individual-based services.",
+   "explanations": [
+    "Correct.",
+    "Population-based.",
+    "Population-based.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 6 Issues on access to care (PDF p. 160)",
+   "quote": "PhilHealth will be responsible for financing individual-based health services"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Under the UHC Act, how long must health scholarship graduates render return service?",
+   "options": [
+    "3 years",
+    "1 year",
+    "6 months",
+    "10 years"
+   ],
+   "answer": "A",
+   "rationale": "Scholars render at least three years of compensated return service under DOH supervision, with incentives for 2 more years.",
+   "explanations": [
+    "Correct.",
+    "Too short.",
+    "Too short.",
+    "Too long."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 6 Issues on access to care (PDF p. 160)",
+   "quote": "graduates will be required by law to render at least three years of return service with compensation"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Under the UHC Act, health workers are prioritized for deployment to:",
+   "options": [
+    "GIDAs",
+    "Private hospitals",
+    "Metro Manila only",
+    "Abroad"
+   ],
+   "answer": "A",
+   "rationale": "The national health workforce support system prioritizes deployment to Geographically Isolated and Disadvantaged Areas.",
+   "explanations": [
+    "Correct.",
+    "Not priority.",
+    "Not priority.",
+    "Not priority."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 6 Issues on access to care (PDF p. 160)",
+   "quote": "prioritizing deployment in the Geographically Isolated and Disadvantaged Areas (GIDAs)"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Reporting & Recording",
+   "situation": "",
+   "stem": "Which agency implements the Data Privacy Act?",
+   "options": [
+    "Privacy Commission",
+    "Info Tech Dept.",
+    "PhilHealth Board",
+    "Regulation Comm."
+   ],
+   "answer": "A",
+   "rationale": "The National Privacy Commission is the independent body that administers and implements the DPA.",
+   "explanations": [
+    "Correct.",
+    "Not the regulator.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 7 Data Privacy Act (PDF p. 164)",
+   "quote": "The National Privacy Commission (NPC) is the country's privacy watchdog"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Reporting & Recording",
+   "situation": "",
+   "stem": "A hospital posts how it collects and uses patient data. Does this posting equal patient consent?",
+   "options": [
+    "No; a notice only informs",
+    "Yes, always",
+    "Yes, if signed by staff",
+    "Only for minors"
+   ],
+   "answer": "A",
+   "rationale": "A privacy notice informs; consent is the data subject's own indication of will to the processing.",
+   "explanations": [
+    "Correct.",
+    "Not consent.",
+    "Not consent.",
+    "Not relevant."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 7 Privacy notice (PDF p. 165)",
+   "quote": "availability and accessibility ofa privacy notice is not equivalent to obtaining consent of a data subject"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Reporting & Recording",
+   "situation": "",
+   "stem": "Access to patients' health data should be granted on what basis?",
+   "options": [
+    "Need-to-know",
+    "Seniority",
+    "Friendship",
+    "Curiosity"
+   ],
+   "answer": "A",
+   "rationale": "Only health team members needing the data for their tasks get minimum essential access.",
+   "explanations": [
+    "Correct.",
+    "Not a basis.",
+    "Not a basis.",
+    "Not a basis."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 7 Collecting and accessing data (PDF p. 166)",
+   "quote": "Access to health data must be granted solely on a \"need-to-know\" basis"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "During an outbreak, a barangay official wants to post the names of infected patients. The nurse should explain that:",
+   "options": [
+    "Names aren't needed",
+    "Posting is required",
+    "Names stop spread",
+    "Allowed if asked"
+   ],
+   "answer": "A",
+   "rationale": "Contact tracing does not require public disclosure; unbridled disclosure has caused assault, harassment and discrimination.",
+   "explanations": [
+    "Correct.",
+    "Not required.",
+    "Causes harm.",
+    "Still harmful."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 7 Data privacy and COVID-19 (PDF p. 167)",
+   "quote": "Contact tracing does not require public disclosure of identities of COVID-19 patients."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Reporting & Recording",
+   "situation": "",
+   "stem": "Which three principles govern data sharing under the Data Privacy Act?",
+   "options": [
+    "Transparency, purpose, proportion",
+    "Speed, cost, volume",
+    "Secrecy, profit, power",
+    "Justice, fidelity, beneficence"
+   ],
+   "answer": "A",
+   "rationale": "The general data privacy principles are transparency, legitimate purpose and proportionality.",
+   "explanations": [
+    "Correct.",
+    "Not these.",
+    "Not these.",
+    "Bioethics principles."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 7 Sharing COVID-19 patient data (PDF p. 167)",
+   "quote": "transparency, legitimate purpose, and proportionality"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Reporting & Recording",
+   "situation": "",
+   "stem": "Building data protection into a contact-tracing app from the start is called:",
+   "options": [
+    "Privacy by design",
+    "Privacy notice",
+    "Data sharing agreement",
+    "Data breach"
+   ],
+   "answer": "A",
+   "rationale": "Privacy by design makes protection of data subjects' rights integral to the system, not an add-on.",
+   "explanations": [
+    "Correct.",
+    "Informing only.",
+    "Contract.",
+    "Incident."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 7 Contact tracing (PDF p. 167)",
+   "quote": "This is called privacy by-design."
+  }
+ ]
+}
