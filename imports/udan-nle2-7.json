@@ -1,0 +1,917 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Which nutrient stays longest in the stomach?",
+   "options": [
+    "Fats",
+    "Carbohydrates",
+    "Proteins",
+    "Water"
+   ],
+   "answer": "A",
+   "rationale": "Carbohydrates leave in 1–2 hours, proteins 3–4 hours, fats 4–6 hours.",
+   "explanations": [
+    "Correct.",
+    "Fastest.",
+    "Middle.",
+    "Fast."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Process of digestion (PDF p. 167)",
+   "quote": "Fats remain in the stomach for 4 to 6 hours"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Why do newborns receive vitamin K injection at birth?",
+   "options": [
+    "No colonic bacteria yet",
+    "They lack bile",
+    "Breast milk is rich in it",
+    "To prevent jaundice"
+   ],
+   "answer": "A",
+   "rationale": "Vitamin K absorption needs bile and colonic bacteria; newborns lack colonic flora, so an injection prevents bleeding.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "It is low in K.",
+    "Not the purpose."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Large intestines (PDF p. 168)",
+   "quote": "Newbom no colonic bacteria Vit. K injection is needed to prevent bleeding"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Bulky, fatty, foul-smelling stools (steatorrhea) occur in biliary obstruction because:",
+   "options": [
+    "Bile cannot emulsify fats",
+    "Protein is not digested",
+    "Too much bile is released",
+    "Carbohydrates ferment"
+   ],
+   "answer": "A",
+   "rationale": "Without bile, fats are not emulsified and pancreatic lipase cannot complete fat digestion.",
+   "explanations": [
+    "Correct.",
+    "Not the cause.",
+    "Opposite.",
+    "Not the cause."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Process of digestion (PDF p. 168)",
+   "quote": "In biliary obstruction, fats in not emulsified by bile Pancreatic lipase cannot complete digestion of fats."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Before a stool occult blood (guaiac) test, the client should avoid:",
+   "options": [
+    "Red meat and NSAIDs",
+    "Rice and bread",
+    "Water",
+    "Fruits and vegetables"
+   ],
+   "answer": "A",
+   "rationale": "Red meat, iron, steroids and NSAIDs can cause false or inaccurate results.",
+   "explanations": [
+    "Correct.",
+    "Not affected.",
+    "Fine.",
+    "Encouraged."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Fecal analysis (PDF p. 169)",
+   "quote": "No red meats, poultry. Hemoglobin fibers may be mistaken as blood."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Aling Rosa's child has suspected intestinal worms. How should the nurse send the stool sample for ova and parasites?",
+   "options": [
+    "Send fresh and warm",
+    "Refrigerate overnight",
+    "Freeze it",
+    "Mix with water"
+   ],
+   "answer": "A",
+   "rationale": "Send a fresh, warm specimen promptly so parasites remain detectable.",
+   "explanations": [
+    "Correct.",
+    "Parasites die.",
+    "Not this.",
+    "Dilutes."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Fecal analysis (PDF p. 169)",
+   "quote": "Stool for Ova and Parasites: Send fresh, warm stool specimen."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "After a barium swallow, the nurse tells the client:",
+   "options": [
+    "White stools; take laxative",
+    "Stools will be black",
+    "Avoid all fluids",
+    "Stay NPO for 2 days"
+   ],
+   "answer": "A",
+   "rationale": "Barium causes constipation and white stools for 24–72 hours; give laxative and fluids.",
+   "explanations": [
+    "Correct.",
+    "Not barium.",
+    "Increase fluids.",
+    "Not needed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Upper GI series (PDF p. 170)",
+   "quote": "Inform client that stools will be white for 24 —72 hours."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "After upper GI endoscopy, which finding suggests perforation?",
+   "options": [
+    "Neck crepitus and fever",
+    "Mild sore throat",
+    "Drowsiness",
+    "Burping"
+   ],
+   "answer": "A",
+   "rationale": "Watch for bleeding, crepitus, fever and dyspnea; sore throat is expected.",
+   "explanations": [
+    "Correct.",
+    "Expected.",
+    "From sedation.",
+    "Expected."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 UGI endoscopy (PDF p. 171)",
+   "quote": "Assess: bleeding, crepitus, fever, dyspnea."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "During colonoscopy, the client is usually positioned:",
+   "options": [
+    "Left side, knees flexed",
+    "Prone",
+    "Right side, legs straight",
+    "Supine, legs raised"
+   ],
+   "answer": "A",
+   "rationale": "Left lateral with knees flexed eases scope insertion along the colon's anatomy.",
+   "explanations": [
+    "Correct.",
+    "Not used.",
+    "Not used.",
+    "Not used."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Colonoscopy (PDF p. 172)",
+   "quote": "Position: left side, knccs flexed."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "What is the most accurate way to confirm NGT placement?",
+   "options": [
+    "Chest/abdominal X-ray",
+    "Air auscultation",
+    "Placing the tip in water",
+    "Asking the client"
+   ],
+   "answer": "A",
+   "rationale": "X-ray is most accurate; gastric aspirate pH ≤4–5 also supports placement. Never place the tube end in water.",
+   "explanations": [
+    "Correct.",
+    "Unreliable.",
+    "Aspiration risk.",
+    "Unreliable."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 NGT insertion (PDF p. 173)",
+   "quote": "X-ray (most accurate)"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "How is NGT insertion length measured?",
+   "options": [
+    "Nose to earlobe to xiphoid",
+    "Mouth to navel",
+    "Nose to chin",
+    "Ear to shoulder"
+   ],
+   "answer": "A",
+   "rationale": "Measure from tip of nose to earlobe to xiphoid (NEX), with the client in high Fowler's.",
+   "explanations": [
+    "Correct.",
+    "Not standard.",
+    "Too short.",
+    "Not used."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 NGT insertion (PDF p. 173)",
+   "quote": "(tip of the Nose to the tip of the Ear lobe to the Xiphoid process)"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "During and after tube feeding, the client is kept:",
+   "options": [
+    "Semi- to high Fowler's",
+    "Flat supine",
+    "Prone",
+    "Trendelenburg"
+   ],
+   "answer": "A",
+   "rationale": "Elevating the head during and 30–60 minutes after feeding prevents reflux and aspiration.",
+   "explanations": [
+    "Correct.",
+    "Aspiration risk.",
+    "Not practical.",
+    "Aspiration risk."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Enteral feeding (PDF p. 173)",
+   "quote": "client should be placed in semi- to high — Fowler's position. To prevent gastric reflux and aspiration."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Tube feeding formula should be given at what temperature?",
+   "options": [
+    "Room temperature",
+    "Straight from the refrigerator",
+    "Hot",
+    "Frozen slush"
+   ],
+   "answer": "A",
+   "rationale": "Cold formula causes cramping and discomfort; give at room temperature.",
+   "explanations": [
+    "Correct.",
+    "Cramps.",
+    "Burns mucosa.",
+    "Not given."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Enteral feeding (PDF p. 173)",
+   "quote": "lhe feeding formula should be at room temperature."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A TPN infusion fell 2 hours behind. The nurse should:",
+   "options": [
+    "Keep the rate and notify the doctor",
+    "Speed it up to catch up",
+    "Stop it for the day",
+    "Switch to plain saline"
+   ],
+   "answer": "A",
+   "rationale": "Never 'catch up' TPN; rapid infusion causes hyperglycemia and fluid shifts. Notify for recalculation.",
+   "explanations": [
+    "Correct.",
+    "Dangerous.",
+    "Hypoglycemia risk.",
+    "Not appropriate."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 TPN (PDF p. 175)",
+   "quote": "If infusion is delayed, do not \"catch up.\" Notify physician for recalculation of infusion rate."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "If a TPN bag runs out and the next is not ready, the nurse hangs:",
+   "options": [
+    "D10W",
+    "Normal saline",
+    "Lactated Ringer's",
+    "Sterile water"
+   ],
+   "answer": "A",
+   "rationale": "D10W prevents rebound hypoglycemia when hypertonic TPN is interrupted.",
+   "explanations": [
+    "Correct.",
+    "No glucose.",
+    "No glucose.",
+    "Hemolysis."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 TPN (PDF p. 175)",
+   "quote": "If TPN administration is interrupted or discontinued, administer DIOW to prevent hypoglycemia."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "What is the most common complication of TPN?",
+   "options": [
+    "Catheter infection",
+    "Hypertension",
+    "Constipation",
+    "Bradycardia"
+   ],
+   "answer": "A",
+   "rationale": "Infection is the most common complication; use strict asepsis and change tubing every 24 hours.",
+   "explanations": [
+    "Correct.",
+    "Not common.",
+    "Not common.",
+    "Not common."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 TPN (PDF p. 175)",
+   "quote": "Infection is the most common complication of TPN."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Equipment for High-Acuity & Emergency Care",
+   "situation": "",
+   "stem": "A client has a Sengstaken-Blakemore tube for bleeding varices. Which item must be at the bedside?",
+   "options": [
+    "Scissors",
+    "Tongue depressor",
+    "Ice pack",
+    "Suction catheter only"
+   ],
+   "answer": "A",
+   "rationale": "If the gastric balloon ruptures and the tube rises, cut the tube to relieve airway obstruction.",
+   "explanations": [
+    "Correct.",
+    "Not needed.",
+    "Not needed.",
+    "Not enough."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Esophageal balloon tamponade (PDF p. 173)",
+   "quote": "Keep a pair of scissors readily available, as an emergency equipment."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Which teaching helps a client with hiatal hernia and reflux?",
+   "options": [
+    "Avoid eating 3 hours before bed",
+    "Lie down after meals",
+    "Wear tight belts",
+    "Drink cola with meals"
+   ],
+   "answer": "A",
+   "rationale": "Avoid late meals, stay upright after eating, elevate the head of bed and avoid foods that lower LES pressure.",
+   "explanations": [
+    "Correct.",
+    "Worsens reflux.",
+    "Raises pressure.",
+    "Lowers LES pressure."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Hiatal hernia (PDF p. 177)",
+   "quote": "Instruct the client to avoid eating at least 3 hours before bedtime."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Which ulcer pain pattern suggests a duodenal ulcer?",
+   "options": [
+    "2–4 hours after meals, relieved by food",
+    "Right after eating, worse with food",
+    "Only with exercise",
+    "Constant and unrelieved"
+   ],
+   "answer": "A",
+   "rationale": "Duodenal pain comes 2–4 hours after meals and at night, eased by food; gastric pain comes soon after eating.",
+   "explanations": [
+    "Correct.",
+    "Gastric.",
+    "Not ulcer.",
+    "Not typical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Gastric vs. duodenal ulcer (PDF p. 180)",
+   "quote": "Pain is relieved by food intake."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Black, tarry stools in a client with a duodenal ulcer indicate:",
+   "options": [
+    "Upper GI bleeding",
+    "Normal digestion",
+    "Iron deficiency",
+    "Lower GI bleeding"
+   ],
+   "answer": "A",
+   "rationale": "Melena is the characteristic sign of bleeding duodenal ulcer; hemorrhage is the most life-threatening complication.",
+   "explanations": [
+    "Correct.",
+    "Not normal.",
+    "Not the sign.",
+    "Bright red blood."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Duodenal ulcer (PDF p. 180)",
+   "quote": "Characteristic manifestation is melena (black, tarry stool)."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A client taking a magnesium-based antacid may develop:",
+   "options": [
+    "Diarrhea",
+    "Constipation",
+    "Hypertension",
+    "Bradycardia only"
+   ],
+   "answer": "A",
+   "rationale": "Magnesium antacids cause diarrhea; aluminum antacids cause constipation and low phosphate.",
+   "explanations": [
+    "Correct.",
+    "Aluminum.",
+    "Not typical.",
+    "Not typical."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Antacids (PDF p. 181)",
+   "quote": "Magnesium based antacids cause dinrrhcn."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "When should sucralfate be taken?",
+   "options": [
+    "30–60 minutes before meals",
+    "With antacids",
+    "After meals",
+    "At bedtime with milk"
+   ],
+   "answer": "A",
+   "rationale": "Sucralfate coats ulcers best on an empty stomach and should be separated from antacids.",
+   "explanations": [
+    "Correct.",
+    "Interferes.",
+    "Less effective.",
+    "Not ideal."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Cytoprotective drugs (PDF p. 181)",
+   "quote": "Administer the medication on empty stomach (30 to 60 minutes before meals)."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Before Birth",
+   "situation": "",
+   "stem": "Misoprostol for ulcer prevention is contraindicated in pregnancy because it:",
+   "options": [
+    "Can cause abortion",
+    "Causes constipation",
+    "Raises blood pressure",
+    "Causes jaundice"
+   ],
+   "answer": "A",
+   "rationale": "Misoprostol is an abortifacient prostaglandin analogue.",
+   "explanations": [
+    "Correct.",
+    "Diarrhea instead.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Prostaglandin analogue (PDF p. 181)",
+   "quote": "Itis abortifacient, therefore it is contraindicated in pregnancy."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client on metronidazole for H. pylori should avoid:",
+   "options": [
+    "Alcohol",
+    "Rice",
+    "Vegetables",
+    "Water"
+   ],
+   "answer": "A",
+   "rationale": "Alcohol with metronidazole causes a disulfiram-like reaction (flushing, vomiting).",
+   "explanations": [
+    "Correct.",
+    "Fine.",
+    "Fine.",
+    "Fine."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 H. pylori treatment (PDF p. 182)",
+   "quote": "Advise client to avoid alcohol when on Flagyl therapy."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client with peptic ulcer drinks a liter of milk daily for relief. The nurse explains that large amounts of milk:",
+   "options": [
+    "Cause rebound acid secretion",
+    "Heal ulcers fast",
+    "Prevent bleeding",
+    "Have no effect"
+   ],
+   "answer": "A",
+   "rationale": "Milk is alkaline and stimulates rebound HCl secretion; limit it.",
+   "explanations": [
+    "Correct.",
+    "Not true.",
+    "Not true.",
+    "It does affect."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 PUD nursing interventions (PDF p. 182)",
+   "quote": "Large quantities of milk (milk is alkaline, thus it stimulates the stomach to increase HCl secretion to neutralize it, causing rebound acidity)."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "After subtotal gastrectomy, a client feels weak, dizzy and sweaty 15 minutes after eating. This is:",
+   "options": [
+    "Early dumping syndrome",
+    "Hypoglycemia from insulin",
+    "Peritonitis",
+    "Anastomotic leak"
+   ],
+   "answer": "A",
+   "rationale": "Early dumping (5–30 min) from rapid hypertonic emptying: weakness, tachycardia, diaphoresis, cramps, diarrhea.",
+   "explanations": [
+    "Correct.",
+    "Late dumping.",
+    "Different signs.",
+    "Different signs."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Dumping syndrome (PDF p. 184)",
+   "quote": "The early signs and symptoms of dumping syndrome occur 5 to 30 minutes after eating."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Which advice helps prevent dumping syndrome?",
+   "options": [
+    "Drink fluids between meals",
+    "Eat sweets after meals",
+    "Drink lots with meals",
+    "Sit upright after eating"
+   ],
+   "answer": "A",
+   "rationale": "Small, high-protein, low-sugar meals, fluids between meals and lying down after eating slow gastric emptying.",
+   "explanations": [
+    "Correct.",
+    "Speeds emptying.",
+    "Speeds emptying.",
+    "Speeds emptying."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Dumping syndrome (PDF p. 184)",
+   "quote": "Instruct client to take fluids after meals or in between meals."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A client with suspected appendicitis has RLQ pain. Which action is safe?",
+   "options": [
+    "Apply an ice pack",
+    "Apply a heating pad",
+    "Give an enema",
+    "Give a laxative"
+   ],
+   "answer": "A",
+   "rationale": "Cold relieves pain; heat, enemas and laxatives increase peristalsis and risk rupture.",
+   "explanations": [
+    "Correct.",
+    "Rupture risk.",
+    "Rupture risk.",
+    "Rupture risk."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Appendicitis (PDF p. 185)",
+   "quote": "Relieve pain by cold application over the abdomen."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Pain at McBurney's point is located:",
+   "options": [
+    "Navel to right iliac spine",
+    "Left lower quadrant",
+    "Epigastrium",
+    "Right upper quadrant"
+   ],
+   "answer": "A",
+   "rationale": "McBurney's point is halfway between the umbilicus and right anterior superior iliac spine.",
+   "explanations": [
+    "Correct.",
+    "Diverticulitis.",
+    "Early pain.",
+    "Gallbladder."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Appendicitis (PDF p. 185)",
+   "quote": "McBurney's point (halfway between the umbilicus and the anterior spine of the ilium."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A client with peritonitis is placed in semi-Fowler's to:",
+   "options": [
+    "Localize infection in the pelvis",
+    "Increase peristalsis",
+    "Prevent headache",
+    "Raise blood pressure"
+   ],
+   "answer": "A",
+   "rationale": "Semi-Fowler's localizes the inflammatory process in the pelvic cavity and aids breathing.",
+   "explanations": [
+    "Correct.",
+    "Not the aim.",
+    "Not the aim.",
+    "Not the aim."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Peritonitis (PDF p. 187)",
+   "quote": "Bed rest in semi — Fowler's position. To localize inflammatory process in pelvic cavity."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Diverticulitis typically causes pain in the:",
+   "options": [
+    "Left lower quadrant",
+    "Right lower quadrant",
+    "Right upper quadrant",
+    "Periumbilical area only"
+   ],
+   "answer": "A",
+   "rationale": "Diverticulitis causes crampy LLQ pain, low-grade fever and altered bowel habits.",
+   "explanations": [
+    "Correct.",
+    "Appendicitis.",
+    "Gallbladder.",
+    "Early appendicitis."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Diverticulitis (PDF p. 187)",
+   "quote": "Crampy abdominal pain in the left, lower quadrant that worsens with movement, coughing or straining."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "During an acute diverticulitis flare, the diet is:",
+   "options": [
+    "NPO, then clear liquids",
+    "High fiber",
+    "High fat",
+    "Regular diet"
+   ],
+   "answer": "A",
+   "rationale": "Rest the bowel during flares (NPO then clear liquids); high fiber is for prevention once recovered.",
+   "explanations": [
+    "Correct.",
+    "Between flares.",
+    "Not indicated.",
+    "Not indicated."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Diverticulitis (PDF p. 188)",
+   "quote": "NPO, then clear liquids to rest the bowel."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Which feature distinguishes ulcerative colitis from Crohn's disease?",
+   "options": [
+    "Continuous, from rectum",
+    "Transmural, patchy",
+    "Fistula formation",
+    "Mostly the ileum"
+   ],
+   "answer": "A",
+   "rationale": "UC starts at the rectum and spreads continuously with bloody diarrhea; Crohn's is transmural, patchy, often ileal with fistulas.",
+   "explanations": [
+    "Correct.",
+    "Crohn's.",
+    "Crohn's.",
+    "Crohn's."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Chronic inflammatory bowel disorders (PDF p. 189)",
+   "quote": "Inflammation starts from the rectum; it ascends until the entire lower colon is affected."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "An ileostomy stoma typically drains:",
+   "options": [
+    "Continuous liquid stool",
+    "Formed stool",
+    "Mucus only",
+    "Nothing"
+   ],
+   "answer": "A",
+   "rationale": "Ileostomy (RLQ) drains continuous liquid stool and is not irrigated.",
+   "explanations": [
+    "Correct.",
+    "Sigmoid colostomy.",
+    "Distal transverse stoma.",
+    "Not normal."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Crohn's disease (PDF p. 189)",
+   "quote": "It has continuous watery fecal drainage. It does not require irrigation."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "After inguinal hernia repair, the nurse encourages deep breathing but avoids:",
+   "options": [
+    "Coughing exercises",
+    "Ambulation",
+    "Fluids",
+    "Scrotal support"
+   ],
+   "answer": "A",
+   "rationale": "Coughing strains the repair; encourage deep breathing, fluids, and scrotal elevation with ice.",
+   "explanations": [
+    "Correct.",
+    "Encouraged.",
+    "Encouraged.",
+    "Encouraged."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Abdominal hernia (PDF p. 190)",
+   "quote": "Encourage the client to deep breathe, but not coughing exercises."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A hernia becomes painful with vomiting and distention. The nurse suspects:",
+   "options": [
+    "Strangulation",
+    "Normal hernia",
+    "Reduction",
+    "Healing"
+   ],
+   "answer": "A",
+   "rationale": "Nausea, vomiting, distention and pain indicate strangulation with compromised blood flow; it is an emergency.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "No symptoms.",
+    "Not healing."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Abdominal hernia (PDF p. 190)",
+   "quote": "Nausea, vomiting, distention, pain indicate strangulated hernia."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Pencil-shaped stools and tenesmus suggest cancer of the:",
+   "options": [
+    "Rectum or sigmoid",
+    "Ascending colon",
+    "Stomach",
+    "Esophagus"
+   ],
+   "answer": "A",
+   "rationale": "Distal colon and rectal cancer cause ribbon stools, bright red bleeding and tenesmus; right-sided cancer causes occult blood and anemia.",
+   "explanations": [
+    "Correct.",
+    "Occult blood, anemia.",
+    "Upper GI.",
+    "Dysphagia."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Colorectal cancer (PDF p. 191)",
+   "quote": "pencil- or ribbon- shaped stool, tenesmus (involuntary straining at stool)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A new colostomy stoma appears dark purple. The nurse should:",
+   "options": [
+    "Report possible ischemia",
+    "Document as normal",
+    "Apply cold compress",
+    "Irrigate it"
+   ],
+   "answer": "A",
+   "rationale": "A healthy stoma is red-pink and moist; dusky or black indicates ischemia and necrosis.",
+   "explanations": [
+    "Correct.",
+    "Not normal.",
+    "Not appropriate.",
+    "Not appropriate."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Stoma monitoring (PDF p. 193)",
+   "quote": "Dark, dusky, or brown black stoma indicates ischemia and necrosis."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "When should an ostomy pouch be emptied?",
+   "options": [
+    "When one-third to half full",
+    "When completely full",
+    "Once a day only",
+    "Only when leaking"
+   ],
+   "answer": "A",
+   "rationale": "Empty at 1/3–1/2 full so the weight doesn't pull off the adhesive and cause leakage.",
+   "explanations": [
+    "Correct.",
+    "Leak risk.",
+    "May overfill.",
+    "Too late."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Stoma monitoring (PDF p. 193)",
+   "quote": "Empty pouch when it is 1/3 to h full of stool."
+  }
+ ]
+}

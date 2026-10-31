@@ -1,0 +1,413 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "During colostomy irrigation, the bag is hung:",
+   "options": [
+    "12–18 inches above the stoma",
+    "At bed level",
+    "3 feet above the head",
+    "Below the stoma"
+   ],
+   "answer": "A",
+   "rationale": "Hang the bag at shoulder level or 12–18 inches above the stoma, using 500–1,000 mL of warm solution.",
+   "explanations": [
+    "Correct.",
+    "Too low.",
+    "Too forceful.",
+    "No flow."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Colostomy irrigation (PDF p. 194)",
+   "quote": "(or 12 to 18 inches above the stoma)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Cramping occurs during colostomy irrigation. The nurse should:",
+   "options": [
+    "Clamp the tubing until it passes",
+    "Raise the bag higher",
+    "Push fluid faster",
+    "Remove the catheter for good"
+   ],
+   "answer": "A",
+   "rationale": "Clamp the tubing and resume when cramping subsides.",
+   "explanations": [
+    "Correct.",
+    "Worsens.",
+    "Worsens.",
+    "Not needed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Colostomy irrigation (PDF p. 194)",
+   "quote": "If cramping occurs during irrigation, clamp tubing; release tubing as cramping subsides."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Which type of colostomy is usually irrigated to regulate bowel movements?",
+   "options": [
+    "Sigmoid colostomy",
+    "Ileostomy",
+    "Ascending colostomy",
+    "Transverse loop"
+   ],
+   "answer": "A",
+   "rationale": "Sigmoid colostomies pass formed stool and can be regulated by irrigation; ileostomies are never irrigated.",
+   "explanations": [
+    "Correct.",
+    "Liquid stool.",
+    "Liquid stool.",
+    "Semi-formed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Colostomy irrigation (PDF p. 194)",
+   "quote": "This is recommended with sigmoid colostomy because the fecal waste is hard."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Which food can help reduce ostomy odor?",
+   "options": [
+    "Yogurt",
+    "Cabbage",
+    "Eggs",
+    "Fish"
+   ],
+   "answer": "A",
+   "rationale": "Yogurt, buttermilk and parsley reduce odor; cabbage, eggs, fish and onions increase it.",
+   "explanations": [
+    "Correct.",
+    "Increases odor.",
+    "Increases odor.",
+    "Increases odor."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Managing odor (PDF p. 194)",
+   "quote": "Include foods that reduce odor, e.g., yogurt, parsley, buttermilk"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A client with a new colostomy refuses to look at the stoma. The nurse should first:",
+   "options": [
+    "Encourage him to express feelings",
+    "Force him to look",
+    "Do all care silently",
+    "Discharge him early"
+   ],
+   "answer": "A",
+   "rationale": "Encourage verbalization of fears and concerns; readiness to learn shows when he starts asking about care.",
+   "explanations": [
+    "Correct.",
+    "Not therapeutic.",
+    "Avoids issue.",
+    "Not appropriate."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Teaching for self-care (PDF p. 195)",
+   "quote": "Ifthe client refuses to look at the stoma, encourage him to verbalize his feelings, fears and concerns about the stoma."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A client asks if touching his stoma will hurt. The nurse explains that the stoma:",
+   "options": [
+    "Has no pain sensation",
+    "Is very sensitive",
+    "Hurts when cleaned",
+    "Should never be touched"
+   ],
+   "answer": "A",
+   "rationale": "The stoma has no touch or pain sensation, so it must be protected from unnoticed trauma.",
+   "explanations": [
+    "Correct.",
+    "Not true.",
+    "Not true.",
+    "Care needed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Stoma care (PDF p. 195)",
+   "quote": "Inform client that the stoma has no touch or pain sensation."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "After hemorrhoidectomy, warm sitz baths are best done:",
+   "options": [
+    "After a bowel movement",
+    "Before every meal",
+    "Only on day 7",
+    "Never"
+   ],
+   "answer": "A",
+   "rationale": "Ice for the first 12 hours, then sitz baths, ideally after defecation, to relieve pain and clean the area.",
+   "explanations": [
+    "Correct.",
+    "Not the timing.",
+    "Too late.",
+    "They help."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Hemorrhoidectomy (PDF p. 196)",
+   "quote": "The best time to do the procedure is after bowel movement."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "After hemorrhoidectomy, the nurse monitors closely for:",
+   "options": [
+    "Urinary retention",
+    "Hypertension",
+    "Diarrhea",
+    "Hyperglycemia"
+   ],
+   "answer": "A",
+   "rationale": "Pain and spasm near the anus often cause urinary retention after anorectal surgery.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Not typical.",
+    "Not typical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Hemorrhoidectomy (PDF p. 196)",
+   "quote": "Monitor the client for urinary retention."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "An infant has colicky pain, draws up the knees and passes 'currant jelly' stools. The nurse suspects:",
+   "options": [
+    "Intussusception",
+    "Pyloric stenosis",
+    "Hirschsprung disease",
+    "Gastroenteritis"
+   ],
+   "answer": "A",
+   "rationale": "Intussusception: colicky pain, currant jelly stools (blood and mucus), sausage-shaped mass.",
+   "explanations": [
+    "Correct.",
+    "Projectile vomiting.",
+    "Ribbon stools.",
+    "Watery diarrhea."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Intussusception (PDF p. 196)",
+   "quote": "Currant jelly stools (stools containing blood and mucus)."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "After hydrostatic reduction for intussusception, which sign shows success?",
+   "options": [
+    "Passage of normal brown stool",
+    "Currant jelly stool",
+    "Vomiting",
+    "Absent bowel sounds"
+   ],
+   "answer": "A",
+   "rationale": "Passing normal brown stool indicates the intussusception has resolved; notify the physician.",
+   "explanations": [
+    "Correct.",
+    "Still present.",
+    "Not resolved.",
+    "Not resolved."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Intussusception (PDF p. 197)",
+   "quote": "Monitor for the passage of normal, brown stool. This indicates resolution of intussusception."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A client's abdominal incision opens and bowel loops protrude. The nurse's first action is to:",
+   "options": [
+    "Cover with wet sterile gauze",
+    "Push the organs back",
+    "Apply a dry dressing",
+    "Sit him up straight"
+   ],
+   "answer": "A",
+   "rationale": "Evisceration: cover with sterile saline-soaked dressing, position with knees flexed, never replace organs, call the surgeon.",
+   "explanations": [
+    "Correct.",
+    "Never do.",
+    "Sticks, damages.",
+    "Increases pressure."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Evisceration (PDF p. 198)",
+   "quote": "Cover the wound with sterile dressings moistened with normal saline."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "For a client with evisceration, which position is best?",
+   "options": [
+    "Low Fowler's with knees flexed",
+    "Prone",
+    "High Fowler's, legs straight",
+    "Trendelenburg"
+   ],
+   "answer": "A",
+   "rationale": "Supine or semi-Fowler's with knees flexed relaxes abdominal muscles and prevents further protrusion.",
+   "explanations": [
+    "Correct.",
+    "Pressure.",
+    "Strains wound.",
+    "Not indicated."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Evisceration (PDF p. 198)",
+   "quote": "Place in supine or semi — Fowler's position with knees flexed."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A client on long-term antibiotics develops frequent watery diarrhea. Which isolation is needed if C. difficile is confirmed?",
+   "options": [
+    "Contact precautions",
+    "Airborne precautions",
+    "Droplet precautions",
+    "No isolation"
+   ],
+   "answer": "A",
+   "rationale": "C. difficile spreads fecal-orally; use contact precautions and soap-and-water handwashing.",
+   "explanations": [
+    "Correct.",
+    "Not airborne.",
+    "Not droplet.",
+    "Needed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Clostridium difficile (PDF p. 198)",
+   "quote": "Implement contact precaution."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Why are opioid antidiarrheals avoided when diarrhea is caused by bacterial toxins?",
+   "options": [
+    "They delay toxin elimination",
+    "They cause rashes",
+    "They raise sugar",
+    "They are too weak"
+   ],
+   "answer": "A",
+   "rationale": "Slowing the bowel keeps toxins and organisms in longer, worsening the condition.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Antidiarrheals (PDF p. 199)",
+   "quote": "They may worsen the condition by delaying the elimination of toxins."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Dermatitis, diarrhea and dementia point to deficiency of:",
+   "options": [
+    "Niacin (B3)",
+    "Thiamine (B1)",
+    "Vitamin C",
+    "Vitamin A"
+   ],
+   "answer": "A",
+   "rationale": "Pellagra (niacin deficiency) causes dermatitis, diarrhea, dementia and, if untreated, death.",
+   "explanations": [
+    "Correct.",
+    "Beriberi.",
+    "Scurvy.",
+    "Night blindness."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Pellagra (PDF p. 199)",
+   "quote": "Vitamin B3 (Niacin) deficiency."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A BMI of 27 is classified as:",
+   "options": [
+    "Overweight",
+    "Normal",
+    "Obese",
+    "Underweight"
+   ],
+   "answer": "A",
+   "rationale": "BMI 18.5–24.9 normal, 25–29.9 overweight, 30 and above obese (standard WHO cutoffs).",
+   "explanations": [
+    "Correct.",
+    "Below 25.",
+    "30 and above.",
+    "Below 18.5."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Body mass index (PDF p. 200)",
+   "quote": "25-29.9"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A client with a bleeding duodenal ulcer suddenly has severe epigastric pain and a rigid, board-like abdomen. This suggests:",
+   "options": [
+    "Perforation",
+    "New ulcers",
+    "Esophagitis",
+    "Constipation"
+   ],
+   "answer": "A",
+   "rationale": "Sudden sharp pain with board-like rigidity indicates perforation and peritonitis, an emergency.",
+   "explanations": [
+    "Correct.",
+    "Not this picture.",
+    "Not this picture.",
+    "Not this picture."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 7 Answers and rationales (PDF p. 204)",
+   "quote": "Perforated ulcer causes peritonitis as manifested by sudden sharp pain, with rigid, boardlike abdomen."
+  }
+ ]
+}

@@ -1,0 +1,725 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "What is the most characteristic symptom of hypertension, when present?",
+   "options": [
+    "Morning occipital headache",
+    "Chest pain at rest",
+    "Fever",
+    "Leg cramps"
+   ],
+   "answer": "A",
+   "rationale": "Hypertension is often silent; when symptoms occur, headache on waking is most typical, plus dizziness, epistaxis, blurred vision.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Not typical.",
+    "Not typical."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Hypertension (PDF p. 113)",
+   "quote": "The most characteristic clinical manifestation of hypertension is headache especially upon waking."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "About what share of hypertension cases are essential (primary)?",
+   "options": [
+    "90%",
+    "50%",
+    "10%",
+    "25%"
+   ],
+   "answer": "A",
+   "rationale": "Essential hypertension of unknown cause makes up about 90%; secondary (renal, endocrine) about 10%.",
+   "explanations": [
+    "Correct.",
+    "Too low.",
+    "Secondary share.",
+    "Too low."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Hypertension (PDF p. 112)",
+   "quote": "Essential hypertension is the most common type, affecting 90% of persons with high blood pressure."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which organs are the main 'targets' damaged by long-standing hypertension?",
+   "options": [
+    "Heart, brain, kidneys, eyes",
+    "Liver and spleen",
+    "Skin and hair",
+    "Bones and joints"
+   ],
+   "answer": "A",
+   "rationale": "End-target organs: heart (MI), brain (stroke), kidneys (renal failure), eyes (retinopathy) and peripheral vessels.",
+   "explanations": [
+    "Correct.",
+    "Not targets.",
+    "Not targets.",
+    "Not targets."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Effects of hypertension (PDF p. 113)",
+   "quote": "the end- target organs — brain, heart, kidneys, eyes"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client on hydrochlorothiazide should be monitored for which lab changes?",
+   "options": [
+    "Low K, high glucose",
+    "High K, low glucose",
+    "Low calcium",
+    "High sodium"
+   ],
+   "answer": "A",
+   "rationale": "Thiazides cause hypokalemia, hyperglycemia, hyperuricemia and hypercalcemia.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Calcium rises.",
+    "Not typical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Thiazide diuretics (PDF p. 114)",
+   "quote": "Electrolyte imbalance (hypokalemia, hypercalcemia, hypomagnesemia, and bicarbonate loss) Hyperglycemia Hyperuricemia"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Why is IV furosemide pushed slowly?",
+   "options": [
+    "Risk of hearing loss",
+    "Risk of thrombosis",
+    "It burns the vein",
+    "It causes a rash"
+   ],
+   "answer": "A",
+   "rationale": "Rapid IV furosemide can cause ototoxicity; urine output should rise within minutes.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Loop diuretics (PDF p. 116)",
+   "quote": "Administer IV Furosemide slowly; hearing loss may occur if rapidly injected."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Before giving furosemide, the nurse asks about allergy to:",
+   "options": [
+    "Sulfonamides",
+    "Penicillin",
+    "Eggs",
+    "Latex"
+   ],
+   "answer": "A",
+   "rationale": "Furosemide is contraindicated in hypersensitivity to sulfonamides.",
+   "explanations": [
+    "Correct.",
+    "Not related.",
+    "Not related.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Loop diuretics (PDF p. 115)",
+   "quote": "Furosemide is contraindicated if the client has hypersensitivity to sulfonamides."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client gains 1 kg overnight. The nurse estimates retention of about:",
+   "options": [
+    "1 liter of fluid",
+    "100 mL",
+    "250 mL",
+    "5 liters"
+   ],
+   "answer": "A",
+   "rationale": "A weight gain of about 1 kg (2.2 lb) reflects about 1 L of retained fluid.",
+   "explanations": [
+    "Correct.",
+    "Too little.",
+    "Too little.",
+    "Too much."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Nursing interventions in diuretics (PDF p. 115)",
+   "quote": "A weight gain of 2.2 to 2.5 lbs. is equivalent to an excess liter of body fluids."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Which combination increases the risk of hyperkalemia?",
+   "options": [
+    "Lisinopril with spironolactone",
+    "Furosemide with HCTZ",
+    "Amlodipine with HCTZ",
+    "Metoprolol with furosemide"
+   ],
+   "answer": "A",
+   "rationale": "ACE inhibitors and potassium-sparing diuretics both raise potassium; avoid combining or monitor closely.",
+   "explanations": [
+    "Correct.",
+    "Both lower K.",
+    "Not this risk.",
+    "Not this risk."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Potassium-sparing diuretics (PDF p. 117)",
+   "quote": "Spironolactone, Amiloride and Triamterene should not be taken with ACE inhibitors because they can also increase serum potassium levels."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A client on enalapril develops a persistent dry cough. The nurse recognizes this as:",
+   "options": [
+    "A common ACE-inhibitor effect",
+    "An allergy to food",
+    "Early pneumonia",
+    "Heart failure"
+   ],
+   "answer": "A",
+   "rationale": "Dry cough is a common ACE-inhibitor side effect; ARBs do not usually cause it.",
+   "explanations": [
+    "Correct.",
+    "Not related.",
+    "Not likely.",
+    "Not likely."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 ACE inhibitors (PDF p. 121)",
+   "quote": "Side effects and adverse reactions (ACE Inhibitors) - Cough"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A client on an ACE inhibitor has swelling of the lips and tongue. The nurse suspects:",
+   "options": [
+    "Angioedema",
+    "Hypokalemia",
+    "Normal effect",
+    "Dehydration"
+   ],
+   "answer": "A",
+   "rationale": "Angioedema is a life-threatening ACE-inhibitor reaction; stop the drug and protect the airway.",
+   "explanations": [
+    "Correct.",
+    "Not this sign.",
+    "Not normal.",
+    "Not this sign."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 ACE inhibitors (PDF p. 122)",
+   "quote": "Captopril may cause life — threatening effects: acute renal failure, bronchospasm, angioedema, agranulocytosis."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Before Birth",
+   "situation": "",
+   "stem": "Which antihypertensive class is contraindicated in pregnancy?",
+   "options": [
+    "ACE inhibitors",
+    "Methyldopa",
+    "Labetalol",
+    "Hydralazine"
+   ],
+   "answer": "A",
+   "rationale": "ACE inhibitors reduce placental blood flow and harm the fetus; methyldopa and labetalol are used in pregnancy.",
+   "explanations": [
+    "Correct.",
+    "Used in pregnancy.",
+    "Used in pregnancy.",
+    "Used in pregnancy."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 ACE inhibitors (PDF p. 121)",
+   "quote": "ACE inhibitors should not be given during pregnancy because they reduce placental blood flow."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A client on amlodipine reports swollen ankles. The nurse knows this is:",
+   "options": [
+    "Common CCB effect",
+    "A sign of DVT",
+    "A heart attack sign",
+    "An allergy"
+   ],
+   "answer": "A",
+   "rationale": "Calcium channel blockers often cause flushing, headache, dizziness and ankle edema.",
+   "explanations": [
+    "Correct.",
+    "Usually unilateral.",
+    "Not typical.",
+    "Not typical."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Calcium channel blockers (PDF p. 123)",
+   "quote": "Ankle edema"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A client on clonidine wants to stop it suddenly. The nurse warns this can cause:",
+   "options": [
+    "Rebound hypertension",
+    "Hypoglycemia",
+    "Hair loss",
+    "Hearing loss"
+   ],
+   "answer": "A",
+   "rationale": "Centrally acting sympatholytics like clonidine must be tapered to avoid rebound hypertension.",
+   "explanations": [
+    "Correct.",
+    "Not related.",
+    "Not related.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Centrally acting sympatholytics (PDF p. 118)",
+   "quote": "to prevent rebound hypertension upon discontinuing drug therapy"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Hydralazine is often given with a beta-blocker to counter:",
+   "options": [
+    "Reflex tachycardia",
+    "Hyperglycemia",
+    "Bronchospasm",
+    "Hypokalemia"
+   ],
+   "answer": "A",
+   "rationale": "Direct vasodilators drop BP and trigger reflex tachycardia; beta-blockers slow the heart.",
+   "explanations": [
+    "Correct.",
+    "Diazoxide effect.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Direct-acting vasodilators (PDF p. 120)",
+   "quote": "Beta — blockers are frequently prescribed with arteriolar vasodilators to decrease the heart rate"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A client starting prazosin should be told to take the first dose at bedtime because of:",
+   "options": [
+    "First-dose hypotension",
+    "Insomnia",
+    "Night sweats",
+    "Nausea"
+   ],
+   "answer": "A",
+   "rationale": "Alpha-blockers cause dizziness and fainting from postural hypotension, especially early on.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Minor."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Alpha-adrenergic blockers (PDF p. 119)",
+   "quote": "Dizziness - Faintness Lightheadedness"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A client on atorvastatin reports muscle pain and weakness. The nurse should:",
+   "options": [
+    "Report it promptly",
+    "Exercise more",
+    "Double the dose",
+    "Ignore it"
+   ],
+   "answer": "A",
+   "rationale": "Statins can cause rhabdomyolysis and hepatotoxicity; muscle pain must be reported.",
+   "explanations": [
+    "Correct.",
+    "Unsafe.",
+    "Unsafe.",
+    "Unsafe."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Antilipemics (PDF p. 126)",
+   "quote": "Muscle weakness and tenderness may be caused by rhabdomyolysis, and should be reported to the physician."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Leg pain that comes with walking and goes away with rest is called:",
+   "options": [
+    "Intermittent claudication",
+    "Homan's pain",
+    "Rest pain only",
+    "Phantom pain"
+   ],
+   "answer": "A",
+   "rationale": "Claudication is ischemic pain on activity relieved by rest, typical of arterial disease.",
+   "explanations": [
+    "Correct.",
+    "Venous.",
+    "Severe disease.",
+    "After amputation."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Arterial disorders (PDF p. 124)",
+   "quote": "Intermittent claudication. This is leg pain on activity and exercise, relieved by rest."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "For a client with peripheral arterial disease, how should the legs be positioned?",
+   "options": [
+    "Slightly dependent",
+    "Elevated above the heart",
+    "Crossed at the knee",
+    "Tightly wrapped"
+   ],
+   "answer": "A",
+   "rationale": "Slight dependency promotes arterial flow; elevation worsens arterial ischemia.",
+   "explanations": [
+    "Correct.",
+    "Venous approach.",
+    "Impairs flow.",
+    "Impairs flow."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Arterial nursing interventions (PDF p. 127)",
+   "quote": "Place legs in slight dependency (lower than level of heart) to promote arterial flow."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Which foot-care teaching is correct for a client with arterial insufficiency?",
+   "options": [
+    "Never walk barefoot",
+    "Use a heating pad on the feet",
+    "Cut toenails in a curve",
+    "Treat corns yourself"
+   ],
+   "answer": "A",
+   "rationale": "Reduced sensation risks unnoticed injury; avoid barefoot walking and direct heat, cut nails straight, seek care for corns.",
+   "explanations": [
+    "Correct.",
+    "Burns.",
+    "Ingrown nails.",
+    "Infection risk."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Preventing injury (PDF p. 129)",
+   "quote": "Do not go barefooted."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which finding suggests an abdominal aortic aneurysm?",
+   "options": [
+    "Pulsating abdominal mass",
+    "Rigid board-like abdomen",
+    "Rebound tenderness",
+    "Visible peristalsis"
+   ],
+   "answer": "A",
+   "rationale": "AAA presents with a pulsatile abdominal mass and back or flank pain; rupture causes shock.",
+   "explanations": [
+    "Correct.",
+    "Peritonitis.",
+    "Appendicitis.",
+    "Obstruction."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Aneurysm (PDF p. 129)",
+   "quote": "Pulsatile mass over the abdomen."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which factor most increases the risk that an aortic aneurysm will rupture?",
+   "options": [
+    "High blood pressure",
+    "Anemia",
+    "Dehydration",
+    "Hyperglycemia"
+   ],
+   "answer": "A",
+   "rationale": "Hypertension is the most common cause of aneurysm and raises the risk of rupture.",
+   "explanations": [
+    "Correct.",
+    "Not main.",
+    "Not main.",
+    "Not main."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Aneurysm (PDF p. 129)",
+   "quote": "The most common cause of aneurysm is hypertension."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A woman with Raynaud's disease should be taught to:",
+   "options": [
+    "Wear gloves handling frozen food",
+    "Smoke to relax",
+    "Take ergotamine for headache",
+    "Soak hands in ice water"
+   ],
+   "answer": "A",
+   "rationale": "Avoid cold, stress, smoking and vasoconstrictors (e.g., ergots, oral contraceptives).",
+   "explanations": [
+    "Correct.",
+    "Vasoconstricts.",
+    "Vasoconstricts.",
+    "Triggers spasm."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Raynaud's disease (PDF p. 130)",
+   "quote": "Wear gloves when handling frozen foods."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which is part of Virchow's triad for DVT?",
+   "options": [
+    "Venous stasis",
+    "High HDL",
+    "Low platelets",
+    "Hyperventilation"
+   ],
+   "answer": "A",
+   "rationale": "Virchow's triad: vessel wall injury, venous stasis and hypercoagulability.",
+   "explanations": [
+    "Correct.",
+    "Protective.",
+    "Lowers clotting.",
+    "Not related."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Deep vein thrombosis (PDF p. 131)",
+   "quote": "Venous stasis (e.g. prolonged bedrest)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Why is DVT considered potentially life-threatening?",
+   "options": [
+    "It can cause pulmonary embolism",
+    "It causes gangrene",
+    "It raises blood sugar",
+    "It causes stroke always"
+   ],
+   "answer": "A",
+   "rationale": "A dislodged deep vein clot can travel to the lungs as a pulmonary embolus.",
+   "explanations": [
+    "Correct.",
+    "Arterial issue.",
+    "Not related.",
+    "Not typical."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Deep vein thrombosis (PDF p. 131)",
+   "quote": "DVT is potentially life — threatening because it may lead to pulmonary embolism."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which drug reverses bleeding from thrombolytic therapy?",
+   "options": [
+    "Aminocaproic acid",
+    "Protamine",
+    "Vitamin K",
+    "Atropine"
+   ],
+   "answer": "A",
+   "rationale": "Aminocaproic acid (Amicar) is the antidote for thrombolytic-induced hemorrhage.",
+   "explanations": [
+    "Correct.",
+    "Heparin.",
+    "Warfarin.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Thrombolytics (PDF p. 132)",
+   "quote": "Hemorrhage (antidote is Amicar / Aminocaproic acid)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A client on heparin has a falling platelet count. The nurse recognizes that heparin can cause:",
+   "options": [
+    "Thrombocytopenia",
+    "Polycythemia",
+    "Leukocytosis",
+    "Hyperkalemia only"
+   ],
+   "answer": "A",
+   "rationale": "Heparin can decrease platelet count (heparin-induced thrombocytopenia); report it.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not main."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Heparin (PDF p. 132)",
+   "quote": "It can decrease the platelet count, causing thrombocytopenia."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "When should compression stockings be put on?",
+   "options": [
+    "In the morning before getting up",
+    "After walking for an hour",
+    "At bedtime only",
+    "After a hot shower"
+   ],
+   "answer": "A",
+   "rationale": "Apply before rising, when veins are least distended; turn them inside out to ease application.",
+   "explanations": [
+    "Correct.",
+    "Legs already swollen.",
+    "Not the time.",
+    "Legs dilated."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 DVT nursing interventions (PDF p. 133)",
+   "quote": "It is applied before getting out of bed in the morning."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After vein ligation and stripping, the priority is to prevent:",
+   "options": [
+    "Thrombophlebitis by early walking",
+    "Pneumonia by bed rest",
+    "Infection by no bathing",
+    "Pain by staying in bed"
+   ],
+   "answer": "A",
+   "rationale": "The priority after vein surgery is preventing thrombophlebitis; early ambulation helps.",
+   "explanations": [
+    "Correct.",
+    "Bed rest raises clot risk.",
+    "Not the priority.",
+    "Raises clot risk."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Varicose veins (PDF p. 134)",
+   "quote": "Early ambulation prevents thrombophlebitis."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Buerger's disease is most strongly linked to:",
+   "options": [
+    "Cigarette smoking",
+    "Alcohol",
+    "High-salt diet",
+    "Lack of sleep"
+   ],
+   "answer": "A",
+   "rationale": "Thromboangiitis obliterans affects small and medium arteries, veins and nerves, mostly in male smokers; stopping smoking is essential.",
+   "explanations": [
+    "Correct.",
+    "Not the cause.",
+    "Not the cause.",
+    "Not the cause."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Buerger's disease (PDF p. 134)",
+   "quote": "Most common etiologic factor is cigarette smoking."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which leg finding suggests venous rather than arterial disease?",
+   "options": [
+    "Brown ankle staining",
+    "Absent pulses",
+    "Cool, hairless skin",
+    "Toe ulcers"
+   ],
+   "answer": "A",
+   "rationale": "Venous: edema, brown pigmentation, warm skin, ankle ulcers, pulses present; arterial: pallor, hair loss, weak pulses, toe ulcers.",
+   "explanations": [
+    "Correct.",
+    "Arterial.",
+    "Arterial.",
+    "Arterial."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 5 Arterial vs. venous (PDF p. 134)",
+   "quote": "Ulcers occur in ankles"
+  }
+ ]
+}

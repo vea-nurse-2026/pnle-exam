@@ -1,0 +1,725 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Spoon-shaped nails, cracks at the lip corners and craving for ice suggest:",
+   "options": [
+    "Iron deficiency anemia",
+    "Pernicious anemia",
+    "Aplastic anemia",
+    "Sickle cell anemia"
+   ],
+   "answer": "A",
+   "rationale": "IDA signs: koilonychia, cheilosis, atrophic glossitis and pica.",
+   "explanations": [
+    "Correct.",
+    "Beefy tongue, neuro.",
+    "Pancytopenia.",
+    "Pain crises."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Iron deficiency anemia (PDF p. 141)",
+   "quote": "Koilonychia (spoon — shaped fingernails)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which drink best helps absorption of an oral iron tablet?",
+   "options": [
+    "Orange juice",
+    "Milk",
+    "Tea",
+    "Antacid suspension"
+   ],
+   "answer": "A",
+   "rationale": "Vitamin C enhances iron absorption; milk, tea and antacids reduce it.",
+   "explanations": [
+    "Correct.",
+    "Reduces.",
+    "Reduces.",
+    "Reduces."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Iron supplements (PDF p. 141)",
+   "quote": "Vitamin C, like orange juice enhances iron absorption. Milk, tea, and antacid slow the absorption of iron."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A child is prescribed liquid iron. The nurse instructs the mother to give it:",
+   "options": [
+    "Through a straw",
+    "Mixed with milk",
+    "With tea",
+    "After an antacid"
+   ],
+   "answer": "A",
+   "rationale": "A straw prevents staining of the teeth; milk, tea and antacids reduce absorption.",
+   "explanations": [
+    "Correct.",
+    "Reduces absorption.",
+    "Reduces absorption.",
+    "Reduces absorption."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Iron supplements (PDF p. 141)",
+   "quote": "Oral liquid iron (elixir) should be taken with straw to prevent permanent staining of the teeth."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Iron dextran is given IM by which technique?",
+   "options": [
+    "Z-track",
+    "Air-lock only",
+    "Subcutaneous",
+    "Intradermal"
+   ],
+   "answer": "A",
+   "rationale": "Z-track deep IM injection prevents leakage and permanent skin staining; do not massage.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Wrong route.",
+    "Wrong route."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Iron supplements (PDF p. 141)",
+   "quote": "Imferon is administered by Z-tract (deep 1M) method of injection to prevent permanent staining of the skin."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client on ferrous sulfate is alarmed by black stools. The nurse explains:",
+   "options": [
+    "This is expected with iron",
+    "He has GI bleeding",
+    "He must stop iron",
+    "He is allergic"
+   ],
+   "answer": "A",
+   "rationale": "Iron salts darken stools to green or black; this is harmless. Constipation is also common.",
+   "explanations": [
+    "Correct.",
+    "Not with iron alone.",
+    "Not needed.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Iron supplements (PDF p. 142)",
+   "quote": "Iron salts change color of stool to dark green or black. This is expected and harmless."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "The priority nursing intervention for a client with severe anemia is to:",
+   "options": [
+    "Promote rest",
+    "Encourage brisk exercise",
+    "Increase visitors",
+    "Restrict fluids"
+   ],
+   "answer": "A",
+   "rationale": "Rest reduces tissue oxygen demand, the priority in anemia.",
+   "explanations": [
+    "Correct.",
+    "Raises demand.",
+    "Tires client.",
+    "Not indicated."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Iron deficiency anemia (PDF p. 142)",
+   "quote": "Promote rest to reduce oxygen demands of tissues. This is a priority nursing intervention."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Before Birth",
+   "situation": "",
+   "stem": "Folic acid deficiency in pregnancy raises the risk of:",
+   "options": [
+    "Neural tube defects",
+    "Cleft palate only",
+    "Down syndrome",
+    "Congenital heart block"
+   ],
+   "answer": "A",
+   "rationale": "Folate deficiency can cause neural tube defects such as spina bifida.",
+   "explanations": [
+    "Correct.",
+    "Not main link.",
+    "Chromosomal.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Folate deficiency anemia (PDF p. 143)",
+   "quote": "Folic acid deficiency among pregnant clients may cause congenitally acquired neural tube defects (spina bifida)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Pernicious anemia results from lack of:",
+   "options": [
+    "Intrinsic factor",
+    "Folic acid",
+    "Iron",
+    "Vitamin C"
+   ],
+   "answer": "A",
+   "rationale": "Without intrinsic factor from gastric parietal cells, vitamin B12 cannot be absorbed.",
+   "explanations": [
+    "Correct.",
+    "Folate anemia.",
+    "IDA.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Pernicious anemia (PDF p. 143)",
+   "quote": "Decreased intrinsic factor production by the parietal cells of the stomach causes decreased Vitamin B12 absorption."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which finding is most characteristic of pernicious anemia?",
+   "options": [
+    "Beefy red, sore tongue",
+    "Spoon-shaped nails",
+    "Pica",
+    "Bone pain"
+   ],
+   "answer": "A",
+   "rationale": "A beefy red, inflamed tongue plus neurologic signs (paresthesia, poor balance) mark pernicious anemia.",
+   "explanations": [
+    "Correct.",
+    "IDA.",
+    "IDA.",
+    "Myeloma."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Pernicious anemia (PDF p. 143)",
+   "quote": "\"Beefy\" red, inflamed tongue — this is the most characteristic manifestation."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Untreated pernicious anemia can cause which complication?",
+   "options": [
+    "Nerve damage with numbness",
+    "Hair growth",
+    "Weight gain",
+    "Spoon nails"
+   ],
+   "answer": "A",
+   "rationale": "B12 deficiency impairs neurons: paresthesia, poor balance, incoordination and cognitive changes.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "IDA."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Pernicious anemia (PDF p. 143)",
+   "quote": "Neurologic involvement: paresthesia, lack of balance, uncoordinated movements"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "After gastrectomy, a client needs vitamin B12 for how long?",
+   "options": [
+    "For life",
+    "Two weeks",
+    "Until anemia resolves",
+    "One year"
+   ],
+   "answer": "A",
+   "rationale": "Loss of intrinsic factor is permanent, so B12 replacement (usually monthly IM) is lifelong.",
+   "explanations": [
+    "Correct.",
+    "Too short.",
+    "Will recur.",
+    "Too short."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Pernicious anemia (PDF p. 144)",
+   "quote": "Monthly vitamin B12 IM for life."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Aplastic anemia is characterized by:",
+   "options": [
+    "Low RBCs, WBCs and platelets",
+    "High WBC count",
+    "Only low iron",
+    "Only high platelets"
+   ],
+   "answer": "A",
+   "rationale": "Bone marrow hypoplasia causes pancytopenia; chloramphenicol, toxins, radiation and viruses are causes.",
+   "explanations": [
+    "Correct.",
+    "Leukemia.",
+    "IDA.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Aplastic anemia (PDF p. 144)",
+   "quote": "resulting in pancytopenia (decreased numbers of RBCs, WBCs, and platelets)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Which antibiotic is known to cause aplastic anemia?",
+   "options": [
+    "Chloramphenicol",
+    "Amoxicillin",
+    "Erythromycin",
+    "Cephalexin"
+   ],
+   "answer": "A",
+   "rationale": "Chloramphenicol can cause bone marrow suppression and aplastic anemia.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Not typical.",
+    "Not typical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Aplastic anemia (PDF p. 144)",
+   "quote": "certain drugs (e.g., Chloramphenicol)"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "A child with thalassemia major on frequent transfusions receives deferoxamine to:",
+   "options": [
+    "Remove excess iron",
+    "Raise hemoglobin",
+    "Prevent infection",
+    "Increase platelets"
+   ],
+   "answer": "A",
+   "rationale": "Repeated transfusions cause iron overload (hemosiderosis); deferoxamine chelates iron. Watch vision and hearing.",
+   "explanations": [
+    "Correct.",
+    "Transfusion does.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Thalassemia major (PDF p. 146)",
+   "quote": "Iron chelation therapy with Desferal (Deferoxamine). This reduces the toxic side effects of excess iron"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "Frontal and maxillary bossing in a child with thalassemia is due to:",
+   "options": [
+    "Bone marrow expansion",
+    "Vitamin D deficiency",
+    "Trauma",
+    "Iron deficiency"
+   ],
+   "answer": "A",
+   "rationale": "Increased erythroid activity expands marrow cavities and thins the cortex, causing skeletal deformities.",
+   "explanations": [
+    "Correct.",
+    "Rickets.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Thalassemia major (PDF p. 146)",
+   "quote": "These lead to skeletal deformities (frontal and maxillary bossing)"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "Acute lymphocytic leukemia is most common in which group?",
+   "options": [
+    "Children 2–9 years",
+    "Adults over 60",
+    "Teen girls",
+    "Newborns"
+   ],
+   "answer": "A",
+   "rationale": "ALL peaks between ages 2 and 9 and is often cured with chemotherapy.",
+   "explanations": [
+    "Correct.",
+    "CLL more common.",
+    "Not peak.",
+    "Not peak."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Leukemias (PDF p. 147)",
+   "quote": "ALL (acute lymphocytic leukemia) is most common in children, with peak incidence between ages 2 and 9."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "For a neutropenic leukemia client, which should be removed from the room?",
+   "options": [
+    "Flower vase with water",
+    "Hand sanitizer",
+    "Disposable mask",
+    "Soft toothbrush"
+   ],
+   "answer": "A",
+   "rationale": "Avoid stagnant water (vases, denture cups, humidifiers), which breeds bacteria.",
+   "explanations": [
+    "Correct.",
+    "Keep.",
+    "Keep.",
+    "Keep."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Leukemia: preventing infection (PDF p. 148)",
+   "quote": "Avoid exposure to all sources of stagnant water (e.g. flower vases, denture cups, water pitchers, humidifiers and plants)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A neutropenic client becomes newly restless and confused. The nurse suspects:",
+   "options": [
+    "Early sepsis",
+    "Normal anxiety",
+    "Drug allergy",
+    "Low sodium only"
+   ],
+   "answer": "A",
+   "rationale": "Mental status changes are often the first subtle signs of sepsis in neutropenia, since fever may be blunted.",
+   "explanations": [
+    "Correct.",
+    "Don't assume.",
+    "Not likely.",
+    "Less likely."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Leukemia: preventing infection (PDF p. 148)",
+   "quote": "These changes are often the first subtle signs of sepsis."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "For a client with leukemia, which route of temperature taking is avoided?",
+   "options": [
+    "Rectal",
+    "Oral",
+    "Tympanic",
+    "Axillary"
+   ],
+   "answer": "A",
+   "rationale": "Avoid rectal temperatures, enemas and suppositories to prevent trauma, bleeding and perianal infection.",
+   "explanations": [
+    "Correct.",
+    "Acceptable.",
+    "Acceptable.",
+    "Acceptable."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Leukemia: preventing infection (PDF p. 148)",
+   "quote": "Prevent rectal trauma by avoiding rectal temperature, enema or suppositories."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A lymph node biopsy shows Reed–Sternberg cells. This confirms:",
+   "options": [
+    "Hodgkin's lymphoma",
+    "Multiple myeloma",
+    "Leukemia",
+    "Infectious mononucleosis"
+   ],
+   "answer": "A",
+   "rationale": "Reed–Sternberg cells are diagnostic of Hodgkin's disease; it presents with painless lymphadenopathy.",
+   "explanations": [
+    "Correct.",
+    "Bence Jones.",
+    "Marrow blasts.",
+    "Monospot."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Hodgkin's disease (PDF p. 150)",
+   "quote": "It is characterized by presence of Reed- Sternberg cells as detected by lymph node biopsy."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Which early finding is typical of Hodgkin's lymphoma?",
+   "options": [
+    "Painless enlarged neck nodes",
+    "Painful red nodes",
+    "Jaundice",
+    "Severe bleeding"
+   ],
+   "answer": "A",
+   "rationale": "Painless lymphadenopathy, often cervical, with fever, night sweats, weight loss and pruritus.",
+   "explanations": [
+    "Correct.",
+    "Infection.",
+    "Not typical.",
+    "Not typical."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Malignant lymphoma (PDF p. 149)",
+   "quote": "It is characterized by painless lymphadenopathy and splenomegaly."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A client with multiple myeloma is at greatest risk for:",
+   "options": [
+    "Pathologic fractures",
+    "Hypoglycemia",
+    "Hypertension",
+    "Weight gain"
+   ],
+   "answer": "A",
+   "rationale": "Plasma cells activate osteoclasts, causing bone destruction, pain, fractures and hypercalcemia.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Not typical.",
+    "Not typical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Multiple myeloma (PDF p. 151)",
+   "quote": "Severe bone pain due to bone destruction and pathologic fracture."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Which urine finding is associated with multiple myeloma?",
+   "options": [
+    "Bence Jones protein",
+    "Glucose",
+    "Ketones",
+    "Bilirubin"
+   ],
+   "answer": "A",
+   "rationale": "Abnormal light-chain proteins (Bence Jones) appear in blood and urine.",
+   "explanations": [
+    "Correct.",
+    "Diabetes.",
+    "DKA.",
+    "Liver."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Multiple myeloma (PDF p. 151)",
+   "quote": "Bence — Jones Protein in the blood and urine."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A college student with infectious mononucleosis has an enlarged spleen. The nurse teaches him to avoid:",
+   "options": [
+    "Contact sports",
+    "Warm saline gargles",
+    "Rest",
+    "Fluids"
+   ],
+   "answer": "A",
+   "rationale": "Splenomegaly risks rupture; avoid contact sports, cycling and heavy lifting.",
+   "explanations": [
+    "Correct.",
+    "Helpful.",
+    "Helpful.",
+    "Helpful."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Infectious mononucleosis (PDF p. 152)",
+   "quote": "avoid activities that may increase the risk of injury to the spleen (splenic rupture), such as contact sports"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "A child develops petechiae and nosebleeds 2 weeks after a viral illness. The nurse suspects:",
+   "options": [
+    "ITP",
+    "Hemophilia",
+    "Leukemia only",
+    "Iron deficiency"
+   ],
+   "answer": "A",
+   "rationale": "ITP often follows a viral infection in children; antiplatelet antibodies destroy platelets.",
+   "explanations": [
+    "Correct.",
+    "Inherited, joints.",
+    "Other signs too.",
+    "No bleeding."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 ITP (PDF p. 153)",
+   "quote": "It usually follows viral infection in children."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A septic client oozes blood from IV sites and has cold, mottled fingers. Labs show low platelets and prolonged PT. The nurse suspects:",
+   "options": [
+    "DIC",
+    "ITP",
+    "Hemophilia",
+    "Vitamin K excess"
+   ],
+   "answer": "A",
+   "rationale": "DIC: simultaneous clotting (mottling, acrocyanosis) and bleeding (oozing), low platelets and fibrinogen, prolonged PT/PTT.",
+   "explanations": [
+    "Correct.",
+    "No clotting.",
+    "Inherited.",
+    "Not this."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 DIC (PDF p. 154)",
+   "quote": "so that bleeding and thrombosis occur simultaneously"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother with Complications of Childbearing",
+   "situation": "",
+   "stem": "Which obstetric complication can trigger DIC?",
+   "options": [
+    "Abruptio placentae",
+    "Mild nausea",
+    "Braxton Hicks contractions",
+    "Linea nigra"
+   ],
+   "answer": "A",
+   "rationale": "Abruptio placentae, eclampsia, amniotic fluid embolism and retained dead fetus can cause DIC.",
+   "explanations": [
+    "Correct.",
+    "Benign.",
+    "Benign.",
+    "Benign."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 DIC causes (PDF p. 154)",
+   "quote": "Obstetric complications: abruptio placenta, eclampsia, amniotic fluid embolism, retention of dead fetus."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which product replaces fibrinogen in a client with DIC?",
+   "options": [
+    "Cryoprecipitate",
+    "Normal saline",
+    "Albumin",
+    "Packed RBCs"
+   ],
+   "answer": "A",
+   "rationale": "Cryoprecipitate replaces fibrinogen and clotting factors; FFP and platelets are also given.",
+   "explanations": [
+    "Correct.",
+    "Volume only.",
+    "Volume only.",
+    "Oxygen carriage."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 DIC management (PDF p. 154)",
+   "quote": "Cryoprecipitate replaces clotting factors and fibrinogen."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which drug may manage mild bleeding in von Willebrand disease?",
+   "options": [
+    "Desmopressin",
+    "Warfarin",
+    "Aspirin",
+    "Heparin"
+   ],
+   "answer": "A",
+   "rationale": "Desmopressin (DDAVP) raises von Willebrand factor and factor VIII; avoid aspirin and NSAIDs.",
+   "explanations": [
+    "Correct.",
+    "Anticoagulant.",
+    "Worsens bleeding.",
+    "Anticoagulant."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Von Willebrand's disease (PDF p. 155)",
+   "quote": "Desmopressin (DDAVP), to manage mild to moderate bleeding."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A woman with a bleeding disorder is menstruating. The nurse advises her to:",
+   "options": [
+    "Use pads and track pad count",
+    "Use tampons",
+    "Take aspirin for cramps",
+    "Douche daily"
+   ],
+   "answer": "A",
+   "rationale": "Monitor pad count and saturation; avoid tampons, aspirin and NSAIDs.",
+   "explanations": [
+    "Correct.",
+    "Trauma.",
+    "Bleeding.",
+    "Trauma."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 6 Bleeding precautions (PDF p. 146)",
+   "quote": "Monitor pad count for menstruating patient; avoid use of vaginal tampons."
+  }
+ ]
+}
