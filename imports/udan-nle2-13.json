@@ -1,0 +1,677 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Which is a function of the skin?",
+   "options": [
+    "Producing vitamin D",
+    "Producing insulin",
+    "Making red blood cells",
+    "Storing bile"
+   ],
+   "answer": "A",
+   "rationale": "Skin protects, regulates temperature, senses, secretes, excretes, limits water loss, and produces vitamin D.",
+   "explanations": [
+    "Correct.",
+    "Pancreas.",
+    "Bone marrow.",
+    "Gallbladder."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Skin functions (PDF p. 446)",
+   "quote": "It produces and absorbs vitamin D."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "After a skin biopsy, the client should be told that sutures are usually removed in:",
+   "options": [
+    "7–10 days",
+    "1–2 days",
+    "3 weeks",
+    "6 weeks"
+   ],
+   "answer": "A",
+   "rationale": "Keep the dressing on at least 8 hours, watch for bleeding and infection, and return for suture removal in 7–10 days.",
+   "explanations": [
+    "Correct.",
+    "Too early.",
+    "Too late.",
+    "Too late."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Skin biopsy (PDF p. 446)",
+   "quote": "Sutures are removed 7 — 10 days after surgery."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "When should a wound culture be collected for a client with an infected wound?",
+   "options": [
+    "Before the first antibiotic dose",
+    "After 3 days of antibiotics",
+    "Only if fever persists",
+    "After the wound heals"
+   ],
+   "answer": "A",
+   "rationale": "Antibiotics given first can prevent organisms from growing and give false results.",
+   "explanations": [
+    "Correct.",
+    "Results affected.",
+    "Delays treatment.",
+    "Too late."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Skin cultures (PDF p. 447)",
+   "quote": "Obtain skin culture samples before first dose of antibiotic."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Before swabbing a wound for culture, the nurse should first:",
+   "options": [
+    "Rinse the wound with sterile saline",
+    "Apply antibiotic ointment",
+    "Swab the dried crust",
+    "Use a cotton-tipped swab on pus"
+   ],
+   "answer": "A",
+   "rationale": "Rinsing removes surface debris so the swab samples the wound bed; use a non-cotton swab.",
+   "explanations": [
+    "Correct.",
+    "Kills organisms.",
+    "Surface contaminants.",
+    "Cotton not advised."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Wound culture (PDF p. 447)",
+   "quote": "Rinse wound thoroughly with sterile normal saline. Use non cotton tipped swab."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "How should the nurse prepare a client for a Wood's light examination?",
+   "options": [
+    "Darken the room",
+    "Give a sedative",
+    "Keep NPO for 8 hours",
+    "Shave the area"
+   ],
+   "answer": "A",
+   "rationale": "The skin is viewed under ultraviolet light in a darkened room to find superficial infections.",
+   "explanations": [
+    "Correct.",
+    "Not needed.",
+    "Not needed.",
+    "Not needed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Wood's light (PDF p. 447)",
+   "quote": "Darken the room prior to examination."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A client is scheduled for allergy skin testing. Which medication is usually stopped before the test?",
+   "options": [
+    "Antihistamines",
+    "Vitamins",
+    "Antacids",
+    "Laxatives"
+   ],
+   "answer": "A",
+   "rationale": "Antihistamines and systemic corticosteroids suppress the allergic response and cause false-negative results.",
+   "explanations": [
+    "Correct.",
+    "No effect.",
+    "No effect.",
+    "No effect."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Skin testing (PDF p. 447)",
+   "quote": "These medications inhibit allergic response and will make results inaccurate."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Which equipment must be ready during a scratch allergy test?",
+   "options": [
+    "Resuscitation equipment",
+    "A tourniquet",
+    "A heating pad",
+    "An ice pack only"
+   ],
+   "answer": "A",
+   "rationale": "The allergen may cause anaphylaxis, so resuscitation equipment and epinephrine must be available.",
+   "explanations": [
+    "Correct.",
+    "Not needed.",
+    "Not needed.",
+    "Not enough."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Skin testing (PDF p. 447)",
+   "quote": "Have resuscitation equipment available if scratch test is done, as it may induce anaphylactic reaction."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A farmer has a mole that has grown and changed color. The nurse recognizes this as a warning sign of:",
+   "options": [
+    "Skin cancer",
+    "Contact dermatitis",
+    "Psoriasis",
+    "Acne"
+   ],
+   "answer": "A",
+   "rationale": "Change in color, size or shape of a lesion, or a sore that does not heal, are warning signs; UV exposure is the main cause.",
+   "explanations": [
+    "Correct.",
+    "Itchy rash.",
+    "Scaly plaques.",
+    "Comedones."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Skin cancer (PDF p. 448)",
+   "quote": "Change in color, size or shape of preexisting lesion."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "To prevent skin cancer, a fisherman should be taught to:",
+   "options": [
+    "Avoid midday sun and use sunscreen",
+    "Tan gradually each morning",
+    "Use oil to protect the skin",
+    "Wear thin dark clothes only"
+   ],
+   "answer": "A",
+   "rationale": "Avoid sun from about 10 am to 3 pm, wear protective clothing and use sunscreen.",
+   "explanations": [
+    "Correct.",
+    "Still UV damage.",
+    "No protection.",
+    "Not enough."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Skin cancer (PDF p. 448)",
+   "quote": "Wear layered clothing and use sun — screening lotions when outdoors."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A client has an itchy red rash with vesicles where a new watch strap touches the skin. The nurse applies:",
+   "options": [
+    "Cool, wet dressings",
+    "A heating pad",
+    "Harsh soap scrubs",
+    "Tight bandages"
+   ],
+   "answer": "A",
+   "rationale": "Contact dermatitis: cool wet dressings, cool environment, avoid the allergen, harsh soaps and heat.",
+   "explanations": [
+    "Correct.",
+    "Worsens itch.",
+    "Irritates.",
+    "Trauma."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Contact dermatitis (PDF p. 448)",
+   "quote": "Apply cool, wet dressings and tepid sponge bath as prescribed."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A client has a red, warm, swollen, painful lower leg after a scratch. Which order does the nurse expect?",
+   "options": [
+    "Warm compresses and antibiotics",
+    "Ice packs every hour",
+    "Massage of the area",
+    "Tight elastic wrap"
+   ],
+   "answer": "A",
+   "rationale": "Cellulitis is treated with rest, warm compresses, and antibiotics after culture.",
+   "explanations": [
+    "Correct.",
+    "Not advised.",
+    "Spreads infection.",
+    "Impairs circulation."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Cellulitis (PDF p. 449)",
+   "quote": "Apply warm compresses 2 times per day to promote circulation and to decrease discomfort, erythema, and edema."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Raised red plaques covered with silvery-white scales on the elbows and knees suggest:",
+   "options": [
+    "Psoriasis",
+    "Herpes zoster",
+    "Kaposi's sarcoma",
+    "Erysipelas"
+   ],
+   "answer": "A",
+   "rationale": "Psoriasis is a chronic non-infectious disorder of rapid keratin turnover with silvery scales on extensor surfaces.",
+   "explanations": [
+    "Correct.",
+    "Vesicles along nerve.",
+    "Purple lesions.",
+    "Bright red, spreading."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Psoriasis (PDF p. 450)",
+   "quote": "Shedding silvery, white scales on a raised, reddened, round plaque"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "New psoriatic plaques appear along a recent scratch on a client's arm. This is called:",
+   "options": [
+    "Koebner's phenomenon",
+    "Auspitz sign",
+    "Nikolsky's sign",
+    "Raynaud's phenomenon"
+   ],
+   "answer": "A",
+   "rationale": "Koebner's phenomenon is the development of psoriatic lesions at a site of skin injury.",
+   "explanations": [
+    "Correct.",
+    "Bleeding points.",
+    "Skin sloughing.",
+    "Vasospasm."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Psoriasis (PDF p. 450)",
+   "quote": "Koebner's phenomenon. It is the development of psoriatic lesions at a site of injury."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Purplish, raised oblong skin lesions in a client with advanced HIV suggest:",
+   "options": [
+    "Kaposi's sarcoma",
+    "Psoriasis",
+    "Shingles",
+    "Melanoma only"
+   ],
+   "answer": "A",
+   "rationale": "Kaposi's sarcoma arises with immune failure, common in AIDS; punch biopsy confirms it.",
+   "explanations": [
+    "Correct.",
+    "Silver scales.",
+    "Vesicles.",
+    "Less typical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Kaposi's sarcoma (PDF p. 450)",
+   "quote": "This is common among clients with AIDS."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A client has painful vesicles in a band on one side of the chest. Who should avoid caring for him?",
+   "options": [
+    "A nurse who never had chickenpox",
+    "A nurse who had chickenpox",
+    "A nurse over 50",
+    "A male nurse"
+   ],
+   "answer": "A",
+   "rationale": "Herpes zoster lesions contain varicella-zoster virus and can cause chickenpox in non-immune people.",
+   "explanations": [
+    "Correct.",
+    "Immune.",
+    "Not relevant.",
+    "Not relevant."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Herpes zoster (PDF p. 451)",
+   "quote": "Herpes zoster is contagious to individuals who have not had chicken pox."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Which comfort measure helps a client with shingles?",
+   "options": [
+    "Loose cotton clothes",
+    "Wool blankets",
+    "Firm rubbing",
+    "Hot compresses"
+   ],
+   "answer": "A",
+   "rationale": "Warmth and touch worsen zoster pain; use a cool environment, bed cradle and light cotton clothes.",
+   "explanations": [
+    "Correct.",
+    "Aggravates.",
+    "Aggravates.",
+    "Aggravates."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Herpes zoster (PDF p. 451)",
+   "quote": "Use an air mattress and a bed cradle on the client's bed, and keep environment cool. Warmth and touch aggravate pain."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Before a teenage girl starts isotretinoin for severe acne, the nurse ensures:",
+   "options": [
+    "A negative pregnancy test",
+    "A low-fat diet",
+    "She stops brushing her teeth",
+    "She avoids water-based cosmetics"
+   ],
+   "answer": "A",
+   "rationale": "Isotretinoin is teratogenic; pregnancy must be excluded and prevented. Also stop vitamin A and avoid sun.",
+   "explanations": [
+    "Correct.",
+    "Not required.",
+    "Not related.",
+    "Recommended."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Acne vulgaris (PDF p. 452)",
+   "quote": "Assess for pregnancy before starting Isotretinoin. Isotretinoin is teratogenic"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A teen with acne asks if he must stop eating chocolate. The nurse explains:",
+   "options": [
+    "Food is not proven to cause acne",
+    "Chocolate is the main cause",
+    "He must avoid all fats",
+    "Nuts cause most acne"
+   ],
+   "answer": "A",
+   "rationale": "Hormones, heat, humidity and sweating play a role; there is no evidence that chocolate or nuts cause acne.",
+   "explanations": [
+    "Correct.",
+    "Myth.",
+    "Myth.",
+    "Myth."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Acne vulgaris (PDF p. 452)",
+   "quote": "There is no evidence that chocolate, nuts, fatty foods, or cosmetics affect acne."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Which advice is correct for a client with acne?",
+   "options": [
+    "Avoid squeezing or picking lesions",
+    "Scrub the face hard daily",
+    "Use oil-based creams",
+    "Expect clear skin in 3 days"
+   ],
+   "answer": "A",
+   "rationale": "Don't squeeze, prick or scrub; use water-based cosmetics; improvement takes 4–6 weeks.",
+   "explanations": [
+    "Correct.",
+    "Irritates.",
+    "Worsens acne.",
+    "Takes weeks."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Acne vulgaris (PDF p. 453)",
+   "quote": "Instruct the client not to scrub the face; not to squeeze, prick or pick at lesions."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A client says she gets itchy lips after eating banana and kiwi. The nurse should assess for:",
+   "options": [
+    "Latex allergy",
+    "Lactose intolerance",
+    "Gluten sensitivity",
+    "Shellfish allergy"
+   ],
+   "answer": "A",
+   "rationale": "Allergy to banana, kiwi, avocado, chestnut and similar foods is linked with latex allergy.",
+   "explanations": [
+    "Correct.",
+    "Milk.",
+    "Wheat.",
+    "Not linked."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Latex allergy (PDF p. 453)",
+   "quote": "The client who has allergy to the following are at risk to develop latex allergy: kiwi, banana"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Which item is safe to use for a client with latex allergy?",
+   "options": [
+    "Silk tape",
+    "Elastic bandage",
+    "Rubber catheter",
+    "Standard exam gloves"
+   ],
+   "answer": "A",
+   "rationale": "Use latex-free items such as cotton pads, plastic or silk tape and vinyl or nitrile gloves.",
+   "explanations": [
+    "Correct.",
+    "Contains latex.",
+    "Contains latex.",
+    "May contain latex."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Latex allergy (PDF p. 453)",
+   "quote": "If a client has latex allergy, use cotton pads, plastic or silk tape. These are latex — free products."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A client with scleroderma has fingers that turn white, then blue, in the cold. This is:",
+   "options": [
+    "Raynaud's phenomenon",
+    "Telangiectasia",
+    "Sclerodactyly",
+    "Calcinosis"
+   ],
+   "answer": "A",
+   "rationale": "Raynaud's is the R of CREST syndrome: vasospasm of the fingers with cold or stress.",
+   "explanations": [
+    "Correct.",
+    "Dilated capillaries.",
+    "Thick finger skin.",
+    "Calcium deposits."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Scleroderma (PDF p. 454)",
+   "quote": "R — aynaud's phenomenon"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Several villagers who butchered and ate a carabao that died suddenly now have painless skin ulcers with black centers. The nurse suspects:",
+   "options": [
+    "Cutaneous anthrax",
+    "Leprosy",
+    "Scabies",
+    "Impetigo"
+   ],
+   "answer": "A",
+   "rationale": "Anthrax spreads by handling or eating infected animals, not person to person; skin lesions become painless black ulcers.",
+   "explanations": [
+    "Correct.",
+    "Slow, anesthetic patches.",
+    "Itchy burrows.",
+    "Honey crusts."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Anthrax (PDF p. 454)",
+   "quote": "The sac becomes a painless ulcer with an area of black, dead tissue in the middle."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "A family asks whether anthrax spreads from a sick relative to them. The nurse explains that anthrax:",
+   "options": [
+    "Is not spread person to person",
+    "Spreads by coughing",
+    "Spreads by hugging",
+    "Spreads by shared plates"
+   ],
+   "answer": "A",
+   "rationale": "Anthrax is acquired from spores through skin, ingestion or inhalation; there is no person-to-person spread.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Anthrax (PDF p. 454)",
+   "quote": "There is no person-to-person contact."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "A child with honey-colored crusted sores around the nose had impetigo. Which later complication should the nurse watch for?",
+   "options": [
+    "Glomerulonephritis",
+    "Diabetes",
+    "Asthma",
+    "Hepatitis"
+   ],
+   "answer": "A",
+   "rationale": "Impetigo from group A streptococci may be followed by post-streptococcal glomerulonephritis (watch for tea-colored urine, edema).",
+   "explanations": [
+    "Correct.",
+    "Not linked.",
+    "Not linked.",
+    "Not linked."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Critical thinking answers (PDF p. 460)",
+   "quote": "Group A hemolytic streptococci can cause rheumatic fever and glomerulonephritis."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A client who started a new drug develops fever, painful purplish rash, blisters and peeling skin and mouth sores. The nurse suspects:",
+   "options": [
+    "Stevens-Johnson syndrome",
+    "Chickenpox",
+    "Contact dermatitis",
+    "Psoriasis"
+   ],
+   "answer": "A",
+   "rationale": "SJS is a severe hypersensitivity reaction to drugs or infection; stop the drug and treat as an emergency.",
+   "explanations": [
+    "Correct.",
+    "Vesicles, no peeling.",
+    "Localized.",
+    "Chronic plaques."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Stevens-Johnson syndrome (PDF p. 454)",
+   "quote": "Skin and mucous membrane react to a medication or infection"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Which dressing is best for a wound with heavy drainage?",
+   "options": [
+    "Alginate",
+    "Transparent film",
+    "Dry gauze only",
+    "Hydrogel"
+   ],
+   "answer": "A",
+   "rationale": "Alginates absorb heavy drainage and protect the wound bed; films suit shallow wounds and hydrogels add moisture.",
+   "explanations": [
+    "Correct.",
+    "Minimal drainage.",
+    "Sticks, less absorbent.",
+    "Dry wounds."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Moisture-retentive dressings (PDF p. 455)",
+   "quote": "Absorb heavy drainage and protect the wound bed"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "When applying a wet-to-damp dressing to a deep wound, the nurse should:",
+   "options": [
+    "Fill crevices with moist gauze",
+    "Pack dry gauze tightly",
+    "Leave it uncovered",
+    "Pack with clean gloves"
+   ],
+   "answer": "A",
+   "rationale": "Moist sterile gauze fills all crevices, then a dry dressing covers it; sterile gloves are used.",
+   "explanations": [
+    "Correct.",
+    "Damages tissue.",
+    "Not this.",
+    "Sterile needed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 13 Wet-to-damp dressing (PDF p. 455)",
+   "quote": "Pack all crevices and depressions in wound."
+  }
+ ]
+}

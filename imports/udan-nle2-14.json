@@ -1,0 +1,725 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "About two-thirds of total body water is found in the:",
+   "options": [
+    "Intracellular compartment",
+    "Interstitial spaces",
+    "Plasma",
+    "Transcellular fluids"
+   ],
+   "answer": "A",
+   "rationale": "ICF holds about 2/3 of body water; ECF (interstitial, plasma, transcellular) holds about 1/3.",
+   "explanations": [
+    "Correct.",
+    "Part of ECF.",
+    "Part of ECF.",
+    "Small part of ECF."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Body fluid compartments (PDF p. 461)",
+   "quote": "It comprises 2/3 (70%) ofthe body fluid."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Why do women have a lower percentage of body water than men?",
+   "options": [
+    "More fat tissue",
+    "Larger kidneys",
+    "Higher salt intake",
+    "Less body fat"
+   ],
+   "answer": "A",
+   "rationale": "Muscle holds water while fat does not; men are about 60% water, women about 50%, infants about 80%.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Opposite."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Body water (PDF p. 461)",
+   "quote": "Females have more adipose tissues than males. Fats do not store water."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Which hormone causes the kidneys to retain sodium and excrete potassium?",
+   "options": [
+    "Aldosterone",
+    "ADH",
+    "Insulin",
+    "Calcitonin"
+   ],
+   "answer": "A",
+   "rationale": "Aldosterone is \"pro-sodium, anti-potassium\"; excess causes hypokalemia, deficiency (Addison's) hyperkalemia.",
+   "explanations": [
+    "Correct.",
+    "Retains water.",
+    "Moves K into cells.",
+    "Lowers calcium."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Potassium regulation (PDF p. 462)",
+   "quote": "Aldosterone retains sodium and excretes potassium."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "The most reliable indicator of a client's fluid loss over 24 hours is:",
+   "options": [
+    "Daily weight",
+    "Skin turgor",
+    "Thirst",
+    "Body temperature"
+   ],
+   "answer": "A",
+   "rationale": "Weight change is the most objective indicator of fluid deficit or excess; urine output comes next.",
+   "explanations": [
+    "Correct.",
+    "Unreliable in elderly.",
+    "Subjective.",
+    "Not specific."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Dehydration (PDF p. 463)",
+   "quote": "The most objective indicator of dehydration is weight loss, next is decreased urine output."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Which laboratory finding is expected in a dehydrated client?",
+   "options": [
+    "Increased hematocrit",
+    "Decreased BUN",
+    "Low urine specific gravity",
+    "Decreased serum sodium"
+   ],
+   "answer": "A",
+   "rationale": "Water loss concentrates the blood: hematocrit, BUN and electrolytes rise; urine is concentrated.",
+   "explanations": [
+    "Correct.",
+    "Rises.",
+    "High.",
+    "Rises."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Dehydration (PDF p. 463)",
+   "quote": "Increased hematocrit (hemoconcentration), BUN, serum electrolyte levels."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A child given repeated tap-water enemas becomes confused and has a seizure. The most likely cause is:",
+   "options": [
+    "Water intoxication",
+    "Dehydration",
+    "Hypercalcemia",
+    "Metabolic alkalosis"
+   ],
+   "answer": "A",
+   "rationale": "Electrolyte-free water shifts into cells; brain swelling raises ICP and causes confusion and seizures.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Lethargy.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Water intoxication (PDF p. 463)",
+   "quote": "The most dangerous effect of water intoxication is increased ICP."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Edema after an axillary node dissection for breast cancer is due to:",
+   "options": [
+    "Lymphatic obstruction",
+    "Low capillary pressure",
+    "High albumin",
+    "Dehydration"
+   ],
+   "answer": "A",
+   "rationale": "Removal of lymph nodes blocks lymph drainage, so fluid collects in the tissues (lymphedema).",
+   "explanations": [
+    "Correct.",
+    "Would reduce edema.",
+    "Would reduce edema.",
+    "Not edema."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Edema (PDF p. 464)",
+   "quote": "Lymphatic obstruction, e.g. removal of lymph nodes in mastectomy"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client with liver cirrhosis has ascites and low serum albumin. The edema is mainly due to:",
+   "options": [
+    "Low colloid osmotic pressure",
+    "High capillary permeability",
+    "Lymph node removal",
+    "Low hydrostatic pressure"
+   ],
+   "answer": "A",
+   "rationale": "Albumin holds fluid in vessels; hypoalbuminemia lowers oncotic pressure and fluid leaks out.",
+   "explanations": [
+    "Correct.",
+    "Burns, inflammation.",
+    "Not this case.",
+    "Would reduce edema."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Edema (PDF p. 464)",
+   "quote": "Decreased colloidal osmotic pressure (C.O.P.) or oncotic pressure (O.P.), e.g., hypoalbuminemia."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client on furosemide has a serum sodium of 124 mEq/L, headache and confusion. The nurse's priority is:",
+   "options": [
+    "Seizure and fall precautions",
+    "Encouraging plain water",
+    "High-potassium diet",
+    "Ambulating alone"
+   ],
+   "answer": "A",
+   "rationale": "Hyponatremia makes cells swell and can cause seizures; promote safety and give sodium as prescribed.",
+   "explanations": [
+    "Correct.",
+    "Worsens it.",
+    "Not the priority.",
+    "Unsafe."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Hyponatremia (PDF p. 465)",
+   "quote": "Safety precautions, e.g., use of side rails, supervision of ambulation."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "An elderly client with high fever has extreme thirst, a dry sticky tongue and restlessness. Sodium is 152 mEq/L. This is:",
+   "options": [
+    "Hypernatremia",
+    "Hyponatremia",
+    "Hypokalemia",
+    "Hypocalcemia"
+   ],
+   "answer": "A",
+   "rationale": "Hypernatremia draws water out of cells: intense thirst, sticky membranes, restlessness and disorientation.",
+   "explanations": [
+    "Correct.",
+    "Low sodium.",
+    "Weakness, ileus.",
+    "Tetany."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Hypernatremia (PDF p. 466)",
+   "quote": "Extreme thirst Dry, sticky mucous membrane"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client on furosemide has muscle weakness, abdominal distention and weak reflexes. Which electrolyte is likely low?",
+   "options": [
+    "Potassium",
+    "Calcium",
+    "Magnesium",
+    "Sodium"
+   ],
+   "answer": "A",
+   "rationale": "In hypokalemia \"everything is low and slow\": weakness, ileus, diminished reflexes, dysrhythmias.",
+   "explanations": [
+    "Correct.",
+    "Tetany.",
+    "Tremors.",
+    "Confusion."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Hypokalemia (PDF p. 466)",
+   "quote": "In hypokalemia, \"Everything is low and slow."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Before adding potassium chloride to an IV infusion, the nurse must first check:",
+   "options": [
+    "Urine output",
+    "Blood sugar",
+    "Temperature",
+    "Pupil size"
+   ],
+   "answer": "A",
+   "rationale": "Potassium is excreted by the kidneys; confirm adequate urine output (at least 30 mL/hour) before giving it.",
+   "explanations": [
+    "Correct.",
+    "Not related.",
+    "Not related.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Potassium replacement (PDF p. 475)",
+   "quote": "Ensure that urine output is adequate, 30 50 mls/hour before administering potassium."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "An order reads \"KCl 20 mEq IV push now.\" The nurse should:",
+   "options": [
+    "Withhold it and clarify the order",
+    "Give it slowly over 1 minute",
+    "Give it rapidly",
+    "Dilute it in 5 mL and push"
+   ],
+   "answer": "A",
+   "rationale": "Potassium chloride is never given IV push; it can cause fatal dysrhythmias. It is diluted and infused slowly.",
+   "explanations": [
+    "Correct.",
+    "Still a push.",
+    "Fatal risk.",
+    "Still a push."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Hypokalemia (PDF p. 467)",
+   "quote": "NEVER administer Potassium Chloride per IV push or direct IV."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Which ECG change is typical of hyperkalemia?",
+   "options": [
+    "Tall, peaked T waves",
+    "Prominent U waves",
+    "Shortened QT",
+    "Flat T waves"
+   ],
+   "answer": "A",
+   "rationale": "Hyperkalemia causes peaked T waves, widened QRS and flat P waves; hypokalemia causes U waves and flat T.",
+   "explanations": [
+    "Correct.",
+    "Hypokalemia.",
+    "Hypercalcemia.",
+    "Hypokalemia."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 ECG changes (PDF p. 472)",
+   "quote": "Tall peaked T waves"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client in kidney failure has a potassium of 6.8 mEq/L and ECG changes. Which drug is given first to protect the heart?",
+   "options": [
+    "Calcium gluconate IV",
+    "Potassium chloride IV",
+    "Magnesium sulfate IV",
+    "Furosemide PO"
+   ],
+   "answer": "A",
+   "rationale": "IV calcium stabilizes the myocardium; insulin with dextrose, resins and dialysis then lower potassium.",
+   "explanations": [
+    "Correct.",
+    "Worsens.",
+    "Not this.",
+    "Too slow."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Hyperkalemia (PDF p. 468)",
+   "quote": "Calcium gluconate per IV as prescribed. This is the antidote of hyperkalemia."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Regular insulin with dextrose is given for hyperkalemia because insulin:",
+   "options": [
+    "Moves potassium into the cells",
+    "Excretes potassium in stool",
+    "Binds potassium in the gut",
+    "Raises potassium excretion in sweat"
+   ],
+   "answer": "A",
+   "rationale": "Insulin shifts potassium into cells, quickly lowering serum levels; dextrose prevents hypoglycemia.",
+   "explanations": [
+    "Correct.",
+    "Resin action.",
+    "Resin action.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Hyperkalemia (PDF p. 468)",
+   "quote": "Dextrose 10% in water with regular insulin per IV as prescribed."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "After a thyroidectomy, the nurse inflates a BP cuff and the client's hand goes into spasm. This is:",
+   "options": [
+    "Trousseau's sign of hypocalcemia",
+    "Chvostek's sign of hypercalcemia",
+    "Homans' sign",
+    "Kernig's sign"
+   ],
+   "answer": "A",
+   "rationale": "Carpal spasm with a BP cuff is Trousseau's sign; facial twitching on tapping is Chvostek's. Both indicate low calcium.",
+   "explanations": [
+    "Correct.",
+    "Wrong sign and level.",
+    "Not this.",
+    "Meningitis."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Hypocalcemia (PDF p. 468)",
+   "quote": "Muscles: muscle spasm, tetany (Chvostek's sign and Trousseau's sign)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A trauma client received many units of citrated blood. The nurse watches for:",
+   "options": [
+    "Hypocalcemia",
+    "Hypernatremia",
+    "Hypercalcemia",
+    "Hypomagnesemia only"
+   ],
+   "answer": "A",
+   "rationale": "Citrate binds ionized calcium, so massive transfusion can cause hypocalcemia (tingling, tetany).",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Opposite.",
+    "Not the main one."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Hypocalcemia (PDF p. 468)",
+   "quote": "large blood transfusion with citrated blood"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A bedridden client with bone metastases has constipation, lethargy and weak reflexes. Calcium is high. The nurse encourages:",
+   "options": [
+    "3–4 liters of fluid daily",
+    "Calcium-rich foods",
+    "Strict bed rest",
+    "Calcium antacids"
+   ],
+   "answer": "A",
+   "rationale": "Hypercalcemia: increase fluids to prevent dehydration and kidney stones; mobilize and avoid calcium sources.",
+   "explanations": [
+    "Correct.",
+    "Worsens.",
+    "Worsens bone loss.",
+    "Adds calcium."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Hypercalcemia (PDF p. 470)",
+   "quote": "Increase fluid intake (3 to 4 L/day). To prevent dehydration due to polyuria and to prevent renal stone formation."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client with chronic alcoholism has tremors, hyperactive reflexes and tetany. Which electrolyte is likely low?",
+   "options": [
+    "Magnesium",
+    "Potassium",
+    "Sodium",
+    "Phosphate"
+   ],
+   "answer": "A",
+   "rationale": "Hypomagnesemia (from malnutrition, alcohol withdrawal) increases acetylcholine release: tremors, tetany, seizures.",
+   "explanations": [
+    "Correct.",
+    "Weak reflexes.",
+    "Confusion.",
+    "Weakness."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Hypomagnesemia (PDF p. 470)",
+   "quote": "prolonged malnutrition or starvation; malabsorption syndromes, hypercalcemia, alcohol withdrawal syndromes"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client with renal failure using magnesium antacids has drowsiness, low BP and absent deep tendon reflexes. The nurse suspects:",
+   "options": [
+    "Hypermagnesemia",
+    "Hypomagnesemia",
+    "Hypocalcemia",
+    "Hypokalemia"
+   ],
+   "answer": "A",
+   "rationale": "Excess magnesium depresses neuromuscular activity; calcium gluconate is the antagonist.",
+   "explanations": [
+    "Correct.",
+    "Hyperreflexia.",
+    "Hyperreflexia.",
+    "Not with antacids."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Hypermagnesemia (PDF p. 471)",
+   "quote": "Diminished or loss of deep tendon reflexes."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client on digoxin is most at risk for toxicity if which lab value is present?",
+   "options": [
+    "Low potassium",
+    "High sodium",
+    "Low calcium",
+    "High magnesium"
+   ],
+   "answer": "A",
+   "rationale": "Hypokalemia, hypomagnesemia and hypercalcemia all increase the risk of digitalis toxicity.",
+   "explanations": [
+    "Correct.",
+    "Not linked.",
+    "High calcium is the risk.",
+    "Low Mg is the risk."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Electrolyte replacement (PDF p. 475)",
+   "quote": "Hypomagnesemia + Digoxin = Digitalis Toxicity"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client oversedated with morphine has a respiratory rate of 6. The ABG will most likely show:",
+   "options": [
+    "Respiratory acidosis",
+    "Respiratory alkalosis",
+    "Metabolic alkalosis",
+    "Normal values"
+   ],
+   "answer": "A",
+   "rationale": "Hypoventilation retains CO2, lowering pH: respiratory acidosis.",
+   "explanations": [
+    "Correct.",
+    "Hyperventilation.",
+    "Vomiting.",
+    "Not with RR 6."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Respiratory acidosis (PDF p. 472)",
+   "quote": "Disorders that lead to hypoventilation result to retention of carbon dioxide."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "An anxious student breathing fast before her board exam reports tingling fingers and lightheadedness. This suggests:",
+   "options": [
+    "Respiratory alkalosis",
+    "Respiratory acidosis",
+    "Metabolic acidosis",
+    "Metabolic alkalosis"
+   ],
+   "answer": "A",
+   "rationale": "Hyperventilation blows off CO2 and causes respiratory alkalosis; coach slow breathing and treat the cause.",
+   "explanations": [
+    "Correct.",
+    "Hypoventilation.",
+    "Kussmaul pattern.",
+    "Vomiting, base intake."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Respiratory alkalosis (PDF p. 473)",
+   "quote": "lightheadedness; numbness, tingling of fingers and toes, tetany"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client in diabetic ketoacidosis has deep, rapid breathing. This breathing pattern is an attempt to:",
+   "options": [
+    "Blow off CO2 to raise pH",
+    "Retain CO2",
+    "Increase oxygen only",
+    "Lower blood sugar"
+   ],
+   "answer": "A",
+   "rationale": "Kussmaul breathing compensates for metabolic acidosis by exhaling CO2.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Not the aim.",
+    "Not the aim."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Metabolic acidosis (PDF p. 473)",
+   "quote": "Kussmaul's breathing (deep, rapid breathing which is an attempt to blow ofTC02)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client with an NG tube on continuous suction for 3 days is at risk for:",
+   "options": [
+    "Metabolic alkalosis",
+    "Metabolic acidosis",
+    "Respiratory acidosis",
+    "Hyperkalemia"
+   ],
+   "answer": "A",
+   "rationale": "Loss of gastric acid (vomiting, suction, lavage) causes metabolic alkalosis with hypokalemia.",
+   "explanations": [
+    "Correct.",
+    "Diarrhea, DKA.",
+    "Hypoventilation.",
+    "Hypokalemia occurs."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Metabolic alkalosis (PDF p. 474)",
+   "quote": "vomiting, gastric suctioning, intestinal fistulas."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Acidosis is commonly accompanied by which potassium change?",
+   "options": [
+    "Hyperkalemia",
+    "Hypokalemia",
+    "No change",
+    "Hypokalemia only in children"
+   ],
+   "answer": "A",
+   "rationale": "In acidosis, potassium shifts out of cells and its excretion falls (hyperkalemia); alkalosis causes hypokalemia.",
+   "explanations": [
+    "Correct.",
+    "Alkalosis.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Potassium regulation (PDF p. 462)",
+   "quote": "(Alkalosis: hypokalemia; Acidosis: hyperkalemia)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client drank 10 oz of soup, 8 oz of water and 4 oz of juice. What is the intake to record?",
+   "options": [
+    "660 mL",
+    "440 mL",
+    "550 mL",
+    "770 mL"
+   ],
+   "answer": "A",
+   "rationale": "1 oz = 30 mL; 22 oz × 30 = 660 mL.",
+   "explanations": [
+    "Correct.",
+    "Miscalculated.",
+    "Miscalculated.",
+    "Miscalculated."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Critical thinking answers (PDF p. 481)",
+   "quote": "One oz. is equivalent to 30 ml."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client on TPN has a blood glucose of 260 mg/dL. Which may be the cause?",
+   "options": [
+    "Infusion running too fast",
+    "Low dextrose content",
+    "Too much fat",
+    "Infection of the site only"
+   ],
+   "answer": "A",
+   "rationale": "TPN is hypertonic dextrose; too rapid an infusion causes hyperglycemia. Insulin may be added as ordered.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Not the cause.",
+    "Not the main cause."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Nutritional support (PDF p. 476)",
+   "quote": "Hyperglycemia may also occur when infusion rate for TPN is too rapid."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "The most common complication of TPN is:",
+   "options": [
+    "Catheter-site infection",
+    "Hypocalcemia",
+    "Hearing loss",
+    "Dehydration"
+   ],
+   "answer": "A",
+   "rationale": "Infection is the most common complication; use strict asepsis and change the solution and tubing as scheduled.",
+   "explanations": [
+    "Correct.",
+    "Not most common.",
+    "Not related.",
+    "Not typical."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 14 Nutritional support (PDF p. 476)",
+   "quote": "The most common complication of TPN infusion is infection, especially at the insertion site of TPN catheter."
+  }
+ ]
+}
