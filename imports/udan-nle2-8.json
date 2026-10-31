@@ -1,0 +1,773 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Which liver enzyme is most specific to liver cell damage?",
+   "options": [
+    "ALT",
+    "AST",
+    "LDH",
+    "Amylase"
+   ],
+   "answer": "A",
+   "rationale": "ALT (SGPT) is produced mainly by the liver, making it the most specific liver enzyme.",
+   "explanations": [
+    "Correct.",
+    "Also heart, muscle.",
+    "Many tissues.",
+    "Pancreas."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Serum enzymes (PDF p. 217)",
+   "quote": "ALT is thc most specific indicator of liver function because it is produced only by the liver."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "During liver biopsy needle insertion, the client is told to:",
+   "options": [
+    "Exhale and hold the breath",
+    "Take deep breaths",
+    "Cough",
+    "Talk to relax"
+   ],
+   "answer": "A",
+   "rationale": "Exhaling and holding the breath keeps the diaphragm still and prevents injury.",
+   "explanations": [
+    "Correct.",
+    "Moves liver.",
+    "Moves liver.",
+    "Moves liver."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Liver biopsy (PDF p. 217)",
+   "quote": "Instruct client to exhale deeply; hold breath for 5-10 seconds, during needle insertion."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "After liver biopsy, the client is positioned on the right side to:",
+   "options": [
+    "Press on the site",
+    "Ease breathing",
+    "Aid digestion",
+    "Prevent vomiting"
+   ],
+   "answer": "A",
+   "rationale": "Lying on the right side presses on the puncture site; bleeding is the most common complication.",
+   "explanations": [
+    "Correct.",
+    "Not the aim.",
+    "Not the aim.",
+    "Not the aim."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Liver biopsy (PDF p. 217)",
+   "quote": "Turn the client to right side for 4 hours to apply pressure and prevent bleeding."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Before paracentesis, the nurse asks the client to:",
+   "options": [
+    "Empty the bladder",
+    "Drink 1 liter of water",
+    "Lie prone",
+    "Hold his breath"
+   ],
+   "answer": "A",
+   "rationale": "Emptying the bladder prevents accidental bladder puncture; the client sits upright.",
+   "explanations": [
+    "Correct.",
+    "Fills bladder.",
+    "Not the position.",
+    "Not needed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Paracentesis (PDF p. 218)",
+   "quote": "Ask client to empty the bladder to prevent puncture."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "After a large-volume paracentesis, the nurse watches especially for:",
+   "options": [
+    "Hypovolemic shock",
+    "Hypertension",
+    "Bradycardia",
+    "Hyperglycemia"
+   ],
+   "answer": "A",
+   "rationale": "Removing protein-rich ascitic fluid can shift fluid and cause hypovolemia and shock.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Not typical.",
+    "Not typical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Paracentesis (PDF p. 218)",
+   "quote": "Signs and symptoms of hypovolemic shock."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "The primary pathophysiology underlying the complications of liver cirrhosis is:",
+   "options": [
+    "Portal hypertension",
+    "Hyperglycemia",
+    "Hypertension of the arms",
+    "Kidney stones"
+   ],
+   "answer": "A",
+   "rationale": "Fibrosis obstructs flow and raises portal pressure, causing varices, ascites and splenomegaly.",
+   "explanations": [
+    "Correct.",
+    "Not primary.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Liver cirrhosis (PDF p. 220)",
+   "quote": "These 3 factors eventually lead to portal hypertension (the primary pathophysiology of liver cirrhosis)."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Which is often the earliest sign of liver cirrhosis?",
+   "options": [
+    "Anorexia",
+    "Ascites",
+    "Jaundice",
+    "Asterixis"
+   ],
+   "answer": "A",
+   "rationale": "Anorexia is an early sign of impaired liver function; ascites, jaundice and asterixis come later.",
+   "explanations": [
+    "Correct.",
+    "Late.",
+    "Later.",
+    "Late."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Liver cirrhosis (PDF p. 220)",
+   "quote": "Anorexia is an initial manifestation to liver function impairment."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Ascites in cirrhosis results from portal hypertension and:",
+   "options": [
+    "Low serum albumin",
+    "High serum sodium",
+    "High blood sugar",
+    "Low potassium"
+   ],
+   "answer": "A",
+   "rationale": "Low albumin lowers colloid osmotic pressure, shifting fluid into the peritoneal cavity.",
+   "explanations": [
+    "Correct.",
+    "Not the main cause.",
+    "Not related.",
+    "Not the cause."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Ascites (PDF p. 221)",
+   "quote": "Ascites is also due to hypoalbuminemia."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A client with cirrhosis has a flapping tremor of the hands when the wrists are extended. This is:",
+   "options": [
+    "Asterixis",
+    "Normal tremor",
+    "Tetany",
+    "Seizure"
+   ],
+   "answer": "A",
+   "rationale": "Asterixis (liver flap) reflects elevated ammonia and impending hepatic encephalopathy.",
+   "explanations": [
+    "Correct.",
+    "Not normal.",
+    "Low calcium.",
+    "Different."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Asterixis (PDF p. 222)",
+   "quote": "This results from neurologic function impairment due to elevated serum ammonia levels."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Which diuretic is the drug of choice for ascites in cirrhosis?",
+   "options": [
+    "Spironolactone",
+    "Hydrochlorothiazide",
+    "Mannitol",
+    "Acetazolamide"
+   ],
+   "answer": "A",
+   "rationale": "Spironolactone counters the high aldosterone of cirrhosis; furosemide may be added.",
+   "explanations": [
+    "Correct.",
+    "Not first.",
+    "Not used.",
+    "Not used."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Relieve ascites (PDF p. 223)",
+   "quote": "Ihe drug of choice is Aldactone (Spironolactone)"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "To monitor ascites, the nurse measures daily:",
+   "options": [
+    "Weight and abdominal girth",
+    "Blood pressure only",
+    "Temperature",
+    "Pupil size"
+   ],
+   "answer": "A",
+   "rationale": "Daily weights, abdominal girth and intake and output track fluid accumulation.",
+   "explanations": [
+    "Correct.",
+    "Not enough.",
+    "Not specific.",
+    "Not related."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Relieve ascites (PDF p. 223)",
+   "quote": "Monitor daily weights, abdominal girth; intake and output"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client with esophageal varices should be taught to avoid:",
+   "options": [
+    "Straining at stool",
+    "Soft foods",
+    "Rest",
+    "Stool softeners"
+   ],
+   "answer": "A",
+   "rationale": "Straining, shouting, coughing, lifting and rough or spicy foods raise pressure and can rupture varices.",
+   "explanations": [
+    "Correct.",
+    "Encouraged.",
+    "Encouraged.",
+    "Encouraged."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Prevent rupture of varices (PDF p. 224)",
+   "quote": "Straining at stool (administer stool softeners as prescribed)."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A client on lactulose for high ammonia has 3 soft stools a day. The nurse recognizes this as:",
+   "options": [
+    "The expected effect",
+    "Toxicity",
+    "Need for more drug",
+    "Infection"
+   ],
+   "answer": "A",
+   "rationale": "Lactulose acidifies the colon and traps ammonia; 2–3 soft stools daily is expected. Report more than 4.",
+   "explanations": [
+    "Correct.",
+    "Not toxicity.",
+    "Not needed.",
+    "Not infection."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Reduce ammonia (PDF p. 225)",
+   "quote": "If it is mote than 4 watery stools a day, notify the physician."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "The most important teaching for a client with alcoholic cirrhosis is to:",
+   "options": [
+    "Stop drinking alcohol",
+    "Eat more salt",
+    "Exercise hard",
+    "Take aspirin daily"
+   ],
+   "answer": "A",
+   "rationale": "Avoiding alcohol is the most important teaching; avoid aspirin (bleeding) and high sodium.",
+   "explanations": [
+    "Correct.",
+    "Worsens ascites.",
+    "Not the priority.",
+    "Bleeding."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Cirrhosis management (PDF p. 225)",
+   "quote": "Most important client teaching: Avoid alcohol."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Several children in a barangay with a contaminated water source develop jaundice. If this is hepatitis A, the most likely mode of transmission is:",
+   "options": [
+    "Fecal-oral route",
+    "Blood transfusion",
+    "Sexual contact only",
+    "Mosquito bites"
+   ],
+   "answer": "A",
+   "rationale": "HAV spreads fecal-orally via contaminated water, food, shellfish and poor sanitation.",
+   "explanations": [
+    "Correct.",
+    "Hepatitis B/C.",
+    "Mainly B.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Hepatitis A (PDF p. 226)",
+   "quote": "Transmission: feco o— oral route, contaminated water or milk, uncooked shellfish"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Which hepatitis virus can only infect a person who also has hepatitis B?",
+   "options": [
+    "Hepatitis D",
+    "Hepatitis A",
+    "Hepatitis C",
+    "Hepatitis E"
+   ],
+   "answer": "A",
+   "rationale": "Hepatitis D (delta agent) requires co-infection with hepatitis B.",
+   "explanations": [
+    "Correct.",
+    "Independent.",
+    "Independent.",
+    "Independent."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Hepatitis D (PDF p. 227)",
+   "quote": "Co —infection of hepatitis B."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Which hepatitis is waterborne and linked to poor sewage disposal?",
+   "options": [
+    "Hepatitis E",
+    "Hepatitis B",
+    "Hepatitis C",
+    "Hepatitis D"
+   ],
+   "answer": "A",
+   "rationale": "Hepatitis E spreads like hepatitis A, via contaminated water where sanitation is poor.",
+   "explanations": [
+    "Correct.",
+    "Blood/sexual.",
+    "Blood.",
+    "With B."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Hepatitis E (PDF p. 227)",
+   "quote": "Is waterborne virus. Prevalent in areas where sewage disposal is inadequate"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Which home teaching is correct for a client with hepatitis A?",
+   "options": [
+    "Do not prepare food for the family",
+    "Share towels freely",
+    "Donate blood after 1 week",
+    "Drink alcohol moderately"
+   ],
+   "answer": "A",
+   "rationale": "Strict handwashing, no food preparation for others, separate utensils and towels, no alcohol, no blood donation.",
+   "explanations": [
+    "Correct.",
+    "Spreads infection.",
+    "Never donate.",
+    "Hepatotoxic."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Client education for hepatitis (PDF p. 227)",
+   "quote": "The client must not prepare food for other family members."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A woman has RUQ pain radiating to the right shoulder blade after a fatty meal. The nurse suspects:",
+   "options": [
+    "Cholecystitis",
+    "Appendicitis",
+    "Pancreatitis",
+    "Peptic ulcer"
+   ],
+   "answer": "A",
+   "rationale": "Gallbladder pain follows fatty meals, radiates to the right scapula and comes with fat intolerance and belching.",
+   "explanations": [
+    "Correct.",
+    "RLQ.",
+    "Epigastric to back.",
+    "Related to meals, epigastric."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Cholelithiasis (PDF p. 229)",
+   "quote": "Epigastric pain that radiates to the scapula 2 to 4 hours after eating fatty foods"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A gallstone blocks the common bile duct. Stools will likely be:",
+   "options": [
+    "Clay-colored",
+    "Black and tarry",
+    "Green",
+    "Bright red"
+   ],
+   "answer": "A",
+   "rationale": "Without bile pigment reaching the bowel, stools become acholic (pale, gray, clay-colored).",
+   "explanations": [
+    "Correct.",
+    "Upper GI bleed.",
+    "Not typical.",
+    "Lower GI bleed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Biliary obstruction (PDF p. 229)",
+   "quote": "Acholic stool (pale/gray/clay — colored stool)"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A client with biliary obstruction is at risk for bleeding because of poor absorption of:",
+   "options": [
+    "Vitamin K",
+    "Vitamin C",
+    "Iron",
+    "Folate"
+   ],
+   "answer": "A",
+   "rationale": "Absent bile prevents vitamin K absorption, lowering clotting factors; vitamin K may be given before surgery.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Biliary obstruction (PDF p. 229)",
+   "quote": "Decreased vitamin K absorption in the colon (leads to bleeding tendencies)."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "After laparoscopic cholecystectomy, a client reports shoulder pain. The nurse explains it is due to:",
+   "options": [
+    "CO2 gas used in surgery",
+    "A heart attack",
+    "Bleeding",
+    "Wrong positioning only"
+   ],
+   "answer": "A",
+   "rationale": "Abdominal insufflation with CO2 irritates the diaphragm, causing referred shoulder pain and bloating.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Not typical.",
+    "Not the cause."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Laparoscopic cholecystectomy (PDF p. 231)",
+   "quote": "the client normally experiences bloatedness and abdominal pain 'that radiates to the shoulders"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "After choledochotomy, the T-tube drainage bag should be kept:",
+   "options": [
+    "Below the gallbladder",
+    "Above the abdomen",
+    "Clamped at all times",
+    "Tied on the floor"
+   ],
+   "answer": "A",
+   "rationale": "Keeping the bag below the gallbladder allows excess bile to drain by gravity.",
+   "explanations": [
+    "Correct.",
+    "Backflow.",
+    "Not routine.",
+    "Not appropriate."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 T-tube (PDF p. 232)",
+   "quote": "The drainage bottle should be placed in bed, below the level of the gallbladder."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "The main purpose of a T-tube after common bile duct exploration is to:",
+   "options": [
+    "Drain bile while the duct heals",
+    "Irrigate the stomach",
+    "Give medications",
+    "Feed the client"
+   ],
+   "answer": "A",
+   "rationale": "It drains bile, keeps the swollen duct patent and prevents bile peritonitis.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 T-tube (PDF p. 232)",
+   "quote": "To drain bile from the common bile duct and minimize amount of bile flowing into the duodenum."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Which lab is the most specific indicator of acute pancreatitis?",
+   "options": [
+    "Serum lipase",
+    "Serum ALT",
+    "Serum potassium",
+    "Hemoglobin"
+   ],
+   "answer": "A",
+   "rationale": "Lipase is solely pancreatic in origin; amylase is also elevated.",
+   "explanations": [
+    "Correct.",
+    "Liver.",
+    "Not specific.",
+    "Not specific."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Pancreatitis (PDF p. 233)",
+   "quote": "Elevated serum lipase (one of the most specific indicators of acute pancreatitis because lipase is solely of pancreatic origin)."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Bluish discoloration around the umbilicus in severe pancreatitis is:",
+   "options": [
+    "Cullen's sign",
+    "Grey Turner's sign",
+    "Murphy's sign",
+    "Chvostek's sign"
+   ],
+   "answer": "A",
+   "rationale": "Cullen's sign is periumbilical; Grey Turner's is on the flanks; both signal hemorrhagic pancreatitis.",
+   "explanations": [
+    "Correct.",
+    "Flank.",
+    "Gallbladder.",
+    "Hypocalcemia."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Pancreatitis (PDF p. 233)",
+   "quote": "Cullen's sign (periumbilical area)"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A client with acute pancreatitis has muscle twitching. The nurse suspects:",
+   "options": [
+    "Hypocalcemia",
+    "Hyperkalemia",
+    "Drug allergy",
+    "Hypoglycemia"
+   ],
+   "answer": "A",
+   "rationale": "Calcium deposits in areas of fat necrosis, causing hypocalcemia (twitching, tetany).",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Not likely.",
+    "Not typical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Pancreatitis (PDF p. 233)",
+   "quote": "Hypocalcemia. Calcium is deposited in areas of fatty necrosis"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Which position may ease the pain of acute pancreatitis?",
+   "options": [
+    "Sitting, knees flexed",
+    "Flat supine",
+    "Prone",
+    "Trendelenburg"
+   ],
+   "answer": "A",
+   "rationale": "Sitting up with knees flexed and a pillow against the abdomen relieves pain; supine worsens it.",
+   "explanations": [
+    "Correct.",
+    "Worsens pain.",
+    "Not comfortable.",
+    "Not indicated."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Pancreatitis management (PDF p. 234)",
+   "quote": "sitting in bed with the knees flexed and pressing a pillow over the abdomen"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "During acute pancreatitis, the client is kept NPO because food:",
+   "options": [
+    "Stimulates pancreatic secretion",
+    "Causes hypoglycemia",
+    "Raises blood pressure",
+    "Causes jaundice"
+   ],
+   "answer": "A",
+   "rationale": "Food stimulates pancreatic enzymes and worsens inflammation; an NGT may decompress the stomach.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Pancreatitis management (PDF p. 234)",
+   "quote": "Food ingestion increases pancreatic secretion, which may increase inflammation and pain."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "When should pancreatic enzyme replacements be taken?",
+   "options": [
+    "With each meal and snack",
+    "At bedtime only",
+    "Between meals",
+    "Once weekly"
+   ],
+   "answer": "A",
+   "rationale": "Enzymes must be taken with food to digest it; absence of steatorrhea shows effectiveness.",
+   "explanations": [
+    "Correct.",
+    "Ineffective.",
+    "Ineffective.",
+    "Ineffective."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Pancreatitis management (PDF p. 234)",
+   "quote": "These medications should be taken with each meal and snack."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "How does a client know pancreatic enzyme therapy is working?",
+   "options": [
+    "Stools are no longer fatty",
+    "Urine is darker",
+    "Weight drops",
+    "Appetite falls"
+   ],
+   "answer": "A",
+   "rationale": "Resolution of steatorrhea indicates adequate fat digestion.",
+   "explanations": [
+    "Correct.",
+    "Not related.",
+    "Opposite goal.",
+    "Not the sign."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Evaluating",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Pancreatitis management (PDF p. 234)",
+   "quote": "Absence of steatorrhea indicates effectiveness of the medications."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "The Whipple procedure for pancreatic cancer removes the head of the pancreas, the duodenum, part of the stomach and the:",
+   "options": [
+    "Common bile duct",
+    "Spleen and colon",
+    "Liver",
+    "Kidneys"
+   ],
+   "answer": "A",
+   "rationale": "Whipple removes the pancreatic head, distal stomach, duodenum and common bile duct, with reconstruction.",
+   "explanations": [
+    "Correct.",
+    "Not routine.",
+    "Not removed.",
+    "Not removed."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 8 Cancer of the pancreas (PDF p. 235)",
+   "quote": "Common bile duct (CBD)"
+  }
+ ]
+}

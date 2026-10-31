@@ -1,0 +1,509 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Which complication of diabetes is microvascular?",
+   "options": [
+    "Retinopathy",
+    "Stroke",
+    "Coronary artery disease",
+    "Peripheral arterial disease"
+   ],
+   "answer": "A",
+   "rationale": "Microvascular: retinopathy, nephropathy, neuropathy; macrovascular: CAD, stroke, PVD.",
+   "explanations": [
+    "Correct.",
+    "Macrovascular.",
+    "Macrovascular.",
+    "Macrovascular."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Diabetes mellitus (PDF p. 286)",
+   "quote": "Microvascular complications include retinopathy. nephropathy and neuropathy."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A client with type 1 diabetes has blood glucose 280 mg/dL and urine ketones. Regarding exercise, the nurse advises:",
+   "options": [
+    "Do not exercise until normal",
+    "Exercise to lower sugar",
+    "Exercise only lightly",
+    "Exercise after a snack"
+   ],
+   "answer": "A",
+   "rationale": "With glucose over 250 mg/dL and ketones, exercise can worsen hyperglycemia and ketosis; wait until normal.",
+   "explanations": [
+    "Correct.",
+    "Worsens ketosis.",
+    "Still unsafe.",
+    "Not the issue."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Activity and exercise (PDF p. 287)",
+   "quote": "the client is instructed not to exercise until blood glucose is normal and urinary ketones are absent"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "An insulin-dependent client plans moderate exercise. To prevent hypoglycemia, he should:",
+   "options": [
+    "Eat a 15 g carb snack first",
+    "Skip his meal",
+    "Take extra insulin",
+    "Exercise fasting"
+   ],
+   "answer": "A",
+   "rationale": "A 15 g carbohydrate snack before moderate exercise and glucose checks before, during and after help prevent hypoglycemia.",
+   "explanations": [
+    "Correct.",
+    "Hypoglycemia.",
+    "Hypoglycemia.",
+    "Hypoglycemia."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Activity and exercise (PDF p. 287)",
+   "quote": "eat 15 g carbohydrate snack (a fnrit exchange or a snack of complex carbohydrate with a protein) before engaging in moderate exercise"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Which insulin can be given intravenously for diabetic ketoacidosis?",
+   "options": [
+    "Regular insulin",
+    "NPH insulin",
+    "Insulin glargine",
+    "Premixed 70/30"
+   ],
+   "answer": "A",
+   "rationale": "Regular insulin is the insulin used IV in emergency treatment of DKA, via infusion pump.",
+   "explanations": [
+    "Correct.",
+    "Suspension; SC only.",
+    "SC only.",
+    "SC only."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Insulin (PDF p. 288)",
+   "quote": "Regular insulin is the only insulin that can be administered intravenously in the emergency treatment of diabetic ketoacidosis."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A diabetic client has the flu and is not eating much. The nurse teaches him to:",
+   "options": [
+    "Keep insulin, check often",
+    "Stop insulin till he eats",
+    "Halve dose, no checks",
+    "Skip glucose checks"
+   ],
+   "answer": "A",
+   "rationale": "Illness raises glucose; insulin should not be withheld because hyperglycemia and ketoacidosis can result.",
+   "explanations": [
+    "Correct.",
+    "DKA risk.",
+    "Unsafe.",
+    "Unsafe."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Insulin (PDF p. 289)",
+   "quote": "Insulin should not be withheld during illness, infection. or stress"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A client receives regular insulin at 7 AM. When is hypoglycemia most likely?",
+   "options": [
+    "Late morning, around peak",
+    "Right at 7 AM",
+    "Late evening",
+    "Next morning"
+   ],
+   "answer": "A",
+   "rationale": "Regular insulin peaks about 2–4 hours after injection, when hypoglycemic reactions are most likely.",
+   "explanations": [
+    "Correct.",
+    "Onset ~30–60 min.",
+    "Effect gone.",
+    "Effect gone."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Types of insulin (PDF p. 289)",
+   "quote": "The peak ot action time of insulin is important because of the possibility or hypoglycemic reactions occurring that time."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Why should insulin injection sites be rotated?",
+   "options": [
+    "To prevent lipodystrophy",
+    "To speed absorption",
+    "To avoid bruising only",
+    "To save insulin"
+   ],
+   "answer": "A",
+   "rationale": "Repeated use of one site causes lipohypertrophy, which impairs absorption.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not main reason.",
+    "Not related."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Insulin therapy (PDF p. 291)",
+   "quote": "Lipohypertrophy is the development of fibrous fatty masses at the injection site and is caused by repeated use of an injection site."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "How should a cloudy NPH vial be prepared before drawing up?",
+   "options": [
+    "Roll gently between palms",
+    "Shake vigorously",
+    "Heat it",
+    "Freeze it"
+   ],
+   "answer": "A",
+   "rationale": "Rolling redistributes the suspension; shaking creates bubbles that make dosing inaccurate.",
+   "explanations": [
+    "Correct.",
+    "Bubbles.",
+    "Damages insulin.",
+    "Damages insulin."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Insulin therapy (PDF p. 290)",
+   "quote": "Gently roll vial in between the palms to redistribute insulin particles. Do not shake the vial"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "When mixing regular and NPH insulin in one syringe, the nurse draws up:",
+   "options": [
+    "Regular (clear) first",
+    "NPH (cloudy) first",
+    "Either first",
+    "They can't be mixed"
+   ],
+   "answer": "A",
+   "rationale": "Inject air into NPH, then air into regular and draw regular first, then NPH, so the clear vial is not contaminated.",
+   "explanations": [
+    "Correct.",
+    "Contaminates regular.",
+    "Order matters.",
+    "They can be mixed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Mixing insulins (PDF p. 291)",
+   "quote": "Remember: Draw up the regular insulin first."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "An opened insulin vial that will be used within a month may be stored:",
+   "options": [
+    "At room temperature",
+    "In the freezer",
+    "In direct sunlight",
+    "In a hot car"
+   ],
+   "answer": "A",
+   "rationale": "A vial used within 30 days may stay at room temperature; never freeze or expose to heat.",
+   "explanations": [
+    "Correct.",
+    "Destroys it.",
+    "Damages.",
+    "Damages."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Storing insulin (PDF p. 290)",
+   "quote": "If a vial of insulin will be used up in 30 days (I month), it may be kept at room temperature."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A client's glucose is low at 3 AM and high at 7 AM. This is the:",
+   "options": [
+    "Somogyi phenomenon",
+    "Dawn phenomenon",
+    "Insulin waning",
+    "Insulin resistance"
+   ],
+   "answer": "A",
+   "rationale": "Somogyi: nighttime hypoglycemia triggers counter-regulatory hormones and morning rebound hyperglycemia; reduce evening NPH or add a bedtime snack.",
+   "explanations": [
+    "Correct.",
+    "No night low.",
+    "Steady rise.",
+    "Different problem."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Somogyi phenomenon (PDF p. 292)",
+   "quote": "hypoglycemia occurs at 2 to 3AM, which triggers production of counterregulatory hormones"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A client with diabetes is shaky, sweaty and hungry with glucose 55 mg/dL. He is alert. The nurse first gives:",
+   "options": [
+    "15 g of fast-acting sugar",
+    "Glucagon IM",
+    "50% dextrose IV",
+    "A full meal"
+   ],
+   "answer": "A",
+   "rationale": "For mild hypoglycemia in an alert client, give 10–15 g simple carbohydrate and recheck in 15 minutes.",
+   "explanations": [
+    "Correct.",
+    "For unconscious.",
+    "For unconscious.",
+    "Too slow."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Hypoglycemia management (PDF p. 294)",
+   "quote": "Retest the blood glucose level in 15 minutes; repeat the treatment if symptoms do not resolve."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A hypoglycemic client is unconscious and cannot swallow at home. The family should give:",
+   "options": [
+    "Glucagon injection",
+    "Juice by mouth",
+    "Honey on the tongue",
+    "Water"
+   ],
+   "answer": "A",
+   "rationale": "Glucagon SC or IM is given when the client is unconscious or unable to swallow.",
+   "explanations": [
+    "Correct.",
+    "Aspiration.",
+    "Aspiration risk.",
+    "Not treatment."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Severe hypoglycemia (PDF p. 294)",
+   "quote": "If unconscious or unable to swallow, an injection of glucagon is administered subcutaneously or intramuscularly"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Which finding distinguishes DKA from hypoglycemia?",
+   "options": [
+    "Fruity breath",
+    "Cold, clammy skin",
+    "Tremors",
+    "Hunger"
+   ],
+   "answer": "A",
+   "rationale": "DKA: acetone breath, deep rapid Kussmaul respirations, dehydration, polyuria; hypoglycemia: sweaty, shaky, hungry.",
+   "explanations": [
+    "Correct.",
+    "Hypoglycemia.",
+    "Hypoglycemia.",
+    "Hypoglycemia."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Diabetic ketoacidosis (PDF p. 295)",
+   "quote": "Kussmaul's respirations"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "During DKA treatment, IV fluids are changed to D5 0.45% saline when glucose reaches about 250 mg/dL to:",
+   "options": [
+    "Avoid a rapid drop",
+    "Raise potassium",
+    "Treat the acidosis",
+    "Stop the insulin"
+   ],
+   "answer": "A",
+   "rationale": "Adding dextrose prevents abrupt glucose drops that can cause cerebral edema while insulin continues.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Insulin does.",
+    "Insulin continues."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 DKA management (PDF p. 295)",
+   "quote": "5% dextrose in 0.45% saline when the blood glucose level reaches 250 to 300 mg/dL. To prevent abrupt fall of blood glucose levels."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Before adding potassium to a DKA client's IV, the nurse must confirm:",
+   "options": [
+    "Adequate urine output",
+    "Low blood pressure",
+    "High glucose",
+    "A full meal"
+   ],
+   "answer": "A",
+   "rationale": "Give potassium only with adequate urine output (about 30–60 mL/hr): 'no pee, no K.'",
+   "explanations": [
+    "Correct.",
+    "Not the check.",
+    "Not the check.",
+    "Not needed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 DKA management (PDF p. 296)",
+   "quote": "Ensure adequate renal function (e.g. urine output of 30 to 60 ml/hour) before administering potassium."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "How must potassium chloride be given IV?",
+   "options": [
+    "Diluted, by infusion pump",
+    "IV push",
+    "Undiluted bolus",
+    "Intramuscularly"
+   ],
+   "answer": "A",
+   "rationale": "Never give KCl IV push or bolus (cardiac arrest risk); dilute and infuse with a pump.",
+   "explanations": [
+    "Correct.",
+    "Fatal risk.",
+    "Fatal risk.",
+    "Not used."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 DKA management (PDF p. 296)",
+   "quote": "NEVER administer potassium as bolus or IV push!"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "An older client with type 2 diabetes has glucose of 900 mg/dL, severe dehydration and no ketones. This is:",
+   "options": [
+    "HHNS",
+    "DKA",
+    "Hypoglycemia",
+    "Diabetes insipidus"
+   ],
+   "answer": "A",
+   "rationale": "HHNS: extreme hyperglycemia and dehydration without ketosis or acidosis, typical of type 2 DM.",
+   "explanations": [
+    "Correct.",
+    "Has ketones.",
+    "Low sugar.",
+    "Not glucose-related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 HHNS (PDF p. 297)",
+   "quote": "Is severe hyperglycemia that occurs without ketosis and acidosis."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Which foot-care teaching for a diabetic client is correct?",
+   "options": [
+    "Inspect feet daily",
+    "Soak feet daily",
+    "Lotion between the toes",
+    "Walk barefoot at home"
+   ],
+   "answer": "A",
+   "rationale": "Inspect daily, wash and dry well, avoid soaking, lotion but not between toes, never go barefoot.",
+   "explanations": [
+    "Correct.",
+    "Avoid soaking.",
+    "Fungal risk.",
+    "Injury risk."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Diabetic foot care (PDF p. 299)",
+   "quote": "Inspect the feet daily"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A diabetic client with neuropathy wants to warm cold feet. The nurse advises:",
+   "options": [
+    "Wear warm socks, not heating pads",
+    "Use a heating pad",
+    "Soak in hot water",
+    "Use a hot water bottle"
+   ],
+   "answer": "A",
+   "rationale": "Reduced sensation risks burns; avoid hot water and heating pads.",
+   "explanations": [
+    "Correct.",
+    "Burn risk.",
+    "Burn risk.",
+    "Burn risk."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Diabetic foot care (PDF p. 299)",
+   "quote": "Avoid use of hot water, heating pads."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Which early lab finding signals diabetic nephropathy?",
+   "options": [
+    "Microalbuminuria",
+    "Glycosuria",
+    "Low BUN",
+    "Ketonuria"
+   ],
+   "answer": "A",
+   "rationale": "Microalbuminuria is an early sign of diabetic kidney damage.",
+   "explanations": [
+    "Correct.",
+    "Hyperglycemia sign.",
+    "Not this.",
+    "DKA."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Diabetic nephropathy (PDF p. 298)",
+   "quote": "Micmalbuminuria"
+  }
+ ]
+}

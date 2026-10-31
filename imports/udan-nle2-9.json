@@ -1,0 +1,701 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Parathormone raises serum calcium mainly by:",
+   "options": [
+    "Drawing calcium from bone",
+    "Increasing calcium loss in urine",
+    "Lowering vitamin D",
+    "Raising phosphate"
+   ],
+   "answer": "A",
+   "rationale": "PTH releases calcium from bone; it raises calcium and lowers phosphorus (inverse relationship).",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Opposite.",
+    "PTH lowers phosphate."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Parathyroid glands (PDF p. 255)",
+   "quote": "PTH elevates serum calcium levels by withdrawal of calcium from the bones."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Which test best reflects average blood glucose over the past 3 months?",
+   "options": [
+    "Glycosylated hemoglobin (HbA1c)",
+    "Fasting blood sugar",
+    "Urine glucose",
+    "Random blood sugar"
+   ],
+   "answer": "A",
+   "rationale": "HbA1c reflects glucose levels over the RBC lifespan, about 3–4 months.",
+   "explanations": [
+    "Correct.",
+    "Single point.",
+    "Not reliable.",
+    "Single point."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Diagnostic tests for DM (PDF p. 256)",
+   "quote": "Reflects serum glucose levels for the past 3 — 4 mos."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "On a thyroid scan, a 'cold' nodule is more likely to be:",
+   "options": [
+    "Malignant",
+    "Benign",
+    "Normal tissue",
+    "Overactive"
+   ],
+   "answer": "A",
+   "rationale": "Nonfunctioning (cold) nodules are more suspicious for cancer; hot nodules are usually benign.",
+   "explanations": [
+    "Correct.",
+    "Hot nodules.",
+    "Not cold.",
+    "Hot nodules."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Thyroid scan (PDF p. 257)",
+   "quote": "May differentiate benign (hot) and malignant (cold) thyroid tumors."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Before a 24-hour urine VMA test for pheochromocytoma, the client avoids:",
+   "options": [
+    "Coffee and bananas",
+    "Rice and bread",
+    "Plain water",
+    "Fish only"
+   ],
+   "answer": "A",
+   "rationale": "Coffee, tea, chocolate, bananas, vanilla and aspirin can alter VMA results.",
+   "explanations": [
+    "Correct.",
+    "Allowed.",
+    "Needed.",
+    "Not listed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 VMA test (PDF p. 258)",
+   "quote": "o Coffee o Chocolate o Tea o Bananas o Vanilla o Aspirin"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "An adult with enlarging hands, feet and jaw most likely has excess:",
+   "options": [
+    "Growth hormone",
+    "Thyroid hormone",
+    "Cortisol",
+    "Prolactin"
+   ],
+   "answer": "A",
+   "rationale": "GH excess after epiphyseal closure causes acromegaly; before closure, gigantism.",
+   "explanations": [
+    "Correct.",
+    "Not this picture.",
+    "Cushing's.",
+    "Galactorrhea."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Growth hormone disorders (PDF p. 259)",
+   "quote": "Acromegaly. Is hypersecretion of GH in adults (after epiphyseal closure)."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A head-injury client has low serum sodium, weight gain and concentrated urine. The nurse suspects:",
+   "options": [
+    "SIADH",
+    "Diabetes insipidus",
+    "Addison's disease",
+    "Hyperthyroidism"
+   ],
+   "answer": "A",
+   "rationale": "SIADH: excess ADH retains water, causing dilutional hyponatremia and concentrated urine.",
+   "explanations": [
+    "Correct.",
+    "Dilute urine, high Na.",
+    "Different picture.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 SIADH (PDF p. 260)",
+   "quote": "SIADH is characterized by excessive retention of water by the renal tubules, low serum sodium (dilutional hyponatremia)"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "The priority nursing measure for SIADH is:",
+   "options": [
+    "Fluid restriction",
+    "Forcing fluids",
+    "High-sodium IV drip without order",
+    "Giving desmopressin"
+   ],
+   "answer": "A",
+   "rationale": "Restrict fluids, monitor weight and sodium, and give prescribed diuretics or demeclocycline.",
+   "explanations": [
+    "Correct.",
+    "Worsens.",
+    "Needs order.",
+    "For DI."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 SIADH management (PDF p. 260)",
+   "quote": "Restrict fluid intake as prescribed."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A client passes large volumes of very dilute urine with low specific gravity. The nurse suspects:",
+   "options": [
+    "Diabetes insipidus",
+    "SIADH",
+    "Renal stones",
+    "Hyperparathyroidism"
+   ],
+   "answer": "A",
+   "rationale": "DI (low ADH) causes polyuria up to 20 L/day, dilute urine, polydipsia and dehydration.",
+   "explanations": [
+    "Correct.",
+    "Concentrated urine.",
+    "Not this.",
+    "Not mainly."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Diabetes insipidus (PDF p. 261)",
+   "quote": "The most characteristic manifestation Of D.I. is polyuria"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "During a water deprivation test, the client's urine stays dilute despite withholding fluids. This confirms:",
+   "options": [
+    "Diabetes insipidus",
+    "SIADH",
+    "Normal kidneys",
+    "Diabetes mellitus"
+   ],
+   "answer": "A",
+   "rationale": "In DI, withholding fluids for 4–18 hours fails to concentrate the urine because ADH is lacking.",
+   "explanations": [
+    "Correct.",
+    "Urine is concentrated.",
+    "Kidneys would concentrate.",
+    "Glucose-driven, different test."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Diabetes insipidus (PDF p. 261)",
+   "quote": "If there is no increase in urine concentration, this confirms presence of D.I."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "After transsphenoidal hypophysectomy, why is the head of the bed kept elevated?",
+   "options": [
+    "Promotes venous drainage",
+    "Prevents hypoglycemia",
+    "Improves appetite",
+    "Prevents constipation"
+   ],
+   "answer": "A",
+   "rationale": "Elevating the head promotes venous drainage and drainage from the surgical site; keep nasal packing and avoid nose blowing.",
+   "explanations": [
+    "Correct.",
+    "Not related.",
+    "Not related.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Hypophysectomy (PDF p. 263)",
+   "quote": "Keep head of bed elevated, at least for 2 weeks. To promote venous drainage and drainage from the surgical site."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "After hypophysectomy, which client teaching is correct?",
+   "options": [
+    "Do not blow your nose",
+    "Brush teeth vigorously",
+    "Bend over often",
+    "Lie flat"
+   ],
+   "answer": "A",
+   "rationale": "Avoid nose blowing, coughing and bending (raise ICP and strain the site); keep HOB elevated; use soft oral care.",
+   "explanations": [
+    "Correct.",
+    "Trauma to incision.",
+    "Raises ICP.",
+    "HOB elevated."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Hypophysectomy (PDF p. 263)",
+   "quote": "Instruct client to avoid blowing the nose and activities that increase intracranial pressure (ICP)."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother with Complications of Childbearing",
+   "situation": "",
+   "stem": "A woman fails to lactate and has fatigue and low BP after a severe postpartum hemorrhage. The nurse suspects:",
+   "options": [
+    "Sheehan's syndrome",
+    "Postpartum depression",
+    "Mastitis",
+    "Hyperthyroidism"
+   ],
+   "answer": "A",
+   "rationale": "Sheehan's syndrome is pituitary necrosis from severe postpartum bleeding and hypotension.",
+   "explanations": [
+    "Correct.",
+    "Mood disorder.",
+    "Breast infection.",
+    "Opposite picture."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Sheehan's syndrome (PDF p. 266)",
+   "quote": "Is hypopituitarism caused by postpartum pituitary necrosis."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Which set of findings suggests hyperthyroidism?",
+   "options": [
+    "Weight loss, heat intolerance, tremor",
+    "Weight gain, cold intolerance",
+    "Bradycardia, constipation",
+    "Dry, coarse hair"
+   ],
+   "answer": "A",
+   "rationale": "Hyperthyroidism: everything high, fast and wet—tachycardia, tremor, weight loss, heat intolerance, diarrhea.",
+   "explanations": [
+    "Correct.",
+    "Hypothyroid.",
+    "Hypothyroid.",
+    "Hypothyroid."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Hyperthyroidism (PDF p. 267)",
+   "quote": "Heat intolerance"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client with Graves' exophthalmos should be taught to:",
+   "options": [
+    "Use eye drops, shades",
+    "Avoid blinking",
+    "Sleep flat",
+    "Rub the eyes"
+   ],
+   "answer": "A",
+   "rationale": "Protect exposed eyes with artificial tears and dark glasses to prevent corneal ulceration.",
+   "explanations": [
+    "Correct.",
+    "Dries cornea.",
+    "Elevate head.",
+    "Trauma."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Hyperthyroidism management (PDF p. 269)",
+   "quote": "Instill artificial tears at regular intervals. Advise patient to wear dark sunglasses when going out under the sun"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A client on methimazole develops fever and sore throat. The nurse should:",
+   "options": [
+    "Report it; check WBC",
+    "Give more drug",
+    "Gargle only",
+    "Ignore it"
+   ],
+   "answer": "A",
+   "rationale": "Thioamides (methimazole, PTU) can cause agranulocytosis; sore throat and fever must be reported.",
+   "explanations": [
+    "Correct.",
+    "Unsafe.",
+    "Not enough.",
+    "Unsafe."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Antithyroid medications (PDF p. 269)",
+   "quote": "Side effects: Agranulocytosis (Neutropenia) with leukopenia (fever, sore throat, skin rash, diarrhea)."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Lugol's solution is given before thyroidectomy to:",
+   "options": [
+    "Reduce gland size and vascularity",
+    "Raise thyroid hormone",
+    "Prevent infection",
+    "Stimulate appetite"
+   ],
+   "answer": "A",
+   "rationale": "Iodine shrinks the gland and reduces vascularity, lowering bleeding and thyroid storm risk; give via straw diluted in juice.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Not the purpose.",
+    "Not the purpose."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Thyroidectomy preop (PDF p. 270)",
+   "quote": "To reduce the size and vascularity of the thyroid gland and prevent postop hemorrhage and thyroid crisis."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "After thyroidectomy, which item must be at the bedside?",
+   "options": [
+    "Tracheostomy set",
+    "Cooling blanket",
+    "Chest tube tray",
+    "Urinary catheter"
+   ],
+   "answer": "A",
+   "rationale": "Bleeding, edema or hypocalcemic laryngospasm can obstruct the airway; keep trach set, oxygen and suction ready.",
+   "explanations": [
+    "Correct.",
+    "For storm, not routine.",
+    "Not needed.",
+    "Not needed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Thyroidectomy postop (PDF p. 271)",
+   "quote": "Ilave tracheostomy set, oxygen and suction available at the bedside."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "After thyroidectomy, the nurse checks the dressing at the back of the neck because:",
+   "options": [
+    "Blood may pool posteriorly",
+    "It is easier to see",
+    "The incision is there",
+    "It prevents infection"
+   ],
+   "answer": "A",
+   "rationale": "Blood drains by gravity to the back of the neck; check posteriorly and watch for respiratory distress.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Incision is anterior.",
+    "Not the reason."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Thyroidectomy postop (PDF p. 270)",
+   "quote": "Check dressing anteriorly and at the back of the neck."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "After thyroidectomy, a client has tingling lips and a positive Trousseau's sign. The nurse prepares:",
+   "options": [
+    "IV calcium gluconate",
+    "Levothyroxine",
+    "Potassium chloride",
+    "Insulin"
+   ],
+   "answer": "A",
+   "rationale": "Damage to the parathyroids causes hypocalcemia and tetany; keep calcium gluconate ready.",
+   "explanations": [
+    "Correct.",
+    "Not urgent.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Thyroidectomy postop (PDF p. 271)",
+   "quote": "Keep Calcium gluconate readily available, for tetany."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Severe, increasing hoarseness after thyroidectomy suggests:",
+   "options": [
+    "Recurrent laryngeal nerve damage",
+    "Expected intubation effect only",
+    "Thyroid storm",
+    "Hypothyroidism"
+   ],
+   "answer": "A",
+   "rationale": "Mild hoarseness is normal; severe hoarseness, stridor or dysphonia suggests laryngeal nerve injury.",
+   "explanations": [
+    "Correct.",
+    "Only if mild.",
+    "Different signs.",
+    "Not acute."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Thyroidectomy postop (PDF p. 271)",
+   "quote": "Severe hoarseness indicates laryngeal nerve damage."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A client in thyroid storm has a temperature of 40 °C. Which antipyretic is preferred?",
+   "options": [
+    "Acetaminophen",
+    "Aspirin",
+    "Ibuprofen",
+    "Mefenamic acid"
+   ],
+   "answer": "A",
+   "rationale": "Aspirin increases free thyroid hormone; use acetaminophen and cooling measures.",
+   "explanations": [
+    "Correct.",
+    "Raises free T4.",
+    "Not first choice.",
+    "Not first choice."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Thyroid storm (PDF p. 272)",
+   "quote": "Avoid ASA. Salicylates increase free thyroid hormone levels."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Which set of findings suggests hypothyroidism?",
+   "options": [
+    "Cold intolerance, weight gain",
+    "Heat intolerance, diarrhea",
+    "Tachycardia, tremor",
+    "Exophthalmos"
+   ],
+   "answer": "A",
+   "rationale": "Hypothyroidism: everything low, slow and dry—bradycardia, lethargy, weight gain, cold intolerance, dry skin.",
+   "explanations": [
+    "Correct.",
+    "Hyperthyroid.",
+    "Hyperthyroid.",
+    "Graves'."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Hypothyroidism (PDF p. 273)",
+   "quote": "Cold intolerance; subnormal body temperature."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Clients with hypothyroidism are more sensitive to which drugs?",
+   "options": [
+    "Sedatives and opioids",
+    "Antibiotics",
+    "Vitamins",
+    "Antacids"
+   ],
+   "answer": "A",
+   "rationale": "Slow metabolism increases sensitivity to sedatives, narcotics and anesthetics; these can precipitate myxedema coma.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Not typical.",
+    "Not typical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Hypothyroidism (PDF p. 274)",
+   "quote": "Increased sensitivity to sedatives, narcotic and anesthetics."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "How should levothyroxine be taken?",
+   "options": [
+    "Morning, empty stomach",
+    "With an iron tablet",
+    "Bedtime with milk",
+    "With antacids"
+   ],
+   "answer": "A",
+   "rationale": "Take in the morning without food; separate by 4 hours from iron, antacids, multivitamins and sucralfate.",
+   "explanations": [
+    "Correct.",
+    "Reduces absorption.",
+    "Not ideal.",
+    "Reduces absorption."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Thyroid replacement (PDF p. 275)",
+   "quote": "Instrtlct client to take the medication in the morning without food."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A client starting levothyroxine reports palpitations and chest pain. The nurse recognizes:",
+   "options": [
+    "Too much hormone",
+    "Expected early effect",
+    "Hypoglycemia",
+    "Allergy"
+   ],
+   "answer": "A",
+   "rationale": "Report hyperthyroid signs (tachycardia, chest pain, palpitations, sweating); doses are started low and increased slowly.",
+   "explanations": [
+    "Correct.",
+    "Not expected.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Thyroid replacement (PDF p. 275)",
+   "quote": "Advise client to report signs of hyperthyroidism like tachycardia, chest pain, palpitations and excessive sweating."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A hypothyroid client becomes hypothermic, bradycardic and stuporous after surgery and sedation. The nurse suspects:",
+   "options": [
+    "Myxedema coma",
+    "Thyroid storm",
+    "Hypoglycemia only",
+    "Stroke"
+   ],
+   "answer": "A",
+   "rationale": "Myxedema coma: profound depression of vital signs (hypothermia, bradycardia, hypotension, hypoventilation); fatal if untreated.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Possible but partial.",
+    "Not likely."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Myxedema coma (PDF p. 275)",
+   "quote": "In myxedemic coma, all vital signs are profoundly depressed. It is potentially fatal."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Which diet is appropriate for hypoparathyroidism?",
+   "options": [
+    "High calcium, low phosphorus",
+    "Low calcium, high phosphorus",
+    "High sodium",
+    "Low protein"
+   ],
+   "answer": "A",
+   "rationale": "Hypoparathyroidism causes low calcium and high phosphorus; give calcium, vitamin D and phosphate binders.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Not relevant.",
+    "Not relevant."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Hypoparathyroidism (PDF p. 279)",
+   "quote": "Diet: High-calcium. low-phosphorous diet."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "How should alendronate be taken?",
+   "options": [
+    "With water, stay upright",
+    "Chewed with food",
+    "At bedtime, lying",
+    "With milk, antacids"
+   ],
+   "answer": "A",
+   "rationale": "Swallow whole with water on an empty stomach and stay upright 30 minutes to prevent esophagitis.",
+   "explanations": [
+    "Correct.",
+    "Do not chew.",
+    "Reflux risk.",
+    "Reduces absorption."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Calcium regulators (PDF p. 279)",
+   "quote": "These should be taken with water at least 30 minutes before breakfast and to remain upright for at least 30 minutes."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A client with hyperparathyroidism should be encouraged to:",
+   "options": [
+    "Increase fluid intake",
+    "Restrict fluids",
+    "Take calcium supplements",
+    "Lift heavy weights"
+   ],
+   "answer": "A",
+   "rationale": "High calcium causes polyuria and kidney stones; fluids prevent dehydration and stones. Move gently—bones are fragile.",
+   "explanations": [
+    "Correct.",
+    "Stone risk.",
+    "Worsens.",
+    "Fracture risk."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Hyperparathyroidism (PDF p. 280)",
+   "quote": "Increase fluid intake. To prevent dehydration and renal stone formation."
+  }
+ ]
+}

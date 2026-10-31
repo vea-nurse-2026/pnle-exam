@@ -1,0 +1,389 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Which lab pattern fits Addison's disease?",
+   "options": [
+    "Low sodium, high potassium, low glucose",
+    "High sodium, low potassium",
+    "High glucose, low potassium",
+    "Normal electrolytes"
+   ],
+   "answer": "A",
+   "rationale": "Low aldosterone and cortisol cause hyponatremia, hyperkalemia, hypoglycemia and hypotension.",
+   "explanations": [
+    "Correct.",
+    "Cushing's/Conn's.",
+    "Cushing's.",
+    "Not typical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Addison's disease (PDF p. 302)",
+   "quote": "Hyperkalemia, due to decreased secretion of aldosterone."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Bronze skin pigmentation in Addison's disease is due to increased:",
+   "options": [
+    "MSH from the pituitary",
+    "Melatonin",
+    "Insulin",
+    "Thyroid hormone"
+   ],
+   "answer": "A",
+   "rationale": "Low cortisol triggers more pituitary ACTH and MSH, causing hyperpigmentation.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Addison's disease (PDF p. 302)",
+   "quote": "The anterior pituitary gland increases secretion of its hormones, which includes MSH. This causes hyperpigmentation."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Oral corticosteroids are best given:",
+   "options": [
+    "With meals or milk in the morning",
+    "On an empty stomach at night",
+    "With antacids only",
+    "Every other week"
+   ],
+   "answer": "A",
+   "rationale": "Food reduces gastric irritation; morning dosing mimics the natural cortisol rhythm.",
+   "explanations": [
+    "Correct.",
+    "GI irritation.",
+    "Not required.",
+    "Not the schedule."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Steroid therapy (PDF p. 303)",
+   "quote": "Administer steroids after meals or with milk."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Why must long-term prednisone be tapered rather than stopped abruptly?",
+   "options": [
+    "To prevent adrenal crisis",
+    "To prevent weight gain",
+    "To prevent hair loss",
+    "To avoid allergy"
+   ],
+   "answer": "A",
+   "rationale": "Long-term steroids suppress the adrenals; abrupt withdrawal can cause Addisonian crisis.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Steroid therapy (PDF p. 303)",
+   "quote": "Dose should be tapered and not stopped abruptly. To prevent Addisonian crisis"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A client on long-term steroids should have which lab monitored regularly?",
+   "options": [
+    "Blood glucose",
+    "Serum amylase",
+    "Ammonia",
+    "Troponin"
+   ],
+   "answer": "A",
+   "rationale": "Steroids cause hyperglycemia, hypokalemia, fluid retention and bone loss.",
+   "explanations": [
+    "Correct.",
+    "Not routine.",
+    "Not routine.",
+    "Not routine."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Steroid therapy (PDF p. 303)",
+   "quote": "Monitor urine and blood glucose levels and urine ketones."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Which diet suits a client on long-term corticosteroids?",
+   "options": [
+    "High K, low sodium",
+    "High sodium, low protein",
+    "High sugar, low protein",
+    "Low calcium"
+   ],
+   "answer": "A",
+   "rationale": "High protein prevents muscle wasting, high potassium prevents hypokalemia, low sodium limits fluid retention.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Raises glucose.",
+    "Bone loss risk."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Steroid therapy (PDF p. 303)",
+   "quote": "Diet of the client should be high protein, high carbohydrate, high potassium and low sodium diet."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A client with Addison's disease develops severe hypotension, abdominal pain and confusion after an infection. The priority drug is:",
+   "options": [
+    "IV hydrocortisone",
+    "Oral levothyroxine",
+    "Insulin",
+    "Furosemide"
+   ],
+   "answer": "A",
+   "rationale": "Addisonian crisis requires IV glucocorticoid (hydrocortisone) and fluids.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Worsens hypoglycemia.",
+    "Worsens shock."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Addisonian crisis (PDF p. 304)",
+   "quote": "Administer glucocorticoid/IV Solu cortef Olydrocortisone sodium succinate), then orally'."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Moon face, buffalo hump, purple striae and thin arms suggest:",
+   "options": [
+    "Cushing's syndrome",
+    "Addison's disease",
+    "Hypothyroidism",
+    "Acromegaly"
+   ],
+   "answer": "A",
+   "rationale": "Excess cortisol causes truncal obesity, moon face, buffalo hump, striae, bruising and hyperglycemia.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Different features.",
+    "Different features."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Cushing's syndrome (PDF p. 304)",
+   "quote": "Obese trunk, thin arms and legs."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A client with Cushing's syndrome is at increased risk for:",
+   "options": [
+    "Infection and fractures",
+    "Hypoglycemia",
+    "Hyperkalemia",
+    "Weight loss"
+   ],
+   "answer": "A",
+   "rationale": "Cortisol excess suppresses immunity and causes osteoporosis; protect from infection and trauma.",
+   "explanations": [
+    "Correct.",
+    "Hyperglycemia instead.",
+    "Hypokalemia instead.",
+    "Weight gain."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Cushing's syndrome (PDF p. 305)",
+   "quote": "Low resistance to infection"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Hypertension with low potassium and polyuria suggests:",
+   "options": [
+    "Primary hyperaldosteronism",
+    "Addison's disease",
+    "Pheochromocytoma only",
+    "SIADH"
+   ],
+   "answer": "A",
+   "rationale": "Conn's syndrome (aldosterone excess) causes hypertension, hypokalemia, weakness and polyuria; treat with spironolactone.",
+   "explanations": [
+    "Correct.",
+    "Hyperkalemia.",
+    "Episodic, no hypokalemia typical.",
+    "Hyponatremia."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Hyperaldosteronism (PDF p. 306)",
+   "quote": "Hypertension, hypokalemia."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "After bilateral adrenalectomy, the client will need:",
+   "options": [
+    "Lifelong glucocorticoids",
+    "No hormones",
+    "Insulin only",
+    "Thyroid hormone only"
+   ],
+   "answer": "A",
+   "rationale": "Bilateral removal needs lifelong replacement; unilateral needs temporary replacement up to 2 years.",
+   "explanations": [
+    "Correct.",
+    "Adrenal crisis.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Adrenalectomy (PDF p. 306)",
+   "quote": "Lifelong glucorticoid replacement is necessary with a bilateral adrenalectomy."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Right after adrenalectomy, the nurse watches closely for:",
+   "options": [
+    "Hypotension and shock",
+    "Hypertension crisis only",
+    "Hyperthermia",
+    "Diarrhea"
+   ],
+   "answer": "A",
+   "rationale": "Falling catecholamines can cause cardiovascular collapse; the adrenals are vascular, so bleeding is also a risk.",
+   "explanations": [
+    "Correct.",
+    "Before surgery.",
+    "Not typical.",
+    "Not typical."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Adrenalectomy (PDF p. 306)",
+   "quote": "Catecholamine levels drop as a result of surgery, which can result in cardiovascular collapse, hypotension and shock."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Episodes of severe hypertension, headache, sweating and palpitations suggest:",
+   "options": [
+    "Pheochromocytoma",
+    "Hypothyroidism",
+    "Addison's disease",
+    "Diabetes insipidus"
+   ],
+   "answer": "A",
+   "rationale": "Pheochromocytoma releases catecholamines: hypertension, headache, hyperhidrosis, hypermetabolism, hyperglycemia.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Hypotension.",
+    "Polyuria."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Pheochromocytoma (PDF p. 307)",
+   "quote": "Hypertension • Headache • Hyperhidrosis (excessive sweating)"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client with pheochromocytoma should avoid:",
+   "options": [
+    "Caffeine, quick moves",
+    "Rest",
+    "Raising head of bed",
+    "Low-salt food"
+   ],
+   "answer": "A",
+   "rationale": "Smoking, caffeine and sudden movement can trigger catecholamine surges and hypertensive crisis.",
+   "explanations": [
+    "Correct.",
+    "Encouraged.",
+    "Encouraged.",
+    "Fine."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Pheochromocytoma (PDF p. 307)",
+   "quote": "Instruct client to avoid smoking, drinking caffeine — containing beverages, or changing position suddenly."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A client using intranasal desmopressin should report:",
+   "options": [
+    "Headache and drowsiness",
+    "Increased thirst only",
+    "Dry skin",
+    "Hair loss"
+   ],
+   "answer": "A",
+   "rationale": "Too much ADH causes water intoxication: drowsiness, listlessness, headache, shortness of breath.",
+   "explanations": [
+    "Correct.",
+    "Under-dosing sign.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Antidiuretic hormones (PDF p. 309)",
+   "quote": "To report signs of water intoxication (drowsiness, listlessness. shortness of breath and headache."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Oral calcium supplements can reduce the absorption of which antibiotic?",
+   "options": [
+    "Tetracycline",
+    "Penicillin",
+    "Vancomycin",
+    "Gentamicin"
+   ],
+   "answer": "A",
+   "rationale": "Calcium binds tetracycline and lowers its absorption; separate doses.",
+   "explanations": [
+    "Correct.",
+    "Not significant.",
+    "IV drug.",
+    "IV drug."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 9 Parathyroid medications (PDF p. 311)",
+   "quote": "Oral calcium salts reduce the absorption of tetracycline HCl."
+  }
+ ]
+}
