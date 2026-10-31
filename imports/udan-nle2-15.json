@@ -1,0 +1,797 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "The minimum normal urine output for an adult is about:",
+   "options": [
+    "30 mL per hour",
+    "10 mL per hour",
+    "100 mL per hour",
+    "5 mL per hour"
+   ],
+   "answer": "A",
+   "rationale": "Kidneys form roughly 30–60 mL per hour (about 1,500 mL/day); less than 30 mL/hour should be reported.",
+   "explanations": [
+    "Correct.",
+    "Oliguria.",
+    "More than minimum.",
+    "Oliguria."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Kidney physiology (PDF p. 483)",
+   "quote": "the kidneys form 0.5 to I ml. per minute, or 30 to 60 mls per hour"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Women get urinary tract infections more often than men mainly because they have:",
+   "options": [
+    "A shorter urethra",
+    "Larger bladders",
+    "More fluid intake",
+    "Higher urine pH"
+   ],
+   "answer": "A",
+   "rationale": "The short female urethra lets colonic bacteria (mostly E. coli) reach the bladder easily.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Protective.",
+    "Not the reason."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 UTI (PDF p. 493)",
+   "quote": "Females are at high risk to develop UTI because of short urethra"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "The organism that most often causes urinary tract infection is:",
+   "options": [
+    "Escherichia coli",
+    "Staphylococcus aureus",
+    "Candida albicans",
+    "Neisseria gonorrhoeae"
+   ],
+   "answer": "A",
+   "rationale": "Colonic bacteria, especially E. coli, cause most UTIs; Klebsiella, Proteus and Pseudomonas also occur.",
+   "explanations": [
+    "Correct.",
+    "Less common.",
+    "Fungal.",
+    "STI."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 UTI (PDF p. 493)",
+   "quote": "The most common etiologic agents are the colonic bacteria, specifically Escherichia coli."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After cystoscopy, the client has pink-tinged urine and mild burning. The nurse:",
+   "options": [
+    "Reassure; expected 1–2 days",
+    "Call the physician at once",
+    "Restrict oral fluids",
+    "Insert a urinary catheter"
+   ],
+   "answer": "A",
+   "rationale": "Mucosal irritation causes pink urine and dysuria for 24–48 hours; push fluids and report bright bleeding, clots or retention.",
+   "explanations": [
+    "Correct.",
+    "Not urgent.",
+    "Fluids help.",
+    "Not needed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Cystoscopy (PDF p. 486)",
+   "quote": "Pink- tinged urine is normal (24-48 hrs)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Before an intravenous pyelogram, the nurse's priority assessment is:",
+   "options": [
+    "Allergy to iodine or contrast",
+    "Last bowel movement only",
+    "Blood type",
+    "Hearing ability"
+   ],
+   "answer": "A",
+   "rationale": "IVP uses iodinated contrast; ask about allergy and keep epinephrine ready for anaphylaxis.",
+   "explanations": [
+    "Correct.",
+    "Less critical.",
+    "Not needed.",
+    "Not related."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 IVP (PDF p. 486)",
+   "quote": "Prepare Epinephrine at bed side. Anaphylactic shock is a potential complication."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After an IVP, the client is encouraged to drink more fluids in order to:",
+   "options": [
+    "Flush out the contrast dye",
+    "Prevent constipation only",
+    "Lower blood sugar",
+    "Prepare for another test"
+   ],
+   "answer": "A",
+   "rationale": "Fluids help excrete the dye and protect the kidneys; also watch for delayed allergic reactions.",
+   "explanations": [
+    "Correct.",
+    "Not the main reason.",
+    "Not related.",
+    "Not related."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 IVP (PDF p. 486)",
+   "quote": "Increase fluid intake to excrete the dye."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Before an ultrasound of the bladder, the nurse instructs the client to:",
+   "options": [
+    "Drink water and not void",
+    "Void just before the test",
+    "Fast for 12 hours",
+    "Take a laxative only"
+   ],
+   "answer": "A",
+   "rationale": "A full bladder improves the image, so the client drinks water and holds urine.",
+   "explanations": [
+    "Correct.",
+    "Bladder must be full.",
+    "Not required.",
+    "Not enough."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Ultrasound (PDF p. 488)",
+   "quote": "Distend the bladder (give 2 glosses of vsater). Illis permits better imaging."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "The main complication the nurse watches for after a kidney biopsy is:",
+   "options": [
+    "Bleeding",
+    "Hypoglycemia",
+    "Seizures",
+    "Constipation"
+   ],
+   "answer": "A",
+   "rationale": "The kidney is very vascular; keep bed rest for 24 hours, monitor VS and recheck Hct and Hgb.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Not typical.",
+    "Not typical."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Renal biopsy (PDF p. 488)",
+   "quote": "Bleeding is the most common complication of the procedure."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "During the oliguric phase of acute kidney injury, the nurse expects:",
+   "options": [
+    "Hyperkalemia",
+    "Hypokalemia",
+    "Low BUN",
+    "Large urine volume"
+   ],
+   "answer": "A",
+   "rationale": "Oliguria raises BUN, creatinine, potassium, magnesium and phosphate, with acidosis and edema.",
+   "explanations": [
+    "Correct.",
+    "Diuretic phase.",
+    "BUN rises.",
+    "Diuretic phase."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Acute renal failure (PDF p. 489)",
+   "quote": "increased BUN, serum creatinine; edema; hypertension; hyperkalemia"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client recovering from acute kidney injury now passes 4 L of urine a day. The nurse monitors closely for:",
+   "options": [
+    "Hypokalemia and dehydration",
+    "Hyperkalemia",
+    "Fluid overload",
+    "Hypercalcemia"
+   ],
+   "answer": "A",
+   "rationale": "In the diuretic phase large urine volumes cause potassium loss and fluid deficit.",
+   "explanations": [
+    "Correct.",
+    "Oliguric phase.",
+    "Opposite.",
+    "Not typical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Acute renal failure (PDF p. 489)",
+   "quote": "There is increased urine output (3 to 5 Vday), with excessive loss of potassium (hypokalemia)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Severe anemia in chronic kidney disease is mainly due to:",
+   "options": [
+    "Low erythropoietin production",
+    "Iron overload",
+    "Excess vitamin D",
+    "High potassium"
+   ],
+   "answer": "A",
+   "rationale": "Damaged kidneys make less erythropoietin; epoetin alfa is given (watch for hypertension).",
+   "explanations": [
+    "Correct.",
+    "Not the cause.",
+    "Vitamin D is low.",
+    "Not the cause."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Chronic renal failure (PDF p. 489)",
+   "quote": "Decreased erythropoietin secretion reduces red blood cells production by the bone marrow."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client on epoetin alfa for kidney disease should be monitored mainly for:",
+   "options": [
+    "Hypertension",
+    "Hypoglycemia",
+    "Hearing loss",
+    "Hypothermia"
+   ],
+   "answer": "A",
+   "rationale": "Hypertension is the major side effect of epoetin alfa.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Not typical.",
+    "Not typical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 CRF drugs (PDF p. 491)",
+   "quote": "Major side effect of Epogen Alfa is hypertension."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Why does chronic kidney disease cause low calcium and weak bones?",
+   "options": [
+    "The kidneys cannot activate vitamin D",
+    "Too much calcium in the diet",
+    "Low phosphate levels",
+    "Excess erythropoietin"
+   ],
+   "answer": "A",
+   "rationale": "Without active vitamin D, calcium absorption falls; phosphate rises and renal osteodystrophy develops.",
+   "explanations": [
+    "Correct.",
+    "Not the cause.",
+    "Phosphate is high.",
+    "EPO is low."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Chronic renal failure (PDF p. 490)",
+   "quote": "Hypocalcemia. 'Illis is due to decreased calcium absorption caused by decreased vitamin D."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client with chronic kidney disease is prescribed a phosphate binder. It should be taken:",
+   "options": [
+    "With meals",
+    "At bedtime only",
+    "On an empty stomach",
+    "Once a week"
+   ],
+   "answer": "A",
+   "rationale": "Phosphate binders such as aluminum hydroxide bind dietary phosphate in the gut, so they are taken with meals.",
+   "explanations": [
+    "Correct.",
+    "No food to bind.",
+    "No food to bind.",
+    "Too infrequent."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 CRF drugs (PDF p. 491)",
+   "quote": "a phosphate binder (to be administered with meals to prevent GI irritation)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Which over-the-counter drug should a client with chronic kidney disease avoid?",
+   "options": [
+    "Milk of Magnesia",
+    "Paracetamol at usual dose",
+    "Saline nasal spray",
+    "Calamine lotion"
+   ],
+   "answer": "A",
+   "rationale": "Magnesium-containing products build up when the kidneys fail and can cause magnesium toxicity.",
+   "explanations": [
+    "Correct.",
+    "Usually acceptable.",
+    "Safe.",
+    "Safe."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 CRF nursing care (PDF p. 491)",
+   "quote": "Avoid over — the counter medications (e.g., Milk of Magnesia may cause magnesium toxicity)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client with end-stage kidney disease has white crystals on the skin and severe itching. This is:",
+   "options": [
+    "Uremic frost",
+    "Psoriasis",
+    "Fungal infection",
+    "Dry skin from soap"
+   ],
+   "answer": "A",
+   "rationale": "Urea and urates crystallize on the skin in uremia, causing pruritus.",
+   "explanations": [
+    "Correct.",
+    "Scaly plaques.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Chronic renal failure (PDF p. 489)",
+   "quote": "Uremic frost. This is due to accumulation of urates in the skin."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "How does the nurse check that a client's arteriovenous fistula is working?",
+   "options": [
+    "Feel thrill, hear bruit",
+    "Take BP on that arm",
+    "Check refill only",
+    "Draw blood from it"
+   ],
+   "answer": "A",
+   "rationale": "A palpable thrill and audible bruit show patency; avoid BP and needle sticks on that arm.",
+   "explanations": [
+    "Correct.",
+    "Contraindicated.",
+    "Not enough.",
+    "Contraindicated."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Hemodialysis (PDF p. 492)",
+   "quote": "Assess for patency of AV fistula by auscultating for bruit and by palpating for thrill."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "During his first hemodialysis, a client develops headache, restlessness, nausea and confusion. The nurse suspects:",
+   "options": [
+    "Disequilibrium syndrome",
+    "Hypoglycemia",
+    "Air embolism",
+    "Hyperkalemia"
+   ],
+   "answer": "A",
+   "rationale": "Wastes leave the blood faster than the brain, causing cerebral edema; first sessions are kept short to prevent it.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Chest pain, dyspnea.",
+    "Being corrected."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Hemodialysis (PDF p. 492)",
+   "quote": "Disequilibrium syndrome is caused by more rapid removal of waste products from the blood than from the brain."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Before a hemodialysis session, the nurse usually holds which scheduled drug?",
+   "options": [
+    "Antihypertensive",
+    "Insulin for meals",
+    "Vitamins",
+    "Iron tablet"
+   ],
+   "answer": "A",
+   "rationale": "Fluid removal lowers BP; antihypertensives are often held to prevent hypotension during dialysis.",
+   "explanations": [
+    "Correct.",
+    "Per order.",
+    "No effect.",
+    "Not the concern."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Hemodialysis (PDF p. 492)",
+   "quote": "Usually, antihypertensive medication doses are omitted during hemodialysis. To prevent hypotension."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Before instilling peritoneal dialysate, the nurse should:",
+   "options": [
+    "Warm it to body temperature",
+    "Chill it in the refrigerator",
+    "Add potassium to every bag",
+    "Shake it vigorously"
+   ],
+   "answer": "A",
+   "rationale": "Warm dialysate improves comfort and clearance of wastes; additives are only as ordered.",
+   "explanations": [
+    "Correct.",
+    "Causes cramps.",
+    "Not routine.",
+    "Not needed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Peritoneal dialysis (PDF p. 492)",
+   "quote": "The dialysate solution should be warmed at body temperature."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Peritoneal dialysis outflow has slowed. The nurse first:",
+   "options": [
+    "Turns the client side to side",
+    "Pushes the catheter deeper",
+    "Irrigates with tap water",
+    "Stops dialysis permanently"
+   ],
+   "answer": "A",
+   "rationale": "A loop of bowel may block the catheter; repositioning often restores flow.",
+   "explanations": [
+    "Correct.",
+    "Not a nursing action.",
+    "Unsafe.",
+    "Not first."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Peritoneal dialysis (PDF p. 492)",
+   "quote": "Ifthe drainage stops, turn the client to sides. The lumen of the catheter may be occluded by loop of colon."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client on home peritoneal dialysis notices the drained fluid is cloudy. This suggests:",
+   "options": [
+    "Peritonitis",
+    "Normal drainage",
+    "Dehydration",
+    "Low blood sugar"
+   ],
+   "answer": "A",
+   "rationale": "Cloudy effluent indicates peritonitis; report it and send a sample for culture.",
+   "explanations": [
+    "Correct.",
+    "Should be clear.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Peritoneal dialysis (PDF p. 493)",
+   "quote": "Cloudy dialysate indicates peritonitis. Notify the physician. Collect specimen for culture."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client on peritoneal dialysis has rising blood glucose. The reason is:",
+   "options": [
+    "Dialysate contains glucose",
+    "He ate too much protein",
+    "The catheter is infected",
+    "Potassium is too low"
+   ],
+   "answer": "A",
+   "rationale": "Glucose in the dialysate is absorbed; monitor glucose and give insulin if prescribed.",
+   "explanations": [
+    "Correct.",
+    "Not the cause.",
+    "Not the main cause.",
+    "Not the cause."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Peritoneal dialysis (PDF p. 493)",
+   "quote": "The dialysate solution contains glucose. Small doses of insulin may be required"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "After a kidney transplant, a client on cyclosporine and prednisone is taught to:",
+   "options": [
+    "Avoid crowds and people with infections",
+    "Stop the drugs once the kidney works",
+    "Take the drugs only when sick",
+    "Eat raw seafood freely"
+   ],
+   "answer": "A",
+   "rationale": "Immunosuppressants prevent rejection and are taken for life; they raise infection risk.",
+   "explanations": [
+    "Correct.",
+    "Rejection risk.",
+    "Rejection risk.",
+    "Infection risk."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Renal transplantation (PDF p. 493)",
+   "quote": "Protect the client from infection because these medications are immunosupressants."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client with severe flank pain radiating to the groin and hematuria is being treated for a kidney stone. The nurse instructs him to:",
+   "options": [
+    "Strain urine, drink fluids",
+    "Limit fluids to 1 liter",
+    "Stay on strict bed rest",
+    "Discard any passed stone"
+   ],
+   "answer": "A",
+   "rationale": "High fluid intake (about 3 L/day) and walking help pass the stone; strained stones go to the lab for analysis.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Walking helps.",
+    "Send for analysis."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Urinary calculi (PDF p. 494)",
+   "quote": "Strain all urine. Ifa stone is passed, submit it for laboratory analysis."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client with calcium oxalate stones should limit:",
+   "options": [
+    "Spinach and tea",
+    "Apples and pears",
+    "Plain white rice",
+    "Drinking water"
+   ],
+   "answer": "A",
+   "rationale": "Spinach, tea, chocolate, nuts and beans are high in oxalate.",
+   "explanations": [
+    "Correct.",
+    "Low oxalate.",
+    "Low oxalate.",
+    "Encourage."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Urinary calculi (PDF p. 494)",
+   "quote": "Avoid excess tea, chocolate, spinach (and other green leafy vegetables), almonds, cashew, beans."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "A 65-year-old smoker has blood in his urine without pain. The nurse suspects:",
+   "options": [
+    "Bladder cancer",
+    "Kidney stone",
+    "Cystitis",
+    "Prostatitis"
+   ],
+   "answer": "A",
+   "rationale": "Painless hematuria is the most characteristic sign of bladder cancer; smoking is the main risk factor.",
+   "explanations": [
+    "Correct.",
+    "Painful.",
+    "Burning, frequency.",
+    "Painful."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Bladder cancer (PDF p. 495)",
+   "quote": "The most characteristic manifestation of bladder cancer is painless hematuria."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A client with an ileal conduit asks how often urine will drain from the stoma. The nurse explains:",
+   "options": [
+    "Continuously, into a pouch",
+    "Only when he strains",
+    "Once a day by catheter",
+    "Only during the night"
+   ],
+   "answer": "A",
+   "rationale": "An ileal conduit has no valve, so urine drains constantly and an appliance is always worn.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Continent pouch.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Urinary diversion (PDF p. 495)",
+   "quote": "There is continuous outflow of urine from the stoma."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Sterile normal saline, not sterile water, is used for continuous bladder irrigation after TURP because it:",
+   "options": [
+    "Prevents water intoxication",
+    "Dissolves clots faster",
+    "Costs less to use",
+    "Lowers blood pressure"
+   ],
+   "answer": "A",
+   "rationale": "Hypotonic fluid absorbed through open prostatic vessels can cause water intoxication; isotonic saline is used.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Prostatectomy care (PDF p. 496)",
+   "quote": "Repeated administration of hypotonic solution e.g., sterile water, may cause water intoxication."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After prostatectomy, the client has a strong urge to void with the catheter in place. The nurse explains this is due to:",
+   "options": [
+    "Catheter balloon pressure",
+    "A blocked ureter",
+    "Acute kidney failure",
+    "Normal bladder filling"
+   ],
+   "answer": "A",
+   "rationale": "Balloon pressure gives a sense of fullness; tell him not to strain or void around the catheter, which causes spasms and bleeding.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Bladder is drained."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Prostatectomy care (PDF p. 496)",
+   "quote": "This is due to pressure on the internal sphincter by the balloon of the catheter."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "After catheter removal following prostatectomy, a client has dribbling of urine. The nurse teaches:",
+   "options": [
+    "Kegel exercises",
+    "Limiting fluids to 500 mL",
+    "Wearing a tight belt",
+    "Straining to void"
+   ],
+   "answer": "A",
+   "rationale": "Kegel (pelvic floor) exercises help regain urinary control.",
+   "explanations": [
+    "Correct.",
+    "Concentrates urine.",
+    "Not helpful.",
+    "Causes bleeding."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Prostatectomy care (PDF p. 496)",
+   "quote": "If dribbling of urine occurs, teach the client Kegel's exercise."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "A woman who left a tampon in for 2 days now has high fever, a red rash, vomiting and low BP. The nurse suspects:",
+   "options": [
+    "Toxic shock syndrome",
+    "Urinary tract infection",
+    "Dengue",
+    "Measles"
+   ],
+   "answer": "A",
+   "rationale": "Retained blood-soaked packing or tampons allow S. aureus toxins to cause toxic shock syndrome.",
+   "explanations": [
+    "Correct.",
+    "No rash, shock.",
+    "No tampon link.",
+    "No tampon link."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Toxic shock syndrome (PDF p. 497)",
+   "quote": "This is caused by blood — soaked packings like tampons, nasal packs, vaginal packs"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Oxybutynin is ordered for bladder spasms. The nurse checks first whether the client has:",
+   "options": [
+    "Glaucoma",
+    "Hypertension",
+    "Diabetes",
+    "Asthma"
+   ],
+   "answer": "A",
+   "rationale": "Oxybutynin is anticholinergic; it dilates pupils and can worsen glaucoma.",
+   "explanations": [
+    "Correct.",
+    "Not a contraindication.",
+    "Not a contraindication.",
+    "Not a contraindication."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 15 Antispasmodics (PDF p. 494)",
+   "quote": "Do not administer these medications among clients with glaucoma."
+  }
+ ]
+}

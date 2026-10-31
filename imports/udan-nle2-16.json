@@ -1,0 +1,725 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A child spilled boiling water on his arm. The skin is red, moist, blistered and very painful. This is a:",
+   "options": [
+    "Second-degree",
+    "First-degree",
+    "Third-degree",
+    "Fourth-degree"
+   ],
+   "answer": "A",
+   "rationale": "Second-degree burns involve epidermis and dermis: moist, blistered and painful. Third-degree is pearly white or leathery and painless.",
+   "explanations": [
+    "Correct.",
+    "No blisters.",
+    "Painless, white.",
+    "Muscle, bone."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Burn depth (PDF p. 499)",
+   "quote": "Second degree. Involves the dermis; moist surface; with blisters; painful."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "Why is a third-degree burn area painless?",
+   "options": [
+    "Nerve endings are destroyed",
+    "The burn is superficial",
+    "Blisters protect the nerves",
+    "Swelling numbs the skin"
+   ],
+   "answer": "A",
+   "rationale": "Full-thickness burns destroy the dermis and its nerve endings; surrounding partial-thickness areas still hurt.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "No blisters.",
+    "Not the reason."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Burn depth (PDF p. 499)",
+   "quote": "Third degree. Involves the subcutaneous layer; pearly white; no pain."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "During the first 48 hours after a major burn, the client's hematocrit rises. This is because:",
+   "options": [
+    "Plasma shifts into the tissues",
+    "Red cells multiply quickly",
+    "Blood transfusions were given",
+    "The kidneys retain cells"
+   ],
+   "answer": "A",
+   "rationale": "In the emergent phase plasma leaks from vessels to interstitial spaces, causing hypovolemia and hemoconcentration.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not the cause.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Shock phase (PDF p. 499)",
+   "quote": "Hemoconcentration, increased hematocrit. Plasma is lost into the interstitial compartment (ISC)."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "Which electrolyte finding is expected in the first 48 hours after an extensive burn?",
+   "options": [
+    "Hyperkalemia",
+    "Hypokalemia",
+    "Hypernatremia",
+    "Hypercalcemia"
+   ],
+   "answer": "A",
+   "rationale": "Damaged cells release potassium (hyperkalemia); sodium is trapped in edema fluid (hyponatremia).",
+   "explanations": [
+    "Correct.",
+    "Diuretic phase.",
+    "Sodium is low.",
+    "Not typical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Shock phase (PDF p. 499)",
+   "quote": "Hyperkalemia and hyponatremia. This results from release of potassium from damaged cells"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "Three days after a burn, a client's urine output increases greatly. The nurse watches for:",
+   "options": [
+    "Fluid overload and hypokalemia",
+    "Hyperkalemia",
+    "Hypovolemic shock",
+    "Hemoconcentration"
+   ],
+   "answer": "A",
+   "rationale": "In the fluid remobilization phase fluid returns to vessels (hypervolemia, hemodilution) and potassium moves back into cells.",
+   "explanations": [
+    "Correct.",
+    "Emergent phase.",
+    "Emergent phase.",
+    "Emergent phase."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Diuretic phase (PDF p. 499)",
+   "quote": "Hypervolemia, hemodilution and decreased hematocrit occur."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A man rescued from a house fire has singed nasal hair and sooty sputum. The priority is:",
+   "options": [
+    "Securing the airway",
+    "Starting IV fluids",
+    "Relieving pain",
+    "Dressing the wounds"
+   ],
+   "answer": "A",
+   "rationale": "These signs suggest inhalation injury; airway edema can develop quickly, so airway comes first.",
+   "explanations": [
+    "Correct.",
+    "After airway.",
+    "After airway.",
+    "After airway."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Burns management (PDF p. 511)",
+   "quote": "Assess for sooty sputum and singed hair in the nose and eye brows."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A woman's dress catches fire while cooking. She should be told to:",
+   "options": [
+    "Stop, drop and roll",
+    "Run outside for help",
+    "Fan the flames",
+    "Stand still and scream"
+   ],
+   "answer": "A",
+   "rationale": "Rolling smothers the flames; running feeds them with oxygen. A blanket also cuts off oxygen.",
+   "explanations": [
+    "Correct.",
+    "Feeds flames.",
+    "Feeds flames.",
+    "Flames continue."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 First aid (PDF p. 511)",
+   "quote": "Running causes the oxygen in the environment to further ignite the flame."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Collaboration & Teamwork",
+   "situation": "",
+   "stem": "A nurse discovers a fire in a client's room. The first action is to:",
+   "options": [
+    "Remove the client from danger",
+    "Activate the alarm",
+    "Close the door",
+    "Get the extinguisher"
+   ],
+   "answer": "A",
+   "rationale": "RACE: Rescue (remove the client), Alarm, Confine, Extinguish.",
+   "explanations": [
+    "Correct.",
+    "Second.",
+    "Third.",
+    "Fourth."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Fire safety (PDF p. 511)",
+   "quote": "R — emove the client A — ctivate the fire alarm. C — onfine the fire. E xtinguish the fire"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Collaboration & Teamwork",
+   "situation": "",
+   "stem": "When using a fire extinguisher, the nurse aims the nozzle at the:",
+   "options": [
+    "Base of the flames",
+    "Top of the flames",
+    "Smoke",
+    "Ceiling"
+   ],
+   "answer": "A",
+   "rationale": "PASS: Pull the pin, Aim at the base, Squeeze the handle, Sweep side to side.",
+   "explanations": [
+    "Correct.",
+    "Ineffective.",
+    "Ineffective.",
+    "Ineffective."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Fire safety (PDF p. 511)",
+   "quote": "A — im at the base of the flame"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "By the rule of nines, an adult with burns of the entire front trunk and the whole right arm has about what percent burned?",
+   "options": [
+    "27%",
+    "18%",
+    "36%",
+    "45%"
+   ],
+   "answer": "A",
+   "rationale": "Anterior trunk 18% + one arm 9% = 27%.",
+   "explanations": [
+    "Correct.",
+    "Trunk only.",
+    "Too high.",
+    "Too high."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Rule of nines (PDF p. 512)",
+   "quote": "The Rule of 9's for determining percentage of burns"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A 60-kg adult has 40% burns. Using the Parkland formula (4 mL × kg × %), how much LR is given in the first 8 hours?",
+   "options": [
+    "4,800 mL",
+    "9,600 mL",
+    "2,400 mL",
+    "3,600 mL"
+   ],
+   "answer": "A",
+   "rationale": "4 × 60 × 40 = 9,600 mL in 24 hours; half (4,800 mL) in the first 8 hours from the time of burn.",
+   "explanations": [
+    "Correct.",
+    "24-hour total.",
+    "Quarter.",
+    "Miscalculated."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Parkland formula (PDF p. 515)",
+   "quote": "4mls. LR x weight in kg. x % of burns"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "The best guide that burn fluid resuscitation is adequate is:",
+   "options": [
+    "Hourly urine output",
+    "Thirst",
+    "Blister size",
+    "Skin color of the burn"
+   ],
+   "answer": "A",
+   "rationale": "Urine output, vital signs, CVP and level of consciousness show perfusion; adults should make at least 30 mL/hour.",
+   "explanations": [
+    "Correct.",
+    "Unreliable.",
+    "Not related.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Fluid balance (PDF p. 512)",
+   "quote": "Urine output"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "For pain in a client with major burns, morphine is given by which route?",
+   "options": [
+    "Intravenous",
+    "Intramuscular",
+    "Subcutaneous",
+    "Oral"
+   ],
+   "answer": "A",
+   "rationale": "Poor tissue perfusion makes IM and SC absorption unreliable; give IV and watch for respiratory depression (have naloxone ready).",
+   "explanations": [
+    "Correct.",
+    "Poor absorption.",
+    "Poor absorption.",
+    "Ileus risk."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Pain relief (PDF p. 512)",
+   "quote": "Administer Morphine Sulfate per IV as prescribed. Monitor the client for respiratory depression."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A burn client on mafenide (Sulfamylon) begins breathing fast and deep. The nurse suspects:",
+   "options": [
+    "Metabolic acidosis",
+    "Respiratory alkalosis",
+    "Hypoglycemia",
+    "Fluid overload"
+   ],
+   "answer": "A",
+   "rationale": "Mafenide can cause metabolic acidosis (shown by hyperventilation); it also stings on application.",
+   "explanations": [
+    "Correct.",
+    "Not the drug effect.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Topical antimicrobials (PDF p. 513)",
+   "quote": "The medication may cause metabolic acidosis (usually manifested by hyperventilation)."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A client receiving silver sulfadiazine on his burns needs which lab monitored?",
+   "options": [
+    "White blood cell count",
+    "Serum amylase",
+    "Blood glucose",
+    "Thyroid levels"
+   ],
+   "answer": "A",
+   "rationale": "Silver sulfadiazine can cause leukopenia; monitor the CBC, especially WBC.",
+   "explanations": [
+    "Correct.",
+    "Not related.",
+    "Not related.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Topical antimicrobials (PDF p. 513)",
+   "quote": "Side effects are as follows: rash, leukopenia, nephritis. Monitor cbc, especially the wbc."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "When dressing burns of the hand, the nurse should:",
+   "options": [
+    "Wrap each finger separately",
+    "Wrap all fingers together",
+    "Keep jewelry on",
+    "Splint fingers straight"
+   ],
+   "answer": "A",
+   "rationale": "Separate dressings prevent webbing and contractures; remove rings and splint in a functional position.",
+   "explanations": [
+    "Correct.",
+    "Webbing.",
+    "Constricts.",
+    "Not functional."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Wound care (PDF p. 513)",
+   "quote": "No two burn surfaces should be allowed to touch; touching can promote webbing of digits"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "Before hydrotherapy for burn care, the nurse should:",
+   "options": [
+    "Give an analgesic 15–30 minutes before",
+    "Give a diuretic",
+    "Withhold all medicines",
+    "Keep the client NPO for 24 hours"
+   ],
+   "answer": "A",
+   "rationale": "Hydrotherapy and debridement are painful; premedicate so the drug peaks during the procedure.",
+   "explanations": [
+    "Correct.",
+    "Not indicated.",
+    "Pain uncontrolled.",
+    "Not needed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Hydrotherapy (PDF p. 514)",
+   "quote": "Administer analgesic 15 to 30 minutes before hydrotherapy to promote comfort."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A skin graft taken from the client's own thigh is called an:",
+   "options": [
+    "Autograft",
+    "Allograft",
+    "Xenograft",
+    "Isograft"
+   ],
+   "answer": "A",
+   "rationale": "Autograft is from self; allograft from another person; xenograft from an animal; isograft from an identical twin.",
+   "explanations": [
+    "Correct.",
+    "Another human.",
+    "Animal.",
+    "Identical twin."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Skin grafting (PDF p. 514)",
+   "quote": "Autograft. The donor site comes from the self."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "After a skin graft to the leg, the nurse should:",
+   "options": [
+    "Elevate and immobilize the graft site",
+    "Encourage early weight bearing",
+    "Apply pressure on the graft",
+    "Leave exudate on the graft"
+   ],
+   "answer": "A",
+   "rationale": "Immobilize, elevate and avoid pressure so the graft can adhere; remove exudate and watch for infection.",
+   "explanations": [
+    "Correct.",
+    "Avoid.",
+    "Avoid.",
+    "Prevents adherence."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Graft site care (PDF p. 514)",
+   "quote": "Elevate and immobilize the graft site."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A client with severe burns is given a histamine-2 blocker. The purpose is to prevent:",
+   "options": [
+    "Curling's (stress) ulcer",
+    "Constipation",
+    "Wound infection",
+    "Contractures"
+   ],
+   "answer": "A",
+   "rationale": "Major burns cause stress ulcers (Curling's ulcer); antacids and H2 blockers are given.",
+   "explanations": [
+    "Correct.",
+    "Not the purpose.",
+    "Not the purpose.",
+    "Not the purpose."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 GI support (PDF p. 515)",
+   "quote": "To prcvcnt stress ulcer (Curling's ulcer)."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "The priority goal in the rehabilitation phase of burns is to:",
+   "options": [
+    "Prevent or minimize scarring",
+    "Restore fluid volume",
+    "Maintain an airway",
+    "Control early pain only"
+   ],
+   "answer": "A",
+   "rationale": "Pressure garments, splints and exercise reduce scarring and contractures; fluid and airway are early-phase goals.",
+   "explanations": [
+    "Correct.",
+    "Emergent phase.",
+    "Emergent phase.",
+    "Earlier goal."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 16 Rehabilitation (PDF p. 516)",
+   "quote": "The priority goal of rehabilitation among burns clients is to prevent or minimize scarring."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "Shock is best defined as:",
+   "options": [
+    "Inadequate tissue perfusion",
+    "Systolic BP below 90 only",
+    "Loss of consciousness",
+    "Fast heart rate"
+   ],
+   "answer": "A",
+   "rationale": "Shock is inadequate blood flow and oxygen delivery to tissues; low BP is a late sign.",
+   "explanations": [
+    "Correct.",
+    "Late sign only.",
+    "Not required.",
+    "A sign only."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 17 Shock (PDF p. 525)",
+   "quote": "Shock is due to inadequate blood flow and oxygen delivery to the capillaries and tissues of the body."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "Which shock type follows a massive heart attack?",
+   "options": [
+    "Cardiogenic",
+    "Hypovolemic",
+    "Anaphylactic",
+    "Neurogenic"
+   ],
+   "answer": "A",
+   "rationale": "Cardiogenic shock results from pump failure (MI, dysrhythmias, tamponade).",
+   "explanations": [
+    "Correct.",
+    "Volume loss.",
+    "Allergy.",
+    "Spinal injury."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 17 Shock types (PDF p. 521)",
+   "quote": "Cardiogenic Shock. This results from decreased cardiac output, e.g., MI, dysrhythmias, CHF, cardiac tamponade."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A client with a new T4 spinal cord injury has BP 80/50 and pulse 52 with warm, dry skin. This is:",
+   "options": [
+    "Neurogenic shock",
+    "Hypovolemic shock",
+    "Cardiogenic shock",
+    "Septic shock"
+   ],
+   "answer": "A",
+   "rationale": "Loss of sympathetic tone causes vasodilation with hypotension and bradycardia; other shocks cause tachycardia.",
+   "explanations": [
+    "Correct.",
+    "Tachycardia, cold skin.",
+    "Tachycardia.",
+    "Tachycardia, fever."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 17 Shock types (PDF p. 521)",
+   "quote": "This results from generalized vasodilatation due to conditions affecting the medulla oblongata and SNS, e.g., spinal cord injury"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A 78-year-old diabetic with an infected toe has fever, confusion, BP 84/40, HR 110 and RR 32. This most likely indicates:",
+   "options": [
+    "Septic shock",
+    "Hypoglycemia",
+    "Stroke",
+    "Heart failure"
+   ],
+   "answer": "A",
+   "rationale": "Infection with hypotension and organ dysfunction (confusion) indicates septic shock; act fast with fluids and antibiotics.",
+   "explanations": [
+    "Correct.",
+    "No fever link.",
+    "No infection link.",
+    "Not this picture."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 17 Critical thinking answers (PDF p. 527)",
+   "quote": "Septic shock results from severe infection. Purulent drainage indicates presence of infection."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "Which is an early sign of shock?",
+   "options": [
+    "Restlessness and tachycardia",
+    "Very low BP",
+    "No urine output",
+    "Fixed dilated pupils"
+   ],
+   "answer": "A",
+   "rationale": "Early sympathetic response causes restlessness, tachycardia, tachypnea and cool clammy skin; hypotension and anuria are late.",
+   "explanations": [
+    "Correct.",
+    "Late.",
+    "Late.",
+    "Very late."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 17 Shock manifestations (PDF p. 522)",
+   "quote": "Restlessness, confusion Tachycardia; tachypnea"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "Early in shock, a client breathes rapidly. The ABG is likely to show:",
+   "options": [
+    "Respiratory alkalosis",
+    "Respiratory acidosis",
+    "Metabolic alkalosis",
+    "Normal values"
+   ],
+   "answer": "A",
+   "rationale": "Hyperventilation early in shock blows off CO2; later, lactic acid causes metabolic acidosis.",
+   "explanations": [
+    "Correct.",
+    "Late finding.",
+    "Not this.",
+    "Not with tachypnea."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 17 Critical thinking answers (PDF p. 527)",
+   "quote": "excessive loss of carbon dioxide leads to respiratory alkalosis."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A hypotensive client in hypovolemic shock is best positioned:",
+   "options": [
+    "Supine with legs raised",
+    "High Fowler's",
+    "Prone",
+    "Head lower than the trunk, steeply"
+   ],
+   "answer": "A",
+   "rationale": "Modified Trendelenburg (flat with legs raised) improves venous return without pushing abdominal organs onto the diaphragm.",
+   "explanations": [
+    "Correct.",
+    "Lowers BP.",
+    "Not helpful.",
+    "Impairs breathing."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 17 Shock management (PDF p. 523)",
+   "quote": "Position: Modified Trendelenburg"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "Which complication of prolonged shock affects the kidneys?",
+   "options": [
+    "Acute tubular necrosis",
+    "Glomerulonephritis",
+    "Kidney stones",
+    "Polycystic kidneys"
+   ],
+   "answer": "A",
+   "rationale": "Poor renal perfusion causes acute tubular necrosis and kidney failure; monitor hourly urine output.",
+   "explanations": [
+    "Correct.",
+    "Immune cause.",
+    "Not from shock.",
+    "Inherited."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 17 MODS (PDF p. 522)",
+   "quote": "Kidneys. Acute tubular necrosis and renal failure."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A client in shock starts oozing from IV sites and the gums. The nurse suspects:",
+   "options": [
+    "DIC",
+    "Scurvy",
+    "Heparin allergy",
+    "Normal response"
+   ],
+   "answer": "A",
+   "rationale": "DIC is a part of multiple organ dysfunction in shock: clotting factors are used up, causing bleeding.",
+   "explanations": [
+    "Correct.",
+    "Not acute.",
+    "Not this.",
+    "Not normal."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 17 MODS (PDF p. 522)",
+   "quote": "Blood. Disseminated Intravascular Coagulation (DIC) occurs."
+  }
+ ]
+}

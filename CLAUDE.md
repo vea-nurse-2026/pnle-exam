@@ -52,6 +52,7 @@ For small changes (site design, a fix), the same flow applies: change, `npm run 
   - outdated CPD unit counts
   - spousal consent "required" for sterilization (struck down in Imbong v. Ochoa, 2014; only the client consents)
   - RA 9211 minimum age for buying tobacco (raised from 18 to 21 by RA 11467, 2020)
+  - Udan books: old CPR/ACLS (100/min, lidocaine for PVCs, atropine for asystole, bicarbonate), annual Pap/CXR/DRE screening, old DM cutoffs, Lente insulin, renal-dose dopamine, MAST trousers, nothing by mouth for 48 h after burns, 50–100 mL tube-feed residual limits, paper-bag rebreathing, aspirin or gold as the mainstay for RA, elevating a limb above the heart in compartment syndrome, bed rest for disc herniation, "limit dairy" for calcium stones, blood transfusion during hemodialysis, frequent sex as a prostate cancer cause, withdrawn drugs (phenylbutazone, propoxyphene, chymopapain, Xigris, DES)
 - **Topics must be the exact Annex A names below.** A misspelled topic would create a new topic, so `--approve` refuses it instead. NP II and NP V have no "Health Education" topic, and "Acute Biologic Crisis & Emergency Care" exists only under NP V.
 - **Mix the difficulty and Bloom levels.** Keep the correct option's length similar to the others, and avoid NOT/EXCEPT stems.
 
@@ -73,14 +74,15 @@ For small changes (site design, a fix), the same flow applies: change, `npm run 
 | --- | --- |
 | Saunders Q&A Review for the NCLEX-RN, 7th ed. | Done (all usable items; skips logged) |
 | Toprank Review Academy (TRA) Complete Handout, pp. 1–530 | Done (`imports/tra-*.json`) |
-| Udan: Comprehensive Review Vol. 2 (Scribd 1015187019, 532 pp.) | Waiting for the user to download it |
-| Udan: Medical-Surgical Nursing (Scribd 837094898, 274 pp., scanned) | Waiting for the download; needs OCR |
+| Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024) (`materials/udan/Udan-NLE-V2-2024.pdf`; OCR text in `materials/_text/Udan-NLE-V2-2024.ocr.txt`, PDF page ≈ printed page + 2) | Done, Ch. 1–17 (`imports/udan-nle2-*.json`) |
+| Udan, Healthcare Ethics (2023) (`materials/udan/Udan-Healthcare-Ethics-2023.pdf`) | Done (`imports/udan-eth-*.json`) |
+| Udan, Medical-Surgical Nursing 2nd ed. (`materials/udan/Udan-MS-2e.pdf`, scanned two-up) | OCR running (RapidOCR on split halves at 400 dpi) into `materials/_text/Udan-MS-2e.ocr.txt`; questions not yet written. Skip what NLE Vol. 2 already covers |
 | Udan: Fundamentals overview (Scribd 25006096, 29 pp.) | Waiting for the download |
 | DOH Philippine Clinical Standards Manual on Family Planning (2014) | Ch. 1–11 done (`imports/dohfp-*.json`); STI and FP-management chapters left |
 | Philippine laws, full text from Lawphil (30 laws in `materials/laws/`, text in `materials/_text/laws/`) | Started: `imports/law-*.json` (professional practice, maternal/child, mental health, community). Check each law for later amendments before writing |
 | Other free sources in `materials/openstax/` and `materials/doh/` (MNCHN MOP, NTP MOP, Dengue CPG 2023, mhGAP 2.0, PNF; OpenStax nursing books) | Downloaded and extracted; not yet converted |
 
-Bank on 2026-10-31: 3,341 approved (3,325 published; the other 16 are samples). Published by subject: NP I 436 · NP II 643 · NP III 1,006 · NP IV 776 · NP V 464. Update this line after each update.
+Bank on 2026-10-31: 4,126 approved (4,110 published; the other 16 are samples). Published by subject: NP I 490 · NP II 688 · NP III 1,310 · NP IV 1,065 · NP V 557. Update this line after each update.
 
 ## Never
 
