@@ -1,0 +1,749 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client with a weak left leg is learning to use a cane. The nurse teaches him to hold it in the:",
+   "options": [
+    "Right hand, moving it with the left leg",
+    "Left hand, moving it with the left leg",
+    "Right hand, moving it with the right leg",
+    "Left hand, moving it before both legs"
+   ],
+   "answer": "A",
+   "rationale": "The cane is held on the unaffected side and advanced together with the affected leg to shift weight onto the cane.",
+   "explanations": [
+    "Correct.",
+    "Wrong side.",
+    "Wrong leg.",
+    "Wrong side and pattern."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Assistive devices (PDF p. 395)",
+   "quote": "The client must hold cane on the unaffected hand or side. The cane and the affected leg are advanced together."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client on crutches with a casted right leg is going up the stairs. The nurse tells her to step up first with the:",
+   "options": [
+    "Left (unaffected) leg",
+    "Right (casted) leg",
+    "Crutches only",
+    "Both legs together"
+   ],
+   "answer": "A",
+   "rationale": "\"Up with the good, down with the bad\": the unaffected leg leads going up; the affected leg and crutches lead going down.",
+   "explanations": [
+    "Correct.",
+    "Goes down first.",
+    "Crutches stay with affected leg.",
+    "Unsafe."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Crutch walking (PDF p. 396)",
+   "quote": "When going up the stairs, advance the \"good leg\" (unaffected leg) first, followed by the \"bad leg\" and the crutches."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client may bear little or no weight on the affected leg after knee replacement. Which crutch gait fits?",
+   "options": [
+    "Three-point gait",
+    "Four-point gait",
+    "Two-point gait",
+    "Swing-through gait"
+   ],
+   "answer": "A",
+   "rationale": "In the three-point gait, both crutches and the affected leg advance together, then the unaffected leg.",
+   "explanations": [
+    "Correct.",
+    "Needs weight bearing on both.",
+    "Needs weight bearing on both.",
+    "Needs strong arms; not specific."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Crutch walking (PDF p. 396)",
+   "quote": "Little or no weight — bearing is allowed, e.g. after total hip replacement or total knee replacement."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "When walking with crutches, the client should bear his weight on the:",
+   "options": [
+    "Hands",
+    "Axillae",
+    "Elbows",
+    "Shoulders"
+   ],
+   "answer": "A",
+   "rationale": "Weight on the palms prevents pressure on the axillary nerves (crutch palsy).",
+   "explanations": [
+    "Correct.",
+    "Crutch palsy.",
+    "Not weight bearing.",
+    "Not weight bearing."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Critical thinking answers (PDF p. 426)",
+   "quote": "the client bears the weight of the body on the palms of the hands, not on the axillae to prevent crutch palsy."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client in a leg cast is taught quadriceps setting. The purpose of this exercise is to:",
+   "options": [
+    "Keep thigh strength and prevent clots",
+    "Move the knee joint freely",
+    "Stretch the hamstrings",
+    "Increase joint range of motion"
+   ],
+   "answer": "A",
+   "rationale": "Quadriceps setting is isometric: no joint movement, but it maintains thigh strength for crutch walking and helps prevent thrombophlebitis.",
+   "explanations": [
+    "Correct.",
+    "No joint movement.",
+    "Not its aim.",
+    "No movement."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Isometric exercise (PDF p. 395)",
+   "quote": "It strengthens the thigh muscles in preparation for ambulation and crutch — walking gait. It also prevents thrombophlebitis."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A client in a new body (spica) cast has repeated vomiting, bloating and vague abdominal pain. The nurse suspects:",
+   "options": [
+    "Cast syndrome",
+    "Compartment syndrome",
+    "Fat embolism",
+    "Normal reaction to the cast"
+   ],
+   "answer": "A",
+   "rationale": "Cast syndrome in a body cast causes bloating, prolonged nausea, vomiting and distention; windowing may relieve it.",
+   "explanations": [
+    "Correct.",
+    "Limb pain, pallor.",
+    "Respiratory signs.",
+    "Must report."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Cast care (PDF p. 397)",
+   "quote": "Cast syndrome may occur if the client has body cast. It is manifested by bloated feeling, prolonged nausea, repeated vomiting, abdominal distention"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which finding distal to a new arm cast shows the cast may be too tight?",
+   "options": [
+    "Cool, numb fingers",
+    "Warm, pink fingers",
+    "Brisk capillary refill",
+    "Able to move all fingers"
+   ],
+   "answer": "A",
+   "rationale": "Pallor, coldness, numbness, tingling, inability to move and absent pulse distal to the cast mean impaired circulation.",
+   "explanations": [
+    "Correct.",
+    "Normal.",
+    "Normal.",
+    "Normal."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Neurovascular checks (PDF p. 397)",
+   "quote": "Skin temperature — cold skin • Sensation numbness, tingling"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client in Buck's traction for a hip fracture asks if the weights can rest on the floor at night. The nurse explains the weights must:",
+   "options": [
+    "Hang freely at all times",
+    "Rest on the floor while asleep",
+    "Be removed every 4 hours",
+    "Rest on the bed frame"
+   ],
+   "answer": "A",
+   "rationale": "Traction must be continuous with weights hanging freely; there should be no knots or friction along the rope.",
+   "explanations": [
+    "Correct.",
+    "Loses pull.",
+    "Not unless ordered.",
+    "Loses pull."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Traction principles (PDF p. 399)",
+   "quote": "Allow the weights to hang freely. Weights should not touch the floor."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "An 18-month-old in Bryant traction for a femur fracture is positioned correctly when the:",
+   "options": [
+    "Buttocks are slightly off the mattress",
+    "Buttocks rest flat on the bed",
+    "Legs are flat on the bed",
+    "Hips are flexed at 45 degrees"
+   ],
+   "answer": "A",
+   "rationale": "In Bryant traction both legs are at 90 degrees with buttocks slightly raised so body weight gives countertraction.",
+   "explanations": [
+    "Correct.",
+    "No countertraction.",
+    "Wrong traction.",
+    "Should be 90 degrees."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Bryant traction (PDF p. 398)",
+   "quote": "Buttocks must be slightly off the mattress. To enhance efficiency of the weight as countertraction."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client has a skeletal traction pin with redness, warmth and pus at the site. The nurse should:",
+   "options": [
+    "Report signs of infection",
+    "Remove the pin",
+    "Release the traction weights",
+    "Cover it and recheck in a week"
+   ],
+   "answer": "A",
+   "rationale": "Pin sites are cleaned as ordered and observed for infection; redness, swelling, warmth and drainage are reported.",
+   "explanations": [
+    "Correct.",
+    "Not a nursing action.",
+    "Disrupts traction.",
+    "Delays care."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Pin site care (PDF p. 399)",
+   "quote": "Observe site for signs and symptoms of infection, e.g., redness, swelling, pain, warmth, drainage. Notify physician"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A basketball player twisted his ankle 1 hour ago. It is swollen and painful. The nurse first applies:",
+   "options": [
+    "Rest, ice, compression and elevation",
+    "Heat to the ankle",
+    "Massage to reduce swelling",
+    "Walking to keep it mobile"
+   ],
+   "answer": "A",
+   "rationale": "RICE limits edema and pain after a sprain; heat and massage increase swelling early.",
+   "explanations": [
+    "Correct.",
+    "Increases edema.",
+    "Increases edema.",
+    "Worsens injury."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Strain and sprain (PDF p. 399)",
+   "quote": "R— est / immobilize affected joint I — ce application"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A child fell from a tree. X-ray shows one side of the forearm bone broken and the other side bent. This is a:",
+   "options": [
+    "Greenstick fracture",
+    "Comminuted fracture",
+    "Impacted fracture",
+    "Spiral fracture"
+   ],
+   "answer": "A",
+   "rationale": "Greenstick fractures are incomplete: one side breaks, the other bends; common in children's flexible bones.",
+   "explanations": [
+    "Correct.",
+    "Several fragments.",
+    "Ends driven together.",
+    "Twisting break."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Types of fracture (PDF p. 400)",
+   "quote": "Greenstick. One side of the bone is impaired, the other side is bent."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "An elderly woman fell at home. Which finding suggests hip fracture?",
+   "options": [
+    "Shortened, externally rotated leg",
+    "Lengthened, internally rotated leg",
+    "Bruise on the knee only",
+    "Pain only when lying still"
+   ],
+   "answer": "A",
+   "rationale": "Muscle spasm shortens the limb; adduction and external rotation of the hip are typical deformities.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Not specific.",
+    "Pain with motion."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Fracture manifestations (PDF p. 400)",
+   "quote": "Obvious deformity, e.g. adduction and external rotation of the hip in hip fracture."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A day after a femur fracture, a client becomes confused and short of breath, with petechiae on the chest. The nurse suspects:",
+   "options": [
+    "Fat embolism",
+    "Compartment syndrome",
+    "Osteomyelitis",
+    "Avascular necrosis"
+   ],
+   "answer": "A",
+   "rationale": "Fat embolism follows long-bone or multiple fractures and may lead to ARDS; it is an emergency.",
+   "explanations": [
+    "Correct.",
+    "Limb signs.",
+    "Later, infection.",
+    "Later, bone death."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Complications of fractures (PDF p. 401)",
+   "quote": "Fat Embolism. This usually follows fracture of the long bones, e.g. lower extremities or multiple fractures. It may lead to acute respiratory distress"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client with a tibia fracture in a cast has severe pain not relieved by analgesics and tingling toes. The nurse should first:",
+   "options": [
+    "Notify the physician at once",
+    "Give another analgesic dose",
+    "Elevate the leg high on pillows",
+    "Recheck in 4 hours"
+   ],
+   "answer": "A",
+   "rationale": "These suggest compartment syndrome, which can cause ischemia and necrosis; report at once and loosen tight dressings or cast as ordered. Keep the limb at heart level.",
+   "explanations": [
+    "Correct.",
+    "Masks it.",
+    "Reduces perfusion.",
+    "Delays care."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Compartment syndrome (PDF p. 402)",
+   "quote": "Notify physician. Compartment syndrome may cause tissue ischemia and necrosis."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which complication of a hip fracture results from loss of blood supply to the femoral head?",
+   "options": [
+    "Avascular necrosis",
+    "Peroneal nerve palsy",
+    "Malunion",
+    "Fat embolism"
+   ],
+   "answer": "A",
+   "rationale": "Decreased perfusion causes bone death; the neck and head of the femur are commonly affected.",
+   "explanations": [
+    "Correct.",
+    "Leg fracture; footdrop.",
+    "Poor alignment.",
+    "Fat globules."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Complications of fractures (PDF p. 402)",
+   "quote": "Avascular Necrosis. Decreased bone tissue perfusion leads to bone tissue death. Neck of the femur is commonly affected."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After hip replacement, a client's operated leg keeps rolling outward in bed. The nurse places a:",
+   "options": [
+    "Trochanter roll along the hip",
+    "Pillow under the knee",
+    "Sandbag under the heel",
+    "Footboard only"
+   ],
+   "answer": "A",
+   "rationale": "Trochanter rolls along the hip prevent external rotation, which can dislocate the prosthesis.",
+   "explanations": [
+    "Correct.",
+    "Causes hip flexion.",
+    "Not for rotation.",
+    "Prevents footdrop only."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Total hip replacement (PDF p. 402)",
+   "quote": "Prevent extemal rotation by placing trochanter rolls along hip."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "After an above-knee amputation, which position helps prevent a hip flexion contracture?",
+   "options": [
+    "Prone several times a day",
+    "Stump on a pillow all day",
+    "Sitting in a chair for hours",
+    "Stump abducted outward"
+   ],
+   "answer": "A",
+   "rationale": "Lying prone with the hip extended prevents flexion contracture; avoid long sitting, pillows under the stump after 24 hours, and abduction.",
+   "explanations": [
+    "Correct.",
+    "Causes flexion.",
+    "Causes flexion.",
+    "Avoid abduction."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Evaluating",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Amputation (PDF p. 414)",
+   "quote": "Have patient assume prone position several times a day and position hip in extension."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A 35-year-old woman has painful, swollen finger joints on both hands, stiff for over an hour each morning. This suggests:",
+   "options": [
+    "Rheumatoid arthritis",
+    "Osteoarthritis",
+    "Gout",
+    "Fibromyalgia"
+   ],
+   "answer": "A",
+   "rationale": "RA is autoimmune and symmetrical, affects small joints of the hands, and causes morning stiffness.",
+   "explanations": [
+    "Correct.",
+    "Older, weight-bearing joints.",
+    "Big toe, male.",
+    "No joint swelling."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Rheumatoid arthritis (PDF p. 403)",
+   "quote": "Joint distribution is symmetrical (both sides of the body are affected) — most commonly affects smaller peripheral joints of hands"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "To ease morning stiffness, a client with rheumatoid arthritis is advised to:",
+   "options": [
+    "Take a warm bath or shower",
+    "Apply ice for an hour",
+    "Stay in bed until noon",
+    "Avoid moving the joints"
+   ],
+   "answer": "A",
+   "rationale": "Warm baths in the morning relieve stiffness; cold is for acute pain, then heat.",
+   "explanations": [
+    "Correct.",
+    "Too long; acute pain only.",
+    "Increases stiffness.",
+    "Causes contractures."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 RA management (PDF p. 404)",
+   "quote": "Warm bath in the morning. To relieve morning stiffness."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A client with long-standing RA has dry eyes, dry mouth and vaginal dryness. This is:",
+   "options": [
+    "Sjögren's syndrome",
+    "Felty's syndrome",
+    "Raynaud's disease",
+    "Reiter's syndrome"
+   ],
+   "answer": "A",
+   "rationale": "Sjögren's syndrome causes excessive dryness of eyes, mouth and vagina; Felty's is leukopenia with splenomegaly.",
+   "explanations": [
+    "Correct.",
+    "Blood and spleen.",
+    "Vasospasm.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 RA complications (PDF p. 404)",
+   "quote": "Sjoren's syndrome is characterized by: Excessive dryness of the eyes, mouth and vagina."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "An obese 68-year-old has knee pain that worsens with walking and eases with rest, with bony nodes at the finger tips. This suggests:",
+   "options": [
+    "Osteoarthritis",
+    "Rheumatoid arthritis",
+    "Gout",
+    "Lupus"
+   ],
+   "answer": "A",
+   "rationale": "OA is degenerative, affects weight-bearing joints, worsens with use, and causes Heberden's nodes at distal joints.",
+   "explanations": [
+    "Correct.",
+    "Pain on non-use.",
+    "Big toe, tophi.",
+    "Systemic signs."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Osteoarthritis (PDF p. 405)",
+   "quote": "Pain aggravated by use and relieved by rest."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A man wakes with a red, hot, very painful big toe after a party with beer and organ meats. The nurse suspects:",
+   "options": [
+    "Gout",
+    "Osteoarthritis",
+    "Rheumatoid arthritis",
+    "Osteomyelitis"
+   ],
+   "answer": "A",
+   "rationale": "Gout is a disorder of purine metabolism with urate crystals; the big toe is most often affected, and alcohol and purine-rich foods trigger attacks.",
+   "explanations": [
+    "Correct.",
+    "Gradual.",
+    "Symmetrical.",
+    "Bone infection."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Gout (PDF p. 405)",
+   "quote": "Joint pain, redness, heat, swelling; great/ big toe and ankle are most commonly affected."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client starting allopurinol for gout should be taught to:",
+   "options": [
+    "Drink 2–3 liters of fluid daily",
+    "Limit fluids to 1 liter daily",
+    "Take aspirin for joint pain",
+    "Eat more sardines and liver"
+   ],
+   "answer": "A",
+   "rationale": "High fluid intake prevents uric acid kidney stones; aspirin can trigger attacks; sardines and organ meats are high in purine.",
+   "explanations": [
+    "Correct.",
+    "Stone risk.",
+    "Avoid.",
+    "High purine."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Antigout medications (PDF p. 406)",
+   "quote": "Maintain a fluid intake ofat least 2000 to 3000 ml. a day to avoid kidney stones."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "How does allopurinol work in gout?",
+   "options": [
+    "Reduces uric acid formation",
+    "Increases uric acid excretion",
+    "Dissolves crystals instantly",
+    "Stops acute pain within minutes"
+   ],
+   "answer": "A",
+   "rationale": "Allopurinol inhibits uric acid formation; probenecid increases urinary excretion; colchicine or NSAIDs treat acute attacks.",
+   "explanations": [
+    "Correct.",
+    "Probenecid.",
+    "Not this.",
+    "Not for acute pain."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Gout drugs (PDF p. 406)",
+   "quote": "Zyloprim (Allopurinol) inhibits uric acid formation."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A young woman with SLE has a rash over the nose and cheeks. The nurse teaches her to:",
+   "options": [
+    "Avoid sun and use sunscreen",
+    "Tan to toughen the skin",
+    "Apply alcohol to the rash",
+    "Stop all medications"
+   ],
+   "answer": "A",
+   "rationale": "Sun exposure triggers SLE flares; use sunscreen, long sleeves, hats and sunglasses.",
+   "explanations": [
+    "Correct.",
+    "Triggers flare.",
+    "Irritates.",
+    "Unsafe."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 SLE (PDF p. 408)",
+   "quote": "Avoid exposure to sunlight. To prevent exacerbation of manifestations."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Which laboratory test is most specific for systemic lupus erythematosus?",
+   "options": [
+    "Anti-DNA antibody",
+    "ESR",
+    "Uric acid",
+    "CK-MM"
+   ],
+   "answer": "A",
+   "rationale": "Anti-double-stranded DNA is the most specific; ESR only shows inflammation.",
+   "explanations": [
+    "Correct.",
+    "Non-specific.",
+    "Gout.",
+    "Muscle injury."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 SLE diagnostics (PDF p. 408)",
+   "quote": "Anti - DNA (most specific)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Osteomyelitis after an open fracture is most often caused by:",
+   "options": [
+    "Staphylococcus aureus",
+    "Escherichia coli",
+    "Mycobacterium leprae",
+    "Candida albicans"
+   ],
+   "answer": "A",
+   "rationale": "S. aureus is the most common cause; infection enters through wounds, blood or nearby tissue.",
+   "explanations": [
+    "Correct.",
+    "Less common.",
+    "Leprosy.",
+    "Fungal; rare."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Osteomyelitis (PDF p. 409)",
+   "quote": "most commonly caused by Staphylococcus Aureus."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client has low back pain radiating down the leg. Raising the straight leg causes pain below the knee. This suggests:",
+   "options": [
+    "Herniated lumbar disc",
+    "Hip osteoarthritis",
+    "Kidney stone",
+    "Muscle strain only"
+   ],
+   "answer": "A",
+   "rationale": "A positive straight leg raise (Lasègue's sign) indicates nerve root compression, most often L4–L5.",
+   "explanations": [
+    "Correct.",
+    "Not this sign.",
+    "Flank pain.",
+    "No radiating sign."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 HNP (PDF p. 410)",
+   "quote": "Positive straight leg raise test; pain on leg below the knee when leg raised from a supine position (Lasegue's sign)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After a lumbar laminectomy, how should the nurse turn the client?",
+   "options": [
+    "Log-roll as one unit",
+    "Have him twist to his side",
+    "Pull him up by the arms",
+    "Bend his knees to his chest"
+   ],
+   "answer": "A",
+   "rationale": "Log rolling keeps the spine aligned; a pillow under the head and between the legs reduces strain.",
+   "explanations": [
+    "Correct.",
+    "Twists spine.",
+    "Strains back.",
+    "Flexes spine."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Laminectomy (PDF p. 411)",
+   "quote": "Use log rolling technique or Stryker frame."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After cervical spine surgery, which equipment should be at the bedside?",
+   "options": [
+    "Suction and tracheostomy set",
+    "Traction weights",
+    "Hypothermia blanket",
+    "Cardiac monitor only"
+   ],
+   "answer": "A",
+   "rationale": "Neck edema may impair swallowing and breathing; assess airway and keep suction and a tracheostomy set ready.",
+   "explanations": [
+    "Correct.",
+    "Not needed.",
+    "Not needed.",
+    "Airway first."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Laminectomy (PDF p. 412)",
+   "quote": "With cervical spinal surgery: assess swallowing, coughing; check for respiratory distress; have suction and tracheostomy set at bedside."
+  }
+ ]
+}

@@ -1,0 +1,605 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A garment worker has numbness of the thumb, index and middle fingers. Holding the wrist flexed for a minute brings on tingling. This is:",
+   "options": [
+    "Carpal tunnel syndrome",
+    "De Quervain's tenosynovitis",
+    "Dupuytren's contracture",
+    "Ulnar nerve palsy"
+   ],
+   "answer": "A",
+   "rationale": "CTS is median nerve compression from repetitive hand work; Phalen's (wrist flexion) and Tinel's (tapping) signs are positive.",
+   "explanations": [
+    "Correct.",
+    "Thumb tendons; pain.",
+    "Ring and little finger flexion.",
+    "Ring and little finger."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Carpal tunnel syndrome (PDF p. 413)",
+   "quote": "(+) Phalen's sign (tingling sensation on holding the WTist in flexion for few minutes)."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Carpal tunnel syndrome results from compression of which nerve?",
+   "options": [
+    "Median",
+    "Ulnar",
+    "Radial",
+    "Axillary"
+   ],
+   "answer": "A",
+   "rationale": "The median nerve passes through the carpal tunnel at the wrist and supplies the thumb, index and middle fingers.",
+   "explanations": [
+    "Correct.",
+    "Little finger.",
+    "Wrist drop.",
+    "Shoulder."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Carpal tunnel syndrome (PDF p. 413)",
+   "quote": "It occurs when the median nerve at the wrist is compressed by thickened flexor sheath"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "A 5-year-old boy waddles, falls often, and pushes on his thighs with his hands to stand up from the floor. The nurse suspects:",
+   "options": [
+    "Duchenne muscular dystrophy",
+    "Cerebral palsy",
+    "Legg-Calvé-Perthes disease",
+    "Developmental hip dysplasia"
+   ],
+   "answer": "A",
+   "rationale": "Gower's sign (using hands to climb up the legs) and pelvic girdle weakness are classic in Duchenne muscular dystrophy.",
+   "explanations": [
+    "Correct.",
+    "Present from infancy.",
+    "Hip pain, limp.",
+    "Infant finding."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Muscular dystrophy (PDF p. 418)",
+   "quote": "Gower's sign (uses hands to push up from the floor.)"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "Which laboratory result supports a diagnosis of Duchenne muscular dystrophy?",
+   "options": [
+    "Markedly raised CK",
+    "Low serum calcium",
+    "High uric acid",
+    "Positive rheumatoid factor"
+   ],
+   "answer": "A",
+   "rationale": "Muscle damage raises serum enzymes, especially CK-MM; biopsy shows fibers replaced by fat.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Gout.",
+    "RA."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Muscular dystrophy (PDF p. 418)",
+   "quote": "Serum enzymes are elevated, especially CK — MM."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "A 6-year-old has a limp and hip pain. X-ray shows aseptic necrosis of the femoral head. Which activity is best?",
+   "options": [
+    "Swimming",
+    "Basketball",
+    "Jumping rope",
+    "Running races"
+   ],
+   "answer": "A",
+   "rationale": "In Legg-Calvé-Perthes disease, keep hip motion with low-impact activity such as swimming or cycling; avoid contact and high-impact sports.",
+   "explanations": [
+    "Correct.",
+    "Contact, impact.",
+    "High impact.",
+    "High impact."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Legg-Calvé-Perthes disease (PDF p. 416)",
+   "quote": "Encourage activities to maintain range of motion (swimming, bicycle riding)."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Which test is most commonly used to screen bone mineral density for osteoporosis?",
+   "options": [
+    "DXA scan",
+    "Plain X-ray",
+    "Bone biopsy",
+    "Serum calcium"
+   ],
+   "answer": "A",
+   "rationale": "Dual-energy X-ray absorptiometry (DXA) measures bone density; X-ray shows loss only when advanced.",
+   "explanations": [
+    "Correct.",
+    "Late finding.",
+    "Invasive.",
+    "Often normal."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Osteoporosis (PDF p. 417)",
+   "quote": "The most commonly used bone mineral density (BMD) screening is Dual — energ X — ray Absorptiometry (DXA)."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "How should a client take alendronate (Fosamax)?",
+   "options": [
+    "On rising, with water, staying upright",
+    "At bedtime, then lie down",
+    "With milk and breakfast",
+    "With coffee after lunch"
+   ],
+   "answer": "A",
+   "rationale": "Take on an empty stomach with a full glass of water, stay upright 30 minutes, and wait 30 minutes before eating to prevent esophagitis and aid absorption.",
+   "explanations": [
+    "Correct.",
+    "Esophageal injury.",
+    "Calcium blocks it.",
+    "Blocks absorption."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Osteoporosis drugs (PDF p. 418)",
+   "quote": "The client should remain upright for 30 minutes after taking the medication."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "An older woman has lost 5 cm of height and has a curved upper back. This posture is called:",
+   "options": [
+    "Dowager's hump",
+    "Scoliosis",
+    "Lordosis",
+    "Genu valgum"
+   ],
+   "answer": "A",
+   "rationale": "Vertebral collapse in osteoporosis causes loss of height and kyphosis (dowager's hump).",
+   "explanations": [
+    "Correct.",
+    "Lateral curve.",
+    "Lower back curve.",
+    "Knock-knees."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Osteoporosis (PDF p. 417)",
+   "quote": "Dowager's hump (curved upper back)."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Which advice helps a postmenopausal woman lower her osteoporosis risk?",
+   "options": [
+    "Weight-bearing exercise",
+    "Prolonged bed rest",
+    "Daily alcohol intake",
+    "Avoiding all dairy"
+   ],
+   "answer": "A",
+   "rationale": "Regular weight-bearing exercise, calcium and vitamin D, and avoiding tobacco and alcohol protect bone mass.",
+   "explanations": [
+    "Correct.",
+    "Bone loss.",
+    "Risk factor.",
+    "Low calcium."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Osteoporosis (PDF p. 417)",
+   "quote": "Exercise. At least 30 minutes, 5 days a week, then work up to 60 minutes."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A day after a below-knee amputation, the client says he feels his missing foot itching. The nurse explains:",
+   "options": [
+    "This phantom sensation is normal",
+    "He is confused and needs reorientation",
+    "The surgery was done incorrectly",
+    "He should ignore it; it is imagined"
+   ],
+   "answer": "A",
+   "rationale": "Phantom limb sensation is expected and is discussed before surgery; phantom pain is treated with analgesics.",
+   "explanations": [
+    "Correct.",
+    "Not confusion.",
+    "Not this.",
+    "Dismissive."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Amputation (PDF p. 414)",
+   "quote": "Phantom limb sensation as a normal occurrence"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Shortly after an amputation, a small bright red spot appears on the stump dressing. The nurse first:",
+   "options": [
+    "Marks the spot to track bleeding",
+    "Calls the surgeon at once",
+    "Removes the dressing",
+    "Elevates the stump high"
+   ],
+   "answer": "A",
+   "rationale": "Marking the edge of the drainage lets the nurse assess the rate of bleeding; a small spot early on is expected.",
+   "explanations": [
+    "Correct.",
+    "Assess first.",
+    "Raises infection risk.",
+    "Not first."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Amputation (PDF p. 414)",
+   "quote": "Observe stump dressing for signs of hemorrhage and mark outside of dressing so, rate of bleeding can be assessed."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Which stump care practice should the nurse teach a client with an amputation?",
+   "options": [
+    "Wear clean cotton stump socks",
+    "Apply lotion and powder daily",
+    "Wear nylon socks",
+    "Use socks even if torn"
+   ],
+   "answer": "A",
+   "rationale": "Wash and dry the stump daily; wear cotton or wool socks; avoid lotions, powders, alcohol, nylon and torn socks.",
+   "explanations": [
+    "Correct.",
+    "Irritates.",
+    "Not absorbent.",
+    "Pressure points."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Stump care (PDF p. 415)",
+   "quote": "Wear cotton or woolen stump socks, avoid nylon socks."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Paget's disease of bone is caused by:",
+   "options": [
+    "Abnormal bone remodeling",
+    "Vitamin D deficiency",
+    "Bacterial bone infection",
+    "Uric acid crystals"
+   ],
+   "answer": "A",
+   "rationale": "Osteoclasts resorb bone rapidly and osteoblasts form excess abnormal bone that is weak and fractures easily.",
+   "explanations": [
+    "Correct.",
+    "Osteomalacia.",
+    "Osteomyelitis.",
+    "Gout."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Paget's disease (PDF p. 415)",
+   "quote": "Increased rate of bone tissue breakdown (resorption) by osteoclasts followed by excessive abnormal bone formation"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "After a lumbar laminectomy, how should the client sit in a chair?",
+   "options": [
+    "Straight chair, feet flat",
+    "Low, soft sofa",
+    "Legs crossed",
+    "Feet on a high stool"
+   ],
+   "answer": "A",
+   "rationale": "A straight chair with feet flat prevents acute hip flexion, which may disrupt the operative site.",
+   "explanations": [
+    "Correct.",
+    "Acute flexion.",
+    "Acute flexion.",
+    "Acute flexion."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Laminectomy (PDF p. 412)",
+   "quote": "If patient is allowed to sit, use straight back chair and keep feet flat on floor."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Which activity should a client avoid for several weeks after a laminectomy?",
+   "options": [
+    "Sweeping the floor",
+    "Walking short distances",
+    "Drying dishes standing",
+    "Sitting in a firm chair"
+   ],
+   "answer": "A",
+   "rationale": "Sweeping involves bending and stooping; walking without tiring is encouraged.",
+   "explanations": [
+    "Correct.",
+    "Encouraged.",
+    "No bending.",
+    "Allowed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Critical thinking answers (PDF p. 426)",
+   "quote": "after laminectomy, bending and stooping should be avoided. Sweeping involves bending and stooping."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client must wear a back brace after spinal fusion. Which skin care step is correct?",
+   "options": [
+    "Wear a thin cotton shirt under it",
+    "Apply lotion before the brace",
+    "Dust powder under the brace",
+    "Wear it directly on bare skin"
+   ],
+   "answer": "A",
+   "rationale": "A thin cotton undershirt protects the skin; lotion and powder cake and irritate.",
+   "explanations": [
+    "Correct.",
+    "Cakes.",
+    "Cakes.",
+    "Friction."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Critical thinking answers (PDF p. 426)",
+   "quote": "Wearing a thin cotton undershirt under the brace protects the skin from the material of the brace."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After a spinal fusion with an iliac crest bone graft, the client reports pain at the hip. The nurse knows that:",
+   "options": [
+    "Graft-site pain is common",
+    "It means the fusion failed",
+    "It is a sign of fat embolism",
+    "It shows a spinal cord tear"
+   ],
+   "answer": "A",
+   "rationale": "Clients may have considerable pain from the graft donor site; it takes about a year for the graft to become stable.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Spinal fusion (PDF p. 413)",
+   "quote": "Promote comfort — the client may have considerable pain from graft site."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Before an MRI to check for a ruptured disc, the nurse should first ask about:",
+   "options": [
+    "Fear of enclosed spaces",
+    "Past surgeries in childhood",
+    "Ability to swallow pills",
+    "Allergy to eggs"
+   ],
+   "answer": "A",
+   "rationale": "The client lies in a tunnel-like scanner, so claustrophobia must be assessed (along with metal implants).",
+   "explanations": [
+    "Correct.",
+    "Less relevant.",
+    "Not relevant.",
+    "Not relevant."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Critical thinking answers (PDF p. 426)",
+   "quote": "In MRI, the client will be placed in a tunnel — like device. Therefore, it is important to assess for claustrophobia"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "After arthroscopy of the knee, the nurse expects to:",
+   "options": [
+    "Keep a pressure dressing for 24 hours",
+    "Keep the client NPO for 3 days",
+    "Start full sports the same day",
+    "Apply heat right away"
+   ],
+   "answer": "A",
+   "rationale": "A pressure dressing for 24 hours prevents bleeding; activity is limited for several days.",
+   "explanations": [
+    "Correct.",
+    "Not needed.",
+    "Too soon.",
+    "Increases bleeding."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Arthroscopy (PDF p. 394)",
+   "quote": "Pressure dressing over puncture site for 24 hours to prevent bleeding."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client in Russell traction should be checked often for pressure on the:",
+   "options": [
+    "Back of the knee",
+    "Back of the head",
+    "Elbows",
+    "Heels only"
+   ],
+   "answer": "A",
+   "rationale": "Russell traction uses a sling under the knee; check the popliteal area for pressure sores and the leg for thrombophlebitis.",
+   "explanations": [
+    "Correct.",
+    "Not involved.",
+    "Not involved.",
+    "Buck's concern."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Russell traction (PDF p. 398)",
+   "quote": "Assess back of the knee for pressure sores.; check the leg for signs and symptoms of thrombophlebitis."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After open reduction and internal fixation of the hip, serosanguineous drainage collects in the wound drain. The nurse:",
+   "options": [
+    "Records it as expected",
+    "Removes the drain",
+    "Clamps the drain",
+    "Irrigates the wound"
+   ],
+   "answer": "A",
+   "rationale": "Serosanguineous drainage is normal; empty the drain and record the amount, and report heavy bleeding or infection signs.",
+   "explanations": [
+    "Correct.",
+    "Not without order.",
+    "Not indicated.",
+    "Not indicated."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Open reduction care (PDF p. 401)",
+   "quote": "Empty hemovac. Serosanguinous drainage is normal."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client has widespread symmetrical tender points, poor sleep and fatigue, with normal joints. Which program helps most?",
+   "options": [
+    "Regular aerobic exercise",
+    "Strict bed rest",
+    "Joint replacement",
+    "Long-term splinting"
+   ],
+   "answer": "A",
+   "rationale": "Fibromyalgia is managed with graded aerobic exercise (at least 30 minutes, three times weekly), sleep care and medications.",
+   "explanations": [
+    "Correct.",
+    "Worsens it.",
+    "Joints normal.",
+    "Not indicated."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Fibromyalgia (PDF p. 416)",
+   "quote": "regular aerobic exercises, a minimum of 30 minutes, three times weekly."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A client using a continuous passive motion (CPM) machine after knee surgery needs the nurse to:",
+   "options": [
+    "Keep the knee properly aligned on it",
+    "Raise the range every hour",
+    "Stop it once pain is gone",
+    "Let the client set it freely"
+   ],
+   "answer": "A",
+   "rationale": "Correct joint position on the CPM device ensures the ordered range of motion is done; settings change only as ordered.",
+   "explanations": [
+    "Correct.",
+    "Per order only.",
+    "Per order only.",
+    "Per order only."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Critical thinking answers (PDF p. 425)",
+   "quote": "Maintaining the knee joint on the CPM device ensures that ROM exercises are done."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which type of joint is the hip?",
+   "options": [
+    "Ball-and-socket synovial joint",
+    "Fixed fibrous joint",
+    "Slightly movable cartilage joint",
+    "Hinge-only joint"
+   ],
+   "answer": "A",
+   "rationale": "Diarthroses are freely movable synovial joints such as the hip; the symphysis pubis is cartilaginous.",
+   "explanations": [
+    "Correct.",
+    "Skull sutures.",
+    "Symphysis pubis.",
+    "Elbow, knee."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Anatomy (PDF p. 392)",
+   "quote": "Diarthrosis. Synovial joints; ball — and — socket joints (hips,"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Personal & Professional Development",
+   "situation": "",
+   "stem": "Before a bone scan, the nurse tells the client to:",
+   "options": [
+    "Void just before the scan",
+    "Fast for 24 hours",
+    "Avoid all fluids",
+    "Remain flat for 12 hours after"
+   ],
+   "answer": "A",
+   "rationale": "Voiding before the scan prevents bladder irritation by the radioisotope and gives clearer images; the client must stay still during the scan.",
+   "explanations": [
+    "Correct.",
+    "Not needed.",
+    "Fluids help clear it.",
+    "Not needed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 11 Bone scan (PDF p. 394)",
+   "quote": "Instruct client to void immedintcly before the procedure."
+  }
+ ]
+}

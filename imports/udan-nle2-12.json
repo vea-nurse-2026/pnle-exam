@@ -1,0 +1,749 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which photoreceptors in the retina are responsible for night and peripheral vision?",
+   "options": [
+    "Rods",
+    "Cones",
+    "Macula",
+    "Optic disk"
+   ],
+   "answer": "A",
+   "rationale": "Rods handle peripheral, dark and night vision; cones handle central, day and color vision.",
+   "explanations": [
+    "Correct.",
+    "Color vision.",
+    "Central acuity.",
+    "Blind spot."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Eye anatomy (PDF p. 428)",
+   "quote": "rods (peripheral vision, dark and night vision) and cones (central vision, day and colored vision)."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client's Snellen result is 20/200 in the better eye even with glasses. This means:",
+   "options": [
+    "Legal blindness",
+    "Normal vision",
+    "Mild nearsightedness",
+    "Color blindness"
+   ],
+   "answer": "A",
+   "rationale": "He reads at 20 feet what a normal eye reads at 200 feet; 20/200 is legal blindness and disqualifies driving.",
+   "explanations": [
+    "Correct.",
+    "20/20.",
+    "Milder value.",
+    "Ishihara test."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Snellen test (PDF p. 429)",
+   "quote": "Result of 20/200 indicates legal blindness. This disqualifies the client from driving."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which test screens for red-green color blindness?",
+   "options": [
+    "Ishihara plates",
+    "Snellen chart",
+    "Tonometry",
+    "Perimetry"
+   ],
+   "answer": "A",
+   "rationale": "Ishihara plates show numbers made of colored dots that a color-blind person cannot read.",
+   "explanations": [
+    "Correct.",
+    "Acuity.",
+    "Eye pressure.",
+    "Visual field."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Ishihara plate (PDF p. 429)",
+   "quote": "It can assess red and green color blindness."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Tonometry is done to measure:",
+   "options": [
+    "Intraocular pressure",
+    "Visual acuity",
+    "Peripheral vision",
+    "Color vision"
+   ],
+   "answer": "A",
+   "rationale": "Tonometry indirectly measures IOP (normal about 11–21 mmHg); raised values suggest glaucoma.",
+   "explanations": [
+    "Correct.",
+    "Snellen.",
+    "Perimetry.",
+    "Ishihara."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Tonometry (PDF p. 429)",
+   "quote": "Indirect measure of intraocular pressure (IOP). Normal is 11-21 mmHg."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "During ophthalmoscopy, the red reflex is absent in one eye. This suggests:",
+   "options": [
+    "Cataract",
+    "Presbyopia",
+    "Conjunctivitis",
+    "Myopia"
+   ],
+   "answer": "A",
+   "rationale": "An absent red reflex suggests opacity of the lens, as in cataract (or retinoblastoma in children).",
+   "explanations": [
+    "Correct.",
+    "Lens stiffness only.",
+    "Surface only.",
+    "Refraction only."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Ophthalmoscopy (PDF p. 430)",
+   "quote": "Absence of red reflex may indicate opacity of the lens."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A painful, red swelling on the eyelid margin is most likely a:",
+   "options": [
+    "Hordeolum",
+    "Chalazion",
+    "Pterygium",
+    "Cataract"
+   ],
+   "answer": "A",
+   "rationale": "A hordeolum is a staphylococcal infection of a lash follicle and is painful; a chalazion is a painless hard lump.",
+   "explanations": [
+    "Correct.",
+    "Painless.",
+    "Conjunctival growth.",
+    "Lens."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Eye disorders (PDF p. 430)",
+   "quote": "It is characterized by painful, red swelling on the eyelid margin."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A 70-year-old has gradual, painless blurring of vision, like looking through frosted glass. The likely cause is:",
+   "options": [
+    "Cataract",
+    "Acute glaucoma",
+    "Retinal detachment",
+    "Conjunctivitis"
+   ],
+   "answer": "A",
+   "rationale": "Cataract is lens opacity causing gradual blurring; surgery (phacoemulsification with lens implant) is the treatment.",
+   "explanations": [
+    "Correct.",
+    "Sudden pain.",
+    "Flashes, curtain.",
+    "Red, discharge."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Cataract (PDF p. 430)",
+   "quote": "It causes blurring of vision which may progress to blindness."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "After cataract surgery, which activity should the client avoid?",
+   "options": [
+    "Bending to pick things up",
+    "Walking in the hall",
+    "Eating a soft meal",
+    "Watching TV briefly"
+   ],
+   "answer": "A",
+   "rationale": "Bending, stooping, heavy lifting, straining and rubbing the eye raise intraocular pressure.",
+   "explanations": [
+    "Correct.",
+    "Allowed.",
+    "Allowed.",
+    "Not the concern."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Postoperative eye care (PDF p. 431)",
+   "quote": "Bending, stooping."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "After cataract surgery, the client is best positioned:",
+   "options": [
+    "Supine or unoperated side",
+    "On the operated side",
+    "Prone, face down",
+    "Flat with legs raised"
+   ],
+   "answer": "A",
+   "rationale": "Avoid pressure on the operated eye and contamination of the dressing.",
+   "explanations": [
+    "Correct.",
+    "Pressure on eye.",
+    "Pressure on eye.",
+    "Raises IOP."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Postoperative eye care (PDF p. 431)",
+   "quote": "Position the client supine or turned to the unaffected side."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Hours after eye surgery, the client reports sharp eye pain and a feeling of pressure. The nurse should:",
+   "options": [
+    "Report it to the surgeon at once",
+    "Reassure him it is the anesthetic",
+    "Remove the eye shield",
+    "Give a stool softener"
+   ],
+   "answer": "A",
+   "rationale": "Sharp pain with pressure suggests bleeding into the eye and must be reported immediately.",
+   "explanations": [
+    "Correct.",
+    "Burning, not sharp pain.",
+    "Not without order.",
+    "Not urgent."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Postoperative eye care (PDF p. 432)",
+   "quote": "Sensation of pressure within the eye and sharp pain in the eye indicate bleeding."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client sees floaters and flashes of light, then a curtain over part of his vision. The nurse suspects:",
+   "options": [
+    "Retinal detachment",
+    "Cataract",
+    "Open-angle glaucoma",
+    "Presbyopia"
+   ],
+   "answer": "A",
+   "rationale": "Floaters, flashes and a curtain-like shadow are classic for retinal detachment; urgent surgery is needed.",
+   "explanations": [
+    "Correct.",
+    "Gradual blur.",
+    "Tunnel vision.",
+    "Near vision only."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Retinal detachment (PDF p. 432)",
+   "quote": "There is sensation that a curtain has been drawn before the eyes"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "The early visual loss in open-angle glaucoma is:",
+   "options": [
+    "Peripheral (tunnel vision)",
+    "Central vision",
+    "Color vision",
+    "Near vision"
+   ],
+   "answer": "A",
+   "rationale": "Glaucoma first causes loss of peripheral vision; blindness is irreversible due to optic nerve damage.",
+   "explanations": [
+    "Correct.",
+    "Macular degeneration.",
+    "Not typical.",
+    "Presbyopia."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Glaucoma (PDF p. 433)",
+   "quote": "Loss of peripheral vision initially (tunnel vision), then blindness occurs."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client has sudden severe eye pain, halos around lights, nausea and a fixed, mid-dilated pupil. This suggests:",
+   "options": [
+    "Acute angle-closure glaucoma",
+    "Cataract",
+    "Conjunctivitis",
+    "Macular degeneration"
+   ],
+   "answer": "A",
+   "rationale": "Acute closed-angle glaucoma is an emergency: sudden pain, halos, nausea and a fixed dilated pupil.",
+   "explanations": [
+    "Correct.",
+    "Painless.",
+    "No halos, fixed pupil.",
+    "Central loss."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Glaucoma (PDF p. 433)",
+   "quote": "Fixed, dilated pupil in acute glaucoma."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "How does pilocarpine treat glaucoma?",
+   "options": [
+    "Constricts the pupil",
+    "Dilates the pupil",
+    "Stops tear flow",
+    "Numbs the cornea"
+   ],
+   "answer": "A",
+   "rationale": "Miotics pull the iris away from the angle so aqueous humor can drain; acetazolamide and timolol reduce production.",
+   "explanations": [
+    "Correct.",
+    "Worsens glaucoma.",
+    "Not its action.",
+    "Anesthetic."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Glaucoma management (PDF p. 433)",
+   "quote": "To constrict the pupils, draw the iris away from the canal of Schlemm. This permits drainage of aqueous humor."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which drug should the nurse question for a client with glaucoma?",
+   "options": [
+    "Atropine",
+    "Timolol",
+    "Pilocarpine",
+    "Acetazolamide"
+   ],
+   "answer": "A",
+   "rationale": "Atropine, diphenhydramine and benztropine dilate the pupil and block aqueous outflow (\"avoid ABC\").",
+   "explanations": [
+    "Correct.",
+    "Treats glaucoma.",
+    "Treats glaucoma.",
+    "Treats glaucoma."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Glaucoma (PDF p. 433)",
+   "quote": "In glaucoma, avoid ABC: A- tropine B- enadryl C- ogentin"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "An older adult says straight lines look wavy and the center of his vision is blurred. The nurse suspects:",
+   "options": [
+    "Macular degeneration",
+    "Glaucoma",
+    "Cataract",
+    "Retinal detachment"
+   ],
+   "answer": "A",
+   "rationale": "Macular degeneration causes loss of central vision; glaucoma affects peripheral vision first.",
+   "explanations": [
+    "Correct.",
+    "Peripheral.",
+    "Overall blur.",
+    "Curtain, flashes."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Macular degeneration (PDF p. 433)",
+   "quote": "Is manifested by loss of central vision."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A 48-year-old now holds the newspaper at arm's length to read. This is due to:",
+   "options": [
+    "Presbyopia",
+    "Myopia",
+    "Astigmatism",
+    "Strabismus"
+   ],
+   "answer": "A",
+   "rationale": "Presbyopia is loss of accommodation from a hardening lens with age; convex reading glasses correct it.",
+   "explanations": [
+    "Correct.",
+    "Far vision blur.",
+    "Irregular cornea.",
+    "Eye deviation."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Refraction errors (PDF p. 434)",
+   "quote": "Presbyopia is loss of accommodation due to hardening of the lens."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which lens corrects myopia (nearsightedness)?",
+   "options": [
+    "Concave lens",
+    "Convex lens",
+    "Bifocal only",
+    "Cylindrical lens"
+   ],
+   "answer": "A",
+   "rationale": "In myopia light focuses in front of the retina; a concave lens corrects it. Hyperopia needs a convex lens.",
+   "explanations": [
+    "Correct.",
+    "Hyperopia.",
+    "Not specific.",
+    "Astigmatism."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Refraction errors (PDF p. 434)",
+   "quote": "It requires concave lens."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "Muriatic acid splashed into a worker's eye. The first action is to:",
+   "options": [
+    "Flush with plenty of water",
+    "Apply a tight eye patch",
+    "Rub the eye gently",
+    "Wait for the doctor"
+   ],
+   "answer": "A",
+   "rationale": "Immediate, copious irrigation with water removes the chemical and limits damage.",
+   "explanations": [
+    "Correct.",
+    "Delays flushing.",
+    "Worsens injury.",
+    "Delays care."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Eye trauma (PDF p. 434)",
+   "quote": "Immediate copious flushing of the eye with water if acid, alkali or other irritating substances had been introduced into the eyes."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A glass splinter is stuck in a client's cornea. The nurse should:",
+   "options": [
+    "Cover the eyes loosely; refer at once",
+    "Remove it with forceps",
+    "Flush it out with force",
+    "Press a tight patch on it"
+   ],
+   "answer": "A",
+   "rationale": "Do not remove an embedded object; cover the eyes loosely to limit movement and get immediate medical care.",
+   "explanations": [
+    "Correct.",
+    "Further damage.",
+    "Further damage.",
+    "Pressure injures."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Eye trauma (PDF p. 434)",
+   "quote": "If foreign body is lodged into the cornea, do not attempt to remove it (e.g. glass splinters)."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Collaboration & Teamwork",
+   "situation": "",
+   "stem": "When guiding a blind client to walk, the nurse should:",
+   "options": [
+    "Lead a step ahead, arm offered",
+    "Push him from behind",
+    "Hold his waist and steer",
+    "Walk beside, no contact"
+   ],
+   "answer": "A",
+   "rationale": "The nurse walks a step ahead while the client holds her arm, giving safety and a sense of direction. Speak before touching.",
+   "explanations": [
+    "Correct.",
+    "Unsafe.",
+    "Less control for client.",
+    "No guidance."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Care of the blind (PDF p. 435)",
+   "quote": "When assisting the client in ambulation, the nurse should be a step ahead of the client."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "On Rinne's test, the client hears the tuning fork longer on the mastoid bone than near the ear canal. This indicates:",
+   "options": [
+    "Conductive hearing loss",
+    "Normal hearing",
+    "Sensorineural loss",
+    "Meniere's disease"
+   ],
+   "answer": "A",
+   "rationale": "Normally air conduction is better than bone; bone better than air suggests conductive loss (e.g., otosclerosis).",
+   "explanations": [
+    "Correct.",
+    "AC > BC.",
+    "AC > BC.",
+    "Sensorineural."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Rinne's test (PDF p. 435)",
+   "quote": "Conductive hearing loss: bone conduction is better than air conduction"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "In Weber's test, sound lateralizes to the left ear, which has poor hearing. This suggests:",
+   "options": [
+    "Conductive loss in the left ear",
+    "Sensorineural loss in the left ear",
+    "Normal hearing",
+    "Earwax in the right ear"
+   ],
+   "answer": "A",
+   "rationale": "In conductive loss the tone is heard better in the poorer ear; in sensorineural loss, in the better ear.",
+   "explanations": [
+    "Correct.",
+    "Would go right.",
+    "Would be central.",
+    "Would go right."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Weber's test (PDF p. 436)",
+   "quote": "Conductive hearing loss: tone heard better in poorer ear"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "Young children get middle ear infections more often than adults because their:",
+   "options": [
+    "Eustachian tubes are short",
+    "Ear canals are long",
+    "Eardrums are thicker",
+    "Adenoids are absent"
+   ],
+   "answer": "A",
+   "rationale": "Short, straight eustachian tubes let organisms reach the middle ear; serous otitis media is a common cause of hearing loss in children.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Adenoids are large."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Ear disorders (PDF p. 437)",
+   "quote": "Children are pmne to otitis media because of short eustachian tube."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "An elderly man understands men's voices but not women's. This is typical of:",
+   "options": [
+    "Presbycusis",
+    "Otitis externa",
+    "Conductive loss from earwax",
+    "Otosclerosis"
+   ],
+   "answer": "A",
+   "rationale": "Presbycusis is age-related sensorineural loss affecting high-pitched sounds first.",
+   "explanations": [
+    "Correct.",
+    "Pain, discharge.",
+    "All tones.",
+    "Conductive, young adults."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Presbycusis (PDF p. 437)",
+   "quote": "Hearing loss is predominantly in high — pitched sounds. e.g., women's voice."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Collaboration & Teamwork",
+   "situation": "",
+   "stem": "When talking with a client who has a hearing impairment, the nurse should:",
+   "options": [
+    "Face him and speak in a normal tone",
+    "Shout into his ear",
+    "Use a high-pitched voice",
+    "Speak from behind him"
+   ],
+   "answer": "A",
+   "rationale": "Facing the client allows lip reading; a normal or lower tone is easier to hear than shouting or a high pitch.",
+   "explanations": [
+    "Correct.",
+    "Distorts speech.",
+    "Harder to hear.",
+    "No lip reading."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Communicating with hearing impaired (PDF p. 438)",
+   "quote": "Talk directly to the client, facing him/her. So that he/she could read lip movement."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A child has a mung bean stuck in his ear. Why is ear irrigation avoided?",
+   "options": [
+    "The bean swells with water",
+    "Water is always too cold",
+    "It always ruptures the eardrum",
+    "It pushes wax outward"
+   ],
+   "answer": "A",
+   "rationale": "Vegetable matter absorbs water and expands, making removal harder; insects may be flushed out.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Ear foreign bodies (PDF p. 438)",
+   "quote": "If the foreign body is a vegetable seed, do not irrigate the ear. Vegetable seeds expand when exposed to warm water."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Ear irrigation fluid should be at body temperature to prevent:",
+   "options": [
+    "Dizziness",
+    "Infection",
+    "Earwax hardening",
+    "Bleeding"
+   ],
+   "answer": "A",
+   "rationale": "Cold or hot fluid stimulates the vestibular system and causes vertigo; aim the flow at the canal wall.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Ear irrigation (PDF p. 438)",
+   "quote": "The solution used for ear irrigation should be at body temperature to prevent dizziness."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client has attacks of vertigo with tinnitus, hearing loss and vomiting. Which diet is advised?",
+   "options": [
+    "Low sodium",
+    "High sodium",
+    "High protein",
+    "Clear liquids only"
+   ],
+   "answer": "A",
+   "rationale": "Meniere's disease involves excess endolymph; low sodium and avoiding caffeine, alcohol and tobacco help.",
+   "explanations": [
+    "Correct.",
+    "Worsens it.",
+    "Not specific.",
+    "Not needed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Meniere's disease (PDF p. 439)",
+   "quote": "Low sodium diet is recommended. To prevent water retention."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "After stapedectomy for otosclerosis, the nurse teaches the client to:",
+   "options": [
+    "Sneeze with the mouth open",
+    "Blow the nose hard",
+    "Fly within 2 days",
+    "Shampoo the hair the next day"
+   ],
+   "answer": "A",
+   "rationale": "Keep pressure off the middle ear: sneeze or cough with mouth open, avoid air travel and shampooing for about a week.",
+   "explanations": [
+    "Correct.",
+    "Raises pressure.",
+    "Avoid for a week.",
+    "Avoid for a week."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Ear surgery (PDF p. 439)",
+   "quote": "Blow nose, sneeze, or cough with open mouth."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "After ear surgery, the nurse asks the client to smile, wrinkle his forehead and close his eyes to check for:",
+   "options": [
+    "Facial nerve injury",
+    "Meningitis",
+    "Hearing return",
+    "Vertigo"
+   ],
+   "answer": "A",
+   "rationale": "The facial nerve runs through the middle ear; asymmetry suggests injury.",
+   "explanations": [
+    "Correct.",
+    "Fever, neck stiffness.",
+    "Not tested this way.",
+    "Not tested this way."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 12 Ear surgery complications (PDF p. 439)",
+   "quote": "Ask to show teeth, wrinkle forehead, raise eyebrows, close the eyes."
+  }
+ ]
+}
