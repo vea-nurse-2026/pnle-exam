@@ -1,0 +1,941 @@
+{
+ "source": "Udan, Medical-Surgical Nursing, 2nd ed.",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "An uncomplicated appendectomy, where the GI tract is entered under controlled conditions, is classified as a:",
+   "options": [
+    "Clean-contaminated wound",
+    "Clean wound",
+    "Contaminated wound",
+    "Dirty wound"
+   ],
+   "answer": "A",
+   "rationale": "Entering the respiratory, GI or GU tract under controlled conditions without spillage is clean-contaminated; a ruptured appendix is dirty.",
+   "explanations": [
+    "Correct.",
+    "No tract entered.",
+    "Major spillage or break in technique.",
+    "Existing infection or perforation."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Perioperative concepts (PDF p. 368)",
+   "quote": "When the surgeonperomsan appendecomy,thenurse recognizesthatte surgical category willbe identifiedas"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "An infected wound is left open to fill in with granulation tissue. This is healing by:",
+   "options": [
+    "Second intention",
+    "First intention",
+    "Third intention",
+    "Primary closure"
+   ],
+   "answer": "A",
+   "rationale": "Second-intention healing occurs when edges are not approximated and granulation fills the wound; third intention is delayed closure.",
+   "explanations": [
+    "Correct.",
+    "Edges approximated.",
+    "Delayed suturing.",
+    "Same as first intention."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Perioperative concepts (PDF p. 368)",
+   "quote": "wound edges are not surgicallyapproximated andintegumentary continuity isrestoredbygranulations."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Which is often the earliest sign of malignant hyperthermia during anesthesia?",
+   "options": [
+    "Unexplained tachycardia",
+    "High fever",
+    "Oliguria",
+    "Hypotension"
+   ],
+   "answer": "A",
+   "rationale": "Tachycardia (often over 150/min) and rising CO2 come first; fever is a later sign.",
+   "explanations": [
+    "Correct.",
+    "Later sign.",
+    "Later.",
+    "Later."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Perioperative concepts (PDF p. 368)",
+   "quote": "Tachycardia(heartrateabove150 beats/min.)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "How long should the nurse apply suction each time when suctioning an endotracheal tube?",
+   "options": [
+    "10–15 seconds",
+    "30–35 seconds",
+    "1 minute",
+    "2 minutes"
+   ],
+   "answer": "A",
+   "rationale": "Limit each pass to 10–15 seconds while withdrawing and rotating, to prevent hypoxia.",
+   "explanations": [
+    "Correct.",
+    "Hypoxia.",
+    "Hypoxia.",
+    "Hypoxia."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Gas exchange (PDF p. 371)",
+   "quote": "applies suctioning while withdrawing and gently rotatingthe catheter 360 degrees"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Endotracheal tube cuff pressure is kept at about 20–25 cm H2O in order to:",
+   "options": [
+    "Prevent aspiration and injury",
+    "Let the client talk",
+    "Increase tidal volume",
+    "Keep the tube unkinked"
+   ],
+   "answer": "A",
+   "rationale": "Too low a pressure allows aspiration; too high causes tracheal ischemia and necrosis.",
+   "explanations": [
+    "Correct.",
+    "Not the purpose.",
+    "Not the purpose.",
+    "Not the purpose."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Gas exchange (PDF p. 371)",
+   "quote": "pressure within the endotracheal tube cuffthat isbelieved topreventboth injury and aspiration"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Chest tubes are usually not inserted after which lung surgery?",
+   "options": [
+    "Pneumonectomy",
+    "Lobectomy",
+    "Wedge resection",
+    "Segmentectomy"
+   ],
+   "answer": "A",
+   "rationale": "After pneumonectomy the empty space is allowed to fill with serous fluid, so drainage tubes are generally not used.",
+   "explanations": [
+    "Correct.",
+    "Tubes used.",
+    "Tubes used.",
+    "Tubes used."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Gas exchange (PDF p. 371)",
+   "quote": "In general,chest drainage tubes are not used for the patient undergoing"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After a laryngectomy, the client's neck wound breaks down. The nurse watches very closely for:",
+   "options": [
+    "Carotid artery rupture",
+    "Pulmonary embolism",
+    "Dehydration",
+    "Hearing loss"
+   ],
+   "answer": "A",
+   "rationale": "Wound breakdown can expose the carotid artery, risking sudden hemorrhage; keep pressure supplies ready.",
+   "explanations": [
+    "Correct.",
+    "Not the main risk.",
+    "Not the main risk.",
+    "Not related."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Gas exchange (PDF p. 371)",
+   "quote": "Carotid arteryhemorrhaqe"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A family is found unconscious in a closed room with a running generator. Their pulse oximetry reads 98%. The nurse knows that:",
+   "options": [
+    "The reading may be falsely normal",
+    "Their oxygenation is adequate",
+    "Oxygen is not needed",
+    "They have respiratory alkalosis"
+   ],
+   "answer": "A",
+   "rationale": "Carbon monoxide binds hemoglobin (like anemic hypoxia); oximeters can read normal. Give 100% oxygen by non-rebreather.",
+   "explanations": [
+    "Correct.",
+    "Misleading reading.",
+    "100% O2 needed.",
+    "Not the issue."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Gas exchange (PDF p. 371)",
+   "quote": "Carbonmonoxidepoisoning"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which device delivers the highest oxygen concentration without intubation?",
+   "options": [
+    "Non-rebreather mask",
+    "Venturi mask",
+    "Nasal cannula",
+    "Face tent"
+   ],
+   "answer": "A",
+   "rationale": "A non-rebreather with reservoir bag delivers about 60–90% oxygen; a Venturi gives precise but lower concentrations.",
+   "explanations": [
+    "Correct.",
+    "Precise, lower.",
+    "Low.",
+    "Low."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Gas exchange (PDF p. 371)",
+   "quote": "Mask,non-rebreathr"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A healthy young client's heart rate speeds up on inspiration and slows on expiration. The nurse records this as:",
+   "options": [
+    "Sinus arrhythmia",
+    "Sinus tachycardia",
+    "Atrial fibrillation",
+    "Heart block"
+   ],
+   "answer": "A",
+   "rationale": "Sinus arrhythmia varies with breathing and is usually normal, especially in the young.",
+   "explanations": [
+    "Correct.",
+    "Constant fast rate.",
+    "Irregularly irregular.",
+    "Conduction delay."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Cardiovascular (PDF p. 372)",
+   "quote": "thepatient's heart rate increases duning inspirationand decreases during expiration"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "PVCs are a warning sign of ventricular tachycardia when they occur at a rate of more than:",
+   "options": [
+    "6 per minute",
+    "1 per hour",
+    "1 per day",
+    "2 per hour"
+   ],
+   "answer": "A",
+   "rationale": "Frequent PVCs (more than 6/min), multifocal PVCs, couplets or R-on-T PVCs may lead to VT or VF.",
+   "explanations": [
+    "Correct.",
+    "Usually benign.",
+    "Usually benign.",
+    "Usually benign."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Cardiovascular (PDF p. 372)",
+   "quote": "Occuratarateofmore than 6/min"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "No atrial impulses reach the ventricles, and atria and ventricles beat independently. This is:",
+   "options": [
+    "Third-degree AV block",
+    "First-degree AV block",
+    "Second-degree type I block",
+    "Sinus bradycardia"
+   ],
+   "answer": "A",
+   "rationale": "Complete (third-degree) heart block: no conduction through the AV node; pacing is usually needed.",
+   "explanations": [
+    "Correct.",
+    "Long PR only.",
+    "Progressive PR lengthening.",
+    "Normal conduction."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Cardiovascular (PDF p. 372)",
+   "quote": "Whennoatrial impulse is conducted through theAVnode into theventricles"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Heparin is usually therapeutic when the aPTT is about:",
+   "options": [
+    "1.5–2.5 times normal",
+    "Equal to normal",
+    "Half of normal",
+    "5 times normal"
+   ],
+   "answer": "A",
+   "rationale": "A therapeutic aPTT is about 1.5–2.5 times the control; protamine sulfate reverses heparin.",
+   "explanations": [
+    "Correct.",
+    "Not anticoagulated.",
+    "Not possible.",
+    "Bleeding risk."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Cardiovascular (PDF p. 373)",
+   "quote": "Hepann therapy isusually considered therapeuticwhenthe patient'sactivated partialthromboplasintime(apt)ishowmany timesnomal?"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which valve condition often produces no symptoms?",
+   "options": [
+    "Mitral valve prolapse",
+    "Mitral stenosis",
+    "Aortic stenosis",
+    "Infective endocarditis"
+   ],
+   "answer": "A",
+   "rationale": "Mitral valve prolapse is often asymptomatic, found as a click on auscultation.",
+   "explanations": [
+    "Correct.",
+    "Dyspnea, fatigue.",
+    "Angina, syncope.",
+    "Fever, murmurs."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Cardiovascular (PDF p. 373)",
+   "quote": "Which of the following mitral valve conditionsgenerally produces no symptoms? A.Prolapsed"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A young athlete collapses; autopsy shows a thick ventricular septum. This is:",
+   "options": [
+    "Hypertrophic cardiomyopathy",
+    "Dilated cardiomyopathy",
+    "Restrictive cardiomyopathy",
+    "Pericarditis"
+   ],
+   "answer": "A",
+   "rationale": "Hypertrophic cardiomyopathy thickens the muscle, especially the septum, and can cause sudden death.",
+   "explanations": [
+    "Correct.",
+    "Thin, enlarged.",
+    "Stiff walls.",
+    "Sac inflammation."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Cardiovascular (PDF p. 373)",
+   "quote": "heartmuscleactually increase in size andmassweight,especially along theseptum"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A pulmonary artery catheter's balloon is inflated to measure the pulmonary artery wedge pressure. This value mainly reflects:",
+   "options": [
+    "Left heart filling pressure",
+    "Right atrial pressure",
+    "Systemic arterial BP",
+    "Cardiac output"
+   ],
+   "answer": "A",
+   "rationale": "PAWP estimates left atrial and left ventricular end-diastolic pressure; CVP reflects the right atrium.",
+   "explanations": [
+    "Correct.",
+    "CVP.",
+    "Arterial line.",
+    "Thermodilution."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Cardiovascular (PDF p. 373)",
+   "quote": "Pulmonaryarterywedgepressure"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which leg ulcer finding points to venous insufficiency?",
+   "options": [
+    "Irregular border near the ankle",
+    "Deep, punched-out ulcer on toes",
+    "Pale to black base",
+    "Severe pain when legs are raised"
+   ],
+   "answer": "A",
+   "rationale": "Venous ulcers are superficial with irregular borders, near the medial ankle, with edema; arterial ulcers are deep, pale and very painful.",
+   "explanations": [
+    "Correct.",
+    "Arterial.",
+    "Arterial.",
+    "Arterial."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Peripheral vascular (PDF p. 374)",
+   "quote": "The border of the ulcer isirregular."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "An aneurysm in which blood tears into the layers of the arterial wall is called:",
+   "options": [
+    "Dissecting",
+    "Saccular",
+    "Fusiform",
+    "False"
+   ],
+   "answer": "A",
+   "rationale": "A dissecting aneurysm splits the wall layers; it causes sudden tearing pain and is an emergency.",
+   "explanations": [
+    "Correct.",
+    "Pouch on one side.",
+    "Spindle shaped.",
+    "Outside the wall."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Peripheral vascular (PDF p. 374)",
+   "quote": "resultsinbleedingintothelayersof the arterial wall"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client on clonidine for hypertension wants to stop it because he feels fine. The nurse warns that stopping suddenly can cause:",
+   "options": [
+    "Rebound hypertension",
+    "Hypoglycemia",
+    "Low blood pressure",
+    "Hearing loss"
+   ],
+   "answer": "A",
+   "rationale": "Abrupt withdrawal can make BP rise abnormally high (rebound); antihypertensives are tapered only as ordered.",
+   "explanations": [
+    "Correct.",
+    "Not related.",
+    "Opposite.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Peripheral vascular (PDF p. 374)",
+   "quote": "becomes uncontrolled(abnormally high)with thediscontinuationof therapy"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A client has painful swelling under the jaw when eating, from a stone in the submandibular gland. This is:",
+   "options": [
+    "Sialolithiasis",
+    "Parotitis",
+    "Stomatitis",
+    "Cheilitis"
+   ],
+   "answer": "A",
+   "rationale": "Sialolithiasis is stone formation in a salivary gland, most often the submandibular gland.",
+   "explanations": [
+    "Correct.",
+    "Parotid inflammation.",
+    "Mouth inflammation.",
+    "Lip inflammation."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Digestive (PDF p. 375)",
+   "quote": "stone formation in a salivary gland,usually the submandibulargland"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A painful longitudinal tear in the lining of the anal canal is a(n):",
+   "options": [
+    "Anal fissure",
+    "Anal fistula",
+    "Hemorrhoid",
+    "Perianal abscess"
+   ],
+   "answer": "A",
+   "rationale": "An anal fissure is a tear in the anal lining, often from hard stools; fiber and sitz baths help.",
+   "explanations": [
+    "Correct.",
+    "Abnormal tract.",
+    "Dilated vein.",
+    "Pus collection."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Digestive (PDF p. 377)",
+   "quote": "A longitudinal tearorulcrationintheliningoftheanalcanalis temeda(an)"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Which laxative works by drawing water into the bowel by osmosis?",
+   "options": [
+    "Milk of magnesia",
+    "Bisacodyl",
+    "Docusate",
+    "Psyllium"
+   ],
+   "answer": "A",
+   "rationale": "Saline laxatives such as magnesium hydroxide pull water into the intestine; bisacodyl stimulates, docusate softens, psyllium adds bulk.",
+   "explanations": [
+    "Correct.",
+    "Stimulant.",
+    "Softener.",
+    "Bulk-forming."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Digestive (PDF p. 376)",
+   "quote": "Saline agents（milkofmagnesia)"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Crohn's disease differs from ulcerative colitis because Crohn's inflammation:",
+   "options": [
+    "Involves all layers of the bowel wall",
+    "Affects only the mucosa",
+    "Is limited to the rectum",
+    "Is caused by bacteria"
+   ],
+   "answer": "A",
+   "rationale": "Crohn's is transmural and can occur anywhere in the GI tract in skip lesions; UC affects the mucosa of colon and rectum.",
+   "explanations": [
+    "Correct.",
+    "UC.",
+    "UC pattern.",
+    "Not infectious."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Digestive (PDF p. 376)",
+   "quote": "Inflammation ofall layersof intestinal mucosa"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Jaundice caused by rapid breakdown of red blood cells is called:",
+   "options": [
+    "Hemolytic jaundice",
+    "Obstructive jaundice",
+    "Hepatocellular jaundice",
+    "Physiologic jaundice"
+   ],
+   "answer": "A",
+   "rationale": "Hemolytic jaundice results from increased RBC destruction (e.g., transfusion reaction, malaria).",
+   "explanations": [
+    "Correct.",
+    "Bile duct blockage.",
+    "Liver cell damage.",
+    "Newborn."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Metabolic and endocrine (PDF p. 377)",
+   "quote": "Which type of jaundice inaduitsistheresult of increaseddestruction ofredblood cells?"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Which finding is typical of type 1 rather than type 2 diabetes?",
+   "options": [
+    "Islet cell antibodies",
+    "Obesity at diagnosis",
+    "Control with diet alone",
+    "Rare ketosis"
+   ],
+   "answer": "A",
+   "rationale": "Type 1 is autoimmune (islet cell antibodies), usually thin, ketosis-prone and insulin-requiring.",
+   "explanations": [
+    "Correct.",
+    "Type 2.",
+    "Type 2.",
+    "Type 2."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Metabolic and endocrine (PDF p. 377)",
+   "quote": "Presenceofisletcellantibodies"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Glibenclamide lowers blood sugar mainly by:",
+   "options": [
+    "Stimulating insulin release",
+    "Cutting liver glucose output",
+    "Slowing sugar absorption",
+    "Replacing insulin"
+   ],
+   "answer": "A",
+   "rationale": "Sulfonylureas stimulate beta cells; metformin reduces hepatic glucose output; alpha-glucosidase inhibitors slow absorption.",
+   "explanations": [
+    "Correct.",
+    "Metformin.",
+    "Acarbose.",
+    "Not insulin."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Metabolic and endocrine (PDF p. 378)",
+   "quote": "Suifonylureas"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A total urine output of 300 mL in 24 hours is called:",
+   "options": [
+    "Oliguria",
+    "Anuria",
+    "Nocturia",
+    "Polyuria"
+   ],
+   "answer": "A",
+   "rationale": "Oliguria is less than 400 mL/24 h; anuria is less than about 50–100 mL/24 h.",
+   "explanations": [
+    "Correct.",
+    "Much lower.",
+    "Night voiding.",
+    "Excess."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Urinary (PDF p. 379)",
+   "quote": "The termused to describe total urine output lessthan400mL. in24hours is"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A woman leaks urine when she coughs, laughs or lifts. This is:",
+   "options": [
+    "Stress incontinence",
+    "Urge incontinence",
+    "Overflow incontinence",
+    "Reflex incontinence"
+   ],
+   "answer": "A",
+   "rationale": "Stress incontinence is leakage with increased abdominal pressure; pelvic floor (Kegel) exercises help.",
+   "explanations": [
+    "Correct.",
+    "Sudden urge.",
+    "Overdistended bladder.",
+    "Spinal lesion."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Urinary (PDF p. 379)",
+   "quote": "involuntary lossofurine through an intacturethra asaresult of a sudden increase in intra-abdominal pressure"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Which advice helps a woman prevent recurrent urinary tract infections?",
+   "options": [
+    "Void right after intercourse",
+    "Take tub baths",
+    "Drink more cola",
+    "Void every 5 hours"
+   ],
+   "answer": "A",
+   "rationale": "Voiding after intercourse flushes bacteria; showers, frequent voiding and avoiding irritants also help.",
+   "explanations": [
+    "Correct.",
+    "Showers preferred.",
+    "Bladder irritant.",
+    "Too infrequent."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Urinary (PDF p. 380)",
+   "quote": "Void immediately aftersexual intercourse"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A transplanted kidney is rejected within hours of surgery. This is:",
+   "options": [
+    "Hyperacute rejection",
+    "Acute rejection",
+    "Chronic rejection",
+    "Graft tolerance"
+   ],
+   "answer": "A",
+   "rationale": "Hyperacute rejection occurs within minutes to 24 hours from preformed antibodies; acute occurs within weeks to months.",
+   "explanations": [
+    "Correct.",
+    "Later.",
+    "Months to years.",
+    "No rejection."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Urinary (PDF p. 380)",
+   "quote": "Rejection ofa transplantedkidney within24hoursafter transplant is temmed A.Hyperacute rejection"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "A client's HIV antibody test is negative. The nurse explains this means:",
+   "options": [
+    "No antibodies found yet",
+    "He is immune to HIV",
+    "He can never be infected",
+    "He has AIDS antibodies"
+   ],
+   "answer": "A",
+   "rationale": "A negative test means no antibodies detected; during the window period after exposure, a repeat test is needed.",
+   "explanations": [
+    "Correct.",
+    "No immunity.",
+    "Still at risk.",
+    "Opposite."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Immunologic (PDF p. 381)",
+   "quote": "Hisbodyhasnotproduced antibodiesto theAIDSvinus"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Which lubricant is safe to use with latex condoms?",
+   "options": [
+    "Water-based jelly",
+    "Petroleum jelly",
+    "Baby oil",
+    "Skin lotion"
+   ],
+   "answer": "A",
+   "rationale": "Oil-based products weaken latex and cause breakage; use water-based lubricants.",
+   "explanations": [
+    "Correct.",
+    "Weakens latex.",
+    "Weakens latex.",
+    "Weakens latex."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Immunologic (PDF p. 381)",
+   "quote": "Which of the following substances maybe used to lubricate a condom?"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A client with advanced AIDS reports floaters and loss of vision. The likely cause is:",
+   "options": [
+    "Cytomegalovirus retinitis",
+    "Kaposi's sarcoma",
+    "Toxoplasma pneumonia",
+    "Candida esophagitis"
+   ],
+   "answer": "A",
+   "rationale": "CMV causes retinitis in advanced HIV; ganciclovir or foscarnet is used.",
+   "explanations": [
+    "Correct.",
+    "Skin lesions.",
+    "Not this.",
+    "Swallowing."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Immunologic (PDF p. 381)",
+   "quote": "Whichof the following microorganisms isknown to causeretinitisinpeoplewith HIVIAIDS?"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client with shingles asks how he got it. The nurse explains that shingles is:",
+   "options": [
+    "Reactivated chickenpox virus",
+    "A new bacterial infection",
+    "Caught from a shingles patient only",
+    "An allergy to sunlight"
+   ],
+   "answer": "A",
+   "rationale": "Herpes zoster is reactivation of varicella-zoster virus that stayed dormant in nerve ganglia after chickenpox.",
+   "explanations": [
+    "Correct.",
+    "Viral.",
+    "Reactivation.",
+    "Not allergy."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Integumentary (PDF p. 383)",
+   "quote": "The infection resultsfrom reactivation of the chickenpoxvirus"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Which history most increases the risk of malignant melanoma?",
+   "options": [
+    "Repeated severe sunburns",
+    "Dark skin that tans easily",
+    "Living in a cold climate",
+    "Frequent bathing"
+   ],
+   "answer": "A",
+   "rationale": "Severe, blistering sunburns, fair skin and many moles raise melanoma risk; prevention is sun protection.",
+   "explanations": [
+    "Correct.",
+    "Lower risk.",
+    "Not a risk.",
+    "Not a risk."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Integumentary (PDF p. 383)",
+   "quote": "Individualswith a history ofsevere sunbum"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "White patches on the hands from loss of skin pigment cells are called:",
+   "options": [
+    "Vitiligo",
+    "Hirsutism",
+    "Telangiectasia",
+    "Lichenification"
+   ],
+   "answer": "A",
+   "rationale": "Vitiligo is destruction of melanocytes in circumscribed areas.",
+   "explanations": [
+    "Correct.",
+    "Excess hair.",
+    "Dilated vessels.",
+    "Thickened skin."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Integumentary (PDF p. 382)",
+   "quote": "destruction of themelanocytesincircumscribedareasoftheskin"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A stroke client can see a comb but cannot recognize what it is. This is:",
+   "options": [
+    "Agnosia",
+    "Aphasia",
+    "Ataxia",
+    "Apraxia"
+   ],
+   "answer": "A",
+   "rationale": "Agnosia is inability to recognize objects through a sense; apraxia is inability to carry out learned movements.",
+   "explanations": [
+    "Correct.",
+    "Language.",
+    "Coordination.",
+    "Motor planning."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Neurologic (PDF p. 384)",
+   "quote": "Which of the following temsrefers to the inabilty torecognizeobjects througha particularsensory system?"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A lower motor neuron lesion is expected to cause:",
+   "options": [
+    "Flaccid paralysis with atrophy",
+    "Spastic paralysis",
+    "Hyperactive reflexes",
+    "No muscle atrophy"
+   ],
+   "answer": "A",
+   "rationale": "LMN lesions cause flaccid paralysis, absent reflexes and atrophy; UMN lesions cause spasticity, hyperreflexia and little atrophy.",
+   "explanations": [
+    "Correct.",
+    "UMN.",
+    "UMN.",
+    "UMN."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Neurologic (PDF p. 385)",
+   "quote": "Flaccid muscle paralysis"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which cranial nerve is tested by touching the cornea with a wisp of cotton?",
+   "options": [
+    "Trigeminal (V)",
+    "Facial (VII)",
+    "Oculomotor (III)",
+    "Vestibulocochlear (VIII)"
+   ],
+   "answer": "A",
+   "rationale": "CN V carries facial and corneal sensation (the afferent part of the corneal reflex).",
+   "explanations": [
+    "Correct.",
+    "Blink motor.",
+    "Eye movement.",
+    "Hearing, balance."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Comprehensive Examinations, Neurologic (PDF p. 385)",
+   "quote": "The cranial nerve that isresponsible for facial sensationand comeal reflex is the"
+  }
+ ]
+}
