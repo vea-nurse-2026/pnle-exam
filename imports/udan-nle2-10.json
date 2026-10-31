@@ -1,0 +1,821 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which cranial nerve is tested by asking the client to smell coffee with eyes closed?",
+   "options": [
+    "CN I (olfactory)",
+    "CN II (optic)",
+    "CN V (trigeminal)",
+    "CN VII (facial)"
+   ],
+   "answer": "A",
+   "rationale": "CN I mediates smell; loss is anosmia.",
+   "explanations": [
+    "Correct.",
+    "Vision.",
+    "Facial sensation, chewing.",
+    "Facial expression, taste."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Cranial nerves (PDF p. 333)",
+   "quote": "Olfactory ... Smell ... Anosmia (absence of smell"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client cannot close his right eye or smile on the right side after a viral illness. Which nerve is affected?",
+   "options": [
+    "Facial (CN VII)",
+    "Trigeminal (CN V)",
+    "Vagus (CN X)",
+    "Hypoglossal (CN XII)"
+   ],
+   "answer": "A",
+   "rationale": "Bell's palsy affects CN VII, controlling facial expression and taste of the anterior 2/3 of the tongue.",
+   "explanations": [
+    "Correct.",
+    "Sensation, chewing.",
+    "Throat, PNS.",
+    "Tongue."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Cranial nerves (PDF p. 334)",
+   "quote": "Bell's palsy; ageusia (loss of sense of taste) on the anterior 2/3 of the ton uc."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Sympathetic stimulation causes which effect?",
+   "options": [
+    "Pupils, bronchi dilate",
+    "Pupils constrict",
+    "Peristalsis rises",
+    "Heart rate slows"
+   ],
+   "answer": "A",
+   "rationale": "SNS: everything high and fast except GI/GU; pupils and bronchi dilate, heart speeds up.",
+   "explanations": [
+    "Correct.",
+    "Parasympathetic.",
+    "Parasympathetic.",
+    "Parasympathetic."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Autonomic nervous system (PDF p. 336)",
+   "quote": "DILATE • Pupils • Bronchial Tree"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Mang Lito is scheduled for an EEG tomorrow morning and asks how to prepare. The nurse tells him to:",
+   "options": [
+    "Wash hair, skip coffee",
+    "Fast for 24 hours",
+    "Take a sedative at home",
+    "Apply hair oil"
+   ],
+   "answer": "A",
+   "rationale": "Clean hair improves electrode contact; avoid caffeine and stimulants beforehand. The test does not shock.",
+   "explanations": [
+    "Correct.",
+    "Not needed.",
+    "Not routine.",
+    "Interferes."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 EEG (PDF p. 339)",
+   "quote": "Hair shampoo to remove oils and dirt which may interfere with transmission of electrical impulses"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "The doctor is about to insert the spinal needle for a lumbar tap on Aling Nena. How should the nurse position her?",
+   "options": [
+    "Curled on her side",
+    "Prone, arms up",
+    "Supine flat",
+    "Sitting, back straight"
+   ],
+   "answer": "A",
+   "rationale": "The fetal position arches the back and widens the intervertebral spaces for needle entry.",
+   "explanations": [
+    "Correct.",
+    "Not used.",
+    "Not used.",
+    "Back should be arched."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Lumbar puncture (PDF p. 341)",
+   "quote": "lateral recumbent position with back arched; head and knees flexed on chest"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "After lumbar puncture, to reduce the risk of headache the client should:",
+   "options": [
+    "Lie flat and drink fluids",
+    "Sit upright right away",
+    "Restrict fluids",
+    "Walk around"
+   ],
+   "answer": "A",
+   "rationale": "Lying flat for several hours and fluids help prevent CSF-leak headache.",
+   "explanations": [
+    "Correct.",
+    "Headache risk.",
+    "Worsens.",
+    "Headache risk."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Lumbar puncture (PDF p. 341)",
+   "quote": "Lie flat in bed for 6 - 8 hours (may turn to sides). • Encourage fluids if not contraindicated."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "CSF analysis shows low glucose and high protein. This suggests:",
+   "options": [
+    "Bacterial infection",
+    "Normal CSF",
+    "Dehydration",
+    "Hypoglycemia only"
+   ],
+   "answer": "A",
+   "rationale": "Low CSF glucose suggests infection; high protein suggests infection or tumor.",
+   "explanations": [
+    "Correct.",
+    "Not normal.",
+    "Not this.",
+    "Not explained."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Normal CSF values (PDF p. 341)",
+   "quote": "Low glucose level indicates infection."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which is the single most sensitive indicator of changing neurologic status?",
+   "options": [
+    "Level of consciousness",
+    "Pupil size",
+    "Blood pressure",
+    "Temperature"
+   ],
+   "answer": "A",
+   "rationale": "LOC changes earliest and most sensitively reflect neurologic deterioration.",
+   "explanations": [
+    "Correct.",
+    "Later sign.",
+    "Late sign.",
+    "Not sensitive."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Neurologic assessment (PDF p. 343)",
+   "quote": "It is the single most sensitive indicator of changes in the neurologic status ofa client."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A head-injury client opens eyes to pain, moans, and withdraws from pain. His GCS is:",
+   "options": [
+    "8",
+    "10",
+    "6",
+    "12"
+   ],
+   "answer": "A",
+   "rationale": "Eyes to pain 2 + incomprehensible sounds 2 + withdrawal 4 = 8; 8 or lower suggests severe injury.",
+   "explanations": [
+    "Correct.",
+    "Too high.",
+    "Too low.",
+    "Too high."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Glasgow Coma Scale (PDF p. 356)",
+   "quote": "4— flexion withdrawal"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client falls when standing with feet together and eyes closed. This positive Romberg test suggests a problem with the:",
+   "options": [
+    "Cerebellum",
+    "Frontal lobe",
+    "Occipital lobe",
+    "Spinal reflex arc"
+   ],
+   "answer": "A",
+   "rationale": "Romberg assesses equilibrium (cerebellar/proprioceptive function); slight swaying is normal, falling is positive.",
+   "explanations": [
+    "Correct.",
+    "Motor planning.",
+    "Vision.",
+    "Not this test."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Motor function (PDF p. 345)",
+   "quote": "If the client falls. this is positive Romberg that indicates cerebellar function impairment."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Passive neck flexion causes the client to flex his hips. This is:",
+   "options": [
+    "Positive Brudzinski's sign",
+    "Positive Babinski",
+    "Normal doll's eye",
+    "Negative Kernig's"
+   ],
+   "answer": "A",
+   "rationale": "Brudzinski's sign indicates meningeal irritation; Kernig's is pain on leg extension with hip flexed.",
+   "explanations": [
+    "Correct.",
+    "Toe sign.",
+    "Eye reflex.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Meningeal irritation (PDF p. 346)",
+   "quote": "Passively flex the neck, spontaneous flexion of the hips occurs."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client understands speech but cannot form words after a stroke. This is:",
+   "options": [
+    "Expressive (Broca's) aphasia",
+    "Receptive (Wernicke's) aphasia",
+    "Global aphasia",
+    "Alexia"
+   ],
+   "answer": "A",
+   "rationale": "Broca's area (left frontal) controls speech production; damage causes expressive aphasia.",
+   "explanations": [
+    "Correct.",
+    "Can't understand.",
+    "Both lost.",
+    "Can't read."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Language and speech (PDF p. 347)",
+   "quote": "Impairment of the Broca's area results to expressive or motor aphasia"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which is often the earliest sign of increasing intracranial pressure?",
+   "options": [
+    "Restlessness or change in LOC",
+    "Fixed dilated pupils",
+    "Bradycardia",
+    "Decerebrate posturing"
+   ],
+   "answer": "A",
+   "rationale": "Restlessness and subtle LOC changes come first; pupil fixation, Cushing's triad and posturing are late.",
+   "explanations": [
+    "Correct.",
+    "Late.",
+    "Late.",
+    "Late."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Increased ICP (PDF p. 348)",
+   "quote": "Restlessness. Is the initial sign of increased ICP."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Cushing's triad of increased ICP includes:",
+   "options": [
+    "Wide pulse pressure, low HR",
+    "Low BP, fast HR, fever",
+    "Narrow pulse pressure",
+    "High BP with fast HR"
+   ],
+   "answer": "A",
+   "rationale": "Rising systolic BP with widened pulse pressure, bradycardia and slow/irregular respirations.",
+   "explanations": [
+    "Correct.",
+    "Shock.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Cushing's triad (PDF p. 348)",
+   "quote": "Widening of pulse pressure. It is more than 40 mmHg."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client with increased ICP is best positioned with the head of bed at:",
+   "options": [
+    "30 degrees, head midline",
+    "90 degrees",
+    "Flat",
+    "Trendelenburg"
+   ],
+   "answer": "A",
+   "rationale": "Elevating 15–30 degrees with the head midline promotes venous drainage; extreme positions raise ICP.",
+   "explanations": [
+    "Correct.",
+    "May raise ICP.",
+    "Poor drainage.",
+    "Raises ICP."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Increased ICP management (PDF p. 349)",
+   "quote": "The HOB elevation is 15 to 30 degree, maximum of 45 degree."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which activity should a client with increased ICP avoid?",
+   "options": [
+    "Straining at stool",
+    "Turning with help",
+    "Deep breathing",
+    "Passive ROM"
+   ],
+   "answer": "A",
+   "rationale": "Valsalva, vomiting, over-suctioning, restraints and bending raise ICP.",
+   "explanations": [
+    "Correct.",
+    "Allowed.",
+    "Allowed.",
+    "Allowed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Increased ICP management (PDF p. 349)",
+   "quote": "Valsalva maneuver, e.g. straining at stool"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client receiving IV mannitol for cerebral edema needs close monitoring of:",
+   "options": [
+    "Hourly urine output",
+    "Blood glucose only",
+    "Pupil color",
+    "Skin turgor only"
+   ],
+   "answer": "A",
+   "rationale": "Mannitol is an osmotic diuretic; monitor hourly output and BP for hypotension.",
+   "explanations": [
+    "Correct.",
+    "Not main.",
+    "Not relevant.",
+    "Not enough."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Pharmacotherapy for ICP (PDF p. 350)",
+   "quote": "Check hourly urine output."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A fixed, dilated pupil develops in a client whose pupils were reactive. The nurse should:",
+   "options": [
+    "Notify MD at once",
+    "Recheck in 4 hours",
+    "Dim the lights",
+    "Apply eye drops"
+   ],
+   "answer": "A",
+   "rationale": "A newly fixed, dilated pupil signals herniation and is a neurologic emergency.",
+   "explanations": [
+    "Correct.",
+    "Delays care.",
+    "Not treatment.",
+    "Not treatment."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Pupillary reflexes (PDF p. 346)",
+   "quote": "A fixed and dilated pupil in a client who has had previously reactive pupils is a neurologic emergency."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which posture signals brainstem involvement and poor prognosis?",
+   "options": [
+    "Decerebrate (extension)",
+    "Decorticate (flexion)",
+    "Fetal position",
+    "Normal flexion"
+   ],
+   "answer": "A",
+   "rationale": "Decerebrate (rigid extension) indicates brainstem damage; decorticate (flexion) indicates involvement above the midbrain.",
+   "explanations": [
+    "Correct.",
+    "Higher lesion.",
+    "Not posturing.",
+    "Not posturing."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Brainstem impairment (PDF p. 349)",
+   "quote": "This indicates involvement of the brainstem. This signals poor prognosis."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A 25-year-old jeepney driver has a generalized tonic-clonic seizure in the clinic waiting area. The nurse's best action is to:",
+   "options": [
+    "Side-lying, protect head",
+    "Insert a tongue blade",
+    "Restrain his limbs",
+    "Give him water"
+   ],
+   "answer": "A",
+   "rationale": "Protect from injury, side-lying for airway, loosen clothing; never restrain or force objects into the mouth.",
+   "explanations": [
+    "Correct.",
+    "Trauma.",
+    "Injury.",
+    "Aspiration."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Seizure management (PDF p. 351)",
+   "quote": "Turn the client to the side."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "A child has brief staring spells with lip-smacking that end in seconds, then resumes play. This is:",
+   "options": [
+    "Absence (petit mal) seizure",
+    "Tonic-clonic seizure",
+    "Febrile seizure",
+    "Psychomotor seizure"
+   ],
+   "answer": "A",
+   "rationale": "Absence seizures: no aura, blank stare, automatisms, 10–20 seconds, common in children; ethosuximide is used.",
+   "explanations": [
+    "Correct.",
+    "Convulsions.",
+    "With fever.",
+    "Prolonged confusion."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Petit mal seizures (PDF p. 351)",
+   "quote": "It is characterized by blank facial expression and automatism like lip — chewing"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "IV phenytoin should be mixed only with:",
+   "options": [
+    "Normal saline",
+    "D5W",
+    "Lactated Ringer's",
+    "Sterile water with dextrose"
+   ],
+   "answer": "A",
+   "rationale": "Phenytoin precipitates in dextrose solutions; dilute and flush with normal saline.",
+   "explanations": [
+    "Correct.",
+    "Precipitates.",
+    "Not recommended.",
+    "Precipitates."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Hydantoins (PDF p. 352)",
+   "quote": "It should be diluted with normal saline solution. Dextrose solution should not be used because of drug precipitation."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "What is the therapeutic serum range of phenytoin?",
+   "options": [
+    "10–20 mcg/mL",
+    "0.5–2 ng/mL",
+    "50–100 mcg/mL",
+    "1–2 mg/mL"
+   ],
+   "answer": "A",
+   "rationale": "Phenytoin's therapeutic level is 10–20 mcg/mL.",
+   "explanations": [
+    "Correct.",
+    "Digoxin range.",
+    "Too high.",
+    "Wrong units."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Hydantoins (PDF p. 352)",
+   "quote": "The therapeutic serum level of Phenytoin is 10 to 20 mcg./ml."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client on long-term phenytoin should be taught to:",
+   "options": [
+    "Good oral and dental care",
+    "Stop it if gums bleed",
+    "Drink alcohol moderately",
+    "Skip doses when well"
+   ],
+   "answer": "A",
+   "rationale": "Phenytoin causes gingival hyperplasia; brush with a soft brush, massage gums, see the dentist. Never stop abruptly.",
+   "explanations": [
+    "Correct.",
+    "Status risk.",
+    "Lowers threshold.",
+    "Status risk."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Phenytoin therapy (PDF p. 353)",
+   "quote": "To prevent gingival hyperplasia (overgrowth of gum tissues — reddened gums that bleed easily)"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client asks why her urine turned pinkish on phenytoin. The nurse explains:",
+   "options": [
+    "It is a harmless drug effect",
+    "She has kidney bleeding",
+    "She needs to stop it",
+    "She is dehydrated"
+   ],
+   "answer": "A",
+   "rationale": "Phenytoin can cause pinkish-red or red-brown urine; this is harmless.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not needed.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Hydantoin side effects (PDF p. 353)",
+   "quote": "Phenytoin causes pinkish red or reddish — brmvn discoloration of urine. This is a harmless side effect."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Why must anticonvulsants be withdrawn gradually?",
+   "options": [
+    "To prevent status epilepticus",
+    "To prevent rash",
+    "To avoid weight gain",
+    "To reduce cost"
+   ],
+   "answer": "A",
+   "rationale": "Abrupt withdrawal can trigger rebound seizures and status epilepticus.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Hydantoins (PDF p. 353)",
+   "quote": "Withdraw anticonvulsant drugs gradually to prevent status epilepticus."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which drug is given IV to stop status epilepticus?",
+   "options": [
+    "Lorazepam",
+    "Ethosuximide",
+    "Carbamazepine",
+    "Gabapentin"
+   ],
+   "answer": "A",
+   "rationale": "IV benzodiazepines (lorazepam, diazepam) are first-line for status epilepticus; lorazepam no faster than 2 mg/min.",
+   "explanations": [
+    "Correct.",
+    "Absence seizures.",
+    "Oral maintenance.",
+    "Oral, adjunct."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Benzodiazepines (PDF p. 354)",
+   "quote": "Lorazepam is used to control status epilepticus. Infusion rate should not exceed 2mg/min."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client on valproic acid needs periodic monitoring of:",
+   "options": [
+    "Liver enzymes",
+    "Hearing",
+    "Eye pressure",
+    "Thyroid only"
+   ],
+   "answer": "A",
+   "rationale": "Valproic acid is hepatotoxic; it is also teratogenic (neural tube defects).",
+   "explanations": [
+    "Correct.",
+    "Not main.",
+    "Not main.",
+    "Not main."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Valproate (PDF p. 355)",
+   "quote": "Valproic acid is hcpatotoxic so liver enzymes should be monitored."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Before Birth",
+   "situation": "",
+   "stem": "A pregnant woman on anticonvulsants should take which supplement daily?",
+   "options": [
+    "Folic acid",
+    "Vitamin A megadoses",
+    "Iron only",
+    "Calcium only"
+   ],
+   "answer": "A",
+   "rationale": "Anticonvulsants deplete folate and some are teratogenic; daily folate is advised.",
+   "explanations": [
+    "Correct.",
+    "Teratogenic.",
+    "Not specific.",
+    "Not specific."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Anticonvulsants and pregnancy (PDF p. 355)",
+   "quote": "Anticonvulsant drugs cause loss of folate (folic acid) in pregnant women; thus daily folate supplements should be taken."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which environment helps during a migraine attack?",
+   "options": [
+    "Quiet and dark",
+    "Bright and busy",
+    "Loud music",
+    "Cold shower"
+   ],
+   "answer": "A",
+   "rationale": "Migraines involve photophobia and phonophobia; a quiet, dark room helps.",
+   "explanations": [
+    "Correct.",
+    "Worsens.",
+    "Worsens.",
+    "Not standard."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Migraine (PDF p. 356)",
+   "quote": "Provide quiet, dark environment."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Sumatriptan should be avoided in a client with:",
+   "options": [
+    "Uncontrolled hypertension",
+    "Asthma only",
+    "Anemia",
+    "Hypothyroidism"
+   ],
+   "answer": "A",
+   "rationale": "Triptans cause vasoconstriction and are contraindicated in hypertension and coronary disease.",
+   "explanations": [
+    "Correct.",
+    "Not main.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Triptans (PDF p. 357)",
+   "quote": "Imitrex is contraindicated in hypertension, renal and hepatic impairment."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which finding is typical of a left-hemisphere stroke?",
+   "options": [
+    "Right hemiplegia and aphasia",
+    "Left hemiplegia",
+    "Impulsive behavior",
+    "Neglect of left side"
+   ],
+   "answer": "A",
+   "rationale": "Left CVA: right-sided paralysis, aphasia, slow cautious behavior; right CVA: left paralysis, spatial deficits, impulsivity.",
+   "explanations": [
+    "Correct.",
+    "Right CVA.",
+    "Right CVA.",
+    "Right CVA."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Left vs. right CVA (PDF p. 358)",
+   "quote": "Ri ht hemi le ia ... Aphasia: expressive, receptive"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A stroke client has left homonymous hemianopsia. The nurse should:",
+   "options": [
+    "Approach from his right side",
+    "Place food on his left",
+    "Approach from the left",
+    "Keep the room dark"
+   ],
+   "answer": "A",
+   "rationale": "Approach and place items on the unaffected visual side and teach him to scan by turning his head.",
+   "explanations": [
+    "Correct.",
+    "He can't see it.",
+    "Unseen side.",
+    "Not helpful."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Hemianopsia (PDF p. 359)",
+   "quote": "Approach the client from the unaffected side of the visual field."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "How should the nurse communicate with a client who has expressive aphasia?",
+   "options": [
+    "Allow time; ask simple questions",
+    "Finish all his sentences",
+    "Speak loudly",
+    "Avoid talking to him"
+   ],
+   "answer": "A",
+   "rationale": "Give time to respond, one word or command at a time, and reinforce success.",
+   "explanations": [
+    "Correct.",
+    "Frustrates.",
+    "Not hearing loss.",
+    "Isolates."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Care of client with aphasia (PDF p. 359)",
+   "quote": "Allow the client to verbalize, no matter how long it takes him."
+  }
+ ]
+}

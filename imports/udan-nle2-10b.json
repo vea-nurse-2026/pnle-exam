@@ -1,0 +1,701 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024)",
+ "questions": [
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A frontal lobe brain tumor most likely causes:",
+   "options": [
+    "Personality changes",
+    "Visual field loss",
+    "Olfactory hallucinations",
+    "Hearing loss"
+   ],
+   "answer": "A",
+   "rationale": "Frontal lobe tumors cause personality disturbances and inappropriate affect; temporal tumors cause olfactory hallucinations.",
+   "explanations": [
+    "Correct.",
+    "Occipital.",
+    "Temporal.",
+    "Temporal."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Intracranial tumors (PDF p. 360)",
+   "quote": "Personality disturbances • Inappropriate affect"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "After craniotomy, the nurse notes yellowish drainage on the head dressing. This suggests:",
+   "options": [
+    "CSF leak",
+    "Normal serous drainage",
+    "Infection only",
+    "Fat embolism"
+   ],
+   "answer": "A",
+   "rationale": "Yellowish drainage on a head dressing may be CSF and must be reported immediately.",
+   "explanations": [
+    "Correct.",
+    "Must report.",
+    "Not first concern.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Craniotomy care (PDF p. 360)",
+   "quote": "Report immediately to the physician, yellowish drainage on the head dressing. This indicates CSF leakage."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "After craniotomy, a sudden large rise in urine output suggests:",
+   "options": [
+    "Diabetes insipidus",
+    "SIADH",
+    "Normal diuresis",
+    "Kidney stones"
+   ],
+   "answer": "A",
+   "rationale": "Pressure on the posterior pituitary can cause DI; monitor intake and output closely.",
+   "explanations": [
+    "Correct.",
+    "Oliguria.",
+    "Too much.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Craniotomy care (PDF p. 360)",
+   "quote": "Excessive urine output indicates diabetes insipidus."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A head-injury client has bruising behind the ear and around both eyes. The nurse suspects:",
+   "options": [
+    "Basilar skull fracture",
+    "Concussion only",
+    "Scalp laceration",
+    "Epidural hematoma only"
+   ],
+   "answer": "A",
+   "rationale": "Battle's sign and raccoon eyes indicate basilar skull fracture; watch for CSF otorrhea or rhinorrhea.",
+   "explanations": [
+    "Correct.",
+    "No bruising pattern.",
+    "Not this.",
+    "Different signs."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Head trauma (PDF p. 361)",
+   "quote": "Battle's sign (hematoma at the mastoid process/ behind the ear). Raccoon eyes (periorbital ecchymosis)"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "Bloody fluid from a head-injury client's nose forms a yellow ring around a blood spot on gauze. This indicates:",
+   "options": [
+    "CSF in the drainage",
+    "Normal nasal mucus",
+    "Sinus infection",
+    "Blood only"
+   ],
+   "answer": "A",
+   "rationale": "A positive halo (ring) sign suggests CSF; CSF is also positive for glucose.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Ring means CSF."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Head trauma (PDF p. 361)",
+   "quote": "yellowish ring encircles the blood if CSF is present"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which tremor is typical of Parkinson's disease?",
+   "options": [
+    "Resting pill-rolling tremor",
+    "Intention tremor",
+    "Tremor only during sleep",
+    "Flapping tremor"
+   ],
+   "answer": "A",
+   "rationale": "Parkinson's causes resting (non-intention) pill-rolling tremor that worsens at rest.",
+   "explanations": [
+    "Correct.",
+    "MS/cerebellar.",
+    "Not typical.",
+    "Asterixis."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Parkinson's disease (PDF p. 361)",
+   "quote": "The initial sign is tremors - pill rolling tremors"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client with Parkinson's disease walks with short, accelerating steps and cannot stop easily. This is:",
+   "options": [
+    "Festinating gait",
+    "Ataxic gait",
+    "Scissors gait",
+    "Waddling gait"
+   ],
+   "answer": "A",
+   "rationale": "Shuffling, festinating gait speeds up and is hard to stop; there is no true paralysis or sensory loss.",
+   "explanations": [
+    "Correct.",
+    "Cerebellar.",
+    "Spastic.",
+    "Hip weakness."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Parkinson's disease (PDF p. 362)",
+   "quote": "lhe chamcteristic gait of the client is shuffling, festinating gait."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client on benztropine reports dry mouth. The nurse suggests:",
+   "options": [
+    "Sugarless gum or ice chips",
+    "Stopping the drug",
+    "Drinking alcohol",
+    "More caffeine"
+   ],
+   "answer": "A",
+   "rationale": "Anticholinergics cause dry mouth, urinary retention and constipation; relieve with sugarless gum or ice chips.",
+   "explanations": [
+    "Correct.",
+    "Not needed.",
+    "Avoid.",
+    "Avoid."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Anticholinergics (PDF p. 363)",
+   "quote": "Relieve dry mouth with hard candy, ice chips or sugarless chewing gum."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Anticholinergic drugs for Parkinson's disease are avoided in clients with:",
+   "options": [
+    "Glaucoma",
+    "Diarrhea",
+    "Asthma",
+    "Hypertension"
+   ],
+   "answer": "A",
+   "rationale": "Anticholinergics can raise intraocular pressure and are avoided in glaucoma.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Anticholinergics (PDF p. 363)",
+   "quote": "Clients who have glaucoma should not take anticholinergics."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Carbidopa is combined with levodopa because carbidopa:",
+   "options": [
+    "Lets more levodopa reach the brain",
+    "Crosses into the brain as dopamine",
+    "Cures Parkinson's",
+    "Prevents all side effects"
+   ],
+   "answer": "A",
+   "rationale": "Carbidopa blocks peripheral breakdown of levodopa so more reaches the brain at lower doses.",
+   "explanations": [
+    "Correct.",
+    "Dopamine doesn't cross.",
+    "No cure.",
+    "Not all."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Dopaminergics (PDF p. 363)",
+   "quote": "Carbidopa reduces destruction of levodopa at the periphery."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client starting carbidopa-levodopa should be taught to:",
+   "options": [
+    "Rise slowly to prevent dizziness",
+    "Stand up quickly",
+    "Take MAO inhibitors with it",
+    "Stop if urine darkens"
+   ],
+   "answer": "A",
+   "rationale": "Orthostatic hypotension is common; darkened urine and sweat are harmless. MAOIs cause hypertensive crisis.",
+   "explanations": [
+    "Correct.",
+    "Falls.",
+    "Hypertensive crisis.",
+    "Harmless effect."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Carbidopa-levodopa therapy (PDF p. 363)",
+   "quote": "Advise client to practice gradual change of position to prevent orthostatic hypotension."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Muscle weakness that worsens with activity and improves with rest is typical of:",
+   "options": [
+    "Myasthenia gravis",
+    "Parkinson's disease",
+    "Multiple sclerosis",
+    "Stroke"
+   ],
+   "answer": "A",
+   "rationale": "MG impairs neuromuscular transmission; weakness (ptosis, diplopia, dysphagia) worsens with activity.",
+   "explanations": [
+    "Correct.",
+    "Rigidity, tremor.",
+    "Relapsing, various.",
+    "Sudden deficit."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Myasthenia gravis (PDF p. 365)",
+   "quote": "Muscle weakness associated with activity relieved by rest"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client with myasthenia gravis missed two doses and now has severe respiratory distress, cyanosis and an absent cough reflex. This is most likely:",
+   "options": [
+    "Myasthenic crisis",
+    "Cholinergic crisis",
+    "Anaphylaxis",
+    "Pulmonary embolism"
+   ],
+   "answer": "A",
+   "rationale": "Myasthenic crisis is caused by undermedication; it can need more cholinergic drug and mechanical ventilation.",
+   "explanations": [
+    "Correct.",
+    "Overmedication.",
+    "No allergen.",
+    "No such cause."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Myasthenic crisis (PDF p. 367)",
+   "quote": "Myasthenic crisis is caused by undermedication."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client with MG has increased salivation, sweating, small pupils and weakness after a dose increase. This is:",
+   "options": [
+    "Cholinergic crisis",
+    "Myasthenic crisis",
+    "Allergy",
+    "Hypoglycemia"
+   ],
+   "answer": "A",
+   "rationale": "Cholinergic crisis from overdose: salivation, sweating, miosis, cramps, weakness; atropine is the antidote.",
+   "explanations": [
+    "Correct.",
+    "Undermedication.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Cholinergic crisis (PDF p. 367)",
+   "quote": "Cholinergic crisis is caused by excessive medications."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which drug should be at the bedside for cholinergic crisis?",
+   "options": [
+    "Atropine sulfate",
+    "Neostigmine",
+    "Naloxone",
+    "Protamine"
+   ],
+   "answer": "A",
+   "rationale": "Atropine counteracts excess cholinergic effects.",
+   "explanations": [
+    "Correct.",
+    "Worsens.",
+    "Opioids.",
+    "Heparin."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Acetylcholinesterase inhibitors (PDF p. 366)",
+   "quote": "Have readily available an antidote for cholinergic crisis (Atropine Sulfate)."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which antibiotic may worsen weakness in myasthenia gravis?",
+   "options": [
+    "Neomycin",
+    "Amoxicillin",
+    "Cephalexin",
+    "Erythromycin cream"
+   ],
+   "answer": "A",
+   "rationale": "Neomycin (aminoglycoside), muscle relaxants, morphine and barbiturates worsen myoneural transmission.",
+   "explanations": [
+    "Correct.",
+    "Not listed.",
+    "Not listed.",
+    "Topical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 MG drugs to avoid (PDF p. 367)",
+   "quote": "• Neomycin"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client with multiple sclerosis should avoid:",
+   "options": [
+    "Hot baths",
+    "Rest periods",
+    "Fluids",
+    "Physical therapy"
+   ],
+   "answer": "A",
+   "rationale": "Heat worsens weakness in MS; exacerbations are triggered by fatigue, chilling and stress.",
+   "explanations": [
+    "Correct.",
+    "Helpful.",
+    "Encouraged.",
+    "Helpful."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Multiple sclerosis (PDF p. 368)",
+   "quote": "Avoid hot baths. Heat increases weakness."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Scanning speech, intention tremor and nystagmus form Charcot's triad of:",
+   "options": [
+    "Multiple sclerosis",
+    "Parkinson's disease",
+    "Myasthenia gravis",
+    "ALS"
+   ],
+   "answer": "A",
+   "rationale": "Charcot's triad is classic for MS (demyelination of CNS).",
+   "explanations": [
+    "Correct.",
+    "Resting tremor.",
+    "Fatigable weakness.",
+    "Motor neurons."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Multiple sclerosis (PDF p. 368)",
+   "quote": "S - canning speech I - ntention tremors N ystagmus"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "In early Alzheimer's disease, which memory is lost first?",
+   "options": [
+    "Recent memory",
+    "Remote memory",
+    "Procedural memory",
+    "All memory at once"
+   ],
+   "answer": "A",
+   "rationale": "Recent memory fails first; remote memory may remain for a long time, so reminiscence helps.",
+   "explanations": [
+    "Correct.",
+    "Kept longer.",
+    "Later.",
+    "Gradual."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Alzheimer's disease (PDF p. 369)",
+   "quote": "Loss of recent memory occurs first. Remote memory may remain intact for a long period of time."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "A client with Alzheimer's becomes agitated each evening. Which helps?",
+   "options": [
+    "Turn lights on before dark",
+    "Give a hypnotic",
+    "Argue to reorient",
+    "Change his routine"
+   ],
+   "answer": "A",
+   "rationale": "Prevent sundowning: lights on before dusk, routine, calm approach; avoid hypnotics and arguing.",
+   "explanations": [
+    "Correct.",
+    "Worsens confusion.",
+    "Agitates.",
+    "Agitates."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Alzheimer's disease (PDF p. 371)",
+   "quote": "Turn lights on before it becomes dark."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Therapeutic Communication",
+   "situation": "",
+   "stem": "How should the nurse give instructions to a client with dementia?",
+   "options": [
+    "One direction at a time",
+    "Several steps at once",
+    "In writing only",
+    "Very fast"
+   ],
+   "answer": "A",
+   "rationale": "Ask one question and give one direction at a time; call the client by name; allow time.",
+   "explanations": [
+    "Correct.",
+    "Confuses.",
+    "Not enough.",
+    "Confuses."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Alzheimer's disease (PDF p. 370)",
+   "quote": "Ask only one question at a time and give one direction at a time."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Ascending paralysis after a recent viral illness, with risk to breathing, suggests:",
+   "options": [
+    "Guillain-Barré syndrome",
+    "Myasthenia gravis",
+    "Parkinson's disease",
+    "Bell's palsy"
+   ],
+   "answer": "A",
+   "rationale": "GBS is autoimmune demyelination with ascending paralysis; monitor respiratory function closely.",
+   "explanations": [
+    "Correct.",
+    "Fatigable weakness.",
+    "Tremor, rigidity.",
+    "Facial only."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Guillain-Barré syndrome (PDF p. 372)",
+   "quote": "Ascending or descending paralysis which may progress to respiratory muscle paralysis."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which recent history is most often reported by a client newly diagnosed with Guillain-Barré syndrome?",
+   "options": [
+    "Mild URI or gastroenteritis",
+    "Recent head trauma",
+    "Long-term steroid use",
+    "High-fat diet"
+   ],
+   "answer": "A",
+   "rationale": "GBS is autoimmune demyelination usually preceded by a mild respiratory or GI infection.",
+   "explanations": [
+    "Correct.",
+    "Not linked.",
+    "Not linked.",
+    "Not linked."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Guillain-Barré syndrome (PDF p. 372)",
+   "quote": "It is usually preceded by mild upper respiratory infection or gastroenteritis."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client with trigeminal neuralgia should be taught to:",
+   "options": [
+    "Chew on the unaffected side",
+    "Eat very hot foods",
+    "Wash face with cold water",
+    "Chew on the painful side"
+   ],
+   "answer": "A",
+   "rationale": "Avoid triggers (hot/cold foods, wind, chewing on the affected side); carbamazepine is often used.",
+   "explanations": [
+    "Correct.",
+    "Trigger.",
+    "Trigger.",
+    "Trigger."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Trigeminal neuralgia (PDF p. 372)",
+   "quote": "Instruct client to chew food on the unaffected side."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client with Bell's palsy cannot fully close one eye. The nurse should:",
+   "options": [
+    "Protect the eye from drying",
+    "Leave it open",
+    "Massage the eyeball",
+    "Apply hot packs to the eye"
+   ],
+   "answer": "A",
+   "rationale": "Protect the eye (lubricant, patch at night) to prevent corneal injury; encourage facial exercises.",
+   "explanations": [
+    "Correct.",
+    "Corneal damage.",
+    "Not advised.",
+    "Not advised."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Bell's palsy (PDF p. 373)",
+   "quote": "Protect the eyes from dryness and prevent injury."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "At the scene of a diving accident with suspected neck injury, the first priority is:",
+   "options": [
+    "Airway with spine immobilized",
+    "Realigning the neck",
+    "Moving him to a chair",
+    "Giving fluids by mouth"
+   ],
+   "answer": "A",
+   "rationale": "Ensure airway and breathing while immobilizing the spine; transport as a unit and never realign body parts.",
+   "explanations": [
+    "Correct.",
+    "Worsens injury.",
+    "Worsens injury.",
+    "Aspiration."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Spinal cord injury (PDF p. 374)",
+   "quote": "First priority: promotion of respiratory function especially in cervical SCI."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A spinal cord injury client has flaccid paralysis, absent reflexes, hypotension and bradycardia soon after injury. This is:",
+   "options": [
+    "Spinal shock",
+    "Autonomic dysreflexia",
+    "Hypovolemic shock only",
+    "Recovery"
+   ],
+   "answer": "A",
+   "rationale": "Spinal shock causes flaccid paralysis and areflexia below the lesion, with hypotension and bradycardia.",
+   "explanations": [
+    "Correct.",
+    "Hypertension.",
+    "Tachycardia.",
+    "Not recovery."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Spinal shock (PDF p. 375)",
+   "quote": "It is a period of flaccid paralysis and a complete loss of all reflexes occurs."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "A client with a C6 injury suddenly has severe headache, BP 200/110 and sweating above the lesion. The nurse first:",
+   "options": [
+    "Sit up; check bladder",
+    "Lay him flat",
+    "Give a sedative",
+    "Apply restraints"
+   ],
+   "answer": "A",
+   "rationale": "Autonomic dysreflexia: raise the head to lower BP and find the trigger, most often a distended bladder or impaction.",
+   "explanations": [
+    "Correct.",
+    "Raises BP.",
+    "Not first.",
+    "Not indicated."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Autonomic dysreflexia (PDF p. 375)",
+   "quote": "Place the client in sitting position. To lower BP by gravity. o Check bladder distention."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Autonomic dysreflexia occurs mainly in spinal injuries at or above:",
+   "options": [
+    "T6",
+    "L4",
+    "S2",
+    "T12"
+   ],
+   "answer": "A",
+   "rationale": "Lesions at or above T6, especially cervical, allow uncontrolled sympathetic reflexes.",
+   "explanations": [
+    "Correct.",
+    "Too low.",
+    "Too low.",
+    "Too low."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024), Ch. 10 Autonomic dysreflexia (PDF p. 375)",
+   "quote": "It occurs in clients with SCI above Tc, most often in cervical injuries."
+  }
+ ]
+}
