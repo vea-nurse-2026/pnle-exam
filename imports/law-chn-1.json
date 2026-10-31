@@ -1,0 +1,485 @@
+{
+ "source": "Philippine laws (Lawphil full text)",
+ "questions": [
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Under the UHC Act (RA 11223), who is automatically included in the National Health Insurance Program?",
+   "options": [
+    "Every Filipino citizen",
+    "Only employed workers",
+    "Only indigents",
+    "Only seniors"
+   ],
+   "answer": "A",
+   "rationale": "Every Filipino citizen is automatically included in the NHIP.",
+   "explanations": [
+    "Correct.",
+    "Too narrow.",
+    "Too narrow.",
+    "Too narrow."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 11223, Universal Health Care Act (2019), Sec. 5 (Lawphil)",
+   "quote": "Every Filipino citizen shall be automatically included into the NHIP"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Under RA 11223, PhilHealth membership is grouped into:",
+   "options": [
+    "Direct and indirect contributors",
+    "Rich and poor members",
+    "Public and private members",
+    "Active and inactive members"
+   ],
+   "answer": "A",
+   "rationale": "Membership is simplified into direct contributors (with capacity to pay) and indirect contributors (subsidized by government).",
+   "explanations": [
+    "Correct.",
+    "Not the terms.",
+    "Not the terms.",
+    "Not the terms."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 11223, Universal Health Care Act (2019), Sec. 8 (Lawphil)",
+   "quote": "Membership into the Program shall be simplified into two (2) types, direct contributors and indirect contributors"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A tricycle driver who pays his own PhilHealth premium is classified as a:",
+   "options": [
+    "Direct contributor",
+    "Indirect contributor",
+    "Dependent",
+    "Non-member"
+   ],
+   "answer": "A",
+   "rationale": "Self-earning persons with capacity to pay are direct contributors.",
+   "explanations": [
+    "Correct.",
+    "Subsidized group.",
+    "Not this.",
+    "Everyone included."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "RA 11223, Universal Health Care Act (2019), Sec. 4(f) (Lawphil)",
+   "quote": "are self-earning, professional practitioners, migrant workers"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Under RA 11223, the primary care provider acts as the patient's:",
+   "options": [
+    "Navigator and first contact",
+    "Hospital specialist",
+    "Insurance agent",
+    "Pharmacist"
+   ],
+   "answer": "A",
+   "rationale": "The primary care provider is the navigator, coordinator and initial and continuing point of contact.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "RA 11223, Universal Health Care Act (2019), Sec. 6(c) (Lawphil)",
+   "quote": "act as the navigator, coordinator, and initial and continuing point of contact"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Under RA 11223, what process evaluates medicines and procedures before they are funded?",
+   "options": [
+    "Health technology assessment",
+    "Clinical audit",
+    "Peer review",
+    "Root cause analysis"
+   ],
+   "answer": "A",
+   "rationale": "HTA is the systematic evaluation of health technologies to guide coverage decisions.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "RA 11223, Universal Health Care Act (2019), Sec. 4(n) (Lawphil)",
+   "quote": "Health Technology Assessment (HTA) refers to the systematic evaluation of properties, effects, or impact of health-related technologies"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Which law now governs mandatory reporting of notifiable diseases?",
+   "options": [
+    "RA 11332",
+    "Act 3573",
+    "RA 9173",
+    "RA 7160"
+   ],
+   "answer": "A",
+   "rationale": "RA 11332 (2019) repealed Act 3573, the old Law on Reporting of Communicable Diseases.",
+   "explanations": [
+    "Correct.",
+    "Repealed.",
+    "Nursing Act.",
+    "Local Gov't Code."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "RA 11332, Mandatory Reporting of Notifiable Diseases Act (2019), Title (Lawphil)",
+   "quote": "Repealing for the Purpose Act No. 3573"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Under RA 11332, which DOH office updates the list of notifiable diseases?",
+   "options": [
+    "Epidemiology Bureau",
+    "Bureau of Quarantine",
+    "FDA",
+    "PhilHealth"
+   ],
+   "answer": "A",
+   "rationale": "The DOH Epidemiology Bureau regularly updates the list with case definitions.",
+   "explanations": [
+    "Correct.",
+    "Ports of entry.",
+    "Products.",
+    "Insurance."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "RA 11332, Mandatory Reporting of Notifiable Diseases Act (2019), Sec. 5 (Lawphil)",
+   "quote": "The Epidemiology Bureau under the DOH shall regularly update and issue a list of nationally notifiable diseases"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A patient with a notifiable disease refuses contact tracing. Under RA 11332 this is:",
+   "options": [
+    "A prohibited act",
+    "Allowed by privacy",
+    "A minor issue",
+    "Only a moral issue"
+   ],
+   "answer": "A",
+   "rationale": "Non-cooperation of persons identified as having the notifiable disease is a prohibited act.",
+   "explanations": [
+    "Correct.",
+    "Not exempt.",
+    "Penalized.",
+    "Penalized."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "RA 11332, Mandatory Reporting of Notifiable Diseases Act (2019), Sec. 9(e) (Lawphil)",
+   "quote": "Non-cooperation of the person or entities identified as having the notifiable disease"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Under RA 10121, which body serves as the disaster council in every barangay?",
+   "options": [
+    "Barangay Development Council",
+    "Sangguniang Kabataan",
+    "Barangay Health Board",
+    "Lupon Tagapamayapa"
+   ],
+   "answer": "A",
+   "rationale": "BDCCs ceased; the Barangay Development Council serves as the LDRRMC in every barangay.",
+   "explanations": [
+    "Correct.",
+    "Participates only.",
+    "Not this.",
+    "Mediation."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "RA 10121, Philippine DRRM Act of 2010, Sec. 11 (Lawphil)",
+   "quote": "existing Barangay Development Councils (BDCs) which shall serve as the LDRRMCs in every barangay"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Under RA 10121, what minimum share of regular revenue must an LGU set aside for its disaster fund?",
+   "options": [
+    "5%",
+    "1%",
+    "10%",
+    "20%"
+   ],
+   "answer": "A",
+   "rationale": "Not less than 5% of estimated regular revenue is set aside as the LDRRMF.",
+   "explanations": [
+    "Correct.",
+    "Too low.",
+    "Too high.",
+    "Too high."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "RA 10121, Philippine DRRM Act of 2010, Sec. 21 (Lawphil)",
+   "quote": "Not less than five percent (5%) of the estimated revenue from regular sources shall be set aside"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "What share of the LDRRMF is the Quick Response Fund for relief and recovery?",
+   "options": [
+    "30%",
+    "70%",
+    "5%",
+    "50%"
+   ],
+   "answer": "A",
+   "rationale": "30% of the LDRRMF is the Quick Response (stand-by) Fund.",
+   "explanations": [
+    "Correct.",
+    "For mitigation/prep.",
+    "Total fund share.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "RA 10121, Philippine DRRM Act of 2010, Sec. 21 (Lawphil)",
+   "quote": "thirty percent (30%) shall be allocated as Quick Response Fund (QRF)"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Which office administers the national disaster risk reduction program under RA 10121?",
+   "options": [
+    "Office of Civil Defense",
+    "DOH Epidemiology Bureau",
+    "PAGASA",
+    "Philippine Red Cross"
+   ],
+   "answer": "A",
+   "rationale": "The OCD administers the national civil defense and DRRM program and serves as NDRRMC secretariat.",
+   "explanations": [
+    "Correct.",
+    "Disease surveillance.",
+    "Weather agency.",
+    "Partner NGO."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 10121, Philippine DRRM Act of 2010, Sec. 8 (Lawphil)",
+   "quote": "The Office of Civil Defense (OCD) shall have the primary mission of administering a comprehensive national civil defense and disaster risk reduction"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Population Groups",
+   "situation": "",
+   "stem": "Under RA 9994, a resident Filipino becomes a senior citizen at what age?",
+   "options": [
+    "60 years",
+    "65 years",
+    "55 years",
+    "70 years"
+   ],
+   "answer": "A",
+   "rationale": "A senior citizen is any resident citizen at least 60 years old.",
+   "explanations": [
+    "Correct.",
+    "Not PH law.",
+    "Too young.",
+    "Too old."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 9994, Expanded Senior Citizens Act of 2010, Sec. 2 (Lawphil)",
+   "quote": "any resident citizen of the Philippines at least sixty (60) years old"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Population Groups",
+   "situation": "",
+   "stem": "A senior buys his maintenance drugs. Under RA 9994 he gets:",
+   "options": [
+    "20% off, no VAT",
+    "10% discount only",
+    "Free medicines",
+    "5% discount only"
+   ],
+   "answer": "A",
+   "rationale": "Seniors get a 20% discount and VAT exemption on medicines and other covered goods and services.",
+   "explanations": [
+    "Correct.",
+    "Too low.",
+    "Not universal.",
+    "Too low."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 9994, Expanded Senior Citizens Act of 2010, Sec. 4 (Lawphil)",
+   "quote": "the grant of twenty percent (20%) discount and exemption from the value -added tax (VAT)"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Population Groups",
+   "situation": "",
+   "stem": "RA 8172 (ASIN law) aims mainly to eliminate:",
+   "options": [
+    "Iodine deficiency disorders",
+    "Vitamin A deficiency",
+    "Iron deficiency anemia",
+    "Hypertension"
+   ],
+   "answer": "A",
+   "rationale": "ASIN requires iodization of food-grade salt to eliminate iodine deficiency disorders.",
+   "explanations": [
+    "Correct.",
+    "Other program.",
+    "Other program.",
+    "Not the aim."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 8172, Act for Salt Iodization Nationwide (1995), Sec. 2 (Lawphil)",
+   "quote": "particularly iodine deficiency disorders, through the cost-effective preventive measure of salt iodization"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Under RA 10767, what must all health facilities do with TB cases?",
+   "options": [
+    "Notify the DOH",
+    "Keep them secret",
+    "Report to police",
+    "Notify employers"
+   ],
+   "answer": "A",
+   "rationale": "Public and private facilities follow the national TB protocol and notify the DOH of all TB cases.",
+   "explanations": [
+    "Correct.",
+    "Must notify.",
+    "Not required.",
+    "Breach."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 10767, Comprehensive TB Elimination Plan Act (2016), Sec. 12 (Lawphil)",
+   "quote": "shall notify the DOH of all TB cases"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Which FDA policy under RA 10767 regulates anti-TB drugs?",
+   "options": [
+    "No prescription, no anti-TB drugs",
+    "Free sale over the counter",
+    "Sale to adults only",
+    "Sale in barangays only"
+   ],
+   "answer": "A",
+   "rationale": "The FDA strengthens the 'No prescription, No anti-TB drugs' policy to curb misuse and resistance.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Not the rule.",
+    "Not the rule."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "RA 10767, Comprehensive TB Elimination Plan Act (2016), Sec. 11 (Lawphil)",
+   "quote": "No prescription, No anti-TB drugs"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "A 16-year-old wants an HIV test without telling her parents. Under RA 11166 the nurse:",
+   "options": [
+    "May get consent from her alone",
+    "Must call her parents",
+    "Must refuse",
+    "Needs a court order"
+   ],
+   "answer": "A",
+   "rationale": "Persons 15 to below 18 may consent to voluntary HIV testing without parental consent.",
+   "explanations": [
+    "Correct.",
+    "Not required.",
+    "Not allowed.",
+    "Not required."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "RA 11166, Philippine HIV and AIDS Policy Act (2018), Sec. 29(a) (Lawphil)",
+   "quote": "consent to voluntary HIV testing shall be obtained from the child without the need of consent from a parent or guardian"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "An employer requires a negative HIV test before hiring. Under RA 11166 this is:",
+   "options": [
+    "Prohibited compulsory testing",
+    "Allowed for health jobs",
+    "Good public health",
+    "Allowed with a waiver"
+   ],
+   "answer": "A",
+   "rationale": "Testing as a prerequisite for employment is compulsory HIV testing, which the law prohibits.",
+   "explanations": [
+    "Correct.",
+    "Still prohibited.",
+    "Not allowed.",
+    "Still prohibited."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "RA 11166, Philippine HIV and AIDS Policy Act (2018), Sec. 3(g) (Lawphil)",
+   "quote": "the use of testing as a prerequisite for employment"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Before an HIV test, the nurse gives information and emotional support. This is called:",
+   "options": [
+    "Pre-test counseling",
+    "Post-test counseling",
+    "Contact tracing",
+    "Partner notification"
+   ],
+   "answer": "A",
+   "rationale": "Pre-test counseling gives biomedical information and emotional support before testing.",
+   "explanations": [
+    "Correct.",
+    "After result.",
+    "Different step.",
+    "Different step."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 11166, Philippine HIV and AIDS Policy Act (2018), Sec. 3(hh) (Lawphil)",
+   "quote": "before the individual is subjected to the test"
+  }
+ ]
+}

@@ -1,0 +1,437 @@
+{
+ "source": "Philippine laws (Lawphil full text)",
+ "questions": [
+  {
+   "subject": "NP V",
+   "topic": "Documentation in Psychiatric Nursing",
+   "situation": "",
+   "stem": "Under RA 11036, where must a service user's informed consent be recorded?",
+   "options": [
+    "In the clinical record",
+    "In a separate diary",
+    "In the nurse's notebook",
+    "Nowhere; verbal is enough"
+   ],
+   "answer": "A",
+   "rationale": "Consent, including withdrawal of consent, is recorded in the service user's clinical record.",
+   "explanations": [
+    "Correct.",
+    "Not official.",
+    "Not official.",
+    "Must be recorded."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 5(m) (Lawphil)",
+   "quote": "Such consent shall be recorded in the service user's clinical record"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Documentation in Psychiatric Nursing",
+   "situation": "",
+   "stem": "Within how many hours of admission must a service user be told of their rights under RA 11036?",
+   "options": [
+    "24 hours",
+    "72 hours",
+    "7 days",
+    "At discharge"
+   ],
+   "answer": "A",
+   "rationale": "Service users must be informed of their rights within 24 hours of admission in a language they understand.",
+   "explanations": [
+    "Correct.",
+    "Too late.",
+    "Too late.",
+    "Too late."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 5(s) (Lawphil)",
+   "quote": "within the twenty-four (24) hours of admission to a mental health facility"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Documentation in Psychiatric Nursing",
+   "situation": "",
+   "stem": "A patient's employer calls asking about his diagnosis. Under RA 11036 the nurse should:",
+   "options": [
+    "Withhold it without written consent",
+    "Give the diagnosis only",
+    "Share if the caller is polite",
+    "Fax the chart"
+   ],
+   "answer": "A",
+   "rationale": "Records and communications are confidential and may not go to third parties without written consent, except legal exceptions.",
+   "explanations": [
+    "Correct.",
+    "Still a breach.",
+    "Not a basis.",
+    "Breach."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 5(l) (Lawphil)",
+   "quote": "shall not be disclosed to third parties without the written consent of the service user"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Documentation in Psychiatric Nursing",
+   "situation": "",
+   "stem": "Which situation allows disclosure of a psychiatric patient's records without consent?",
+   "options": [
+    "To stop a threat to another's life",
+    "At a relative's request",
+    "For a news report",
+    "For a co-worker's interest"
+   ],
+   "answer": "A",
+   "rationale": "Exceptions include a court order, a life-threatening emergency to prevent harm, suspected child abuse of a minor, and certain cases against a professional.",
+   "explanations": [
+    "Correct.",
+    "Needs consent.",
+    "Not allowed.",
+    "Not allowed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 5(l)(3) (Lawphil)",
+   "quote": "A life-threatening emergency exists and such disclosure is necessary to prevent harm or injury"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Documentation in Psychiatric Nursing",
+   "situation": "",
+   "stem": "An adolescent patient reveals signs of child abuse. Under RA 11036, the professional may:",
+   "options": [
+    "Disclose to protect the minor",
+    "Never disclose",
+    "Disclose only with parent consent",
+    "Disclose after age 18"
+   ],
+   "answer": "A",
+   "rationale": "Disclosure is allowed if the service user is a minor reasonably believed to be a victim of child abuse.",
+   "explanations": [
+    "Correct.",
+    "Exception applies.",
+    "Parent may be abuser.",
+    "Too late."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 5(l)(4) (Lawphil)",
+   "quote": "The service user is a minor and the attending mental health professional reasonably believes that the service user is a victim of child abuse"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "Under RA 11036, informed consent for treatment, including restraint, must be:",
+   "options": [
+    "In writing, before treatment",
+    "Verbal, after treatment",
+    "From the barangay",
+    "Given by the nurse"
+   ],
+   "answer": "A",
+   "rationale": "Service users give written informed consent before any treatment plan, including physical or chemical restraint.",
+   "explanations": [
+    "Correct.",
+    "Wrong form/time.",
+    "Not this.",
+    "Not the nurse."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 8 (Lawphil)",
+   "quote": "Service users must provide informed consent in writing prior to the implementation"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Under RA 11036, persons with mental health conditions are presumed to:",
+   "options": [
+    "Have legal capacity",
+    "Lack legal capacity",
+    "Need a guardian always",
+    "Be unable to consent"
+   ],
+   "answer": "A",
+   "rationale": "All persons, including service users and minors, are presumed to possess legal capacity.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Not presumed.",
+    "Opposite."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 8 (Lawphil)",
+   "quote": "shall be presumed to possess legal capacity"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "During a psychiatric emergency, restraint without consent is allowed only:",
+   "options": [
+    "While the emergency lasts",
+    "Until the next day",
+    "For a full week",
+    "As long as staff wish"
+   ],
+   "answer": "A",
+   "rationale": "Involuntary treatment or restraint is limited to what is necessary and only while the emergency or loss of capacity persists.",
+   "explanations": [
+    "Correct.",
+    "Not the rule.",
+    "Not the rule.",
+    "Not allowed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 13(b) (Lawphil)",
+   "quote": "only while a psychiatric or neurologic emergency, or impairment or temporary loss of capacity, exists or persists"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Collaboration & Teamwork",
+   "situation": "",
+   "stem": "An order for involuntary treatment must be reviewed by the facility's internal review board within:",
+   "options": [
+    "15 days, then every 15",
+    "30 days, once only",
+    "24 hours, once only",
+    "6 months, once only"
+   ],
+   "answer": "A",
+   "rationale": "The internal review board reviews the order within 15 days of issue and every 15 days while it continues.",
+   "explanations": [
+    "Correct.",
+    "Not the rule.",
+    "Not the rule.",
+    "Too long."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Remembering",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 13(c) (Lawphil)",
+   "quote": "within fifteen (15) days from the date such order was issued, and every fifteen (15) days thereafter"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Collaboration & Teamwork",
+   "situation": "",
+   "stem": "Under RA 11036, disputes on restraint or confinement in a facility are first reviewed by the:",
+   "options": [
+    "Internal review board",
+    "Barangay council",
+    "PRC",
+    "Hospital cashier"
+   ],
+   "answer": "A",
+   "rationale": "Facilities must create internal review boards to review cases involving treatment, restraint or confinement.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 12 (Lawphil)",
+   "quote": "mandated to create their respective internal review boards"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "How is an advance directive made valid under RA 11036?",
+   "options": [
+    "Signed, dated and notarized",
+    "Told to a nurse verbally",
+    "Written by the doctor",
+    "Approved by the barangay"
+   ],
+   "answer": "A",
+   "rationale": "A service user states treatment preferences in a signed, dated and notarized advance directive.",
+   "explanations": [
+    "Correct.",
+    "Not valid.",
+    "Must be the user's.",
+    "Not required."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 9 (Lawphil)",
+   "quote": "through a signed, dated, and notarized advance directive"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "Which practice violates the rights of service users under RA 11036?",
+   "options": [
+    "Solitary confinement",
+    "Least restrictive care",
+    "Uncensored phone calls",
+    "Visits at set times"
+   ],
+   "answer": "A",
+   "rationale": "Users have the right to humane treatment free from solitary confinement and degrading treatment.",
+   "explanations": [
+    "Correct.",
+    "A right.",
+    "A right.",
+    "A right."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 5(h) (Lawphil)",
+   "quote": "Humane treatment free from solitary confinement"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Therapeutic Communication",
+   "situation": "",
+   "stem": "A patient asks to call her sister privately. Under RA 11036 the nurse should:",
+   "options": [
+    "Allow the private call",
+    "Listen in on the call",
+    "Deny all calls",
+    "Read her messages first"
+   ],
+   "answer": "A",
+   "rationale": "Service users may send and receive uncensored private communication and receive visitors at reasonable times.",
+   "explanations": [
+    "Correct.",
+    "Censoring.",
+    "Violates rights.",
+    "Censoring."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 5(p) (Lawphil)",
+   "quote": "Send or received uncensored private communication"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Documentation in Psychiatric Nursing",
+   "situation": "",
+   "stem": "When may a psychiatrist withhold a patient's own clinical record from her?",
+   "options": [
+    "If it would harm her or others",
+    "Whenever staff are busy",
+    "If she is poor",
+    "Never under any case"
+   ],
+   "answer": "A",
+   "rationale": "Access may be withheld if revealing it would harm her health or others' safety; she may contest this with the IRB or CHR.",
+   "explanations": [
+    "Correct.",
+    "Not a ground.",
+    "Discrimination.",
+    "Exception exists."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 5(r) (Lawphil)",
+   "quote": "revealing such information would cause harm to the service user's health or put the safety of others at risk"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Documentation in Psychiatric Nursing",
+   "situation": "",
+   "stem": "Under RA 11036, mental health facilities must keep a register of:",
+   "options": [
+    "All treatments given to users",
+    "Visitors' cars",
+    "Staff birthdays",
+    "Food deliveries"
+   ],
+   "answer": "A",
+   "rationale": "Facilities maintain a register of all medical treatments and procedures administered to service users.",
+   "explanations": [
+    "Correct.",
+    "Not required.",
+    "Not required.",
+    "Not required."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 19(e) (Lawphil)",
+   "quote": "Maintain a register containing information on all medical treatments and procedures administered to service users"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Which act by a nurse is penalized under RA 11036?",
+   "options": [
+    "Breaching patient confidentiality",
+    "Teaching coping skills",
+    "Reporting abuse of a minor",
+    "Giving PRN meds as ordered"
+   ],
+   "answer": "A",
+   "rationale": "Penalized acts include failing to get consent, violating confidentiality, discrimination and inhumane treatment.",
+   "explanations": [
+    "Correct.",
+    "Good care.",
+    "Allowed.",
+    "Good care."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Evaluating",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 44 (Lawphil)",
+   "quote": "Violation of confidentiality of information"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Collaboration & Teamwork",
+   "situation": "",
+   "stem": "Under RA 11036, who should be trained to deliver mental health services in the barangay?",
+   "options": [
+    "Barangay health workers",
+    "Tricycle drivers",
+    "Barangay tanods only",
+    "Sari-sari store owners"
+   ],
+   "answer": "A",
+   "rationale": "DOH and LGUs train BHWs to provide mental health services at the community level.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 27 (Lawphil)",
+   "quote": "Capacity Building of Barangay Health Workers (BHWs)"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Concepts of Mental Health & Therapeutic Models",
+   "situation": "",
+   "stem": "RA 11036 treats drug dependency primarily as a:",
+   "options": [
+    "Mental health issue",
+    "Purely criminal issue",
+    "Moral failing",
+    "Family matter only"
+   ],
+   "answer": "A",
+   "rationale": "The Act provides drug screening services consistent with treating drug dependency as a mental health issue.",
+   "explanations": [
+    "Correct.",
+    "Not the policy.",
+    "Stigmatizing.",
+    "Not the policy."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "RA 11036, Mental Health Act (2018), Sec. 20 (Lawphil)",
+   "quote": "consistent with the policy of treating drug dependency as a mental health issue"
+  }
+ ]
+}

@@ -1,0 +1,581 @@
+{
+ "source": "Philippine laws (Lawphil full text)",
+ "questions": [
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "RA 11148 (Kalusugan at Nutrisyon ng Mag-Nanay Act) focuses on health and nutrition during the:",
+   "options": [
+    "First 1,000 days of life",
+    "First 5 years of school",
+    "Adolescent years only",
+    "Senior years"
+   ],
+   "answer": "A",
+   "rationale": "RA 11148 scales up health and nutrition for the first 1,000 days: pregnancy to 24 months.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Partly covered.",
+    "Not covered."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 11148, Kalusugan at Nutrisyon ng Mag-Nanay Act, Sec. 4 (Lawphil)",
+   "quote": "Scaling Up Health and Nutrition for the First One Thousand (1,000) Days of Life"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "Under RA 11148, children are covered from birth up to what age?",
+   "options": [
+    "24 months",
+    "12 months",
+    "5 years",
+    "6 months"
+   ],
+   "answer": "A",
+   "rationale": "Coverage includes all Filipino children newly born up to 24 months, plus at-risk pregnant and lactating women.",
+   "explanations": [
+    "Correct.",
+    "Too short.",
+    "Too long.",
+    "Too short."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "RA 11148, Kalusugan at Nutrisyon ng Mag-Nanay Act, Sec. 5 (Lawphil)",
+   "quote": "all Filipino children who are newly born up to age twenty-four (24) months"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Before Birth",
+   "situation": "",
+   "stem": "Which prenatal service is listed under RA 11148?",
+   "options": [
+    "Iron and folic acid supplements",
+    "Routine cesarean planning",
+    "Formula milk vouchers",
+    "Weekly ultrasound"
+   ],
+   "answer": "A",
+   "rationale": "Prenatal services include micronutrients (iron, folic acid, calcium, iodine), Td immunization, deworming and nutrition counseling.",
+   "explanations": [
+    "Correct.",
+    "Not listed.",
+    "Against Milk Code.",
+    "Not listed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 11148, Kalusugan at Nutrisyon ng Mag-Nanay Act, Sec. 8(a) (Lawphil)",
+   "quote": "Provision of micronutrient supplements such as iron, folic acid, calcium, iodine"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Following Birth",
+   "situation": "",
+   "stem": "Under RA 11148, lactation support for mothers continues from birth up to:",
+   "options": [
+    "2 years and beyond",
+    "6 weeks",
+    "3 months",
+    "Hospital discharge"
+   ],
+   "answer": "A",
+   "rationale": "Lactation support and counseling is from birth up to 2 years and beyond, including working mothers.",
+   "explanations": [
+    "Correct.",
+    "Too short.",
+    "Too short.",
+    "Too short."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "RA 11148, Kalusugan at Nutrisyon ng Mag-Nanay Act, Sec. 8(c) (Lawphil)",
+   "quote": "Lactation support and counselling from birth up to two (2) years and beyond"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the Well Child (Neonate to Adolescent)",
+   "situation": "",
+   "stem": "For a preterm, low-birth-weight baby, RA 11148 calls for:",
+   "options": [
+    "Kangaroo mother care",
+    "Separation in a nursery",
+    "Formula from day 1",
+    "Delayed skin contact"
+   ],
+   "answer": "A",
+   "rationale": "Early skin-to-skin contact for term babies and continuous kangaroo mother care for preterm/LBW babies.",
+   "explanations": [
+    "Correct.",
+    "Avoid separation.",
+    "Breast milk first.",
+    "Early contact."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "RA 11148, Kalusugan at Nutrisyon ng Mag-Nanay Act, Sec. 8(d) (Lawphil)",
+   "quote": "continuous kangaroo mother care for small babies born preterm and low birth weight"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "A formula company offers free samples for mothers in the ward. Under the Milk Code, the nurse should:",
+   "options": [
+    "Decline the samples",
+    "Give them to poor mothers",
+    "Give them at discharge",
+    "Display them at the station"
+   ],
+   "answer": "A",
+   "rationale": "Manufacturers may not give samples or gifts to the public, mothers or health facilities.",
+   "explanations": [
+    "Correct.",
+    "Still prohibited.",
+    "Still prohibited.",
+    "Display banned."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "EO 51, Milk Code of the Philippines (1986), Sec. 6(b) (Lawphil)",
+   "quote": "shall not be permitted to give, directly, or indirectly, samples and supplies of products within the scope of this Code"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "Which is a Milk Code violation in a health center?",
+   "options": [
+    "Formula poster in lobby",
+    "Breastfeeding poster",
+    "Lactation corner",
+    "Mother support group"
+   ],
+   "answer": "A",
+   "rationale": "Health facilities may not display products or posters of products covered by the Code.",
+   "explanations": [
+    "Correct.",
+    "Allowed.",
+    "Encouraged.",
+    "Encouraged."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "EO 51, Milk Code of the Philippines (1986), Sec. 7(c) (Lawphil)",
+   "quote": "Facilities of the health care system shall not be used for the display of products within the scope of this Code"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "Which label wording is banned on infant formula under the Milk Code?",
+   "options": [
+    "Humanized",
+    "Expiry date",
+    "Instructions for use",
+    "Ingredients list"
+   ],
+   "answer": "A",
+   "rationale": "Terms like 'humanized' or 'maternalized' are prohibited because they idealize formula.",
+   "explanations": [
+    "Correct.",
+    "Required.",
+    "Required.",
+    "Required."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "EO 51, Milk Code of the Philippines (1986), Sec. 10(d) (Lawphil)",
+   "quote": "The term \"humanized\", maternalized\" or similar terms shall not be used."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "A sari-sari store sells infant formula by the cup from an opened can. This is:",
+   "options": [
+    "Prohibited by the Milk Code",
+    "Allowed if cheap",
+    "Allowed with a label",
+    "Encouraged for the poor"
+   ],
+   "answer": "A",
+   "rationale": "Outlets, including sari-sari stores, may not open cans to retail by the cup to prevent contamination.",
+   "explanations": [
+    "Correct.",
+    "Still banned.",
+    "Still banned.",
+    "Unsafe."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "EO 51, Milk Code of the Philippines (1986), Sec. 11(c) (Lawphil)",
+   "quote": "shall not be allowed to open cans and boxes for the purpose of retailing them by the cup"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "Under RA 11210, how many days of paid maternity leave does a worker get for a live birth?",
+   "options": [
+    "105 days",
+    "60 days",
+    "78 days",
+    "120 days"
+   ],
+   "answer": "A",
+   "rationale": "105 days with full pay, regardless of delivery type, with an option of 30 more days unpaid.",
+   "explanations": [
+    "Correct.",
+    "For miscarriage.",
+    "Old law.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 11210, 105-Day Expanded Maternity Leave Law, Sec. 3 (Lawphil)",
+   "quote": "shall be granted one hundred five (105) days maternity leave with full pay"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "A nurse had a miscarriage at 10 weeks. Under RA 11210 she is entitled to:",
+   "options": [
+    "60 days paid leave",
+    "105 days paid leave",
+    "No leave",
+    "15 days paid leave"
+   ],
+   "answer": "A",
+   "rationale": "Miscarriage or emergency termination of pregnancy: 60 days with full pay.",
+   "explanations": [
+    "Correct.",
+    "For live birth.",
+    "Leave is granted.",
+    "Solo parent add-on."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "RA 11210, 105-Day Expanded Maternity Leave Law, Sec. 3 (Lawphil)",
+   "quote": "for cases of miscarriage or emergency termination of pregnancy, sixty (60) days maternity leave with full pay shall be granted"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "Under RA 11210, a mother may transfer how many of her leave days to the child's father?",
+   "options": [
+    "Up to 7 days",
+    "Up to 30 days",
+    "Up to 15 days",
+    "None"
+   ],
+   "answer": "A",
+   "rationale": "She may allocate up to 7 days to the child's father, married to her or not.",
+   "explanations": [
+    "Correct.",
+    "Unpaid extension.",
+    "Solo mother add-on.",
+    "Allowed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "RA 11210, 105-Day Expanded Maternity Leave Law, Sec. 6 (Lawphil)",
+   "quote": "allocate up to seven (7) days of said benefits to the child's father"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Child Care: Legal, Collaboration & Teamwork",
+   "situation": "",
+   "stem": "Under RA 7610, a 'child' is a person:",
+   "options": [
+    "Below 18 years old",
+    "Below 12 years old",
+    "Below 15 years old",
+    "Below 21 years old"
+   ],
+   "answer": "A",
+   "rationale": "Children are below 18, or over 18 but unable to protect themselves because of disability.",
+   "explanations": [
+    "Correct.",
+    "Too young.",
+    "Criminal age.",
+    "Too old."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 7610, Special Protection of Children Against Abuse Act, Sec. 3(a) (Lawphil)",
+   "quote": "\"Children\" refers to person below eighteen (18) years of age"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Child Care: Legal, Collaboration & Teamwork",
+   "situation": "",
+   "stem": "A 14-year-old is brought to the ER after stealing. Under RA 9344, he is:",
+   "options": [
+    "Exempt; given intervention",
+    "Tried as an adult",
+    "Jailed with adults",
+    "Fined only"
+   ],
+   "answer": "A",
+   "rationale": "A child 15 or under is exempt from criminal liability but undergoes an intervention program.",
+   "explanations": [
+    "Correct.",
+    "Not allowed.",
+    "Never allowed.",
+    "Not the rule."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "RA 9344, Juvenile Justice and Welfare Act of 2006, Sec. 6 (Lawphil)",
+   "quote": "A child fifteen (15) years of age or under at the time of the commission of the offense shall be exempt from criminal liability."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Child Care: Legal, Collaboration & Teamwork",
+   "situation": "",
+   "stem": "Under RA 9344, a 16-year-old may face court proceedings only if he:",
+   "options": [
+    "Acted with discernment",
+    "Has no parents",
+    "Is a repeat patient",
+    "Refused treatment"
+   ],
+   "answer": "A",
+   "rationale": "Above 15 but below 18 is exempt unless acting with discernment.",
+   "explanations": [
+    "Correct.",
+    "Not a factor.",
+    "Not a factor.",
+    "Not a factor."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "RA 9344, Juvenile Justice and Welfare Act of 2006, Sec. 6 (Lawphil)",
+   "quote": "unless he/she has acted with discernment"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Child Care: Legal, Collaboration & Teamwork",
+   "situation": "",
+   "stem": "Under RA 11648, the age of sexual consent in the Philippines is:",
+   "options": [
+    "16 years",
+    "12 years",
+    "14 years",
+    "18 years"
+   ],
+   "answer": "A",
+   "rationale": "RA 11648 (2022) raised the age to 16; sex with a child under 16 is statutory rape, with a narrow close-in-age exception.",
+   "explanations": [
+    "Correct.",
+    "Old law.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "RA 11648 (2022), amending the Revised Penal Code, Art. 266-A (Lawphil)",
+   "quote": "When the offended party is under sixteen (16) years of age"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Child Care: Legal, Collaboration & Teamwork",
+   "situation": "",
+   "stem": "Under RA 10152, which vaccine is given to all infants born in facilities with obstetric services?",
+   "options": [
+    "Hepatitis B",
+    "Rabies",
+    "Typhoid",
+    "Varicella"
+   ],
+   "answer": "A",
+   "rationale": "Hepatitis B vaccine is given to infants born in hospitals, infirmaries, health and lying-in centers.",
+   "explanations": [
+    "Correct.",
+    "Not routine.",
+    "Not routine.",
+    "Not in list."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 10152, Mandatory Infants and Children Health Immunization Act of 2011, Sec. 3 (Lawphil)",
+   "quote": "Hepatitis-B vaccine shall be administered by any duly licensed physician, nurse or midwife to all infants born in hospitals"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Child Care: Legal, Collaboration & Teamwork",
+   "situation": "",
+   "stem": "Under RA 10152, free basic immunization at government facilities covers children up to:",
+   "options": [
+    "5 years old",
+    "1 year old",
+    "10 years old",
+    "18 years old"
+   ],
+   "answer": "A",
+   "rationale": "Mandatory basic immunization is free for infants and children up to 5 years.",
+   "explanations": [
+    "Correct.",
+    "Too short.",
+    "Too long.",
+    "Too long."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "RA 10152, Mandatory Infants and Children Health Immunization Act of 2011, Sec. 3 (Lawphil)",
+   "quote": "given for free at any government hospital or health center to infants and children up to five (5) years of age"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Child Care: Legal, Collaboration & Teamwork",
+   "situation": "",
+   "stem": "Parents refuse newborn hearing screening for religious reasons. Under RA 9709, the nurse should:",
+   "options": [
+    "Have them sign an acknowledgment",
+    "Screen the baby anyway",
+    "Delay discharge until they agree",
+    "Report them to police"
+   ],
+   "answer": "A",
+   "rationale": "Parents may refuse on religious or cultural grounds but must acknowledge in writing that they were informed of the risks.",
+   "explanations": [
+    "Correct.",
+    "Violates refusal.",
+    "Not allowed.",
+    "Not required."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "RA 9709, Universal Newborn Hearing Screening Act of 2009, Sec. 7 (Lawphil)",
+   "quote": "shall acknowledge in writing that they have been informed of their responsibility to perform said screening"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Child Care: Legal, Collaboration & Teamwork",
+   "situation": "",
+   "stem": "Under RA 9709, when should a hospital-born infant have hearing screening?",
+   "options": [
+    "Before discharge",
+    "At 1 year",
+    "At school entry",
+    "Only if symptoms appear"
+   ],
+   "answer": "A",
+   "rationale": "All hospital-born infants undergo hearing loss screening before discharge unless parents object.",
+   "explanations": [
+    "Correct.",
+    "Too late.",
+    "Too late.",
+    "Universal screening."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 9709, Universal Newborn Hearing Screening Act of 2009, Sec. 6 (Lawphil)",
+   "quote": "shall be made to undergo newborn hearing loss screening before discharge"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "A nurse suspects a woman's injuries are from her husband. Under RA 9262, the nurse must:",
+   "options": [
+    "Document injuries and observations",
+    "Wait for the woman to file",
+    "Inform the husband",
+    "Refer only to a priest"
+   ],
+   "answer": "A",
+   "rationale": "Healthcare providers must document injuries, record observations, give a free medical certificate and inform her of rights.",
+   "explanations": [
+    "Correct.",
+    "Act now.",
+    "Unsafe.",
+    "Not enough."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "RA 9262, Anti-Violence Against Women and Their Children Act of 2004, Sec. 31 (Lawphil)",
+   "quote": "properly document any of the victim's physical, emotional or psychological injuries"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "Under RA 9262, how much does a medical certificate cost an abused woman?",
+   "options": [
+    "It is free",
+    "Half price",
+    "Full price",
+    "Paid by the barangay"
+   ],
+   "answer": "A",
+   "rationale": "Providers must automatically give the victim a medical certificate free of charge.",
+   "explanations": [
+    "Correct.",
+    "Free.",
+    "Free.",
+    "Not the rule."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "RA 9262, Anti-Violence Against Women and Their Children Act of 2004, Sec. 31(c) (Lawphil)",
+   "quote": "automatically provide the victim free of charge a medical certificate"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "Who issues a Barangay Protection Order, and how long does it last?",
+   "options": [
+    "Punong Barangay; 15 days",
+    "Judge; 30 days",
+    "Police chief; 7 days",
+    "Mayor; 1 year"
+   ],
+   "answer": "A",
+   "rationale": "The Punong Barangay (or a kagawad if unavailable) issues a BPO effective for 15 days.",
+   "explanations": [
+    "Correct.",
+    "That is a TPO.",
+    "Not allowed.",
+    "Not allowed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "RA 9262, Anti-Violence Against Women and Their Children Act of 2004, Sec. 14 (Lawphil)",
+   "quote": "BPOs shall be effective for fifteen (15) days."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "Under RA 9262, how many days of paid leave may a VAWC survivor take?",
+   "options": [
+    "Up to 10 days",
+    "Up to 3 days",
+    "Up to 30 days",
+    "None"
+   ],
+   "answer": "A",
+   "rationale": "Victims are entitled to up to 10 days paid leave, extendible as specified in the protection order.",
+   "explanations": [
+    "Correct.",
+    "Too short.",
+    "Too long.",
+    "Leave granted."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "RA 9262, Anti-Violence Against Women and Their Children Act of 2004, Sec. 43 (Lawphil)",
+   "quote": "entitled to take a paid leave of absence up to ten (10) days"
+  }
+ ]
+}

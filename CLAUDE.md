@@ -51,6 +51,7 @@ For small changes (site design, a fix), the same flow applies: change, `npm run 
   - repealed laws (RA 6425, RA 8504, RA 3573)
   - outdated CPD unit counts
   - spousal consent "required" for sterilization (struck down in Imbong v. Ochoa, 2014; only the client consents)
+  - RA 9211 minimum age for buying tobacco (raised from 18 to 21 by RA 11467, 2020)
 - **Topics must be the exact Annex A names below.** A misspelled topic would create a new topic, so `--approve` refuses it instead. NP II and NP V have no "Health Education" topic, and "Acute Biologic Crisis & Emergency Care" exists only under NP V.
 - **Mix the difficulty and Bloom levels.** Keep the correct option's length similar to the others, and avoid NOT/EXCEPT stems.
 
@@ -76,9 +77,10 @@ For small changes (site design, a fix), the same flow applies: change, `npm run 
 | Udan: Medical-Surgical Nursing (Scribd 837094898, 274 pp., scanned) | Waiting for the download; needs OCR |
 | Udan: Fundamentals overview (Scribd 25006096, 29 pp.) | Waiting for the download |
 | DOH Philippine Clinical Standards Manual on Family Planning (2014) | Ch. 1–11 done (`imports/dohfp-*.json`); STI and FP-management chapters left |
+| Philippine laws, full text from Lawphil (30 laws in `materials/laws/`, text in `materials/_text/laws/`) | Started: `imports/law-*.json` (professional practice, maternal/child, mental health, community). Check each law for later amendments before writing |
 | Other free sources in `materials/openstax/` and `materials/doh/` (MNCHN MOP, NTP MOP, Dengue CPG 2023, mhGAP 2.0, PNF; OpenStax nursing books) | Downloaded and extracted; not yet converted |
 
-Bank on 2026-10-31: 3,256 approved (3,240 published; the other 16 are samples). Published by subject: NP I 412 · NP II 620 · NP III 1,006 · NP IV 764 · NP V 438. Update this line after each update.
+Bank on 2026-10-31: 3,341 approved (3,325 published; the other 16 are samples). Published by subject: NP I 436 · NP II 643 · NP III 1,006 · NP IV 776 · NP V 464. Update this line after each update.
 
 ## Never
 
