@@ -1,0 +1,821 @@
+{
+ "source": "Udan, Medical-Surgical Nursing, 2nd ed.",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A herniorrhaphy and a cleft palate repair are both classified by purpose as:",
+   "options": [
+    "Constructive or repair surgery",
+    "Ablative surgery",
+    "Palliative surgery",
+    "Diagnostic surgery"
+   ],
+   "answer": "A",
+   "rationale": "Constructive surgery repairs (suffixes -plasty, -orrhaphy, -pexy); ablative removes (-ectomy); palliative relieves symptoms.",
+   "explanations": [
+    "Correct.",
+    "Removal.",
+    "Symptom relief.",
+    "Confirms disease."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Classification of surgery (PDF p. 13)",
+   "quote": "Suffixesusedare“plasty.\"\"orrhaphy.\"\"pexy.\""
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A colostomy done to relieve obstruction from an inoperable colon cancer is an example of:",
+   "options": [
+    "Palliative surgery",
+    "Curative surgery",
+    "Diagnostic surgery",
+    "Optional surgery"
+   ],
+   "answer": "A",
+   "rationale": "Palliative surgery relieves distressing symptoms without curing the disease.",
+   "explanations": [
+    "Correct.",
+    "Not curing.",
+    "Not diagnosing.",
+    "Not elective cosmetic."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Classification of surgery (PDF p. 13)",
+   "quote": "Palliative.To relieve distressing signs and symptoms,notnecessarily to cure the disease.E.g.,colostomy"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A client with a bleeding peptic ulcer needs surgery within 24–48 hours. By urgency this surgery is:",
+   "options": [
+    "Imperative",
+    "Emergency",
+    "Elective",
+    "Optional"
+   ],
+   "answer": "A",
+   "rationale": "Emergency surgery is done immediately; imperative within 24–48 hours; elective can be delayed without harm; optional is requested by the client.",
+   "explanations": [
+    "Correct.",
+    "Immediate.",
+    "Can be delayed.",
+    "Cosmetic, by request."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Classification of surgery (PDF p. 14)",
+   "quote": "Imperative.The procedure should be done within 24 to 48 hours"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "For a morbidly obese surgical client, which route is avoided for medications?",
+   "options": [
+    "Intramuscular",
+    "Intravenous",
+    "Subcutaneous",
+    "Oral"
+   ],
+   "answer": "A",
+   "rationale": "IM injections may not reach muscle in morbid obesity; IV or subcutaneous routes are preferred.",
+   "explanations": [
+    "Correct.",
+    "Preferred.",
+    "Preferred.",
+    "Acceptable."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Surgical risk: obesity (PDF p. 14)",
+   "quote": "Avoid intramuscular injectionsinmorbidly obese individuals."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Obese clients are at higher risk after abdominal surgery for:",
+   "options": [
+    "Wound dehiscence and pneumonia",
+    "Hypoglycemia",
+    "Hypercalcemia",
+    "Low blood pressure only"
+   ],
+   "answer": "A",
+   "rationale": "Obesity increases dehiscence, infection and pulmonary complications from hypoventilation, and delays ambulation.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Not typical.",
+    "Not specific."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Surgical risk: obesity (PDF p. 14)",
+   "quote": "Increases potential for postoperative pneumonia and other pulmonarycomplicationsbecause greatlyobesepatients tend tohypoventilate"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Which oral diabetes drug is usually held before surgery when the client is NPO?",
+   "options": [
+    "Metformin",
+    "Insulin glargine",
+    "Glipizide only",
+    "No drug needs holding"
+   ],
+   "answer": "A",
+   "rationale": "Metformin is held because of the risk of lactic acidosis while food and fluids are withheld.",
+   "explanations": [
+    "Correct.",
+    "Per order; often reduced.",
+    "Not the main concern here.",
+    "Metformin is held."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Surgical risk: diabetes (PDF p. 15)",
+   "quote": "Metformin (Glucophage)shouldbe heldowing to the riskof lactic acidosiswhenfoodandfluidsareheld"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A client who drinks heavily every day had emergency surgery this morning. Withdrawal signs are most likely within:",
+   "options": [
+    "Within 72 hours",
+    "After 2 weeks",
+    "After 1 month",
+    "Within 1 hour"
+   ],
+   "answer": "A",
+   "rationale": "Anticipate acute withdrawal (delirium tremens) within 72 hours of the last drink.",
+   "explanations": [
+    "Correct.",
+    "Too late.",
+    "Too late.",
+    "Too narrow."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Surgical risk: alcoholism (PDF p. 15)",
+   "quote": "Anticipate theacute withdrawal syndrome（delirium tremens） within72hoursofthelastalcoholicdrink"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A client scheduled for elective hernia repair has a fever, cough and sore throat. The nurse should:",
+   "options": [
+    "Notify the surgeon",
+    "Proceed as scheduled",
+    "Give antibiotics, proceed",
+    "Ignore it as minor"
+   ],
+   "answer": "A",
+   "rationale": "An upper respiratory infection raises the risk of postoperative pneumonia; elective surgery may be postponed.",
+   "explanations": [
+    "Correct.",
+    "Risky.",
+    "Not a nursing decision.",
+    "Unsafe."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Surgical risk: pulmonary (PDF p. 15)",
+   "quote": "Surgerymayneedtobe postponed if the clienthas upperrespiratory tract infection"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "During the preoperative interview, a client says she takes ginkgo biloba and garlic capsules. The nurse reports this because they may cause:",
+   "options": [
+    "Increased bleeding",
+    "Hypertension",
+    "Hyperglycemia",
+    "Constipation"
+   ],
+   "answer": "A",
+   "rationale": "Ginkgo, garlic, ginger and ginseng may impair clotting and increase surgical bleeding.",
+   "explanations": [
+    "Correct.",
+    "Not the concern.",
+    "Not the concern.",
+    "Not the concern."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Use of medications (PDF p. 18)",
+   "quote": "Gingkobiloba.gariic,gingerand ginseng may preventblood clotting."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Which drug combination can cause respiratory depression or apnea during surgery?",
+   "options": [
+    "Aminoglycoside + relaxant",
+    "Vitamin C + iron",
+    "Antacid + paracetamol",
+    "Insulin + dextrose"
+   ],
+   "answer": "A",
+   "rationale": "Aminoglycosides and some penicillins can block nerve transmission when combined with muscle relaxants.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Use of medications (PDF p. 18)",
+   "quote": "Penicillins andaminoglycosideswhencombinedwithmuscle relaxants may causerespiratory depression"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "The most common fear of clients awaiting surgery is fear of:",
+   "options": [
+    "The unknown",
+    "Pain",
+    "Anesthesia",
+    "Body image change"
+   ],
+   "answer": "A",
+   "rationale": "Uncertainty about the outcome makes fear of the unknown the greatest preoperative fear; accurate information helps.",
+   "explanations": [
+    "Correct.",
+    "Common, not greatest.",
+    "Common, not greatest.",
+    "Common, not greatest."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Psychosocial assessment (PDF p. 18)",
+   "quote": "Fear of the unknown.This is the greatest fear of most patients undergoing surgery"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A client is scheduled for surgery and the preoperative sedative is due. The consent is not yet signed. The nurse should:",
+   "options": [
+    "Get the consent signed before the sedative",
+    "Give the sedative, then get consent",
+    "Let a relative sign later",
+    "Skip the consent for minor surgery"
+   ],
+   "answer": "A",
+   "rationale": "Consent must be signed before sedation, voluntarily, while the client is not under the influence of drugs.",
+   "explanations": [
+    "Correct.",
+    "Invalid consent.",
+    "Client is competent.",
+    "Still required."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Informed consent (PDF p. 19)",
+   "quote": "Theconsent/permitshouldbesigned before theclientreceivespreoperativemedications."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Who is responsible for explaining the risks and possible complications of an operation to the client?",
+   "options": [
+    "The surgeon",
+    "The staff nurse",
+    "The anesthesiologist only",
+    "The hospital administrator"
+   ],
+   "answer": "A",
+   "rationale": "The surgeon explains the procedure and its risks; the nurse may witness the signature and clarify questions.",
+   "explanations": [
+    "Correct.",
+    "Witnesses.",
+    "Explains anesthesia.",
+    "Not this role."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Informed consent (PDF p. 19)",
+   "quote": "Theseare expiainedbythesurgeon"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After giving preoperative medication, the nurse should:",
+   "options": [
+    "Raise the side rails",
+    "Let him walk alone",
+    "Offer a full breakfast",
+    "Send him to shower"
+   ],
+   "answer": "A",
+   "rationale": "Have the client void before premedication; afterwards drowsiness and hypotension raise fall risk.",
+   "explanations": [
+    "Correct.",
+    "Fall risk.",
+    "NPO.",
+    "Fall risk."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Day of surgery (PDF p. 20)",
+   "quote": "Forpatientsafety,putupsiderails,putcalllightwithinpatient'sreach"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Before surgery, the nurse asks the client to remove colored nail polish mainly so that the team can:",
+   "options": [
+    "Monitor oxygenation and nail-bed color",
+    "Prevent infection of the nails",
+    "Follow hospital dress code",
+    "Prevent allergy to polish"
+   ],
+   "answer": "A",
+   "rationale": "Nail polish interferes with pulse oximetry and observation of nail-bed color for cyanosis.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Day of surgery (PDF p. 20)",
+   "quote": "Remove colored nail polish,hearing aid,contact lens,jewelries."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Before surgery on the left knee begins, the team pauses to confirm the client, procedure and side. This is the:",
+   "options": [
+    "Time-out",
+    "Sign-out",
+    "Surgical scrub",
+    "Count"
+   ],
+   "answer": "A",
+   "rationale": "The time-out prevents wrong-patient and wrong-site surgery, a sentinel event.",
+   "explanations": [
+    "Correct.",
+    "End of case.",
+    "Hand antisepsis.",
+    "Instruments, sponges."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Best practice (PDF p. 20)",
+   "quote": "practice“TIMEOuT\"to checkif the right patient is sent for surgery."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A prophylactic antibiotic is ordered for a client having bowel surgery. It is ideally given:",
+   "options": [
+    "Before the skin incision",
+    "After the wound is closed",
+    "On the third postoperative day",
+    "Only if fever develops"
+   ],
+   "answer": "A",
+   "rationale": "Prophylactic antibiotics are given just before or during surgery, ideally before incision, to reach tissue levels in time.",
+   "explanations": [
+    "Correct.",
+    "Too late.",
+    "Too late.",
+    "Treatment, not prophylaxis."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Preoperative medications (PDF p. 21)",
+   "quote": "whenbacterial contamination isexpected,ideallybefore skin incision ismade."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "In the supine position on the OR table, which nerve is most often injured if the arm is abducted more than 90 degrees?",
+   "options": [
+    "Brachial plexus",
+    "Facial nerve",
+    "Sciatic nerve",
+    "Femoral nerve"
+   ],
+   "answer": "A",
+   "rationale": "Overabduction of the arm stretches the brachial plexus; pad and position carefully.",
+   "explanations": [
+    "Correct.",
+    "Head position.",
+    "Sitting position.",
+    "Lithotomy."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Surgical positions (PDF p. 21)",
+   "quote": "Themost common injury occurs to thebrachial plexuswhen the amisabducted greaterthan90 degrees."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "When placing a client in or out of lithotomy position, the legs should be moved:",
+   "options": [
+    "Together, by two staff members",
+    "One at a time quickly",
+    "By the client alone",
+    "Only by the surgeon"
+   ],
+   "answer": "A",
+   "rationale": "Moving both legs at the same time prevents sacroiliac strain or dislocation and nerve injury.",
+   "explanations": [
+    "Correct.",
+    "Injury risk.",
+    "Anesthetized.",
+    "Not required."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Surgical positions (PDF p. 21)",
+   "quote": "Twomembersofthesurgical teamshouldmovethelegssimultaneously topreventsacroiliacdislocation."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "During general anesthesia with succinylcholine, a young client develops sudden muscle rigidity, tachycardia and a rapidly rising temperature. The drug of choice is:",
+   "options": [
+    "Dantrolene",
+    "Naloxone",
+    "Atropine",
+    "Flumazenil"
+   ],
+   "answer": "A",
+   "rationale": "Malignant hyperthermia is an inherited reaction to inhalants and succinylcholine; stop the trigger and give dantrolene.",
+   "explanations": [
+    "Correct.",
+    "Opioid reversal.",
+    "Bradycardia.",
+    "Benzodiazepine reversal."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Malignant hyperthermia (PDF p. 24)",
+   "quote": "Dantrolene sodium(dantrium)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "During induction, the client is unconscious but struggling and shouting. This is which stage of anesthesia?",
+   "options": [
+    "Stage II (excitement)",
+    "Stage I (induction)",
+    "Stage III (surgical)",
+    "Stage IV (medullary)"
+   ],
+   "answer": "A",
+   "rationale": "Stage II runs from loss of consciousness to loss of lid reflex; keep stimulation to a minimum.",
+   "explanations": [
+    "Correct.",
+    "Still conscious.",
+    "Calm; surgery starts.",
+    "Cardiorespiratory arrest."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Stages of anesthesia (PDF p. 24)",
+   "quote": "Stagell.EXCITEMENTorDELIRiUM-Extendsfromthetimeofloss ofconsciousness to the time of loss oflid reflex."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "The most common complication right after a spinal anesthetic is given is:",
+   "options": [
+    "Hypotension",
+    "Hypertension",
+    "Seizures",
+    "Hyperthermia"
+   ],
+   "answer": "A",
+   "rationale": "Sympathetic blockade causes vasodilation and hypotension; keep the client flat, give oxygen and fluids as ordered.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Not typical.",
+    "Not typical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Spinal anesthesia (PDF p. 24)",
+   "quote": "Thisisduetointerruptionofthe sympatheticnervous system (SNS).This is the most common and most dangerous"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A client has a headache that worsens on sitting up after spinal anesthesia. The cause is:",
+   "options": [
+    "CSF leaking from the puncture",
+    "Low blood sugar",
+    "Allergy to the drug",
+    "Too much oxygen"
+   ],
+   "answer": "A",
+   "rationale": "Spinal headache is from CSF leak; hydrate, keep recumbent and give analgesics as ordered.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Spinal anesthesia (PDF p. 24)",
+   "quote": "This isduetoleakageof CSFfrom the spinal needle puncture hole."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother During Labor and Birth",
+   "situation": "",
+   "stem": "The low, transverse \"bikini line\" incision used for cesarean section is called:",
+   "options": [
+    "Pfannenstiel",
+    "McBurney's",
+    "Midline",
+    "Lumbotomy"
+   ],
+   "answer": "A",
+   "rationale": "Pfannenstiel incision is used for cesarean section; McBurney's for appendectomy; lumbotomy for kidney surgery.",
+   "explanations": [
+    "Correct.",
+    "Appendectomy.",
+    "General abdominal.",
+    "Kidney."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Surgical incisions (PDF p. 25)",
+   "quote": "Pfannenstiel Incision.For Cesanan section.Also called”bikini line incision"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "An unconscious client arrives in the PACU with an oral airway. The nurse removes the airway when the client:",
+   "options": [
+    "Regains the gag reflex",
+    "Opens his eyes once",
+    "Has a normal pulse",
+    "Asks for water"
+   ],
+   "answer": "A",
+   "rationale": "Leave the airway until the gag reflex returns; it keeps the tongue from blocking the airway.",
+   "explanations": [
+    "Correct.",
+    "Not enough.",
+    "Not the cue.",
+    "Gag returns first."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 PACU care (PDF p. 25)",
+   "quote": "Leave airway inplaceuntil gag reflexhasreturned."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "In the PACU, the nurse explains procedures to a client who is not yet awake because:",
+   "options": [
+    "Hearing returns first",
+    "Consent requires it",
+    "It wakes him faster",
+    "Relatives may listen"
+   ],
+   "answer": "A",
+   "rationale": "Under anesthesia, hearing is the last sense lost and the first regained.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 PACU care (PDF p. 26)",
+   "quote": "In theanesthetized client,senseofhearing isthelasttobelostand thefirsttoretum"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Which finding shows a client is ready for discharge from the PACU?",
+   "options": [
+    "BP within 20 mmHg of preop level",
+    "Responds only to pain",
+    "Needs an airway to breathe",
+    "Pale, dusky lips"
+   ],
+   "answer": "A",
+   "rationale": "Criteria include obeying commands, a patent airway without help, BP within ±20 mmHg of baseline, alertness and pink color.",
+   "explanations": [
+    "Correct.",
+    "Not awake enough.",
+    "Not ready.",
+    "Poor oxygenation."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 PACU discharge (PDF p. 26)",
+   "quote": "Circulation.Bloodpressureiswithin±20mmHgofthe preoperativelevel."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After surgery, a client has not voided. The nurse expects him to void within about:",
+   "options": [
+    "8–10 hours",
+    "2 hours",
+    "24 hours",
+    "48 hours"
+   ],
+   "answer": "A",
+   "rationale": "Clients should void within 8–10 hours postop; promote voiding naturally and avoid catheterization if possible.",
+   "explanations": [
+    "Correct.",
+    "Too soon to worry.",
+    "Too long.",
+    "Too long."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Postoperative care (PDF p. 26)",
+   "quote": "Clientshouldvoid8to10hoursaftersurgery."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "IV fluids are given cautiously in the first day after surgery because:",
+   "options": [
+    "ADH secretion is increased",
+    "Kidneys stop working",
+    "Aldosterone falls",
+    "Thirst is absent"
+   ],
+   "answer": "A",
+   "rationale": "Surgical stress raises ADH, so water is retained and fluid overload occurs easily.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "It rises.",
+    "Not the reason."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Best practice (PDF p. 26)",
+   "quote": "Antidiuretic hormone secretionis increased in the immediate postoperative period."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A client's postop pain is constant over 24 hours. The best way to give the ordered analgesic is:",
+   "options": [
+    "Around the clock at set times",
+    "Only when pain is severe",
+    "Once a day",
+    "Only at night"
+   ],
+   "answer": "A",
+   "rationale": "Scheduled dosing avoids the peaks of the demand cycle and gives better relief; also give before painful activities.",
+   "explanations": [
+    "Correct.",
+    "Poor control.",
+    "Not enough.",
+    "Not enough."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Postoperative pain (PDF p. 28)",
+   "quote": "analgesics should be given around the clock"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A client using morphine PCA worries he may overdose. The nurse explains that:",
+   "options": [
+    "A lockout interval limits the doses",
+    "He cannot press it more than once a day",
+    "The nurse gives each dose",
+    "There is no limit, so he should be careful"
+   ],
+   "answer": "A",
+   "rationale": "PCA delivers a set dose with a lockout interval that prevents another dose too soon.",
+   "explanations": [
+    "Correct.",
+    "Not how it works.",
+    "Client controls it.",
+    "There is a limit."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Patient-controlled analgesia (PDF p. 29)",
+   "quote": "Anadjustable“lockout intervalcontrols the frequency of dose administration"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A client receiving epidural morphine after surgery has itching all over and cannot void. The nurse recognizes these as:",
+   "options": [
+    "Expected opioid effects",
+    "Wound infection",
+    "Dressing allergy",
+    "Deep vein thrombosis"
+   ],
+   "answer": "A",
+   "rationale": "Epidural opioids cause pruritus, nausea, urinary retention and respiratory depression; naloxone reverses them.",
+   "explanations": [
+    "Correct.",
+    "Not related.",
+    "Not related.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Epidural analgesia (PDF p. 29)",
+   "quote": "Side effects include generalized pruntus,nausea,unnary retention respiratory depression"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Which practice increases a postoperative client's risk of deep vein thrombosis?",
+   "options": [
+    "Raising the knee gatch",
+    "Doing leg exercises",
+    "Walking early",
+    "Drinking enough fluids"
+   ],
+   "answer": "A",
+   "rationale": "Knee gatches and pillows under the knees constrict vessels; massage of calves is also avoided.",
+   "explanations": [
+    "Correct; it constricts vessels.",
+    "Prevents DVT.",
+    "Prevents DVT.",
+    "Prevents DVT."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Deep vein thrombosis (PDF p. 30)",
+   "quote": "Prevent the use of bedrolls or knee gatches in patients at risk"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Within 48 hours after abdominal surgery, a client has slight fever, tachycardia and diminished breath sounds at the bases. The most likely cause is:",
+   "options": [
+    "Atelectasis",
+    "Wound infection",
+    "Pulmonary embolism",
+    "Urinary infection"
+   ],
+   "answer": "A",
+   "rationale": "Atelectasis occurs within 48 hours from shallow breathing; deep breathing, incentive spirometry and ambulation prevent it.",
+   "explanations": [
+    "Correct.",
+    "Later, local signs.",
+    "Sudden dyspnea.",
+    "Urinary signs."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Pulmonary complications (PDF p. 30)",
+   "quote": "Incompleteexpansionoflungorportionofitoccuringwithin48 hours ofsurgery."
+  }
+ ]
+}

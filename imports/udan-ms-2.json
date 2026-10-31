@@ -1,0 +1,461 @@
+{
+ "source": "Udan, Medical-Surgical Nursing, 2nd ed.",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A postop client suddenly has sharp chest pain, dyspnea, tachypnea and anxiety. After calling for help, the nurse should first:",
+   "options": [
+    "Oxygen, sitting up",
+    "Lay the client flat",
+    "Massage the legs",
+    "Give oral fluids"
+   ],
+   "answer": "A",
+   "rationale": "Suspected pulmonary embolism: give oxygen in an upright position, keep the client calm, monitor and prepare for anticoagulation.",
+   "explanations": [
+    "Correct.",
+    "Worsens breathing.",
+    "May dislodge clots.",
+    "Not a priority."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Pulmonary embolism (PDF p. 31)",
+   "quote": "Administer oxygenth the patient in anupright/sitting position（if possible)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After hemorrhoidectomy, a client voids 40 mL every 20 minutes and has lower abdominal discomfort. This suggests:",
+   "options": [
+    "Urinary retention with overflow",
+    "Normal recovery",
+    "Urinary tract infection",
+    "Dehydration"
+   ],
+   "answer": "A",
+   "rationale": "Frequent small voidings show an overdistended bladder with overflow, common after rectal and lower abdominal surgery.",
+   "explanations": [
+    "Correct.",
+    "Not normal.",
+    "Later, with burning.",
+    "Low output, not frequent."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Urinary retention (PDF p. 31)",
+   "quote": "Voiding smallamounts at frequent intervals.Eg.voiding 30 to60 mis.every 15 to 30 minutes This indicates overdistendedbladder"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A male client cannot void 6 hours after surgery. The nurse first:",
+   "options": [
+    "Help him stand to void",
+    "Insert a catheter now",
+    "Restrict his fluids",
+    "Give a laxative"
+   ],
+   "answer": "A",
+   "rationale": "Try natural measures first: standing, privacy, running water, warmth. Catheterize only when these fail.",
+   "explanations": [
+    "Correct.",
+    "Last resort.",
+    "Not helpful.",
+    "Not related."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Urinary retention (PDF p. 32)",
+   "quote": "Catheterizeonlywhen allother measures are unsuccessful."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Before documenting absent bowel sounds after surgery, the nurse must listen to each quadrant for:",
+   "options": [
+    "5 minutes",
+    "10 seconds",
+    "30 seconds",
+    "1 minute only"
+   ],
+   "answer": "A",
+   "rationale": "Auscultate the four quadrants for about 5 minutes before concluding bowel sounds are absent.",
+   "explanations": [
+    "Correct.",
+    "Too short.",
+    "Too short.",
+    "Too short."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Intestinal obstruction (PDF p. 32)",
+   "quote": "Auscultate the four quadrants of the abdomen for5minutes before concluding that there is absence ofbowel sounds."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After abdominal surgery, a client has colicky pain, distention and vomitus with a fecal odor. The nurse suspects:",
+   "options": [
+    "Intestinal obstruction",
+    "Gastritis",
+    "Normal ileus",
+    "Appendicitis"
+   ],
+   "answer": "A",
+   "rationale": "Reverse peristalsis in obstruction produces fecaloid vomitus; high-pitched sounds suggest partial, absent sounds complete obstruction.",
+   "explanations": [
+    "Correct.",
+    "No fecal vomitus.",
+    "Not fecal.",
+    "Already operated."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Intestinal obstruction (PDF p. 32)",
+   "quote": "Nauseaandvomiting.Vomitus isfecaloid due to reversepenistalsis"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Persistent hiccups after abdominal surgery are mainly caused by irritation of the:",
+   "options": [
+    "Phrenic nerve",
+    "Vagus nerve only",
+    "Facial nerve",
+    "Sciatic nerve"
+   ],
+   "answer": "A",
+   "rationale": "Hiccups are diaphragmatic spasms from phrenic nerve irritation (distended stomach, peritonitis); severe cases can strain the wound.",
+   "explanations": [
+    "Correct.",
+    "Not the main nerve.",
+    "Not related.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Hiccups (PDF p. 32)",
+   "quote": "Iritation ofphrenicnerve"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A client develops a high fever on the second postoperative day. The most likely cause is:",
+   "options": [
+    "Atelectasis",
+    "Wound infection",
+    "Urinary infection",
+    "Thrombophlebitis"
+   ],
+   "answer": "A",
+   "rationale": "Atelectasis causes fever in the first 48 hours; wound infection 5–7 days, UTI 5–8 days, thrombophlebitis 7–14 days.",
+   "explanations": [
+    "Correct.",
+    "Days 5–7.",
+    "Days 5–8.",
+    "Days 7–14."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Postoperative fever (PDF p. 33)",
+   "quote": "Atelectasiswithin thefirst48hours"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A surgical wound infection most commonly becomes evident on postoperative day:",
+   "options": [
+    "5–7",
+    "1",
+    "2",
+    "14–21"
+   ],
+   "answer": "A",
+   "rationale": "Wound infections typically present 5–7 days after surgery; S. aureus from the client's own flora is common.",
+   "explanations": [
+    "Correct.",
+    "Too early.",
+    "Atelectasis time.",
+    "Too late."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Wound infection (PDF p. 32)",
+   "quote": "Woundinfectionstypicallypresent5to7dayspostoperatively"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "An 82-year-old is 4 days post hip surgery. She has no fever but is newly confused and not eating. The nurse suspects:",
+   "options": [
+    "Infection",
+    "Normal aging",
+    "Expected fatigue",
+    "Hunger"
+   ],
+   "answer": "A",
+   "rationale": "The elderly may not show fever, redness or swelling; mental status change, fatigue and anorexia may be the only signs of infection.",
+   "explanations": [
+    "Correct.",
+    "Sudden change is not normal.",
+    "Not the main concern.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Wound infection (PDF p. 33)",
+   "quote": "Mental status changes are signsof infectionin the elderly."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Wound dehiscence is most likely to occur on postoperative day:",
+   "options": [
+    "5–8",
+    "1",
+    "2",
+    "30"
+   ],
+   "answer": "A",
+   "rationale": "Between days 5 and 8 the incision has its weakest tensile strength; it is chiefly seen after abdominal surgery.",
+   "explanations": [
+    "Correct.",
+    "Too early.",
+    "Too early.",
+    "Too late."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Dehiscence (PDF p. 33)",
+   "quote": "Commonlyoccursbetween 5and8daypostoperatively"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "An obese client after laparotomy has a weak abdominal wall. Which measure helps prevent dehiscence?",
+   "options": [
+    "Abdominal binder",
+    "Frequent sit-ups",
+    "Low-protein diet",
+    "Lying prone"
+   ],
+   "answer": "A",
+   "rationale": "A binder, splinting during coughing, relieving distention and good protein and vitamin C intake prevent wound breakdown.",
+   "explanations": [
+    "Correct.",
+    "Strains wound.",
+    "Impairs healing.",
+    "Pressure on wound."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Dehiscence (PDF p. 33)",
+   "quote": "Applyabdominalbinderforheavyorelderlypatientsorthosewith weakorpendulousabdominalwalls"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A client says something \"gave way\" in her abdominal wound, and loops of bowel are visible. While a colleague calls the surgeon, the nurse:",
+   "options": [
+    "Cover with moist sterile gauze",
+    "Push the bowel back in",
+    "Cover it with dry gauze",
+    "Walk her to treatment room"
+   ],
+   "answer": "A",
+   "rationale": "For evisceration: stay with the client, cover with sterile moist saline dressings, position semi-Fowler's with knees bent and watch for shock.",
+   "explanations": [
+    "Correct.",
+    "Never.",
+    "Sticks, dries tissue.",
+    "Keep on bed rest."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Evisceration (PDF p. 34)",
+   "quote": "Ifintestinesare exposed,coverwithstenle moist saline dressings."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Which position reduces tension on an abdominal wound after evisceration?",
+   "options": [
+    "Semi-Fowler's with knees bent",
+    "Flat with legs straight",
+    "Prone",
+    "High Fowler's with legs straight"
+   ],
+   "answer": "A",
+   "rationale": "Raising the head slightly and flexing the knees relaxes the abdominal muscles.",
+   "explanations": [
+    "Correct.",
+    "Tension.",
+    "Pressure on wound.",
+    "Tension."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Evisceration (PDF p. 34)",
+   "quote": "Instruct patient to bend knees,with headofbed elevatedin semi- Fowler'sposition torelieve tensionon abdomen"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "On the second postop night, an older client is disoriented, sees insects on the wall and is agitated. The nurse should first:",
+   "options": [
+    "Reorient him and keep the room calm",
+    "Apply restraints right away",
+    "Turn off all lights",
+    "Argue that there are no insects"
+   ],
+   "answer": "A",
+   "rationale": "For postoperative delirium, find the cause, reorient, keep surroundings calm and use restraints only as a last resort.",
+   "explanations": [
+    "Correct.",
+    "Last resort.",
+    "Worsens it.",
+    "Increases agitation."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Delirium (PDF p. 34)",
+   "quote": "Reorient to theenvironment and time."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A client going home after major abdominal surgery asks about lifting. The nurse advises avoiding heavy lifting (more than about 5 lb) for:",
+   "options": [
+    "4–8 weeks",
+    "2–3 days",
+    "1 week",
+    "1 year"
+   ],
+   "answer": "A",
+   "rationale": "After most major surgeries, avoid lifting more than 5 lb for 4–8 weeks; arrange home help for the first 2–3 weeks.",
+   "explanations": [
+    "Correct.",
+    "Too short.",
+    "Too short.",
+    "Too long."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Discharge teaching (PDF p. 35)",
+   "quote": "you should avoid lifting anythingheavierthan5Ibs.for4to8weeks"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Which discharge advice about a healing surgical wound is correct?",
+   "options": [
+    "Leave scabs to fall off on their own",
+    "Pick off scabs to speed healing",
+    "Wear tight belts over it",
+    "Never shower until sutures are out"
+   ],
+   "answer": "A",
+   "rationale": "Scabs protect new tissue; showering is usually allowed after the first dressing change; avoid tight clothing.",
+   "explanations": [
+    "Correct.",
+    "Damages tissue.",
+    "Rubs wound.",
+    "Usually allowed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Discharge teaching (PDF p. 35)",
+   "quote": "Donot pull off any scabsbecause they protect the delicatenew tissuesunderneath."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Which nutrients does the nurse encourage most to promote wound healing after surgery?",
+   "options": [
+    "Protein and vitamin C",
+    "Fat and sodium",
+    "Caffeine and sugar",
+    "Potassium only"
+   ],
+   "answer": "A",
+   "rationale": "Protein builds tissue and vitamin C aids collagen formation; poor nutrition contributes to dehiscence.",
+   "explanations": [
+    "Correct.",
+    "Not helpful.",
+    "Not helpful.",
+    "Not enough."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Dehiscence prevention (PDF p. 34)",
+   "quote": "Encourageproper nutritionwith emphasison adequate amountsof proteinandvitaminC"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After a large blood transfusion during surgery, the nurse watches the client closely for:",
+   "options": [
+    "Increased bleeding",
+    "Hyperglycemia",
+    "Hypothermia only",
+    "Rash only"
+   ],
+   "answer": "A",
+   "rationale": "Many rapid transfusions can cause coagulopathy and prolonged bleeding.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Possible but not the point.",
+    "Not the main risk."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Hemorrhage (PDF p. 30)",
+   "quote": "Numerous,rapid blood transfusions may induce coagulopathy and prolongedbleeding time"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A few hours after surgery, as BP returns to normal, the client starts bleeding from the wound. This type of hemorrhage is:",
+   "options": [
+    "Intermediary",
+    "Primary",
+    "Secondary",
+    "Capillary only"
+   ],
+   "answer": "A",
+   "rationale": "Intermediary hemorrhage occurs within the first few hours as rising BP loosens ligatures; secondary occurs days later.",
+   "explanations": [
+    "Correct.",
+    "During surgery.",
+    "Days later.",
+    "Describes vessel, not timing."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Udan, Medical-Surgical Nursing, 2nd ed., Ch. 3 Hemorrhage (PDF p. 29)",
+   "quote": "Intermediary-occurswithin thefirstfewhours after surgery"
+  }
+ ]
+}
