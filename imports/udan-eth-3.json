@@ -1,0 +1,437 @@
+{
+ "source": "Udan, Healthcare Ethics (2023)",
+ "questions": [
+  {
+   "subject": "NP I",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "'Just because something can be done does not mean it should be done' expresses the principle of:",
+   "options": [
+    "Stewardship",
+    "Totality",
+    "Double effect",
+    "Subsidiarity"
+   ],
+   "answer": "A",
+   "rationale": "Stewardship: humans have limited dominion and must respect the intrinsic ends of life, avoiding the fallacy of the technological imperative.",
+   "explanations": [
+    "Correct.",
+    "Part for the whole.",
+    "Two effects.",
+    "Smallest group first."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Principle of stewardship (PDF p. 60)",
+   "quote": "simply because something can be done does not necessarily mean that it should be done"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Proper disposal of used PPE, needles and specimen kits is an example of which stewardship?",
+   "options": [
+    "Biomedical stewardship",
+    "Personal stewardship",
+    "Social stewardship",
+    "Financial stewardship"
+   ],
+   "answer": "A",
+   "rationale": "Biomedical stewardship is care in proper disposal of contaminated secretions, equipment and waste.",
+   "explanations": [
+    "Correct.",
+    "Care of self.",
+    "Society-wide goals.",
+    "Not listed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Biomedical stewardship (PDF p. 64)",
+   "quote": "Biomedical stewardship is reflected in the utmost care in proper disposal of contaminated body secretions"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Personal & Professional Development",
+   "situation": "",
+   "stem": "A nurse leader uses mentors and coaches to keep improving her skills. This is:",
+   "options": [
+    "Personal stewardship",
+    "Ecological stewardship",
+    "Social stewardship",
+    "Biomedical stewardship"
+   ],
+   "answer": "A",
+   "rationale": "Personal stewardship (of self) involves lifelong learning with mentors and coaches.",
+   "explanations": [
+    "Correct.",
+    "Environment.",
+    "Society.",
+    "Waste handling."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Personal stewardship (PDF p. 62)",
+   "quote": "nurse leaders or stewards need the use of mentors and personal coaches"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Amputating a gangrenous foot to save the patient's life is justified by the principle of:",
+   "options": [
+    "Totality",
+    "Autonomy",
+    "Stewardship",
+    "Subsidiarity"
+   ],
+   "answer": "A",
+   "rationale": "Under totality, a part of the body may be sacrificed for the good of the whole person.",
+   "explanations": [
+    "Correct.",
+    "Self-rule.",
+    "Care of creation.",
+    "Social level."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Principle of totality (PDF p. 65)",
+   "quote": "a part of the human body may be sacrificed if that sacrifice means continued survival for the person"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Which procedure fails to meet the principle of totality?",
+   "options": [
+    "Hysterectomy only to avoid pregnancy",
+    "Removing a cancerous breast",
+    "Extracting a decayed tooth",
+    "Amputating a gangrenous leg"
+   ],
+   "answer": "A",
+   "rationale": "Removing a healthy organ for non-therapeutic reasons (e.g., to avoid having a child, vanity) is not justified by totality.",
+   "explanations": [
+    "Correct.",
+    "Justified.",
+    "Justified.",
+    "Justified."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Totality: non-justifiable (PDF p. 65)",
+   "quote": "Removal of the uterus (hysterectomy) because you don't want to have a child"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Which is a condition for applying the principle of totality?",
+   "options": [
+    "No other way exists",
+    "Patient is over 60",
+    "Family requests it",
+    "It costs less"
+   ],
+   "answer": "A",
+   "rationale": "Conditions: the diseased part threatens the whole, there is no other way, and the harm avoided is proportionate.",
+   "explanations": [
+    "Correct.",
+    "Not a condition.",
+    "Not a condition.",
+    "Not a condition."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Conditions for totality (PDF p. 65)",
+   "quote": "that there is no other way than taking the indicated action against it"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Before the incision is closed, the OR nurse's ethical duty to protect the patient's body means ensuring:",
+   "options": [
+    "No items left inside",
+    "Surgeon is on time",
+    "Visitors can watch",
+    "Music is playing"
+   ],
+   "answer": "A",
+   "rationale": "Before suturing, all materials are counted and controlled so nothing remains in the patient's body.",
+   "explanations": [
+    "Correct.",
+    "Not this duty.",
+    "Violates privacy.",
+    "Not this duty."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Nurses in surgery (PDF p. 67)",
+   "quote": "ensuring that nothing remains in the patient's body"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Which action best preserves dignity of an anesthetized patient in the OR?",
+   "options": [
+    "Keep talk professional",
+    "Joke about his body",
+    "Leave him uncovered",
+    "Discuss his finances"
+   ],
+   "answer": "A",
+   "rationale": "Conversation in the OR should be professional, mindful of what is said whether the patient is awake or not.",
+   "explanations": [
+    "Correct.",
+    "Undignified.",
+    "Exposure.",
+    "Irrelevant."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Preserve patient's dignity (PDF p. 67)",
+   "quote": "it should be done professionally and considering what is said now, whether the patient is awake or not"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Which perioperative action helps prevent surgical site infection?",
+   "options": [
+    "Limit people moving in the OR",
+    "Open doors for air",
+    "Add more observers",
+    "Skip the count"
+   ],
+   "answer": "A",
+   "rationale": "Preventing postoperative infection includes minimizing the number of people and their movement in the OR.",
+   "explanations": [
+    "Correct.",
+    "Contaminates.",
+    "More traffic.",
+    "Retained items."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Nurses in surgery (PDF p. 67)",
+   "quote": "preventing postoperative infections by minimizing the number of people"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "For elderly surgical patients, the OR nurse must be especially vigilant to prevent:",
+   "options": [
+    "Hypothermia",
+    "Hyperthermia",
+    "Hunger",
+    "Boredom"
+   ],
+   "answer": "A",
+   "rationale": "Protecting the patient's body includes preventing hypothermia, especially in elderly patients.",
+   "explanations": [
+    "Correct.",
+    "Less common.",
+    "Not the risk.",
+    "Not the risk."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Nurses in surgery (PDF p. 66)",
+   "quote": "Responsibility also means preventing hypothermia, especially in the care of elderly patients."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Which living donation is ethically acceptable only in very rare cases?",
+   "options": [
+    "The whole heart",
+    "One kidney",
+    "Bone marrow",
+    "Blood"
+   ],
+   "answer": "A",
+   "rationale": "Donating a nonpaired, nonrenewable organ like the heart means the donor's death.",
+   "explanations": [
+    "Correct.",
+    "Paired organ.",
+    "Renewable.",
+    "Renewable."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Issues in organ donation (PDF p. 69)",
+   "quote": "The donation of a nonpaired, nonrenewable organ such as the heart or the entire liver from a living donor spells death for the donor."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A family pressures a reluctant sibling to donate a kidney. The nurse recognizes this as:",
+   "options": [
+    "Unethical coercion",
+    "Acceptable family duty",
+    "Required by law",
+    "Valid consent"
+   ],
+   "answer": "A",
+   "rationale": "Donor autonomy must be respected; pressuring or 'blackmailing' donors is unethical and providers should guard against it.",
+   "explanations": [
+    "Correct.",
+    "Not a duty.",
+    "No such law.",
+    "Not voluntary."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Ethics of the recipient (PDF p. 69)",
+   "quote": "While such pressure is humanly understandable, it is unethical, and health care providers should guard against it."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Why should a potential cadaver donor be declared dead by a physician other than the recipient's?",
+   "options": [
+    "To avoid conflict of loyalty",
+    "To save time",
+    "To lower costs",
+    "It is a family request"
+   ],
+   "answer": "A",
+   "rationale": "A separate physician avoids the reality and appearance of a conflict of loyalties.",
+   "explanations": [
+    "Correct.",
+    "Not the reason.",
+    "Not the reason.",
+    "Not the reason."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Ethics of the health care team (PDF p. 71)",
+   "quote": "the donor must be declared dead by at least one physician other than the physician of the recipient"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A dying patient is a potential organ donor. Until death, the team should:",
+   "options": [
+    "Give the same usual care",
+    "Withdraw care early",
+    "Speed up death",
+    "Stop all medications"
+   ],
+   "answer": "A",
+   "rationale": "The donor continues to get usual care so the team is not tempted to hasten death for organs.",
+   "explanations": [
+    "Correct.",
+    "Unethical.",
+    "Unethical.",
+    "Unethical."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Ethics of the health care team (PDF p. 71)",
+   "quote": "the physician should continue to give the donor the same care as usual"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A major ethical concern with selling organs is:",
+   "options": [
+    "Exploitation of the poor",
+    "Too many donors",
+    "Better matching",
+    "Lower costs"
+   ],
+   "answer": "A",
+   "rationale": "Organ sale risks exploiting the poor and distributing organs by ability to pay rather than need.",
+   "explanations": [
+    "Correct.",
+    "Not the concern.",
+    "Not the concern.",
+    "Not the concern."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Selling organs (PDF p. 70)",
+   "quote": "The first problem that might, result from widespread sale Of organs involves the exploitation Of the poor"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A treatment that offers reasonable hope of benefit without excessive pain or cost is:",
+   "options": [
+    "Ordinary means",
+    "Extraordinary means",
+    "Futile care",
+    "Dysthanasia"
+   ],
+   "answer": "A",
+   "rationale": "Ordinary (proportionate) means offer reasonable hope of benefit without excessive burden and are morally obligatory.",
+   "explanations": [
+    "Correct.",
+    "Optional.",
+    "No benefit.",
+    "Prolongs dying."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Ordinary and extraordinary means (PDF p. 73)",
+   "quote": "Ordinary means are obligatory"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A terminally ill patient declines a costly, painful treatment with little hope of benefit. Ethically, this treatment is:",
+   "options": [
+    "Extraordinary and optional",
+    "Ordinary and required",
+    "Illegal to refuse",
+    "Euthanasia"
+   ],
+   "answer": "A",
+   "rationale": "Disproportionate means (no reasonable hope of benefit or excessive burden) may be foregone.",
+   "explanations": [
+    "Correct.",
+    "Not ordinary.",
+    "May refuse.",
+    "Not euthanasia."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Ordinary and extraordinary means (PDF p. 73)",
+   "quote": "a person may forego extraordinary or disproportionate means of preserving life"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A patient dying of advanced cancer develops early-stage kidney disease. Is she obliged to treat it?",
+   "options": [
+    "No, it may be declined",
+    "Yes, always",
+    "Only if family agrees",
+    "Only if free"
+   ],
+   "answer": "A",
+   "rationale": "Those dying of one illness have no obligation to accept treatment for a second, less advanced life-threatening one.",
+   "explanations": [
+    "Correct.",
+    "Not obligatory.",
+    "Her choice.",
+    "Not the criterion."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Extraordinary treatment (PDF p. 74)",
+   "quote": "Those who are dying of one illness have no obligation to accept treatment for a second life-threatening one"
+  }
+ ]
+}

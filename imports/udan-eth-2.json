@@ -1,0 +1,725 @@
+{
+ "source": "Udan, Healthcare Ethics (2023)",
+ "questions": [
+  {
+   "subject": "NP I",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A nurse tells the truth to a patient even though the result may upset him, because truth-telling is her duty. Which theory guides her?",
+   "options": [
+    "Deontology",
+    "Utilitarianism",
+    "Ethical egoism",
+    "Cultural relativism"
+   ],
+   "answer": "A",
+   "rationale": "Deontology holds that acts are right from duty and moral rules, independent of their consequences.",
+   "explanations": [
+    "Correct.",
+    "Judges outcomes.",
+    "Self-interest.",
+    "Society decides."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Deontological theories (PDF p. 33)",
+   "quote": "motives and actions are morally right' independent of their consequences"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Kant's categorical imperative says to treat persons:",
+   "options": [
+    "As ends, never only as means",
+    "By the greatest good",
+    "As society decides",
+    "By self-interest"
+   ],
+   "answer": "A",
+   "rationale": "One formulation: treat yourself and others as ends in themselves and never only as a means to an end.",
+   "explanations": [
+    "Correct.",
+    "Utilitarian.",
+    "Relativism.",
+    "Egoism."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Categorical imperative (PDF p. 34)",
+   "quote": "treat both yourself and other people as ends in themselves and never only as a means to an end"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "In Kant's ethics, if a perfect duty conflicts with an imperfect duty:",
+   "options": [
+    "The perfect duty prevails",
+    "The imperfect duty prevails",
+    "Both are dropped",
+    "The outcome decides"
+   ],
+   "answer": "A",
+   "rationale": "Perfect duties (e.g., truth-telling) bind without exception and prevail over imperfect duties (e.g., helping others).",
+   "explanations": [
+    "Correct.",
+    "Reversed.",
+    "Not Kant.",
+    "Not Kant."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Perfect and imperfect duties (PDF p. 34)",
+   "quote": "In n conflict between a perfect and imperfect duty, perfect duty prevnils."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "During a disaster, the nurse gives scarce vaccines to benefit the most people. This reflects:",
+   "options": [
+    "Utilitarianism",
+    "Deontology",
+    "Ethical egoism",
+    "Divine command theory"
+   ],
+   "answer": "A",
+   "rationale": "Utilitarianism judges an act good if it brings the greatest happiness to the greatest number.",
+   "explanations": [
+    "Correct.",
+    "Duty-based.",
+    "Self-interest.",
+    "God's will."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Teleological theories (PDF p. 35)",
+   "quote": "an action is good if it results in maximum satisfaction for a large number of people"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Which theory judges an act right if it serves the person's own self-interest?",
+   "options": [
+    "Ethical egoism",
+    "Eudaimonism",
+    "Utilitarianism",
+    "Social contract"
+   ],
+   "answer": "A",
+   "rationale": "Ethical egoism holds an act is good if it maximizes the person's own self-interest, even at others' expense.",
+   "explanations": [
+    "Correct.",
+    "Human flourishing.",
+    "Greatest number.",
+    "Mutual agreement."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Teleological theories (PDF p. 35)",
+   "quote": "results that ma.ximize the person's self-interest"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "The view that right and wrong depend on each society's guidelines is:",
+   "options": [
+    "Cultural relativism",
+    "Subjective relativism",
+    "Natural law",
+    "Deontology"
+   ],
+   "answer": "A",
+   "rationale": "Cultural relativism says right and wrong depend on a society's moral guidelines, which vary by place and time.",
+   "explanations": [
+    "Correct.",
+    "Each person decides.",
+    "Universal.",
+    "Universal duty."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Other ethical theories (PDF p. 36)",
+   "quote": "\"Right- and \"wrong\" depend on a society's moral guidelines."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Virtue ethics judges moral conduct mainly by the nurse's:",
+   "options": [
+    "Character",
+    "Outcomes",
+    "Rules",
+    "Salary"
+   ],
+   "answer": "A",
+   "rationale": "Virtue ethics looks to personal traits (virtues) that dispose a person to choose rightly, not codes or outcomes.",
+   "explanations": [
+    "Correct.",
+    "Teleology.",
+    "Deontology.",
+    "Not relevant."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Virtue ethics (PDF p. 36)",
+   "quote": "Ethical value is determined by character"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Plato's four classical virtues are justice, temperance, courage and:",
+   "options": [
+    "Wisdom",
+    "Faith",
+    "Hope",
+    "Charity"
+   ],
+   "answer": "A",
+   "rationale": "Plato's four classical virtues: justice, temperance, courage and wisdom.",
+   "explanations": [
+    "Correct.",
+    "Christian virtue.",
+    "Christian virtue.",
+    "Christian virtue."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Secular virtues (PDF p. 37)",
+   "quote": "justice, temperance, courage, and wisdom"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A nurse who fails to act with prudence is most at risk for:",
+   "options": [
+    "Negligence or malpractice",
+    "Burnout",
+    "Promotion",
+    "Patient praise"
+   ],
+   "answer": "A",
+   "rationale": "Prudence (phronesis) is careful analysis of actions; lack of prudence can lead to negligence or malpractice.",
+   "explanations": [
+    "Correct.",
+    "Not the link.",
+    "Not the link.",
+    "Not the link."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Practical wisdom (PDF p. 38)",
+   "quote": "Inability to bc prudent could lead to situations involving negligence or malpractice."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "The virtue that supports a nurse's accountability by keeping commitments is:",
+   "options": [
+    "Fidelity",
+    "Humility",
+    "Temperance",
+    "Courage"
+   ],
+   "answer": "A",
+   "rationale": "Fidelity is faithfulness to agreements and commitments; it underpins accountability.",
+   "explanations": [
+    "Correct.",
+    "Modesty.",
+    "Self-control.",
+    "Overcoming fear."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Virtues of the health care provider (PDF p. 38)",
+   "quote": "It is the main principle that supports the concept of accountability of nurses"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A competent patient refuses a blood transfusion after full explanation. The nurse respects the principle of:",
+   "options": [
+    "Autonomy",
+    "Beneficence",
+    "Paternalism",
+    "Distributive justice"
+   ],
+   "answer": "A",
+   "rationale": "Autonomy is self-determination, including the right to accept or refuse treatment.",
+   "explanations": [
+    "Correct.",
+    "Doing good.",
+    "Overrides choice.",
+    "Resource fairness."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Autonomy (PDF p. 39)",
+   "quote": "It is the right to accept or refuse any treatment."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A competent patient refuses a procedure. What should the nurse do first?",
+   "options": [
+    "Assess the reason for refusal",
+    "Give it anyway",
+    "Sedate the patient",
+    "Ask the family to sign"
+   ],
+   "answer": "A",
+   "rationale": "Refusal is the patient's legal right: assess the reason, inform the physician and document it.",
+   "explanations": [
+    "Correct.",
+    "Battery.",
+    "Unethical.",
+    "Not valid."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Consent (PDF p. 43)",
+   "quote": "First, you have to assess the reason for refusal"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Which is one of the four requirements of informed consent?",
+   "options": [
+    "Decision-making capacity",
+    "Spouse's signature",
+    "Nurse's opinion",
+    "Payment in advance"
+   ],
+   "answer": "A",
+   "rationale": "Requirements: decision-making capacity, documentation, disclosure and comprehension of information.",
+   "explanations": [
+    "Correct.",
+    "Not required.",
+    "Not required.",
+    "Not required."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Informed consent (PDF p. 43)",
+   "quote": "I. decision- making capacity"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "The nurse finds the surgical patient received morphine 30 minutes ago and consent is not yet signed. The nurse should:",
+   "options": [
+    "Hold it; tell the surgeon",
+    "Have him sign quickly",
+    "Let a nurse sign it",
+    "Sign for the patient"
+   ],
+   "answer": "A",
+   "rationale": "Consent must be obtained when the patient is not under opioids; the person doing the procedure obtains it.",
+   "explanations": [
+    "Correct.",
+    "Invalid consent.",
+    "Not allowed.",
+    "Not allowed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Informed consent (PDF p. 44)",
+   "quote": "when the patient is not under the influence of medication such as opioids/narcotic analgesics"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Who is responsible for obtaining informed consent for surgery?",
+   "options": [
+    "The surgeon doing it",
+    "The circulating nurse",
+    "The anesthesiologist only",
+    "The admitting clerk"
+   ],
+   "answer": "A",
+   "rationale": "The person performing the procedure obtains informed consent; the nurse may witness the signature.",
+   "explanations": [
+    "Correct.",
+    "Witness only.",
+    "Own consent only.",
+    "Not allowed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Informed consent (PDF p. 44)",
+   "quote": "The person responsible (or performing the procedure is responsible for obtaining the informed consent"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "Which condition justifies emergency treatment without consent?",
+   "options": [
+    "No capacity, no surrogate",
+    "Family is running late",
+    "Patient is anxious",
+    "Doctor is very busy"
+   ],
+   "answer": "A",
+   "rationale": "Three conditions: patient incapable and no surrogate available, danger to life or health, and immediate treatment needed.",
+   "explanations": [
+    "Correct.",
+    "Not enough.",
+    "Not enough.",
+    "Not enough."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Emergency exception (PDF p. 44)",
+   "quote": "The patient must be incapable of giving consent and no lawful surrogate is available"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Treating a patient without consent outside an emergency can lead to a claim of:",
+   "options": [
+    "Battery",
+    "Assault only",
+    "Defamation",
+    "Libel"
+   ],
+   "answer": "A",
+   "rationale": "Failure to obtain consent in non-emergencies can result in a claim of battery (unconsented touching).",
+   "explanations": [
+    "Correct.",
+    "Threat only.",
+    "False statement.",
+    "Written defamation."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Informed consent (PDF p. 43)",
+   "quote": "Failure to obtain consent in situations other than emergencies can result in a claim of battery."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "Temporary restraint of a confused patient to prevent self-injury, with safeguards, is an example of:",
+   "options": [
+    "Weak paternalism",
+    "Strong paternalism",
+    "Autonomy",
+    "Veracity"
+   ],
+   "answer": "A",
+   "rationale": "Weak paternalism overrides the wishes of an incompetent or doubtfully competent patient; strong paternalism overrides a competent person.",
+   "explanations": [
+    "Correct.",
+    "Competent person.",
+    "Not respected.",
+    "Truth-telling."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Paternalism (PDF p. 45)",
+   "quote": "Granted all the proper institutional safeguards, restraints may be justified by weak paternalism."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Overriding a competent patient's decision 'for his own good' is:",
+   "options": [
+    "Strong paternalism",
+    "Weak paternalism",
+    "Fidelity",
+    "Beneficence"
+   ],
+   "answer": "A",
+   "rationale": "Strong paternalism usurps a competent person's right to decide and is generally rejected ethically.",
+   "explanations": [
+    "Correct.",
+    "Incompetent person.",
+    "Promise-keeping.",
+    "Not by coercion."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Paternalism (PDF p. 45)",
+   "quote": "strong (algo called extendeq paternalism, which attempts to overrule or override the wishes ofa competent person"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Which nursing action violates patient privacy?",
+   "options": [
+    "Curtain open during bath",
+    "Door closed before care",
+    "Talking in private room",
+    "Draping the patient"
+   ],
+   "answer": "A",
+   "rationale": "Leaving curtains or doors open during a procedure exposes the patient and invades privacy.",
+   "explanations": [
+    "Correct.",
+    "Protects privacy.",
+    "Protects privacy.",
+    "Protects privacy."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Privacy (PDF p. 49)",
+   "quote": "Leaving the curtains or room door open while a treatment or procedure is being performed."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Reporting & Recording",
+   "situation": "",
+   "stem": "Two nurses discuss a patient's diagnosis in the hospital elevator. This violates:",
+   "options": [
+    "Confidentiality",
+    "Veracity",
+    "Fidelity",
+    "Justice"
+   ],
+   "answer": "A",
+   "rationale": "Discussing patients in elevators, cafeterias or outside the unit violates confidentiality.",
+   "explanations": [
+    "Correct.",
+    "Truth-telling.",
+    "Promise-keeping.",
+    "Fairness."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Confidentiality (PDF p. 49)",
+   "quote": "even discussing patients in the elevator, cafeteria or any area outside the nursing unit"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "How does privacy differ from confidentiality?",
+   "options": [
+    "Person vs. information",
+    "Both cover records only",
+    "Privacy is a contract",
+    "Confidentiality is optional"
+   ],
+   "answer": "A",
+   "rationale": "Privacy is about the person being free from intrusion; confidentiality protects information in a trust relationship.",
+   "explanations": [
+    "Correct.",
+    "Not both.",
+    "Confidentiality is.",
+    "It is obligatory."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Privacy vs. confidentiality (PDF p. 50)",
+   "quote": "Privacy talks about a person, but confidentiality is about information."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Therapeutic Communication",
+   "situation": "",
+   "stem": "A doctor explains a diagnosis using so much jargon the family cannot understand. This violates veracity by:",
+   "options": [
+    "Cloaking the truth",
+    "Commission",
+    "Fidelity",
+    "Confidentiality"
+   ],
+   "answer": "A",
+   "rationale": "Veracity is violated by omission, commission (lying), or cloaking the truth in jargon so it is not understood.",
+   "explanations": [
+    "Correct.",
+    "Telling a lie.",
+    "Not a violation type.",
+    "Different principle."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Violations of veracity (PDF p. 52)",
+   "quote": "cloak the truth in so much medical jargon that the patient or her family will be unable to understand"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "A Filipino family asks the nurse not to tell their father he has cancer. Which cultural trait explains this?",
+   "options": [
+    "Family orientation to illness",
+    "Individualism",
+    "Bahala na only",
+    "Utang na loob only"
+   ],
+   "answer": "A",
+   "rationale": "In Filipino culture, families are often told first and may request non-disclosure to protect the patient.",
+   "explanations": [
+    "Correct.",
+    "Western trait.",
+    "Not the main trait.",
+    "Not the main trait."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Cultural considerations on truth telling (PDF p. 53)",
+   "quote": "family members are often informed before the patient, on serious diagnosis"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A nurse manager must assign too few nurses to too many patients fairly. This is a question of:",
+   "options": [
+    "Distributive justice",
+    "Procedural justice",
+    "Veracity",
+    "Fidelity"
+   ],
+   "answer": "A",
+   "rationale": "Distributive justice concerns fair allocation of benefits, burdens and scarce resources.",
+   "explanations": [
+    "Correct.",
+    "Due process.",
+    "Truth.",
+    "Promises."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Distributive justice (PDF p. 55)",
+   "quote": "Nurse managers have to effectively allocate too few nurses to too many patients."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Patients in a clinic are seen in order of arrival unless medically urgent. This applies:",
+   "options": [
+    "Procedural justice",
+    "Distributive justice",
+    "Beneficence",
+    "Autonomy"
+   ],
+   "answer": "A",
+   "rationale": "Procedural justice (due process) means everyone receives the same treatment when their turn comes.",
+   "explanations": [
+    "Correct.",
+    "Resource sharing.",
+    "Doing good.",
+    "Self-rule."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Procedural justice (PDF p. 55)",
+   "quote": "Procedural justice can be defined as due process."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Raising side rails to prevent a fall is an example of:",
+   "options": [
+    "Beneficence",
+    "Autonomy",
+    "Veracity",
+    "Paternalism"
+   ],
+   "answer": "A",
+   "rationale": "Beneficence is acting for the good of others, e.g., preventing falls, giving prompt pain relief.",
+   "explanations": [
+    "Correct.",
+    "Self-rule.",
+    "Truth-telling.",
+    "Overrides consent."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Beneficence (PDF p. 56)",
+   "quote": "Lifting side rails on a patient's hospital bed to prevent falls."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+   "situation": "",
+   "stem": "A pregnant woman with uterine cancer has a hysterectomy, and the fetus dies as a foreseen side effect. Which principle is applied?",
+   "options": [
+    "Double effect",
+    "Totality only",
+    "Legitimate cooperation",
+    "Subsidiarity"
+   ],
+   "answer": "A",
+   "rationale": "Double effect permits an act with a good aim when the bad effect is foreseen but not directly intended and is proportionate.",
+   "explanations": [
+    "Correct.",
+    "Partly related.",
+    "Cooperating with others.",
+    "Social level."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Principle of double effect (PDF p. 57)",
+   "quote": "allow the removal of a life-threatening cancerous uterus, even though this procedure will bring the death of a fetus"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Directly encouraging or praising another's wrongful act is:",
+   "options": [
+    "Formal cooperation",
+    "Remote material cooperation",
+    "Mediate material cooperation",
+    "Legitimate cooperation"
+   ],
+   "answer": "A",
+   "rationale": "Formal cooperation directly chooses the evil end or means (encouragement, advice) and is morally illicit.",
+   "explanations": [
+    "Correct.",
+    "Distant, indirect.",
+    "Accidental.",
+    "Acceptable form."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Formal cooperation (PDF p. 58)",
+   "quote": "Formal cooperation occurs when the evil end or evil means are directly chosen by means of encouragement, praise, advice"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A barangay solves its sanitation problem itself before asking the city for help. This applies:",
+   "options": [
+    "Subsidiarity",
+    "Stewardship",
+    "Totality",
+    "Double effect"
+   ],
+   "answer": "A",
+   "rationale": "Subsidiarity assigns each task to the smallest group able to do it; higher levels step in only when needed.",
+   "explanations": [
+    "Correct.",
+    "Care of creation.",
+    "Whole vs. part.",
+    "Two effects."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 2 Subsidiarity (PDF p. 60)",
+   "quote": "Ever-v task of societv should be assigned to the smallest possible group that can perform iL"
+  }
+ ]
+}

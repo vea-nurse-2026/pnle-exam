@@ -1,0 +1,533 @@
+{
+ "source": "Udan, Healthcare Ethics (2023)",
+ "questions": [
+  {
+   "subject": "NP I",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Which act carries no moral accountability because the will is absent?",
+   "options": [
+    "A reflex jerk when pricked",
+    "Lying on a chart",
+    "Stealing a patient's money",
+    "Skipping a medication"
+   ],
+   "answer": "A",
+   "rationale": "Acts of persons asleep or hypnotized, reflex actions and acts under serious physical violence are not moral acts; the will has no part.",
+   "explanations": [
+    "Correct.",
+    "Voluntary act.",
+    "Voluntary act.",
+    "Voluntary act."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 Human acts (PDF p. 11)",
+   "quote": "Reflex actions where the will has no time to intervene."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "For an act to be a human act, it must be:",
+   "options": [
+    "Free, informed, intended",
+    "Done by instinct",
+    "Done under threat",
+    "Done while asleep"
+   ],
+   "answer": "A",
+   "rationale": "Human acts are voluntary, not coerced, done with full knowledge and directed toward an end.",
+   "explanations": [
+    "Correct.",
+    "Act of man.",
+    "Coerced.",
+    "Not accountable."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 Codes as reference points (PDF p. 15)",
+   "quote": "they must be voluntary, not coerced, done with full knowledge and based on an intention"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A nurse knows the right action but hospital rules prevent her from doing it. She is experiencing:",
+   "options": [
+    "Moral distress",
+    "Moral sensitivity",
+    "Moral character",
+    "Moral certainty"
+   ],
+   "answer": "A",
+   "rationale": "Jameton described moral distress as knowing the right thing to do while institutional constraints make it impossible.",
+   "explanations": [
+    "Correct.",
+    "Recognizing an issue.",
+    "Persisting to act.",
+    "No conflict here."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 Moral distress (PDF p. 11)",
+   "quote": "knows the right way for performing something but organizational limits would make the execution impossible"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A nurse must choose between two options that both seem good for the patient. This is a(n):",
+   "options": [
+    "Ethical dilemma",
+    "Moral distress",
+    "Legal issue",
+    "Act of man"
+   ],
+   "answer": "A",
+   "rationale": "A dilemma arises when two opposing options appear equally beneficial and only one can be chosen.",
+   "explanations": [
+    "Correct.",
+    "Constraint-based.",
+    "Not necessarily.",
+    "Not voluntary."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 Ethical dilemma (PDF p. 11)",
+   "quote": "whenever we encounter two opposing yet equally beneficial for the patients"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "In Rest's Four Component Model, which comes first?",
+   "options": [
+    "Moral sensitivity",
+    "Moral judgment",
+    "Moral motivation",
+    "Moral character"
+   ],
+   "answer": "A",
+   "rationale": "Rest's sequence: sensitivity (recognizing the problem), judgment, motivation, then character.",
+   "explanations": [
+    "Correct.",
+    "Second.",
+    "Third.",
+    "Fourth."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 James Rest's model (PDF p. 16)",
+   "quote": "(1) moral sensitivity (recognition); (2) moral judgment or reasoning; (3) moral motivation; and (4) moral character"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A nurse keeps advocating for her patient despite pressure and fatigue. Which Rest component does this show?",
+   "options": [
+    "Moral character",
+    "Moral sensitivity",
+    "Moral judgment",
+    "Moral reasoning"
+   ],
+   "answer": "A",
+   "rationale": "Moral character is persisting in the moral task despite opposition, fatigue and distractions.",
+   "explanations": [
+    "Correct.",
+    "Recognition.",
+    "Choosing the action.",
+    "Same as judgment."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 James Rest's model (PDF p. 16)",
+   "quote": "they must persist in a moral task or action despite obstacles"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A nurse chooses advocacy over her own job security. Which Rest component is at work?",
+   "options": [
+    "Moral motivation",
+    "Moral sensitivity",
+    "Moral character",
+    "Moral recognition"
+   ],
+   "answer": "A",
+   "rationale": "Moral motivation means moral values take precedence over competing values like job security or acceptance.",
+   "explanations": [
+    "Correct.",
+    "Recognition.",
+    "Persistence.",
+    "Same as sensitivity."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 James Rest's model (PDF p. 16)",
+   "quote": "Ethical behavior will only result if moral con- siderations take precedence over competing priorities."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Taking bitter medicine to regain health is an example of which kind of good?",
+   "options": [
+    "Useful good",
+    "Honorable good",
+    "Pleasurable good",
+    "Ultimate good"
+   ],
+   "answer": "A",
+   "rationale": "A useful good is desired as a means to another good, like bitter medicine or painful surgery for health.",
+   "explanations": [
+    "Correct.",
+    "Good in itself.",
+    "Brings delight.",
+    "The end, not means."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 Moral good (PDF p. 13)",
+   "quote": "Example: bitter medicine to obtain health or a painful surgery"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Health and virtue, desired for their own sake, are examples of:",
+   "options": [
+    "Honorable good",
+    "Useful good",
+    "Pleasurable good",
+    "Apparent good"
+   ],
+   "answer": "A",
+   "rationale": "An honorable good is desired in itself for its intrinsic goodness, e.g., virtue and health.",
+   "explanations": [
+    "Correct.",
+    "A means.",
+    "Brings delight.",
+    "Not a true good."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 Moral good (PDF p. 13)",
+   "quote": "Honorable good — is a good which is desired in itself because of its intrinsic goodness"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "The primary precept of natural law is:",
+   "options": [
+    "Do good and avoid evil",
+    "Obey all civil laws",
+    "Follow cultural norms",
+    "Maximize pleasure"
+   ],
+   "answer": "A",
+   "rationale": "Natural law's first precept is that good is to be done and pursued and evil avoided (beneficence and non-maleficence).",
+   "explanations": [
+    "Correct.",
+    "Civil law.",
+    "Changes over time.",
+    "Hedonism."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 Natural law (PDF p. 14)",
+   "quote": "The primary precept of the Natural Law is for Good to be done and pursued, and evil is to be avoided."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Which reference point for human acts changes with the time and place of a culture?",
+   "options": [
+    "Cultural norms",
+    "Natural law",
+    "Eternal law",
+    "Moral good"
+   ],
+   "answer": "A",
+   "rationale": "Cultural norms reflect living conditions at a particular time and place, so they keep changing.",
+   "explanations": [
+    "Correct.",
+    "Unchanging.",
+    "Unchanging.",
+    "Objective."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 Cultural norms (PDF p. 15)",
+   "quote": "cultural norms are ever changing depending on the cultural conditions surrounding it"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "How does a code of ethics differ from a nursing practice act?",
+   "options": [
+    "A code sets moral ideals; the act is law",
+    "A code is law; the act is optional",
+    "Both are criminal laws",
+    "Both are hospital policies"
+   ],
+   "answer": "A",
+   "rationale": "A code delineates moral ideals and accountability; the nursing practice act is the law nurses must follow.",
+   "explanations": [
+    "Correct.",
+    "Reversed.",
+    "Not both.",
+    "Not both."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 Practice acts vs. code (PDF p. 17)",
+   "quote": "nursing practice acts refer to the laws that govern the nursing profession"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Which issuance is the Code of Ethics for Filipino Registered Nurses?",
+   "options": [
+    "BON Res. 220 (2004)",
+    "RA 9173 (2002)",
+    "RA 8981 (2000)",
+    "RA 7164 (1991)"
+   ],
+   "answer": "A",
+   "rationale": "The Code of Ethics for Nurses was promulgated as Board of Nursing Resolution No. 220, series of 2004.",
+   "explanations": [
+    "Correct.",
+    "Nursing law.",
+    "PRC law.",
+    "Repealed law."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 Nursing code of ethics (PDF p. 17)",
+   "quote": "The \"Code of Ethics for Nurses\" BON Resolution 220 series 2004"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "The ICN Code of Ethics names the nurse's fundamental responsibilities as promoting health, preventing illness, restoring health and:",
+   "options": [
+    "Alleviating suffering",
+    "Curing disease",
+    "Prescribing drugs",
+    "Diagnosing illness"
+   ],
+   "answer": "A",
+   "rationale": "The four fundamental responsibilities are to promote health, prevent illness, restore health and alleviate suffering.",
+   "explanations": [
+    "Correct.",
+    "Not listed.",
+    "Not nursing.",
+    "Not nursing."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 ICN Code (PDF p. 17)",
+   "quote": "4. to alleviate suffering"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Who first used the term 'bioethics' (1970–1971)?",
+   "options": [
+    "Van Rensselaer Potter",
+    "Florence Nightingale",
+    "Hippocrates",
+    "Andre Hellegers"
+   ],
+   "answer": "A",
+   "rationale": "Oncologist Van Rensselaer Potter coined bioethics as joining biological knowledge and human values.",
+   "explanations": [
+    "Correct.",
+    "Nursing pioneer.",
+    "Oath author.",
+    "Kennedy Institute."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 What is bioethics (PDF p. 24)",
+   "quote": "Van Renssealaer Potter used the term bioethics for the first time in 1971"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "Which document (1947) condemned human experiments without consent after the Nazi trials?",
+   "options": [
+    "Nuremberg Code",
+    "Belmont Report",
+    "Declaration of Helsinki",
+    "Hippocratic Oath"
+   ],
+   "answer": "A",
+   "rationale": "The Nuremberg Code (1947) required voluntary consent of human subjects.",
+   "explanations": [
+    "Correct.",
+    "1979, US.",
+    "WMA, 1964.",
+    "Ancient oath."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 Recent sources of bioethics (PDF p. 28)",
+   "quote": "Nuremberg Code (1947) condemned all experimentation on human subjects without their consent."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "The Belmont Report (1979) set three principles of research ethics. Which is one of them?",
+   "options": [
+    "Justice",
+    "Fidelity",
+    "Veracity",
+    "Paternalism"
+   ],
+   "answer": "A",
+   "rationale": "Belmont: respect for persons, beneficence and justice, with emphasis on informed consent.",
+   "explanations": [
+    "Correct.",
+    "Not Belmont.",
+    "Not Belmont.",
+    "Not a principle."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 Recent historical landmarks (PDF p. 28)",
+   "quote": "Respect for persons, Beneficence, Justice"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Black men with syphilis were left untreated even after penicillin was available. This study was:",
+   "options": [
+    "Tuskegee study",
+    "Willowbrook study",
+    "Jewish Chronic Disease Hospital study",
+    "Nuremberg trials"
+   ],
+   "answer": "A",
+   "rationale": "The US Tuskegee syphilis study withheld treatment and is a key reason for research ethics rules.",
+   "explanations": [
+    "Correct.",
+    "Hepatitis in children.",
+    "Tumor cells in elderly.",
+    "Nazi doctors' trials."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 Abuses in human experimentation (PDF p. 24)",
+   "quote": "WHO WERE NOT TREATED DESPITE THE DISCOVERY OF PENICILLIN"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Disabled children at Willowbrook were deliberately infected with which virus?",
+   "options": [
+    "Hepatitis",
+    "Syphilis",
+    "HIV",
+    "Measles"
+   ],
+   "answer": "A",
+   "rationale": "At Willowbrook State Hospital, children were inoculated with hepatitis virus, with consent coerced from parents.",
+   "explanations": [
+    "Correct.",
+    "Tuskegee.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 Recent sources of bioethics (PDF p. 28)",
+   "quote": "injecting hepatitis virus injected on handicapped children with consent coerced from parents"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Which ancient source gave medicine the principle 'first, do no harm'?",
+   "options": [
+    "Hippocratic Oath",
+    "Oath of Maimonides",
+    "Percival's Code",
+    "Nuremberg Code"
+   ],
+   "answer": "A",
+   "rationale": "The Hippocratic writings are a remote source of bioethics: do no harm, with paternalism.",
+   "explanations": [
+    "Correct.",
+    "Empathy and respect.",
+    "18th-century code.",
+    "1947."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 Remote sources of bioethics (PDF p. 27)",
+   "quote": "Hippocratic Oath — \"first do no harm\""
+  },
+  {
+   "subject": "NP V",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Applying ethical principles to a specific patient case at the bedside is called:",
+   "options": [
+    "Clinical bioethics",
+    "General bioethics",
+    "Particular bioethics",
+    "Meta-ethics"
+   ],
+   "answer": "A",
+   "rationale": "Clinical bioethics applies theories and principles to concrete clinical cases to guide action.",
+   "explanations": [
+    "Correct.",
+    "First principles.",
+    "Major issues.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 Subdivisions of bioethics (PDF p. 27)",
+   "quote": "Clinical Bioethics: Application of ethical theories and accepted general principles to concrete clinical cases"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "Early nursing ethics (1880s–1960s) was mainly based on:",
+   "options": [
+    "Virtues and relationships",
+    "Legal liability",
+    "Cost control",
+    "Hospital rules only"
+   ],
+   "answer": "A",
+   "rationale": "Early nursing ethics was virtue-, relationship- and vocation-oriented, a preventive ethics, not problem-oriented.",
+   "explanations": [
+    "Correct.",
+    "Not the focus.",
+    "Not the focus.",
+    "Not the focus."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Healthcare Ethics (2023), Ch. 1 Historical perspectives (PDF p. 19)",
+   "quote": "it is virtue-oriented, relationally- oriented, and call or vocation-oriented"
+  }
+ ]
+}
