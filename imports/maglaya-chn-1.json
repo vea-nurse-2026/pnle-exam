@@ -1,0 +1,725 @@
+{
+ "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009)",
+ "questions": [
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Community health nursing is broader than public health nursing because it also includes:",
+   "options": [
+    "Occupational and school nursing",
+    "Hospital ward nursing",
+    "Operating room nursing",
+    "Private duty nursing"
+   ],
+   "answer": "A",
+   "rationale": "CHN includes public health nursing, occupational health nursing and school nursing; hospital nursing is the other major field.",
+   "explanations": [
+    "Correct.",
+    "Hospital nursing.",
+    "Hospital nursing.",
+    "Not in the CHN scope described."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Community health nursing (PDF p. 17)",
+   "quote": "it includes public health nursing, occupational health nursing and school nursing."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "In community health nursing, who is considered the primary client?",
+   "options": [
+    "The community",
+    "The individual patient",
+    "The family head",
+    "The barangay captain"
+   ],
+   "answer": "A",
+   "rationale": "CHN clients are individuals, families, population groups and the community, with the community as the primary client.",
+   "explanations": [
+    "Correct.",
+    "Entry point only.",
+    "One family member.",
+    "A leader, not the client."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Clients of CHN (PDF p. 18)",
+   "quote": "There are different levels of clientele in community health nursing—the individual, family, population group and community, with the latter as the primary client."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Which statement correctly describes community health nursing practice?",
+   "options": [
+    "It is continual, not episodic",
+    "It focuses mainly on curing illness",
+    "The nurse makes decisions for clients",
+    "It deals only with sick individuals"
+   ],
+   "answer": "A",
+   "rationale": "CHN is comprehensive, general and continual, aims at health promotion and disease prevention, and nurse and client collaborate as equals.",
+   "explanations": [
+    "Correct.",
+    "Promotion and prevention are the goals.",
+    "They collaborate as equals.",
+    "Serves well and sick."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Community health nursing (PDF p. 17)",
+   "quote": "Community health nursing practice is comprehensive, general, continual and not episodic"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Population Groups",
+   "situation": "",
+   "stem": "Pregnant women in a barangay who share common health needs and risks are best described as a:",
+   "options": [
+    "Population group",
+    "Community",
+    "Family",
+    "Social system"
+   ],
+   "answer": "A",
+   "rationale": "A population group shares characteristics, developmental stage or exposures and therefore common health problems.",
+   "explanations": [
+    "Correct.",
+    "Shares geography or values broadly.",
+    "Integrated, interdependent members.",
+    "Larger structure."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Population group (PDF p. 19)",
+   "quote": "A population group is a group of people who share common characteristics, developmental stage or common exposure to particular environmental factors"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "In the community-as-partner model, what lies at the core of the assessment wheel?",
+   "options": [
+    "The people of the community",
+    "The health center",
+    "The local government",
+    "The physical environment"
+   ],
+   "answer": "A",
+   "rationale": "The core is the people (demographics, values, beliefs, history), surrounded by eight subsystems.",
+   "explanations": [
+    "Correct.",
+    "One subsystem.",
+    "One subsystem.",
+    "One subsystem."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Community (PDF p. 20)",
+   "quote": "At the core of the assessment wheel are the people of the community—their demographics, values, beliefs and history."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "The three core functions of public health are assessment, policy development and:",
+   "options": [
+    "Assurance",
+    "Accreditation",
+    "Admission",
+    "Allocation"
+   ],
+   "answer": "A",
+   "rationale": "Assurance means making sure health services are effective, available and accessible.",
+   "explanations": [
+    "Correct.",
+    "Not a core function.",
+    "Not a core function.",
+    "Not a core function."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Public health (PDF p. 23)",
+   "quote": "Today public health could be defined in terms of its three core functions: assessment, policy development and assurance."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "The PHN regularly collects and analyzes barangay health data to guide program planning. This public health core function is:",
+   "options": [
+    "Assessment",
+    "Assurance",
+    "Policy development",
+    "Advocacy"
+   ],
+   "answer": "A",
+   "rationale": "Assessment is the regular collection and analysis of health data for planning and policy.",
+   "explanations": [
+    "Correct.",
+    "Ensures services.",
+    "Advocacy for policies.",
+    "Supports policy development."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Public health (PDF p. 23)",
+   "quote": "Assessment is the regular collection and analysis of health data."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "\"The science and art of preventing disease, prolonging life, and promoting health and efficiency through organized community effort\" is the definition of public health by:",
+   "options": [
+    "Winslow",
+    "Nightingale",
+    "Dunn",
+    "Orem"
+   ],
+   "answer": "A",
+   "rationale": "This is Winslow's (1920) classic definition of public health.",
+   "explanations": [
+    "Correct.",
+    "Environment and health.",
+    "High-level wellness.",
+    "Self-care."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Public health (PDF p. 23)",
+   "quote": "One of the most quoted definitions of public health is that of Winslow (1920)"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Under the Local Government Code (RA 7160), the rural health units and barangay health stations were devolved to the:",
+   "options": [
+    "Municipal governments",
+    "Provincial governments",
+    "Department of Health",
+    "Barangay councils only"
+   ],
+   "answer": "A",
+   "rationale": "In 1993, RHUs and BHSs went to municipal governments; provincial and district hospitals went to provinces.",
+   "explanations": [
+    "Correct.",
+    "Hospitals.",
+    "Retained regional hospitals.",
+    "Not the level."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Devolution (PDF p. 26)",
+   "quote": "the provincial governments and the rural health units (RHUs) and barangay health stations (BHSs) to the municipal governments."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Who chairs the Municipal Health Board?",
+   "options": [
+    "The mayor",
+    "The municipal health officer",
+    "The public health nurse",
+    "The DOH representative"
+   ],
+   "answer": "A",
+   "rationale": "At city and municipal level the mayor chairs the Local Health Board; the municipal health officer is vice chair.",
+   "explanations": [
+    "Correct.",
+    "Vice chair.",
+    "Not the chair.",
+    "Member."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Devolution (PDF p. 26)",
+   "quote": "At the city and municipal level, the LHB is composed of the following: mayor (chair), municipal health officer (vice chair)"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A main function of the Local Health Board is to:",
+   "options": [
+    "Propose the annual health budget",
+    "Issue nursing licenses",
+    "Treat patients directly",
+    "Approve national laws"
+   ],
+   "answer": "A",
+   "rationale": "The LHB proposes budgetary allocations for local health facilities and services.",
+   "explanations": [
+    "Correct.",
+    "PRC function.",
+    "Clinical staff.",
+    "Congress."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Devolution (PDF p. 26)",
+   "quote": "It is mandated to propose annual budgetary allocations for the operation and maintenance of health facilities and services"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A town's crude birth rate is 22 per 1,000 and crude death rate is 6 per 1,000. The rate of natural increase is:",
+   "options": [
+    "16 per 1,000",
+    "28 per 1,000",
+    "3.7 per 1,000",
+    "132 per 1,000"
+   ],
+   "answer": "A",
+   "rationale": "Rate of natural increase = CBR − CDR = 22 − 6 = 16 per 1,000 population.",
+   "explanations": [
+    "Correct.",
+    "Added.",
+    "Divided.",
+    "Multiplied."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Births and deaths (PDF p. 28)",
+   "quote": "the rate of natural increase in the country's population for the same year was 18.3 (23.1 minus 4.8) for every 1000 population"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "According to the WHO, a woman's death counts as a maternal death if it occurs during pregnancy or within how many days after the end of pregnancy?",
+   "options": [
+    "42 days",
+    "7 days",
+    "28 days",
+    "1 year"
+   ],
+   "answer": "A",
+   "rationale": "Maternal death: during pregnancy or within 42 days of its termination, from causes related to or aggravated by pregnancy, not accidental causes.",
+   "explanations": [
+    "Correct.",
+    "Too short.",
+    "Neonatal period.",
+    "Late maternal death."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Maternal mortality (PDF p. 29)",
+   "quote": "the death ofa woman while pregnant or within 42 days of termination of pregnancy"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A pregnant woman dies in a road accident. For vital statistics, this is:",
+   "options": [
+    "Not a maternal death",
+    "A direct maternal death",
+    "An indirect maternal death",
+    "A neonatal death"
+   ],
+   "answer": "A",
+   "rationale": "Maternal deaths exclude accidental or incidental causes.",
+   "explanations": [
+    "Correct.",
+    "Must be pregnancy-related.",
+    "Must be aggravated by pregnancy.",
+    "Infant."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Maternal mortality (PDF p. 29)",
+   "quote": "but not from accidental or incidental causes."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Primary health care was adopted as the approach to \"Health for All\" at the 1978 conference held in:",
+   "options": [
+    "Alma-Ata",
+    "Ottawa",
+    "Bangkok",
+    "Jakarta"
+   ],
+   "answer": "A",
+   "rationale": "The Declaration on Primary Health Care was signed at Alma-Ata, USSR, in 1978.",
+   "explanations": [
+    "Correct.",
+    "Health promotion, 1986.",
+    "Health promotion, 2005.",
+    "Health promotion, 1997."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Primary health care (PDF p. 31)",
+   "quote": "In 1978, representatives from 134 countries who attended the International Conference on Primary Health Care in Alma-Ata, USSR signed the Declaration"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Primary health care is essential health care made accessible to families \"at a cost the community can afford,\" in the spirit of:",
+   "options": [
+    "Self-reliance and self-determination",
+    "Dependence on government",
+    "Profit and competition",
+    "Hospital-based care"
+   ],
+   "answer": "A",
+   "rationale": "PHC stresses full community participation, affordability, self-reliance and self-determination.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Not PHC.",
+    "PHC is community-based."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Primary health care (PDF p. 32)",
+   "quote": "in the spirit of self reliance and self determination"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Which is one of the essential elements of primary health care?",
+   "options": [
+    "Provision of safe water and sanitation",
+    "Construction of tertiary hospitals",
+    "Organ transplantation",
+    "Cosmetic surgery"
+   ],
+   "answer": "A",
+   "rationale": "PHC elements include health education, nutrition, immunization, safe water and sanitation, MCH and FP, endemic disease control, treatment of common diseases and essential drugs.",
+   "explanations": [
+    "Correct.",
+    "Not an element.",
+    "Not an element.",
+    "Not an element."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Primary health care (PDF p. 32)",
+   "quote": "provision of safe water and basic sanitation"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A PHN works with the DepEd, DSWD and an NGO to address child malnutrition in a town. This PHC strategy is:",
+   "options": [
+    "Multisectoral linkage",
+    "Hospital referral",
+    "Vertical programming",
+    "Curative care"
+   ],
+   "answer": "A",
+   "rationale": "Because health problems are multi-causal, the CHN works with other sectors and NGOs (intersectoral linkage).",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Single-program.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Primary health care (PDF p. 32)",
+   "quote": "Multisectoral linkage ensures that the different facets of health problems are addressed."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "The Ottawa Charter (1986) defines health promotion as:",
+   "options": [
+    "Enabling control over health",
+    "Treating disease in hospitals",
+    "Giving out free medicines",
+    "Building more health centers"
+   ],
+   "answer": "A",
+   "rationale": "Health promotion is the process of enabling people to increase control over, and to improve, their health.",
+   "explanations": [
+    "Correct.",
+    "Curative.",
+    "Not the definition.",
+    "Not the definition."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Health promotion (PDF p. 33)",
+   "quote": "The Charter defines health promotion as \"the process of enabling people to increase control over, and to improve, their health\"."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Which is one of the five action areas of the Ottawa Charter?",
+   "options": [
+    "Building healthy public policy",
+    "Expanding hospital beds",
+    "Importing medicines",
+    "Increasing specialist doctors"
+   ],
+   "answer": "A",
+   "rationale": "The five areas: healthy public policy, supportive environments, community action, personal skills, and reorienting health services.",
+   "explanations": [
+    "Correct.",
+    "Not an area.",
+    "Not an area.",
+    "Not an area."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Health promotion (PDF p. 33)",
+   "quote": "building healthy public policy, creating supportive environments, strengthening community action, developing personal skills and reorienting health services"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A PHN actively looks for undiagnosed TB cases in a squatter area. This population-oriented role is:",
+   "options": [
+    "Case finder",
+    "Caregiver",
+    "Counselor",
+    "Role model"
+   ],
+   "answer": "A",
+   "rationale": "Clark groups CHN roles as client-oriented, delivery-oriented and population-oriented; case finding is population-oriented.",
+   "explanations": [
+    "Correct.",
+    "Client-oriented.",
+    "Client-oriented.",
+    "Client-oriented."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Roles of CHNs (PDF p. 18)",
+   "quote": "population- oriented roles (case finder, leader, change agent, community mobilizer, coalition builder, policy advocate, social marketer and researcher)."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "In evaluating an immunization program, the vaccines and syringes are considered the program's:",
+   "options": [
+    "Inputs",
+    "Outputs",
+    "Effects",
+    "Impact"
+   ],
+   "answer": "A",
+   "rationale": "Inputs are essential resources; outputs are services produced; effects result from outputs; impact is the long-range outcome.",
+   "explanations": [
+    "Correct.",
+    "Services delivered.",
+    "Results of outputs.",
+    "Long-range."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Evaluation (PDF p. 37)",
+   "quote": "Inputs are the important resources the program cannot do without (e.g., Iron and Vitamin A for a nutrition program and vaccines for an immunization program)."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A decrease in infant deaths in the municipality after 5 years of the immunization program reflects the program's:",
+   "options": [
+    "Impact",
+    "Input",
+    "Process",
+    "Output"
+   ],
+   "answer": "A",
+   "rationale": "Impact is the broad, long-range result of program effects.",
+   "explanations": [
+    "Correct.",
+    "Resources.",
+    "Activities.",
+    "Services produced."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Evaluation (PDF p. 38)",
+   "quote": "Impact is the outcome of program effects and is an expression of broader, long-range program objectives"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A PHN says, \"Documentation is just extra work.\" Which reason best supports careful documentation?",
+   "options": [
+    "Unwritten means not done",
+    "It lengthens the workday",
+    "It replaces patient care",
+    "It is only for supervisors"
+   ],
+   "answer": "A",
+   "rationale": "Documentation proves nursing judgment, protects against lawsuits, shows workload and supports research and QA.",
+   "explanations": [
+    "Correct.",
+    "Not a reason.",
+    "Not true.",
+    "Not only."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Documentation (PDF p. 38)",
+   "quote": "it is generally believed that what is not written was not done"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "When advocating for a vulnerable community before the municipal council, the nurse should:",
+   "options": [
+    "Respect its right to decide",
+    "Decide for the community",
+    "Voice only her own views",
+    "Withhold supporting data"
+   ],
+   "answer": "A",
+   "rationale": "Advocacy articulates clients' perspectives while respecting their autonomy, until they can speak for themselves.",
+   "explanations": [
+    "Correct.",
+    "Violates autonomy.",
+    "Not advocacy.",
+    "Data strengthens advocacy."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Advocacy (PDF p. 40)",
+   "quote": "in doing advocacy, they uphold a client's autonomy, which means that they reserve for their clients the right to make their own decisions."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "The health center has only one dose of an expensive medicine left and two patients with the same need. Following the equity rule, the PHN gives it to:",
+   "options": [
+    "The patient less able to pay",
+    "The patient who came first",
+    "The nurse's relative",
+    "The patient who asks loudest"
+   ],
+   "answer": "A",
+   "rationale": "Distributive justice and the equity rule: scarce resources go to the one in greater need, including inability to pay.",
+   "explanations": [
+    "Correct.",
+    "Not the rule.",
+    "Unethical.",
+    "Not the rule."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Ethicolegal aspects (PDF p. 45)",
+   "quote": "the scarce resources should be given to the one who is in greater need. \"Need\" is dictated not only by one's health condition but also by his inability to pay."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Integrated: Professional Practice, Ethics & Law",
+   "situation": "",
+   "stem": "A mother refuses the IUD offered at the health center. The PHN should:",
+   "options": [
+    "Continue giving her other health services",
+    "Refuse her child's immunization",
+    "Report her to the barangay",
+    "Insist until she agrees"
+   ],
+   "answer": "A",
+   "rationale": "Clients' refusal of a specific FP method should not affect their access to other health services.",
+   "explanations": [
+    "Correct.",
+    "Violates rights.",
+    "Not appropriate.",
+    "Coercion."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 Ethicolegal aspects (PDF p. 45)",
+   "quote": "Clients' refusal (e.g., specific FP methods) should not affect their access to other health services."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Population Groups",
+   "situation": "",
+   "stem": "Most activities of school nurses focus on health promotion and disease prevention because:",
+   "options": [
+    "Pupils are generally well",
+    "Schools have hospitals",
+    "Teachers handle treatment",
+    "Pupils are mostly sick"
+   ],
+   "answer": "A",
+   "rationale": "School children (like workers) are generally well, so school nursing centers on promotion, prevention and early detection.",
+   "explanations": [
+    "Correct.",
+    "Not true.",
+    "Not their role.",
+    "Not true."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 School nursing (PDF p. 44)",
+   "quote": "school children who are in school are generally well. For this reason, most of the activities of school nurses are focused on health advocacy, health promotion, disease prevention"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "In the absence of the rural health physician, who manages the rural health unit?",
+   "options": [
+    "The public health nurse",
+    "The rural health midwife",
+    "The barangay health worker",
+    "The sanitary inspector"
+   ],
+   "answer": "A",
+   "rationale": "Among the PHN's management functions is managing the RHU when the rural health physician is absent.",
+   "explanations": [
+    "Correct.",
+    "Supervised by PHN.",
+    "Volunteer.",
+    "Sanitation role."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 PHN functions (PDF p. 41)",
+   "quote": "Manages the RHU in the absence of the rural health physician (RHP)."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "The PHN reviews the barangay health plans of the midwives and guides them in corrective measures. This function is:",
+   "options": [
+    "Supervision",
+    "Direct nursing care",
+    "Health education",
+    "Research"
+   ],
+   "answer": "A",
+   "rationale": "The PHN supervises rural health midwives, including technical supervision of barangay health plans.",
+   "explanations": [
+    "Correct.",
+    "Client care.",
+    "Teaching clients.",
+    "Inquiry."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 1 PHN functions (PDF p. 42)",
+   "quote": "Guides the midwives in the formulation of barangay health plans"
+  }
+ ]
+}

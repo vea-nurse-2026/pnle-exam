@@ -1,0 +1,773 @@
+{
+ "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009)",
+ "questions": [
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "The first part of community diagnosis, considered the \"keystone\" of the community health nursing process, is:",
+   "options": [
+    "Community assessment",
+    "Program evaluation",
+    "Implementation",
+    "Health education"
+   ],
+   "answer": "A",
+   "rationale": "Community assessment collects and analyzes data on factors influencing the population's health.",
+   "explanations": [
+    "Correct.",
+    "Last.",
+    "Later step.",
+    "An intervention."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Community diagnosis (PDF p. 152)",
+   "quote": "This is the first part of the community diagnostic process called the community assessment and is considered to be the \"keystone\" of community health nursing process."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "After a sudden dengue outbreak in a barangay, the PHN should conduct which type of community diagnosis?",
+   "options": [
+    "Problem-oriented",
+    "Comprehensive",
+    "Census",
+    "Windshield survey only"
+   ],
+   "answer": "A",
+   "rationale": "A problem-oriented assessment focuses on a specific problem such as an outbreak or disaster; comprehensive assessment gathers general information.",
+   "explanations": [
+    "Correct.",
+    "Broad, for unfamiliar community.",
+    "Population count.",
+    "Only initial appraisal."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Types of community diagnosis (PDF p. 153)",
+   "quote": "Oftentimes, the nurse is confronted with a specific problem area like a disaster situation or an outbreak of disease. In these instances, a problem-oriented assessment will have to be conducted."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A newly assigned PHN drives around the barangay to get a quick feel of its houses, roads and people before planning the community diagnosis. This is a:",
+   "options": [
+    "Windshield survey",
+    "Census",
+    "Key informant interview",
+    "Focus group discussion"
+   ],
+   "answer": "A",
+   "rationale": "A rapid appraisal by ocular or windshield survey gives a bird's-eye view before the actual community diagnosis.",
+   "explanations": [
+    "Correct.",
+    "Full enumeration.",
+    "Expert interview.",
+    "Group discussion."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Collecting the data (PDF p. 160)",
+   "quote": "A common approach is to perform a rapid appraisal through an ocular survey or what others call as windshield survey."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "The nurse uses barangay records of births and deaths compiled by the municipal health office. These are:",
+   "options": [
+    "Secondary data",
+    "Primary data",
+    "Qualitative data only",
+    "Experimental data"
+   ],
+   "answer": "A",
+   "rationale": "Secondary data are existing data collected by others; primary data are collected directly by the nurse for the objectives.",
+   "explanations": [
+    "Correct.",
+    "Collected by the nurse.",
+    "Not necessarily.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Determining the data (PDF p. 159)",
+   "quote": "Secondary data are existing data that were obtained by other people which the nurse can use"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "To learn about the barangay's health programs, the nurse interviews the barangay kagawad for health. This method is a:",
+   "options": [
+    "Key informant interview",
+    "Focus group discussion",
+    "Survey of all households",
+    "Participant observation"
+   ],
+   "answer": "A",
+   "rationale": "A key informant interview targets a person who is an expert or authority on the subject.",
+   "explanations": [
+    "Correct.",
+    "Group.",
+    "Many respondents.",
+    "Living with the community."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Interviews (PDF p. 161)",
+   "quote": "When a person to be an expert or an authority on a specific subject is interviewed, this is known as the Key Informant Interview (KII)."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "In the census, a seaman is counted in his hometown even though he is abroad on census day. This is the:",
+   "options": [
+    "De jure method",
+    "De facto method",
+    "Sample survey",
+    "Registration system"
+   ],
+   "answer": "A",
+   "rationale": "De jure assigns people to their usual residence; de facto assigns them where they are physically present on census day.",
+   "explanations": [
+    "Correct.",
+    "Physical location.",
+    "Not a full count.",
+    "Vital events."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Demography (PDF p. 180)",
+   "quote": "The de jure method is done when people are assigned to the place where they usually live regardless of where they are at the time of the census."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Births, deaths and marriages recorded by the local civil registrar are sources of demographic data called:",
+   "options": [
+    "Registration systems",
+    "Census",
+    "Sample surveys",
+    "Field trials"
+   ],
+   "answer": "A",
+   "rationale": "Registration systems record vital events such as births, deaths and marriages.",
+   "explanations": [
+    "Correct.",
+    "Periodic enumeration.",
+    "Sample of population.",
+    "Experiments."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Sources of demographic data (PDF p. 181)",
+   "quote": "Registration systems such that collected by the civil registrar's office deal with recording of vital events in the community."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A barangay has 520 males and 480 females. The sex ratio is about:",
+   "options": [
+    "108",
+    "92",
+    "52",
+    "48"
+   ],
+   "answer": "A",
+   "rationale": "Sex ratio = males ÷ females × 100 = 520 ÷ 480 × 100 ≈ 108 males per 100 females.",
+   "explanations": [
+    "Correct.",
+    "Inverted.",
+    "Percent males.",
+    "Percent females."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Population composition (PDF p. 182)",
+   "quote": "The sex ratio represents the number of males for every 100 females in the population."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A town has 3,000 people aged 0–14, 500 aged 65 and above, and 5,000 aged 15–64. The dependency ratio is:",
+   "options": [
+    "70",
+    "60",
+    "10",
+    "41"
+   ],
+   "answer": "A",
+   "rationale": "(0–14 + 65+) ÷ (15–64) × 100 = 3,500 ÷ 5,000 × 100 = 70 dependents per 100 productive.",
+   "explanations": [
+    "Correct.",
+    "Young only.",
+    "Old only.",
+    "Percent of total."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Dependency ratio (PDF p. 182)",
+   "quote": "The dependency ratio represents the number of economically dependent for every 100 economically productive."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A population pyramid with a broad base and narrow top shows a population that is:",
+   "options": [
+    "Young, with high birth rates",
+    "Mostly elderly",
+    "Shrinking rapidly",
+    "Mostly male"
+   ],
+   "answer": "A",
+   "rationale": "The youngest age group is the base bar; a wide base means many children and high fertility.",
+   "explanations": [
+    "Correct.",
+    "Would be top-heavy.",
+    "Narrow base.",
+    "Shown left vs right."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Population pyramid (PDF p. 183)",
+   "quote": "The first bar represents the youngest age group and drawn at the base of the pyramid."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A family of 8 sleeps in 2 rooms. The crowding index is:",
+   "options": [
+    "4",
+    "16",
+    "0.25",
+    "10"
+   ],
+   "answer": "A",
+   "rationale": "Crowding index = persons in household ÷ rooms used for sleeping = 8 ÷ 2 = 4; high crowding eases disease spread.",
+   "explanations": [
+    "Correct.",
+    "Multiplied.",
+    "Inverted.",
+    "Added."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Population distribution (PDF p. 185)",
+   "quote": "Crowding index is described by dividing the num o persons m a household with the number of rooms used by the family for sleeping."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A municipality with a midyear population of 40,000 had 920 live births. The crude birth rate is:",
+   "options": [
+    "23 per 1,000",
+    "2.3 per 1,000",
+    "43 per 1,000",
+    "9.2 per 1,000"
+   ],
+   "answer": "A",
+   "rationale": "CBR = live births ÷ midyear population × 1,000 = 920 ÷ 40,000 × 1,000 = 23.",
+   "explanations": [
+    "Correct.",
+    "Decimal error.",
+    "Wrong.",
+    "Wrong."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Vital statistics (PDF p. 185)",
+   "quote": "number of live births - x 1000 midyear population"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "The denominator of the general fertility rate is the midyear population of:",
+   "options": [
+    "Women aged 15–44",
+    "The whole community",
+    "Married couples",
+    "Live births"
+   ],
+   "answer": "A",
+   "rationale": "General fertility rate = live births ÷ midyear population of women 15–44 × 1,000.",
+   "explanations": [
+    "Correct.",
+    "Crude birth rate.",
+    "Not used.",
+    "Numerator."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Vital statistics (PDF p. 186)",
+   "quote": "midyear population of women, 15-44 years of age"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A town recorded 600 live births and 12 deaths of infants under 1 year. The infant mortality rate is:",
+   "options": [
+    "20 per 1,000 live births",
+    "2 per 1,000 live births",
+    "12 per 1,000 live births",
+    "50 per 1,000 live births"
+   ],
+   "answer": "A",
+   "rationale": "IMR = deaths under 1 year ÷ live births × 1,000 = 12 ÷ 600 × 1,000 = 20.",
+   "explanations": [
+    "Correct.",
+    "Decimal error.",
+    "Raw count.",
+    "Wrong."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Vital statistics (PDF p. 186)",
+   "quote": "deaths under one year of age - x 1000 number of live births"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "The denominator used for maternal mortality is the number of:",
+   "options": [
+    "Live births",
+    "Women aged 15–49",
+    "Pregnant women",
+    "Total deaths"
+   ],
+   "answer": "A",
+   "rationale": "Maternal deaths (pregnancy, delivery, puerperium) are divided by live births; today it is usually expressed per 100,000 live births.",
+   "explanations": [
+    "Correct.",
+    "Not this indicator.",
+    "Not countable reliably.",
+    "Proportionate mortality."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Vital statistics (PDF p. 186)",
+   "quote": "number of deaths due to pregnancy, delivery and puerperium Maternal Mortality Rate = - number of live births"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A measure of the overall health of a population that gives the percentage of deaths occurring at age 50 and above is the:",
+   "options": [
+    "Swaroop's index",
+    "Crude death rate",
+    "Case fatality rate",
+    "Attack rate"
+   ],
+   "answer": "A",
+   "rationale": "Swaroop's index = deaths among those 50 and over ÷ total deaths × 100; a high value suggests good health status.",
+   "explanations": [
+    "Correct.",
+    "Per population.",
+    "Per cases.",
+    "Per exposed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Vital statistics (PDF p. 187)",
+   "quote": "number of deaths among those 50 years and over - x 100 Swaroop's Index = - total deaths"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Of 40 diagnosed rabies cases in a province, 40 died. The case fatality rate is:",
+   "options": [
+    "100%",
+    "40%",
+    "4%",
+    "1%"
+   ],
+   "answer": "A",
+   "rationale": "CFR = deaths from a disease ÷ cases of that disease × 100 = 40 ÷ 40 × 100 = 100%.",
+   "explanations": [
+    "Correct.",
+    "Wrong.",
+    "Wrong.",
+    "Wrong."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Vital statistics (PDF p. 187)",
+   "quote": "number of deaths from a specified cause - x 100 number of cases of the same disease"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Which rate counts both old and new cases of a disease at a given time?",
+   "options": [
+    "Prevalence rate",
+    "Incidence rate",
+    "Attack rate",
+    "Case fatality rate"
+   ],
+   "answer": "A",
+   "rationale": "Prevalence includes old and new cases; incidence counts only new cases among the population at risk.",
+   "explanations": [
+    "Correct.",
+    "New cases only.",
+    "New cases in exposed.",
+    "Deaths among cases."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Morbidity rates (PDF p. 186)",
+   "quote": "number of old and new cases of a disease population examined"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Of 120 guests who ate at a fiesta, 30 developed diarrhea within a day. The attack rate is:",
+   "options": [
+    "25%",
+    "4%",
+    "30%",
+    "90%"
+   ],
+   "answer": "A",
+   "rationale": "Attack rate = new cases ÷ population at risk (exposed) × 100 = 30 ÷ 120 × 100 = 25%.",
+   "explanations": [
+    "Correct.",
+    "Inverted.",
+    "Raw count.",
+    "Unaffected share."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Descriptive epidemiology (PDF p. 195)",
+   "quote": "It represents the incidence of the illness among the exposed population."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "In the ecologic triad of disease causation, the three elements are agent, host and:",
+   "options": [
+    "Environment",
+    "Vector",
+    "Vaccine",
+    "Hospital"
+   ],
+   "answer": "A",
+   "rationale": "The ecologic triad stresses the interaction of agent, host and environment; a change in any one disturbs equilibrium.",
+   "explanations": [
+    "Correct.",
+    "Part of environment.",
+    "Not an element.",
+    "Not an element."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Multiple causation (PDF p. 187)",
+   "quote": "the ecologic triad is most helpful to the nurse because it highlights not only the host's and agent's roles in disease development but also regards the role of the environment"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Lack of iodine causing goiter is an example of which type of agent?",
+   "options": [
+    "Nutritive",
+    "Biological",
+    "Chemical",
+    "Physical"
+   ],
+   "answer": "A",
+   "rationale": "Nutritive agents include iron or iodine deficiency and cholesterol; biological agents are microorganisms.",
+   "explanations": [
+    "Correct.",
+    "Microorganisms.",
+    "Lead, mercury.",
+    "Radiation, humidity."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Agent types (PDF p. 188)",
+   "quote": "iron or iodine deficiency, cholesterol"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Immunizing children against measles is which level of prevention?",
+   "options": [
+    "Primary",
+    "Secondary",
+    "Tertiary",
+    "Rehabilitative"
+   ],
+   "answer": "A",
+   "rationale": "Primary prevention includes health promotion and specific protection (immunization, chemoprophylaxis).",
+   "explanations": [
+    "Correct; specific protection.",
+    "Early detection.",
+    "Limits disability.",
+    "Tertiary level."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Levels of prevention (PDF p. 189)",
+   "quote": "Specific measures include provision of immunization and prophylaxis to vulnerable or at-risk groups"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A blood pressure screening drive in the barangay hall is which level of prevention?",
+   "options": [
+    "Secondary",
+    "Primary",
+    "Tertiary",
+    "Health promotion only"
+   ],
+   "answer": "A",
+   "rationale": "Secondary prevention identifies and treats problems early: screening, case finding, prompt treatment.",
+   "explanations": [
+    "Correct.",
+    "Before disease.",
+    "Limits disability.",
+    "Part of primary."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Levels of prevention (PDF p. 189)",
+   "quote": "Such interventions include screening, case finding, disease surveillance, prompt and appropriate treatment."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A sheltered workshop for clients recovering from mental illness is an example of:",
+   "options": [
+    "Tertiary prevention",
+    "Primary prevention",
+    "Secondary prevention",
+    "Specific protection"
+   ],
+   "answer": "A",
+   "rationale": "Tertiary prevention limits disability and rehabilitates, e.g., day care centers and sheltered workshops.",
+   "explanations": [
+    "Correct.",
+    "Before disease.",
+    "Early detection.",
+    "Primary."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Levels of prevention (PDF p. 190)",
+   "quote": "Day care centers and sheltered workshops are examples of opportunities to achieve the objective of tertiary prevention in mental illness and drug abuse."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "In the natural history of disease, the stage when risk factors are present but disease has not developed is:",
+   "options": [
+    "Prepathogenesis",
+    "Early pathogenesis",
+    "Discernible lesions",
+    "Advanced disease"
+   ],
+   "answer": "A",
+   "rationale": "Prepathogenesis (susceptibility): factors favoring disease are present but disease has not developed.",
+   "explanations": [
+    "Correct.",
+    "Changes have begun.",
+    "Detectable by tests.",
+    "Clear signs and symptoms."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Natural history of disease (PDF p. 189)",
+   "quote": "Prepathogenesis or susceptibility — in this stage, disease has not developed but factors that favor its occurrence are present."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Screening tests differ from diagnostic tests because screening:",
+   "options": [
+    "Is only a preliminary step to diagnosis",
+    "Gives a definite diagnosis",
+    "Is done only on sick people",
+    "Is always expensive"
+   ],
+   "answer": "A",
+   "rationale": "Screening presumptively identifies unrecognized disease in apparently well people; confirmation is still needed.",
+   "explanations": [
+    "Correct.",
+    "Not definitive.",
+    "Done on well people.",
+    "Meant to be rapid and cheap."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Descriptive epidemiology (PDF p. 193)",
+   "quote": "It is NOT a diagnostic measure but a preliminary step to diagnosis."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Malaria is always present at a low, steady level in some upland provinces. This pattern is:",
+   "options": [
+    "Endemic",
+    "Epidemic",
+    "Sporadic",
+    "Pandemic"
+   ],
+   "answer": "A",
+   "rationale": "Endemic means habitual presence of disease in an area; epidemic is a marked rise; sporadic is occasional scattered cases.",
+   "explanations": [
+    "Correct.",
+    "Marked rise.",
+    "Occasional.",
+    "Worldwide."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Descriptive epidemiology (PDF p. 195)",
+   "quote": "An endemic occurrence of disease implies the habitual presence of disease in a given geographic location"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Many guests fall ill within hours after eating contaminated food at the same party. This is a:",
+   "options": [
+    "Common source epidemic",
+    "Propagated epidemic",
+    "Secular variation",
+    "Cyclic variation"
+   ],
+   "answer": "A",
+   "rationale": "Common-source epidemics result from simultaneous exposure to one source; propagated epidemics spread person to person.",
+   "explanations": [
+    "Correct.",
+    "Person to person.",
+    "Long-term trend.",
+    "Recurring cycles."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Time pattern (PDF p. 196)",
+   "quote": "Common source epidemic is characterized by simultaneous exposure of a large number of susceptible to a common infectious agent"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Lung cancer incidence is 2.0 per 1,000 among heavy smokers and 0.1 per 1,000 among nonsmokers. The relative risk is:",
+   "options": [
+    "20",
+    "1.9",
+    "0.05",
+    "2.1"
+   ],
+   "answer": "A",
+   "rationale": "Relative risk = incidence in exposed ÷ incidence in unexposed = 2.0 ÷ 0.1 = 20; smokers have 20 times the risk.",
+   "explanations": [
+    "Correct.",
+    "Attributable risk.",
+    "Inverted.",
+    "Added."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Risk estimates (PDF p. 197)",
+   "quote": "Incidence Rate among those exposed Relative Risk Ratio - Incidence Rate among those not exposed"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A relative risk of 1.0 means that:",
+   "options": [
+    "Exposure does not change the risk",
+    "Exposure doubles the risk",
+    "Exposure protects completely",
+    "The study is invalid"
+   ],
+   "answer": "A",
+   "rationale": "RR of 1.0 means equal risk in exposed and unexposed; above 1.0 means excess risk in the exposed.",
+   "explanations": [
+    "Correct.",
+    "That is 2.0.",
+    "Below 1.0 suggests protection.",
+    "Not implied."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Risk estimates (PDF p. 196)",
+   "quote": "A relative risk ratio of 1.0 means that the risk is the same for both exposed and non- exposed populations."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "In a case-control study, which measure of association is used because incidence cannot be computed?",
+   "options": [
+    "Odds ratio",
+    "Relative risk",
+    "Attributable risk",
+    "Crude death rate"
+   ],
+   "answer": "A",
+   "rationale": "Case-control studies start with disease status, so the odds ratio (ad/bc) estimates risk.",
+   "explanations": [
+    "Correct.",
+    "Needs incidence.",
+    "Needs incidence.",
+    "Not a measure of association."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Analytic study designs (PDF p. 199)",
+   "quote": "The incidence or prevalence rate can not be computed in case-control study design; hence, the odds ratio will be the"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "The branch of epidemiology that describes disease by person, place and time is:",
+   "options": [
+    "Descriptive epidemiology",
+    "Analytical epidemiology",
+    "Experimental epidemiology",
+    "Evaluation epidemiology"
+   ],
+   "answer": "A",
+   "rationale": "Descriptive epidemiology deals with frequency and distribution; analytical tests hypotheses on causes.",
+   "explanations": [
+    "Correct.",
+    "Causes.",
+    "Interventions.",
+    "Program effectiveness."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Epidemiological approach (PDF p. 193)",
+   "quote": "Descriptive Epidemiology concerned with disease distribution and frequency"
+  }
+ ]
+}

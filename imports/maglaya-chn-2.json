@@ -1,0 +1,725 @@
+{
+ "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009)",
+ "questions": [
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "Viewing the family as interdependent members, so that a change in one member affects the whole family, reflects which framework?",
+   "options": [
+    "Family systems theory",
+    "Developmental approach",
+    "Interactional approach",
+    "Structural-functional model"
+   ],
+   "answer": "A",
+   "rationale": "Systems theory sees the family as an interrelated, interdependent unit; a change in one part changes the whole.",
+   "explanations": [
+    "Correct.",
+    "Life cycle stages.",
+    "Meanings from interaction.",
+    "Roles, power, functions."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 2 Theoretical perspectives (PDF p. 52)",
+   "quote": "a change in any one part inevitably results in changes in the entire system."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "A nurse anticipates that a couple with a newborn must adjust to accepting a new member. She is applying which framework?",
+   "options": [
+    "Developmental approach",
+    "Systems theory",
+    "Interactional approach",
+    "Structural perspective"
+   ],
+   "answer": "A",
+   "rationale": "The developmental approach views the family through its life cycle and predicts stage-related demands.",
+   "explanations": [
+    "Correct.",
+    "Interdependence.",
+    "Meanings.",
+    "Roles and power."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 2 Theoretical perspectives (PDF p. 53)",
+   "quote": "in the life cycle stage of families with young children, the key principle of emotional process of transition is accepting new members into the family system"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "Which is the first family health task?",
+   "options": [
+    "Recognize the health condition or problem",
+    "Utilize community resources",
+    "Provide nursing care to sick members",
+    "Maintain a healthful home"
+   ],
+   "answer": "A",
+   "rationale": "The five tasks: recognize, decide on action, provide care, maintain a healthful home environment, use community resources.",
+   "explanations": [
+    "Correct.",
+    "Fifth.",
+    "Third.",
+    "Fourth."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 2 Family health tasks (PDF p. 54)",
+   "quote": "(1) recognize the presence of a wellness state or health condition or problem"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "First-level assessment in family nursing ends with the identification of:",
+   "options": [
+    "Health conditions or problems",
+    "Family nursing problems with causes",
+    "Goals of care",
+    "Evaluation criteria"
+   ],
+   "answer": "A",
+   "rationale": "First-level assessment identifies wellness states, health threats, health deficits and stress points; second-level identifies family nursing problems.",
+   "explanations": [
+    "Correct.",
+    "Second-level.",
+    "Planning.",
+    "Planning."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 2 Nursing assessment (PDF p. 55)",
+   "quote": "specific health conditions or problems are identified and categorized as: (1) wellness state/s; (2) health threats; (3) health deficits; and (4) stress points"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "\"Inability to provide nursing care to the bedridden grandfather due to lack of knowledge of the procedure\" is a statement derived from:",
+   "options": [
+    "Second-level assessment",
+    "First-level assessment",
+    "Community diagnosis",
+    "Physical examination only"
+   ],
+   "answer": "A",
+   "rationale": "Second-level assessment states the family's inability to perform a health task and the reason (etiology).",
+   "explanations": [
+    "Correct.",
+    "Identifies conditions only.",
+    "Community level.",
+    "Only one method."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 2 Steps in family nursing assessment (PDF p. 56)",
+   "quote": "The family nursing problem is stated as an inability to perform a specific health task and the reasons (etiology) why the family cannot perform such task."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "A family keeps rat poison on the kitchen table within reach of a toddler. In the typology, this is a:",
+   "options": [
+    "Health threat",
+    "Health deficit",
+    "Foreseeable crisis",
+    "Wellness state"
+   ],
+   "answer": "A",
+   "rationale": "Health threats are conditions conducive to disease or accident, e.g., improperly kept poisons and medicines.",
+   "explanations": [
+    "Correct.",
+    "Actual illness or disability.",
+    "Life transition.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 2 Typology (PDF p. 69)",
+   "quote": "pointed/sharp objects, poisons, and medicines improperly kept"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "A family member has untreated pulmonary tuberculosis. In the typology of family nursing problems, this is a:",
+   "options": [
+    "Health deficit",
+    "Health threat",
+    "Stress point",
+    "Wellness potential"
+   ],
+   "answer": "A",
+   "rationale": "Health deficits are instances of failure in health maintenance: illness states, failure to thrive, disability.",
+   "explanations": [
+    "Correct.",
+    "Risk only.",
+    "Transition.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 2 Typology (PDF p. 70)",
+   "quote": "Presence of Health Deficits — instances of failure in health maintenance."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "For the other members of the family with a TB patient, the risk of catching the disease is classified as a:",
+   "options": [
+    "Health threat",
+    "Health deficit",
+    "Foreseeable crisis",
+    "Wellness state"
+   ],
+   "answer": "A",
+   "rationale": "Threat of cross-infection from a communicable disease case is a health threat.",
+   "explanations": [
+    "Correct.",
+    "They are not ill yet.",
+    "Not a transition.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 2 Typology (PDF p. 69)",
+   "quote": "Threat of cross infection from a communicable disease case"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "A family's eldest child is starting school next month. This is classified as a:",
+   "options": [
+    "Foreseeable crisis",
+    "Health deficit",
+    "Health threat",
+    "Disability"
+   ],
+   "answer": "A",
+   "rationale": "Stress points are anticipated periods of unusual demand: marriage, pregnancy, entry to school, adolescence, job loss, death.",
+   "explanations": [
+    "Correct.",
+    "Illness.",
+    "Risk condition.",
+    "Deficit."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 2 Typology (PDF p. 71)",
+   "quote": "Entrance at school"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "A 2-year-old who is not gaining weight according to normal rates represents a:",
+   "options": [
+    "Health deficit",
+    "Health threat",
+    "Wellness potential",
+    "Stress point"
+   ],
+   "answer": "A",
+   "rationale": "Failure to thrive/develop according to normal rates is a health deficit.",
+   "explanations": [
+    "Correct.",
+    "Risk only.",
+    "Not this.",
+    "Transition."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 2 Typology (PDF p. 70)",
+   "quote": "Failure to thrive/develop according to normal rates"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "A couple knows their son has a lump but refuses to have it checked because they fear it is cancer. Their nursing problem is inability to recognize the problem due to:",
+   "options": [
+    "Denial from fear of the diagnosis",
+    "Lack of community resources",
+    "Lack of equipment",
+    "Poor home sanitation"
+   ],
+   "answer": "A",
+   "rationale": "Under the first health task, denial about the problem's existence or severity due to fear of consequences is a listed cause.",
+   "explanations": [
+    "Correct.",
+    "Fifth task issue.",
+    "Third task issue.",
+    "Fourth task issue."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 2 Typology (PDF p. 71)",
+   "quote": "Denial about its existence or severity as a result of fear of consequences of diagnosis of problem"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "A mother cannot decide whether to bring her sick child to the health center because her husband and mother-in-law disagree. This falls under inability to:",
+   "options": [
+    "Decide on health action",
+    "Recognize the problem",
+    "Provide a healthful home",
+    "Maintain wellness"
+   ],
+   "answer": "A",
+   "rationale": "Conflicting opinions among family members about action to take is a reason under the decision-making health task.",
+   "explanations": [
+    "Correct.",
+    "They recognize it.",
+    "Not the issue.",
+    "Not the issue."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 2 Typology (PDF p. 71)",
+   "quote": "Conflicting opinions among family members/significant others regarding action to take"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "A family stopped going to the health center after a health worker scolded them. Their problem is failure to utilize community resources due to:",
+   "options": [
+    "Bad past experience",
+    "Lack of disease knowledge",
+    "Poor home sanitation",
+    "Low salience of problem"
+   ],
+   "answer": "A",
+   "rationale": "A previous unpleasant experience with health workers is a listed reason under the fifth health task.",
+   "explanations": [
+    "Correct.",
+    "Different task.",
+    "Different task.",
+    "Decision-making issue."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 2 Typology (PDF p. 73)",
+   "quote": "Previous unpleasant experience with health worker"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "Which tool graphically displays family members and their relationships across three or more generations?",
+   "options": [
+    "Genogram",
+    "Ecomap",
+    "Family-life chronology",
+    "Assessment data base"
+   ],
+   "answer": "A",
+   "rationale": "A genogram shows generational structure and relationships; an ecomap shows the family's ties with outside systems.",
+   "explanations": [
+    "Correct.",
+    "External relationships.",
+    "Interactive processes over time.",
+    "Comprehensive data tool."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 2 Data-gathering tools (PDF p. 62)",
+   "quote": "Genograms graphically display information about family members and their relationships over at least three"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "To see how a family relates with the school, church, health center and relatives outside the home, the nurse uses a(n):",
+   "options": [
+    "Ecomap",
+    "Genogram",
+    "Growth chart",
+    "Family budget"
+   ],
+   "answer": "A",
+   "rationale": "An ecomap diagrams the family's relationships with the external environment and its resources.",
+   "explanations": [
+    "Correct.",
+    "Generations.",
+    "Child growth.",
+    "Finances."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 2 Data-gathering tools (PDF p. 63)",
+   "quote": "An ecomap visually diagrams the family? s interactions or relationships with the external environment and its resources."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "During a home visit, the nurse sees that the family's water container is uncovered and the toilet is unsanitary. The data-gathering method used is:",
+   "options": [
+    "Observation",
+    "Interview",
+    "Record review",
+    "Physical examination"
+   ],
+   "answer": "A",
+   "rationale": "Observation uses the senses to gather data on the home, interactions and conditions.",
+   "explanations": [
+    "Correct.",
+    "Asking questions.",
+    "Documents.",
+    "Body examination."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 2 Data-gathering methods (PDF p. 59)",
+   "quote": "This method of data collection is done through the use of the sensory capacities-sight, hearing, smell and touch."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "In the scale for ranking family health problems, which criterion carries the heaviest weight (2)?",
+   "options": [
+    "Modifiability",
+    "Nature of the problem",
+    "Preventive potential",
+    "Salience"
+   ],
+   "answer": "A",
+   "rationale": "Weights: nature 1, modifiability 2, preventive potential 1, salience 1; total 5.",
+   "explanations": [
+    "Correct.",
+    "Weight 1.",
+    "Weight 1.",
+    "Weight 1."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 3 Scale for ranking (PDF p. 81)",
+   "quote": "The highest score is 5, equivalent to the total weight."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "\"The probability of success in improving or eliminating the problem through intervention\" defines which priority-setting criterion?",
+   "options": [
+    "Modifiability",
+    "Salience",
+    "Preventive potential",
+    "Nature of the problem"
+   ],
+   "answer": "A",
+   "rationale": "Modifiability is the probability of success in enhancing wellness or minimizing the problem through intervention.",
+   "explanations": [
+    "Correct.",
+    "Family's perception.",
+    "Future problems prevented.",
+    "Type of condition."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 3 Prioritizing (PDF p. 78)",
+   "quote": "Modifiability ofthe condition or problem - refers to the probability ofsuccess in enhancing the wellness state, improving the condition"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "The family's own perception of how serious and urgent a problem is refers to:",
+   "options": [
+    "Salience",
+    "Modifiability",
+    "Preventive potential",
+    "Nature of the condition"
+   ],
+   "answer": "A",
+   "rationale": "Salience is the family's perception and evaluation of the problem's seriousness and urgency; felt needs raise the score.",
+   "explanations": [
+    "Correct.",
+    "Success probability.",
+    "Future problems.",
+    "Type."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 3 Prioritizing (PDF p. 78)",
+   "quote": "Salience - refers to the family's perception and evaluation of the condition or problem in terms of seriousness and urgency of attention needed"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "In priority setting, which type of condition receives the lowest score under \"nature of the problem\"?",
+   "options": [
+    "Foreseeable crisis",
+    "Health deficit",
+    "Wellness state",
+    "Health threat"
+   ],
+   "answer": "A",
+   "rationale": "Wellness states and health deficits get the highest score; foreseeable crisis the least, as Filipino families usually have support to cope.",
+   "explanations": [
+    "Correct.",
+    "Highest.",
+    "Highest.",
+    "Middle."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 3 Factors affecting priority-setting (PDF p. 80)",
+   "quote": "Foreseeable crisis is given the least weight because culture- linked variables/ factors usually provide our families with adequate support"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "A problem is \"partially modifiable\" (score 1 out of a highest of 2; weight 2). Its computed score for modifiability is:",
+   "options": [
+    "1",
+    "2",
+    "0.5",
+    "4"
+   ],
+   "answer": "A",
+   "rationale": "(Score ÷ highest score) × weight = (1 ÷ 2) × 2 = 1.",
+   "explanations": [
+    "Correct.",
+    "Easily modifiable.",
+    "Forgot the weight.",
+    "Wrong formula."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 3 Scoring (PDF p. 81)",
+   "quote": "Divide the score by the highest possible score and multiply by the weight: (Score / Highest Score) x Weight"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "Which factor increases the preventive potential of a health problem?",
+   "options": [
+    "Exposure of a vulnerable group",
+    "Long, severe, advanced disease",
+    "Absence of any intervention",
+    "Irreversible damage"
+   ],
+   "answer": "A",
+   "rationale": "Exposure of high-risk groups and appropriate current management raise preventive potential; severity and long duration lower it.",
+   "explanations": [
+    "Correct.",
+    "Lowers it.",
+    "Lowers it.",
+    "Lowers it."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 3 Factors affecting priority-setting (PDF p. 80)",
+   "quote": "Exposure of any vulnerable or high-risk group increases the preventivepotential of a condition or problem."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "A cardinal principle in setting goals of family nursing care is that goals must be:",
+   "options": [
+    "Set jointly with the family",
+    "Set by the nurse alone",
+    "Set by the physician",
+    "Kept secret from the family"
+   ],
+   "answer": "A",
+   "rationale": "Joint goal setting ensures the family's commitment to achieving the goals.",
+   "explanations": [
+    "Correct.",
+    "Reduces commitment.",
+    "Not the principle.",
+    "Not the principle."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 3 Goals and objectives (PDF p. 82)",
+   "quote": "A cardinal principle in goal setting states that goals Inust be set jointly with the family."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "A rural family without a toilet does not see open defecation as a problem. This barrier to joint goal setting is:",
+   "options": [
+    "Failure to perceive the problem",
+    "Fear of consequences",
+    "Respect for elders",
+    "Lack of time"
+   ],
+   "answer": "A",
+   "rationale": "Often only the nurse sees the problem while the family is satisfied, e.g., improper waste disposal.",
+   "explanations": [
+    "Correct.",
+    "Different barrier.",
+    "Different barrier.",
+    "Different barrier."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 3 Goals and objectives (PDF p. 82)",
+   "quote": "Failure on the part of the taniily to perceive the existence of the problem."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "Which type of nurse-family contact gives the best chance to observe the actual care given by family members in their environment?",
+   "options": [
+    "Home visit",
+    "Clinic conference",
+    "Telephone call",
+    "Written note"
+   ],
+   "answer": "A",
+   "rationale": "The home visit is costly in time and effort but best for appraising relationships, the home and family competencies.",
+   "explanations": [
+    "Correct.",
+    "Less costly, less observation.",
+    "No observation.",
+    "No observation."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 3 Nurse-family contact (PDF p. 92)",
+   "quote": "the best opportunity to observe actual care given by family members"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "An advantage of the clinic conference over the home visit is that it:",
+   "options": [
+    "Lets the nurse use clinic equipment",
+    "Shows the home environment",
+    "Is always more personal",
+    "Needs no family effort"
+   ],
+   "answer": "A",
+   "rationale": "Clinic conferences are less expensive, allow use of equipment and other team members, and promote family self-responsibility.",
+   "explanations": [
+    "Correct.",
+    "Home visit advantage.",
+    "Not necessarily.",
+    "Family must travel."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 3 Nurse-family contact (PDF p. 92)",
+   "quote": "The clinic or office conference is less expensive for the nurse and provides the opportunity to use equipment that cannot be taken to the home."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "In a two-way referral system, who fills out the second half of the referral form?",
+   "options": [
+    "The receiving agency",
+    "The referring nurse",
+    "The patient",
+    "The barangay captain"
+   ],
+   "answer": "A",
+   "rationale": "The receiving agency records services done, findings and recommendations and sends it back via the family.",
+   "explanations": [
+    "Correct.",
+    "First half.",
+    "Carries the form.",
+    "Not involved."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 3 Two-way referral (PDF p. 90)",
+   "quote": "The personnel ofthe agency to which referral is made fills up the second hatfof the form"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "The nurse and a hypertensive client sign an agreement listing steps to reduce salt intake, with agreed rewards for each step achieved. This intervention is:",
+   "options": [
+    "Contracting",
+    "Referral",
+    "Counseling only",
+    "Ecomapping"
+   ],
+   "answer": "A",
+   "rationale": "Contracting uses a written agreement and positive reinforcement to achieve complex behavior change.",
+   "explanations": [
+    "Correct.",
+    "Linking to agencies.",
+    "Not specific.",
+    "Assessment tool."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 3 Contracting (PDF p. 87)",
+   "quote": "Contracting provides a systematic method of increasing desirable client behavior through the use of the principle of positive reinforcement."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "To eliminate breeding sites of Aedes mosquitoes at home, the nurse teaches the family to:",
+   "options": [
+    "Change water in vases at least every 2 days",
+    "Leave old tires to collect rain",
+    "Store water in open drums",
+    "Plant more ornamental plants"
+   ],
+   "answer": "A",
+   "rationale": "Aedes aegypti breeds in clean stagnant water in artificial containers; change water and remove containers.",
+   "explanations": [
+    "Correct.",
+    "Breeding site.",
+    "Breeding site.",
+    "Not the measure."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 3 Home environment (PDF p. 88)",
+   "quote": "change water in flower vases at least every two days or not to allow water to remain stagnant in artificial containers"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Families (Normal & At Risk)",
+   "situation": "",
+   "stem": "For small group health discussions with families sharing the same problem, the ideal group size is about:",
+   "options": [
+    "8 members",
+    "30 members",
+    "2 members",
+    "50 members"
+   ],
+   "answer": "A",
+   "rationale": "A group of 8 is ideal, with a maximum of 15.",
+   "explanations": [
+    "Correct.",
+    "Too large.",
+    "Too small.",
+    "Too large."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 4 Competency-based teaching (PDF p. 101)",
+   "quote": "For this technique to be effective a group of 8 is ideal with a maximum of 15."
+  }
+ ]
+}

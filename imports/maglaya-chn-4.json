@@ -1,0 +1,509 @@
+{
+ "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009)",
+ "questions": [
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "A community that can identify its own problems, agree on priorities and act together to solve them shows:",
+   "options": [
+    "Community competence",
+    "Community dependence",
+    "Herd immunity",
+    "Social stratification"
+   ],
+   "answer": "A",
+   "rationale": "Community competence is the ability to collaborate in identifying needs, reach consensus on goals, agree on means and act together; it is linked to empowerment.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Immunity concept.",
+    "Social classes."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 9 Community competence (PDF p. 224)",
+   "quote": "Community competence is defined as the ability of the community to (a) collaborate effectively in identifying its problems and needs"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Unlike health education, community organizing aims mainly to:",
+   "options": [
+    "Mobilize people as a group",
+    "Change individual attitudes",
+    "Provide free medicines",
+    "Train hospital staff"
+   ],
+   "answer": "A",
+   "rationale": "Community organizing builds group problem-solving and decision-making so people act collectively for self-reliant development.",
+   "explanations": [
+    "Correct.",
+    "Health education focus.",
+    "Not the aim.",
+    "Not the aim."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 9 Community organizing (PDF p. 231)",
+   "quote": "the nurse's efforts are directed towards organizing and mobilizing the people to initiate and sustain changes as a group or as an organization."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Area selection, community profiling, and entry and integration with the people belong to which phase of community organizing?",
+   "options": [
+    "Preparatory phase",
+    "Organizational phase",
+    "Education and training phase",
+    "Phase-out"
+   ],
+   "answer": "A",
+   "rationale": "The preparatory phase includes area selection, profiling, entry and integration.",
+   "explanations": [
+    "Correct.",
+    "Forming the organization.",
+    "CHW training, community diagnosis.",
+    "Turnover."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 9 Community organizing phases (PDF p. 231)",
+   "quote": "Preparatory Phase. The acüvifies in the preparatory. phase include area selection, community profiling, entry in the community and integation with the people."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "During integration with a poor community, the nurse should:",
+   "options": [
+    "Choose a modest dwelling people will visit",
+    "Live in the mayor's house",
+    "Promise new projects quickly",
+    "Avoid local social activities"
+   ],
+   "answer": "A",
+   "rationale": "Integration guidelines: adapt the community's lifestyle, choose a modest dwelling, avoid raising expectations, join social activities.",
+   "explanations": [
+    "Correct.",
+    "Distances the poor.",
+    "Raises expectations.",
+    "Should participate."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 9 Integration (PDF p. 232)",
+   "quote": "Choose a modest dwelling which the people, especially the economically disadvantaged will not hesitate to enter."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Which guideline should a nurse follow when entering a new community for organizing work?",
+   "options": [
+    "Avoid raising the people's expectations",
+    "Ignore local officials",
+    "Promise funding for all needs",
+    "Stay only in the health center"
+   ],
+   "answer": "A",
+   "rationale": "The nurse is clear about objectives and limitations, recognizes local authorities and seeks people where they gather.",
+   "explanations": [
+    "Correct.",
+    "Recognize their role.",
+    "Raises expectations.",
+    "Seek people out."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 9 Integration (PDF p. 232)",
+   "quote": "Avoid raising expectations of the people. Be clear with your objectives and limitations."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "The most important quality the nurse looks for when spotting potential community leaders is:",
+   "options": [
+    "Commitment and people's trust",
+    "A college diploma",
+    "Family wealth",
+    "Party membership"
+   ],
+   "answer": "A",
+   "rationale": "Leaders need not be educated or affluent; they should understand community problems, have people's trust and be willing to work for change.",
+   "explanations": [
+    "Correct.",
+    "Not required.",
+    "Not required.",
+    "Not required."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 9 Organizational phase (PDF p. 232)",
+   "quote": "one important consideration in selecting potential leaders will be their willingness to work for the desired change."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Forming a core group of potential leaders from different sectors happens in which phase of community organizing?",
+   "options": [
+    "Organizational phase",
+    "Preparatory phase",
+    "Phase-out",
+    "Intersectoral collaboration phase"
+   ],
+   "answer": "A",
+   "rationale": "The organizational phase includes social preparation, spotting leaders, core group formation and setting up the organization.",
+   "explanations": [
+    "Correct.",
+    "Earlier.",
+    "Last.",
+    "Later."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 9 Organizational phase (PDF p. 232)",
+   "quote": "Organizational Phase. The organizational phase consists of activities leading to the formation of a people's organization."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "The community diagnosis and the training of community health workers are done in which COPAR phase?",
+   "options": [
+    "Education and training phase",
+    "Preparatory phase",
+    "Organizational phase",
+    "Phase-out"
+   ],
+   "answer": "A",
+   "rationale": "The education and training phase strengthens the organization through community diagnosis, CHW training, health services and leadership training.",
+   "explanations": [
+    "Correct.",
+    "Profiling, entry.",
+    "Core groups.",
+    "Turnover."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 9 Education and training phase (PDF p. 233)",
+   "quote": "This can be achieved by conducting the community diagnosis, training of community health workers, undertakng health services and mobilization and leadership SHIIS baining."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Who decides which residents will be trained as community health workers?",
+   "options": [
+    "The people, by criteria",
+    "The nurse alone",
+    "The mayor alone",
+    "The DOH regional office"
+   ],
+   "answer": "A",
+   "rationale": "After the community diagnosis, the community decides CHW roles and selects trainees based on agreed criteria.",
+   "explanations": [
+    "Correct.",
+    "Not participatory.",
+    "Not participatory.",
+    "Not the decision-maker."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 9 Training of CHWs (PDF p. 233)",
+   "quote": "Based on an agreed upon criteria, the people will decide who will be trained as community health workers"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Before designing training for barangay health workers, the nurse gives them a pre-test and a skills test. This step is the:",
+   "options": [
+    "Training needs assessment",
+    "Program evaluation",
+    "Phase-out",
+    "Core group formation"
+   ],
+   "answer": "A",
+   "rationale": "The TNA estimates trainees' entry competencies and guides the training curriculum.",
+   "explanations": [
+    "Correct.",
+    "After training.",
+    "End of organizing.",
+    "Organizational phase."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 9 Competency-based training (PDF p. 235)",
+   "quote": "This is done by giving them a pre-test to evaluate their level of knowledge and attitude and readiness"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "As the people's organization becomes able to manage its own health programs, the nurse gradually turns over work. This is the:",
+   "options": [
+    "Phase-out",
+    "Preparatory phase",
+    "Integration",
+    "Social preparation"
+   ],
+   "answer": "A",
+   "rationale": "In phase-out, the nurse prepares for turnover and follow-up until full disengagement.",
+   "explanations": [
+    "Correct.",
+    "Start.",
+    "Start.",
+    "Organizational."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 9 Phase-out (PDF p. 234)",
+   "quote": "the nurse gradually prepares for turn-over of work and develops a plan for monitoring and subsequent follow-up"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "The community organization links with NGOs and government agencies to get resources it cannot provide itself. This is the:",
+   "options": [
+    "Intersectoral collaboration",
+    "Preparatory phase",
+    "Integration phase",
+    "Area selection"
+   ],
+   "answer": "A",
+   "rationale": "As the organization grows, resources are sourced through collaboration with other organizations, facilitated by the nurse.",
+   "explanations": [
+    "Correct.",
+    "Earlier.",
+    "Earlier.",
+    "Earliest."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 9 Intersectoral collaboration (PDF p. 234)",
+   "quote": "Assistance and support in any form can be funneled into the organization through collaboration with other organizations and communities."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "In community health nursing, supervision of midwives and health workers is best seen as:",
+   "options": [
+    "Coaching and enabling",
+    "Fault-finding",
+    "Punishment of errors",
+    "Occasional inspection only"
+   ],
+   "answer": "A",
+   "rationale": "Supervision is developmental and enabling, aimed to remedy rather than punish poor performance; in CHN it is mainly coaching.",
+   "explanations": [
+    "Correct.",
+    "Not the aim.",
+    "Not the aim.",
+    "Too narrow."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 9 Supervision (PDF p. 239)",
+   "quote": "In community health nursing, supervision is seen more as a coaching (Gillies 1989) function rather than a function ofcontrol."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "What is the first step in making a supervisory plan for midwives?",
+   "options": [
+    "Assess supervisory needs",
+    "Set evaluation indicators",
+    "Conduct the visit",
+    "Write the final report"
+   ],
+   "answer": "A",
+   "rationale": "Steps: analyze supervisory needs, prioritize, set objectives, select strategies and resources, identify evaluation indicators.",
+   "explanations": [
+    "Correct.",
+    "Later step.",
+    "Implementation.",
+    "Later."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 9 Supervisory plan (PDF p. 240)",
+   "quote": "The nurse conducts a situational analysis focusing on supervisory needs assessment."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "At the closing part of a supervisory visit, the PHN should:",
+   "options": [
+    "Thank and plan next visit",
+    "List all errors publicly",
+    "Leave without discussion",
+    "Start a new topic"
+   ],
+   "answer": "A",
+   "rationale": "The visit has an opening, body and closure; closure expresses appreciation and plans the next visit with the worker.",
+   "explanations": [
+    "Correct.",
+    "Not supportive.",
+    "Not appropriate.",
+    "Not closure."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 9 Supervisory visit (PDF p. 241)",
+   "quote": "Closure — The nurse expresses appreciation and support extended during the visit. Together with the worker, she plans for the subsequent visit."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Population Groups",
+   "situation": "",
+   "stem": "A PHN plans care for all 60 hypertensive clients in her catchment area as a group. This is:",
+   "options": [
+    "Caseload management",
+    "Case management",
+    "Home visiting only",
+    "Family nursing"
+   ],
+   "answer": "A",
+   "rationale": "Caseload management addresses common problems of an aggregate in a program; case management is directed to individual clients.",
+   "explanations": [
+    "Correct.",
+    "Individual client.",
+    "One method.",
+    "Family unit."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 9 Caseload management (PDF p. 242)",
+   "quote": "Caseload management differs from case management because it focuses on the common problems of aggregates or groups."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "In program planning, which statement is a goal rather than an objective?",
+   "options": [
+    "Reduce child malnutrition in the barangay",
+    "Mothers will give complementary food at 6 months",
+    "80% of mothers will attend 4 feeding classes",
+    "Weigh all under-5s by March"
+   ],
+   "answer": "A",
+   "rationale": "A goal is a broad desired end addressing the health problem; objectives are specific and measurable.",
+   "explanations": [
+    "Correct.",
+    "Objective (behavior).",
+    "Specific objective.",
+    "Specific activity."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 8 Goal and objective setting (PDF p. 213)",
+   "quote": "It is generally broad and not constrained by time or resources. It states the ultimate desired state. Objectives are more precise."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "In the PRECEDE model, a mother's belief that measles vaccine causes fever is a(n):",
+   "options": [
+    "Predisposing factor",
+    "Enabling factor",
+    "Reinforcing factor",
+    "Administrative factor"
+   ],
+   "answer": "A",
+   "rationale": "Predisposing factors are knowledge, beliefs and attitudes; enabling are resources and access; reinforcing are rewards and social pressures.",
+   "explanations": [
+    "Correct.",
+    "Access, skills.",
+    "Feedback, pressure.",
+    "Policy level."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 8 Situational analysis (PDF p. 209)",
+   "quote": "Which of the behaviors are due to predisposing factors (beliefs, attitudes and knowledge)?"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Mothers do not bring children for vaccination because the health station is a 3-hour walk away. In the PRECEDE model, this is a(n):",
+   "options": [
+    "Enabling factor",
+    "Predisposing factor",
+    "Reinforcing factor",
+    "Social diagnosis"
+   ],
+   "answer": "A",
+   "rationale": "Enabling factors relate to the immediate environment, accessibility to resources and services.",
+   "explanations": [
+    "Correct.",
+    "Beliefs.",
+    "Rewards, pressure.",
+    "Quality of life."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 8 Situational analysis (PDF p. 209)",
+   "quote": "Which are due to enabling factors (influences of the immediate environment, accessibility to resources and services)?"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A youth stops smoking after his barkada praises him and his parents reward him. These are:",
+   "options": [
+    "Reinforcing factors",
+    "Predisposing factors",
+    "Enabling factors",
+    "Epidemiologic factors"
+   ],
+   "answer": "A",
+   "rationale": "Reinforcing factors are rewards, punishments or feedback following a behavior, including social pressure.",
+   "explanations": [
+    "Correct.",
+    "Beliefs.",
+    "Access.",
+    "Disease data."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 7 Causality and association (PDF p. 192)",
+   "quote": "Reinforcing factor — any reward or punishment or any feedback following or anticipated as a consequence of health behavior"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Which three approaches does the book identify as needed for sustainable community health development?",
+   "options": [
+    "Community-based, integrated, comprehensive",
+    "Hospital-based, curative, specialized",
+    "Top-down, vertical, sectoral",
+    "Donor-driven, short-term, pilot"
+   ],
+   "answer": "A",
+   "rationale": "Sustainable development uses community-based (empowering), integrated and comprehensive (root-cause) approaches.",
+   "explanations": [
+    "Correct.",
+    "Curative focus.",
+    "Not participatory.",
+    "Not sustainable."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 9 Community organizing (PDF p. 230)",
+   "quote": "Community-based approach which empowers the people to address their health needs and problems"
+  }
+ ]
+}

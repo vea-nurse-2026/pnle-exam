@@ -1,0 +1,653 @@
+{
+ "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009)",
+ "questions": [
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "A 6-year-old has intense itching around the anus at night and disturbed sleep. The best way to confirm pinworm infection is:",
+   "options": [
+    "Morning perianal tape swab",
+    "Midnight blood smear",
+    "Sputum examination",
+    "Routine urinalysis"
+   ],
+   "answer": "A",
+   "rationale": "Enterobius eggs are laid on perianal skin; collect by tape swab in the morning before bathing or defecation.",
+   "explanations": [
+    "Correct.",
+    "Malaria/filaria.",
+    "Paragonimus.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Enterobius vermicularis (PDF p. 358)",
+   "quote": "the choice of diagnosis is recovery of eggs using the Scotch tape method in swabbing the perianal region"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "To prevent spread of pinworm within the family, the nurse teaches:",
+   "options": [
+    "Short nails, handwashing",
+    "Slippers outdoors",
+    "Bed nets at night",
+    "Well-cooked pork"
+   ],
+   "answer": "A",
+   "rationale": "Pinworm spreads by ingestion or inhalation of eggs from fingers, linens and objects; hygiene and boiling linens prevent it.",
+   "explanations": [
+    "Correct.",
+    "Hookworm.",
+    "Malaria, filariasis.",
+    "Taenia."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Enterobius vermicularis (PDF p. 359)",
+   "quote": "Personal hygiene like proper hand washing and keeping finger nails short must be advocated."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "A child with heavy roundworm (Ascaris) infection had cough and fever before abdominal symptoms. The cough is due to:",
+   "options": [
+    "Larval migration through the lungs",
+    "Pneumonia from bacteria",
+    "Adult worms in the trachea",
+    "Allergy to food"
+   ],
+   "answer": "A",
+   "rationale": "Ascaris larvae undergo lung migration, causing chest pain, cough and fever before settling in the small intestine.",
+   "explanations": [
+    "Correct.",
+    "Not the cause.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Ascaris lumbricoides (PDF p. 359)",
+   "quote": "Upon ingestion, the larva is released from the eggs and then undergoes lung migration."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Which complication can occur when a child harbors a very large number of Ascaris worms?",
+   "options": [
+    "Intestinal obstruction",
+    "Elephantiasis",
+    "Rectal bleeding from mosquito bites",
+    "Hearing loss"
+   ],
+   "answer": "A",
+   "rationale": "Heavy worm burden can cause intestinal obstruction; worms may also migrate to the bile duct or liver.",
+   "explanations": [
+    "Correct.",
+    "Filariasis.",
+    "Not related.",
+    "Not related."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Ascaris lumbricoides (PDF p. 359)",
+   "quote": "At times patients may harbor a high number ofworms resulting to intestinal obstruction."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "A farmer who works barefoot in the fields has pallor and low hemoglobin. The parasite most likely responsible is:",
+   "options": [
+    "Hookworm",
+    "Pinworm",
+    "Taenia saginata",
+    "Giardia"
+   ],
+   "answer": "A",
+   "rationale": "Hookworm larvae penetrate bare skin; adult worms suck blood from the intestinal wall, causing iron-deficiency anemia.",
+   "explanations": [
+    "Correct.",
+    "Perianal itch.",
+    "Beef tapeworm.",
+    "Diarrhea."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Hookworms (PDF p. 363)",
+   "quote": "For as long as the worm is attached, the patient suffers from a constant blood loss which may result to microcytic hypochromic anemia."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "The most specific preventive advice against hookworm infection is to:",
+   "options": [
+    "Wear slippers or shoes outdoors",
+    "Boil drinking water",
+    "Cook crabs thoroughly",
+    "Sleep under a bed net"
+   ],
+   "answer": "A",
+   "rationale": "Hookworm enters through skin contact with contaminated soil; footwear and sanitary toilets prevent it.",
+   "explanations": [
+    "Correct.",
+    "Amoebiasis.",
+    "Paragonimiasis.",
+    "Malaria."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Hookworms (PDF p. 370)",
+   "quote": "Health education must be strongly advocated in relation to use of. sanitary toilet facilities and wearing of appropriate footwear like slippers, shoes and/ or boots."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "A man develops seizures; CT shows cysts in the brain. He lives where pigs roam near unsanitary toilets. The likely cause is:",
+   "options": [
+    "Neurocysticercosis",
+    "Ascaris migration",
+    "Cerebral malaria",
+    "Schistosomiasis"
+   ],
+   "answer": "A",
+   "rationale": "Accidental ingestion of T. solium eggs leads to cysticerci in tissues including the brain (neurocysticercosis), a cause of seizures.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Not cysts.",
+    "Liver mainly."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Taenia (PDF p. 371)",
+   "quote": "Involvement of the central nervous system is called neurocysticerosis. Many cases of seizures of unknown origin have been associated with this condition."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "To prevent beef and pork tapeworm infection, the nurse advises:",
+   "options": [
+    "Cook meat thoroughly",
+    "Wear shoes outdoors",
+    "Use mosquito nets",
+    "Avoid swimming in streams"
+   ],
+   "answer": "A",
+   "rationale": "Man gets adult Taenia infection from raw or undercooked pork or beef containing cysticerci.",
+   "explanations": [
+    "Correct.",
+    "Hookworm.",
+    "Vector-borne.",
+    "Schistosomiasis."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Taenia (PDF p. 370)",
+   "quote": "Health education must emphasize thorough cooking of meat."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "A man from Sorsogon who often eats raw freshwater crabs has chronic cough with blood-tinged sputum. Sputum is negative for AFB. The nurse suspects:",
+   "options": [
+    "Paragonimiasis",
+    "Pulmonary TB only",
+    "Ascariasis",
+    "Hookworm disease"
+   ],
+   "answer": "A",
+   "rationale": "Paragonimus westermani (lung fluke) comes from raw crabs and mimics TB; eggs are found in sputum or stool.",
+   "explanations": [
+    "Correct.",
+    "AFB negative; mimic.",
+    "Intestinal.",
+    "Anemia."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Paragonimus westermani (PDF p. 371)",
+   "quote": "the condition can be misdiagnosed and wrongly treated as pulmonary tuberculosis."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Villagers in Ilocos who eat raw freshwater fish develop severe chronic diarrhea, weight loss and edema; some die. The likely parasite is:",
+   "options": [
+    "Capillaria philippinensis",
+    "Enterobius vermicularis",
+    "Giardia lamblia",
+    "Schistosoma japonicum"
+   ],
+   "answer": "A",
+   "rationale": "Capillariasis, first described in the Philippines, comes from raw fish and causes intractable diarrhea, malabsorption and death if untreated.",
+   "explanations": [
+    "Correct.",
+    "Perianal itch.",
+    "Usually milder.",
+    "Skin penetration."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Capillaria philippinensis (PDF p. 372)",
+   "quote": "Man acquires the infection upon ingestion of raw or improperly cooked fish"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "A food handler has no symptoms but passes amoeba cysts in his stool. The nurse knows that he:",
+   "options": [
+    "Can spread it as a carrier",
+    "Is not infectious at all",
+    "Needs no treatment",
+    "Is immune to amoebiasis"
+   ],
+   "answer": "A",
+   "rationale": "Asymptomatic cyst passers are sources of infection; food handlers need regular stool examination under the Sanitation Code.",
+   "explanations": [
+    "Correct.",
+    "He can spread it.",
+    "Should be treated.",
+    "Not immune."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Entamoeba histolytica (PDF p. 373)",
+   "quote": "Infected individuals harboring cysts are asymptomatic. However, they are cyst passers and can, therefore, be the extra source of infection in the community."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "A watery stool specimen is collected to look for amoeba trophozoites. The nurse should:",
+   "options": [
+    "Send it to the lab immediately",
+    "Refrigerate it for a day",
+    "Mix it with water",
+    "Wait for formed stool"
+   ],
+   "answer": "A",
+   "rationale": "Trophozoites are fragile and die within 30–60 minutes outside the host, so the specimen must be examined at once.",
+   "explanations": [
+    "Correct.",
+    "Trophozoites die.",
+    "Not appropriate.",
+    "Cysts, not trophozoites."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Entamoeba histolytica (PDF p. 374)",
+   "quote": "trophozoites are fragile and they die within 30 to 60 minutes outside the host."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "When water from a source of doubtful safety must be used for drinking, the best household measure against amoebiasis and giardiasis is:",
+   "options": [
+    "Boiling the water",
+    "Adding sugar",
+    "Storing it in open pails",
+    "Letting it stand overnight"
+   ],
+   "answer": "A",
+   "rationale": "Boiling drinking water from questionable sources destroys protozoan cysts.",
+   "explanations": [
+    "Correct.",
+    "No effect.",
+    "Contamination.",
+    "Not enough."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Entamoeba histolytica (PDF p. 374)",
+   "quote": "Boiling of drinking water from questionable source is a very good practice to avoid infection."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Greasy, frothy, foul-smelling stools with bloating and flatus after drinking untreated water suggest:",
+   "options": [
+    "Giardiasis",
+    "Ascariasis",
+    "Malaria",
+    "Filariasis"
+   ],
+   "answer": "A",
+   "rationale": "Giardia lamblia lives in the small intestine; chronic infection causes greasy, frothy stools and flatus.",
+   "explanations": [
+    "Correct.",
+    "Vague pain.",
+    "Fever, chills.",
+    "Lymphatic."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Giardia lamblia (PDF p. 374)",
+   "quote": "Chronic infection is characterized by passage of greasy, frothy stools."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Malaria is transmitted in the Philippines mainly by the bite of the infected female:",
+   "options": [
+    "Anopheles mosquito",
+    "Aedes mosquito",
+    "Culex mosquito",
+    "Sandfly"
+   ],
+   "answer": "A",
+   "rationale": "All human Plasmodia are transmitted by female Anopheles; the major local vector is Anopheles flavirostris.",
+   "explanations": [
+    "Correct.",
+    "Dengue.",
+    "Not malaria here.",
+    "Leishmaniasis."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Plasmodia (PDF p. 379)",
+   "quote": "All of these species are bansmitted through the bite of the infected female mosquitoes belonging to the GenusAnopheles."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Which malaria species is the most dangerous because it can cause cerebral malaria?",
+   "options": [
+    "Plasmodium falciparum",
+    "Plasmodium vivax",
+    "Plasmodium malariae",
+    "Plasmodium ovale"
+   ],
+   "answer": "A",
+   "rationale": "P. falciparum causes severe complications such as cerebral involvement and is the most common species in the Philippines.",
+   "explanations": [
+    "Correct.",
+    "Less severe.",
+    "Less severe.",
+    "Believed absent locally."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Plasmodia (PDF p. 379)",
+   "quote": "P. falciparum is considered to be the most dangerous because it causes severe complications such as cerebral involvement."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "The chills, high fever and sweating of a malaria paroxysm occur when:",
+   "options": [
+    "Infected red cells rupture",
+    "The mosquito first bites",
+    "Sporozoites enter liver",
+    "Gametocytes form in gut"
+   ],
+   "answer": "A",
+   "rationale": "Paroxysms coincide with rupture of mature schizonts in red blood cells.",
+   "explanations": [
+    "Correct.",
+    "No symptoms yet.",
+    "Silent liver stage.",
+    "Occurs in mosquito."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Plasmodia (PDF p. 380)",
+   "quote": "When the schizonts are mature, the host red cells rupture and the merozoites are released into the circulation. It is at this point when man usually suffers from the malarial paroxysm"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "In malaria microscopy, the thick blood smear is used mainly for:",
+   "options": [
+    "Rapid detection of parasites",
+    "Identifying the species",
+    "Counting white cells",
+    "Blood typing"
+   ],
+   "answer": "A",
+   "rationale": "The thick smear is for rapid diagnosis; the thin film identifies the species.",
+   "explanations": [
+    "Correct.",
+    "Thin film.",
+    "Not purpose.",
+    "Not purpose."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Plasmodia (PDF p. 380)",
+   "quote": "The thick blood smear is useful for rapid diagnosis while the thin blood film is used for species idenffcation."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Families in a malaria-endemic barangay should be taught to:",
+   "options": [
+    "Sleep under insecticide-treated nets",
+    "Store water in uncovered jars",
+    "Clear vegetation only in the dry season",
+    "Avoid going out at noon"
+   ],
+   "answer": "A",
+   "rationale": "Treated bed nets, house screening and protective clothing at night until early morning (biting time) prevent man-vector contact.",
+   "explanations": [
+    "Correct.",
+    "Aedes breeding.",
+    "Not the measure.",
+    "Anopheles bites at night."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Plasmodia (PDF p. 380)",
+   "quote": "To prevent man-vector contact, use of chemically treated bednets and proper screening of houses are advocated."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Clearing overhanging vegetation along streams helps control malaria because it:",
+   "options": [
+    "Sun and flow kill larvae",
+    "It kills adult mosquitoes",
+    "It shades children",
+    "It removes snails"
+   ],
+   "answer": "A",
+   "rationale": "Anopheles flavirostris breeds in shaded, slow-flowing streams; exposure to sunlight and faster flow eliminate breeding sites.",
+   "explanations": [
+    "Correct.",
+    "Not direct.",
+    "Not the aim.",
+    "Schistosomiasis."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 3 Home environment (PDF p. 87)",
+   "quote": "clearing stream banks of overhanging vegetation and debris to expose them to sunlight and speed up water flow to eliminate breeding sites of Anopheles flavirostris"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Blood for microfilaria examination in suspected filariasis should be collected:",
+   "options": [
+    "Between 8 pm and 4 am",
+    "At noon",
+    "Right after breakfast",
+    "Any time of day"
+   ],
+   "answer": "A",
+   "rationale": "Wuchereria bancrofti microfilariae show nocturnal periodicity, so blood is taken at night.",
+   "explanations": [
+    "Correct.",
+    "Few in blood.",
+    "Few in blood.",
+    "Periodicity matters."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Filariasis diagnosis (PDF p. 385)",
+   "quote": "blood samples must be collected from 8:00 pm to 4:00 am."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "In the Philippines, the main vector of Wuchereria bancrofti breeds in the leaf axils of abaca and banana plants. It is:",
+   "options": [
+    "Aedes poecilus",
+    "Anopheles flavirostris",
+    "Aedes aegypti",
+    "Culex quinquefasciatus"
+   ],
+   "answer": "A",
+   "rationale": "Aedes poecilus is the local vector of bancroftian filariasis.",
+   "explanations": [
+    "Correct.",
+    "Malaria.",
+    "Dengue.",
+    "More important abroad."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Filariasis (PDF p. 381)",
+   "quote": "In the Philippines, however, the parasite is transmitted by Aedes poecilus which breeds pretty well in the axils of the abaca and banana plants."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Elephantiasis and hydrocele in chronic filariasis result from:",
+   "options": [
+    "Lymphatic obstruction",
+    "Skin infection only",
+    "Blood vessel rupture",
+    "Liver failure"
+   ],
+   "answer": "A",
+   "rationale": "Death of adult worms triggers immune reactions causing lymphatic obstruction, leading to elephantiasis or hydrocele.",
+   "explanations": [
+    "Correct.",
+    "Not the main cause.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Filariasis (PDF p. 381)",
+   "quote": "When the adult worms die, there will be an immunological reaction resulting in lymphatic obstruction which in turn can lead to elephantiasis or hydrocoele."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+   "situation": "",
+   "stem": "Mass drug administration to eliminate lymphatic filariasis in endemic provinces uses:",
+   "options": [
+    "DEC plus albendazole",
+    "Praziquantel alone",
+    "Chloroquine alone",
+    "Mebendazole plus iron"
+   ],
+   "answer": "A",
+   "rationale": "DEC combined with albendazole is used for MDA to eliminate lymphatic filariasis.",
+   "explanations": [
+    "Correct.",
+    "Schistosomiasis.",
+    "Malaria.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Filariasis treatment (PDF p. 385)",
+   "quote": "A combination of diethyl carbamazine and albendazole is being utilized for the so called mass drug administration (MDA)"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Schistosoma japonicum infects people when:",
+   "options": [
+    "Cercariae in water penetrate the skin",
+    "Eggs are eaten in vegetables",
+    "Mosquitoes bite at night",
+    "Raw fish is eaten"
+   ],
+   "answer": "A",
+   "rationale": "Cercariae released from Oncomelania snails penetrate the skin of people wading or bathing in infested water.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Malaria, filariasis.",
+    "Capillaria."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Schistosoma japonicum (PDF p. 385)",
+   "quote": "The cercaria is the infective stage and it can actively penetrate the human skin."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "The circumoval precipitin test (COPT) is requested together with stool examination to help diagnose:",
+   "options": [
+    "Schistosomiasis",
+    "Malaria",
+    "Filariasis",
+    "Amoebiasis"
+   ],
+   "answer": "A",
+   "rationale": "Schistosomiasis is confirmed by eggs in stool (Kato-Katz) and supported by the COPT serologic test.",
+   "explanations": [
+    "Correct.",
+    "Blood smear.",
+    "Night blood smear.",
+    "Stool for cysts."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Schistosoma japonicum (PDF p. 385)",
+   "quote": "A serological test to detect antibodies called Circumoval Precipitin Test (COPT) is usually requested together with stool examination."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Many deaths from chronic schistosomiasis are caused by:",
+   "options": [
+    "Ruptured esophageal varices",
+    "Intestinal obstruction",
+    "Cerebral malaria",
+    "Elephantiasis"
+   ],
+   "answer": "A",
+   "rationale": "Eggs in the liver cause granulomas and portal hypertension, leading to varices, splenomegaly and ascites.",
+   "explanations": [
+    "Correct.",
+    "Ascaris.",
+    "Malaria.",
+    "Filariasis."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 15 Schistosoma japonicum (PDF p. 385)",
+   "quote": "Many reported cases of death due to schistosomiasis were caused by rupture of esophageal varices."
+  }
+ ]
+}
