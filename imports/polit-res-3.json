@@ -1,0 +1,749 @@
+{
+ "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018)",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Which three features define a true experiment (randomized controlled trial)?",
+   "options": [
+    "Intervention, control group, randomization",
+    "Interview, observation, survey",
+    "Sampling, coding, saturation",
+    "Theory, framework, hypothesis"
+   ],
+   "answer": "A",
+   "rationale": "RCTs have manipulation (intervention), control and random assignment.",
+   "explanations": [
+    "Correct.",
+    "Data methods.",
+    "Qualitative terms.",
+    "Conceptual elements."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 9 Summary (PDF p. 237)",
+   "quote": "Experiments (or randomized controlled trials [RCTs]) involve an intervention"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Why is the randomized controlled trial considered the gold standard for testing interventions?",
+   "options": [
+    "Best supports causal claims",
+    "It is the cheapest design",
+    "It needs no ethics review",
+    "It uses tiny samples only"
+   ],
+   "answer": "A",
+   "rationale": "RCTs come closer than any other design to meeting the criteria for inferring causality.",
+   "explanations": [
+    "Correct.",
+    "Often costly.",
+    "Still needs review.",
+    "Not a feature."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 9 Summary (PDF p. 238)",
+   "quote": "RCTs are considered the gold standard because they come closer than any other design to meeting the criteria for inferring causal relationships."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Which is a criterion for inferring that X causes Y?",
+   "options": [
+    "X must occur before Y",
+    "Y must occur before X",
+    "X and Y must be unrelated",
+    "A third variable must explain both"
+   ],
+   "answer": "A",
+   "rationale": "The cause must precede the effect, there must be a relationship, and it must not be due to a confounder.",
+   "explanations": [
+    "Correct.",
+    "Wrong order.",
+    "Must be related.",
+    "Rules out causality."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 9 Summary (PDF p. 237)",
+   "quote": "(1) a cause (independent variable) must precede an effect (outcome)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A nurse tests a breastfeeding program in one barangay and compares it with another barangay without the program, with no random assignment. This design is:",
+   "options": [
+    "Quasi-experimental",
+    "True experimental",
+    "Descriptive",
+    "Phenomenological"
+   ],
+   "answer": "A",
+   "rationale": "Quasi-experiments have an intervention but lack randomization (or a control group).",
+   "explanations": [
+    "Correct.",
+    "Needs randomization.",
+    "No intervention.",
+    "Qualitative."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 9 Summary (PDF p. 238)",
+   "quote": "Quasi-experiments (trials without randomization) involve an intervention but lack a comparison group or randomization."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A study examines whether hours of sleep are related to exam scores among nursing students, without any intervention. This design is:",
+   "options": [
+    "Correlational",
+    "Experimental",
+    "Quasi-experimental",
+    "Crossover"
+   ],
+   "answer": "A",
+   "rationale": "Correlational studies examine relationships among variables without intervening.",
+   "explanations": [
+    "Correct.",
+    "Needs intervention.",
+    "Needs intervention.",
+    "Needs intervention."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 9 Summary (PDF p. 238)",
+   "quote": "correlational studies that examine relationships among variables but involve no intervention."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A study finds that children who drink more soft drinks have more dental caries. The nurse should conclude that:",
+   "options": [
+    "Related, but not proven causal",
+    "Soft drinks surely cause caries",
+    "Caries cause soft drink intake",
+    "The study must be invalid"
+   ],
+   "answer": "A",
+   "rationale": "Correlation does not prove causation; other factors may explain the association.",
+   "explanations": [
+    "Correct.",
+    "Overstated.",
+    "Reverse, unsupported.",
+    "Not necessarily."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 9 Summary (PDF p. 238)",
+   "quote": "a basic research dictum is that correlation does not prove causation."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Researchers follow a group of smokers and nonsmokers forward for 10 years to see who develops lung disease. This design is:",
+   "options": [
+    "Prospective cohort",
+    "Retrospective case-control",
+    "Cross-sectional",
+    "Phenomenological"
+   ],
+   "answer": "A",
+   "rationale": "Prospective (cohort) designs start with a possible cause and then collect outcome data over time.",
+   "explanations": [
+    "Correct.",
+    "Looks back from outcome.",
+    "One point in time.",
+    "Qualitative."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 9 Summary (PDF p. 238)",
+   "quote": "In prospective (cohort) designs, researchers begin with a possible cause and then subsequently collect data about outcomes."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Researchers take children with dengue and children without dengue and look back at their past exposure to stagnant water. This design is:",
+   "options": [
+    "Case-control (retrospective)",
+    "Prospective cohort",
+    "Randomized trial",
+    "Time series"
+   ],
+   "answer": "A",
+   "rationale": "Retrospective (case-control) designs start with the outcome and look back for possible causes.",
+   "explanations": [
+    "Correct.",
+    "Starts with exposure.",
+    "Assigns intervention.",
+    "Repeated measures over time."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 9 Summary (PDF p. 238)",
+   "quote": "Retrospective designs (case-control designs) involve collecting data about an outcome in the present and then looking back in time for possible causes."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A survey collects data on the nutritional status of all grade 1 pupils in one week. Data are collected once. This is a:",
+   "options": [
+    "Cross-sectional design",
+    "Longitudinal design",
+    "Cohort design",
+    "Crossover design"
+   ],
+   "answer": "A",
+   "rationale": "Cross-sectional designs collect data at one time; longitudinal designs collect at two or more times.",
+   "explanations": [
+    "Correct.",
+    "Multiple times.",
+    "Follows over time.",
+    "Multiple conditions."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 9 Summary (PDF p. 238)",
+   "quote": "Cross-sectional designs involve the collection of data at one time period, whereas longitudinal designs involve data collection at two or more times"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A major problem of longitudinal studies is:",
+   "options": [
+    "Attrition of participants over time",
+    "Data collected only once",
+    "Inability to study change",
+    "Very low cost"
+   ],
+   "answer": "A",
+   "rationale": "Longitudinal studies are costly, time-consuming and risk attrition (loss of participants).",
+   "explanations": [
+    "Correct.",
+    "Cross-sectional.",
+    "They study change.",
+    "They are costly."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 9 Summary (PDF p. 238)",
+   "quote": "Longitudinal studies are typically expensive, time-consuming, and subject to the risk of attrition (loss of participants over time)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Which method controls all possible confounding variables, even those the researcher has not identified?",
+   "options": [
+    "Randomization",
+    "Matching",
+    "Homogeneity",
+    "Statistical control"
+   ],
+   "answer": "A",
+   "rationale": "Random assignment balances known and unknown confounders across groups.",
+   "explanations": [
+    "Correct.",
+    "Only chosen variables.",
+    "Only restricted variables.",
+    "Only measured variables."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 9 Summary (PDF p. 239)",
+   "quote": "randomization—the most effective method because it controls all possible confounding variables without researchers having to identify them."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "To control for age, a researcher includes only adults aged 30–40 in the study. This technique is:",
+   "options": [
+    "Homogeneity",
+    "Matching",
+    "Randomization",
+    "Blinding"
+   ],
+   "answer": "A",
+   "rationale": "Homogeneity restricts participants to reduce variability on a confounder.",
+   "explanations": [
+    "Correct.",
+    "Pairs similar people across groups.",
+    "Chance assignment.",
+    "Masking."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 9 Summary (PDF p. 239)",
+   "quote": "homogeneity (restricting participants to reduce variability on confounding variables)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "During a 6-month study of a weight-loss program, a national anti-obesity TV campaign is launched. This threat to internal validity is:",
+   "options": [
+    "History",
+    "Maturation",
+    "Selection",
+    "Mortality"
+   ],
+   "answer": "A",
+   "rationale": "History refers to external events during the study that can affect outcomes.",
+   "explanations": [
+    "Correct.",
+    "Natural change over time.",
+    "Group differences at start.",
+    "Dropouts."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 9 Summary (PDF p. 239)",
+   "quote": "history (external events that could affect outcomes)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Toddlers' motor skills improved over a 1-year program, but they would have improved with age anyway. This threat is:",
+   "options": [
+    "Maturation",
+    "History",
+    "Selection",
+    "Attrition"
+   ],
+   "answer": "A",
+   "rationale": "Maturation is change due to the passage of time rather than the intervention.",
+   "explanations": [
+    "Correct.",
+    "External events.",
+    "Group differences.",
+    "Dropouts."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 9 Summary (PDF p. 239)",
+   "quote": "maturation (changes due to the passage of time)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Whether study findings hold true for other people, settings and conditions refers to:",
+   "options": [
+    "External validity",
+    "Internal validity",
+    "Reliability",
+    "Statistical power"
+   ],
+   "answer": "A",
+   "rationale": "External validity concerns generalizability; internal validity concerns whether the intervention caused the outcome.",
+   "explanations": [
+    "Correct.",
+    "Causation.",
+    "Consistency.",
+    "Detecting effects."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 9 Summary (PDF p. 239)",
+   "quote": "External validity concerns inferences about generalizability"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A researcher surveys whichever patients happen to be in the OPD waiting area that morning. This sampling method is:",
+   "options": [
+    "Convenience",
+    "Simple random",
+    "Stratified random",
+    "Systematic"
+   ],
+   "answer": "A",
+   "rationale": "Convenience sampling uses the most readily available people; it is economical but prone to bias.",
+   "explanations": [
+    "Correct.",
+    "Needs random selection.",
+    "Random within strata.",
+    "Every kth case."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 10 Summary (PDF p. 266)",
+   "quote": "Convenience sampling uses the most readily available or convenient people."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A researcher handpicks experienced dialysis nurses because she believes they can best describe the problem. This sampling is:",
+   "options": [
+    "Purposive",
+    "Quota",
+    "Simple random",
+    "Systematic"
+   ],
+   "answer": "A",
+   "rationale": "In purposive sampling, participants are chosen based on the researcher's knowledge of the population.",
+   "explanations": [
+    "Correct.",
+    "Subgroups by convenience.",
+    "Random.",
+    "Every kth case."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 10 Summary (PDF p. 266)",
+   "quote": "In purposive sampling, participants are handpicked to be included in the sample based on the researcher’s knowledge about the population."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "To ensure equal numbers of male and female students, a researcher sets a target for each and then takes whoever is available in each group. This is:",
+   "options": [
+    "Quota sampling",
+    "Stratified random sampling",
+    "Cluster sampling",
+    "Snowball sampling"
+   ],
+   "answer": "A",
+   "rationale": "Quota sampling fills subgroups by convenience; stratified random sampling selects randomly within strata.",
+   "explanations": [
+    "Correct.",
+    "Requires random selection.",
+    "Selects groups.",
+    "Referrals."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 10 Summary (PDF p. 266)",
+   "quote": "within each stratum, people are sampled by convenience."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Using the barangay masterlist, a researcher draws names by lottery so every household has an equal chance. This is:",
+   "options": [
+    "Simple random sampling",
+    "Purposive sampling",
+    "Convenience sampling",
+    "Quota sampling"
+   ],
+   "answer": "A",
+   "rationale": "Simple random sampling selects elements at random from a sampling frame listing all elements.",
+   "explanations": [
+    "Correct.",
+    "Handpicked.",
+    "Available people.",
+    "Subgroup targets."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 10 Summary (PDF p. 266)",
+   "quote": "Simple random sampling involves the random selection of elements from a sampling frame that enumerates all the elements"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "From a list of 500 patients, a researcher needs 50, so she selects every 10th name. The \"10\" is the:",
+   "options": [
+    "Sampling interval",
+    "Sample size",
+    "Sampling error",
+    "Population"
+   ],
+   "answer": "A",
+   "rationale": "In systematic sampling, population size divided by sample size gives the sampling interval (k).",
+   "explanations": [
+    "Correct.",
+    "That is 50.",
+    "Not this.",
+    "That is 500."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 10 Summary (PDF p. 267)",
+   "quote": "By dividing the population size by the desired sample size, the researcher establishes the sampling interval"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Compared with nonprobability methods, probability sampling is preferred because it:",
+   "options": [
+    "Yields more representative samples",
+    "Is always cheaper",
+    "Needs no sampling frame",
+    "Guarantees significant results"
+   ],
+   "answer": "A",
+   "rationale": "Random selection yields more representative samples and allows estimation of sampling error.",
+   "explanations": [
+    "Correct.",
+    "Often costlier.",
+    "Usually needs one.",
+    "Not related."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 10 Summary (PDF p. 266)",
+   "quote": "Probability sampling designs, which involve the random selection of elements from the population, yield more representative samples"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Which data collection method is used most widely in nursing studies?",
+   "options": [
+    "Self-reports",
+    "Biophysiologic measures",
+    "Observation",
+    "Records review"
+   ],
+   "answer": "A",
+   "rationale": "Self-reports (questionnaires and interviews) are the most widely used method.",
+   "explanations": [
+    "Correct.",
+    "Less common.",
+    "Less common.",
+    "Less common."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 10 Summary (PDF p. 267)",
+   "quote": "Self-reports, which are also called patient-reported outcomes or PROs, involve directly questioning study participants and are the most widely used method"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "An advantage of interviews over mailed questionnaires is:",
+   "options": [
+    "Higher response rates",
+    "Lower cost",
+    "Complete anonymity",
+    "No need for training"
+   ],
+   "answer": "A",
+   "rationale": "Questionnaires are cheaper and allow anonymity; interviews give higher response rates and suit more people (e.g., those who cannot read).",
+   "explanations": [
+    "Correct.",
+    "Questionnaire advantage.",
+    "Questionnaire advantage.",
+    "Interviewers need training."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 10 Summary (PDF p. 267)",
+   "quote": "interviews yield higher response rates and are suitable for a wider variety of people."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Items rated from \"strongly agree\" to \"strongly disagree\" and summed into a total score form a:",
+   "options": [
+    "Likert scale",
+    "Visual analog scale",
+    "Checklist",
+    "Semantic map"
+   ],
+   "answer": "A",
+   "rationale": "Likert (summated rating) scales score each item and sum them.",
+   "explanations": [
+    "Correct.",
+    "100-mm line.",
+    "Records presence of behaviors.",
+    "Not a scale type here."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 10 Summary (PDF p. 267)",
+   "quote": "Likert scales (summated rating scales) present respondents with a series of items"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A patient marks her pain on a 100-mm line from \"no pain\" to \"worst pain.\" This tool is a:",
+   "options": [
+    "Visual analog scale",
+    "Likert scale",
+    "Checklist",
+    "Semistructured interview"
+   ],
+   "answer": "A",
+   "rationale": "A VAS measures subjective experiences along a 100-mm line with bipolar ends.",
+   "explanations": [
+    "Correct.",
+    "Agree-disagree items.",
+    "Behavior record.",
+    "Qualitative."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 10 Summary (PDF p. 267)",
+   "quote": "A visual analog scale (VAS) is used to measure subjective experiences (e.g., pain, fatigue) along a 100-mm line"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "An advantage of biophysiologic measures such as blood glucose readings in research is that they are:",
+   "options": [
+    "Objective and precise",
+    "Always cheap",
+    "Free of any equipment",
+    "Based on opinion"
+   ],
+   "answer": "A",
+   "rationale": "Biophysiologic measures are objective, accurate and precise.",
+   "explanations": [
+    "Correct.",
+    "Not always.",
+    "Need equipment.",
+    "Opposite."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 10 Summary (PDF p. 268)",
+   "quote": "Biophysiologic measures have the advantage of being objective, accurate, and precise."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Two nurses independently score the same patients' pressure ulcers and get nearly identical results. This shows good:",
+   "options": [
+    "Interrater reliability",
+    "Content validity",
+    "Test–retest reliability",
+    "Face validity"
+   ],
+   "answer": "A",
+   "rationale": "Interrater reliability assesses whether two raters independently assign similar scores.",
+   "explanations": [
+    "Correct.",
+    "Item coverage.",
+    "Same measure twice.",
+    "Appearance."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 10 Summary (PDF p. 268)",
+   "quote": "interrater reliability (assessing whether two raters or observers independently assign similar scores)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A stress questionnaire given to the same nurses twice, 2 weeks apart, yields similar scores. This tests:",
+   "options": [
+    "Test–retest reliability",
+    "Internal consistency",
+    "Construct validity",
+    "Criterion validity"
+   ],
+   "answer": "A",
+   "rationale": "Test–retest reliability checks the stability of scores over repeated administration.",
+   "explanations": [
+    "Correct.",
+    "Item consistency.",
+    "Theory-based validity.",
+    "Gold standard comparison."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 10 Summary (PDF p. 268)",
+   "quote": "test–retest reliability (administering a measure twice in a short period to see if the measure yields consistent scores)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "The degree to which an instrument measures what it is supposed to measure is its:",
+   "options": [
+    "Validity",
+    "Reliability",
+    "Sensitivity to change",
+    "Response rate"
+   ],
+   "answer": "A",
+   "rationale": "Validity concerns measuring the intended construct; reliability concerns consistency.",
+   "explanations": [
+    "Correct.",
+    "Consistency.",
+    "Not the definition.",
+    "Participation."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 10 Summary (PDF p. 268)",
+   "quote": "Validity is the degree to which an instrument measures what it is supposed to measure."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A panel of experts reviews a new breastfeeding knowledge test to check that its items cover all key areas. This establishes:",
+   "options": [
+    "Content validity",
+    "Interrater reliability",
+    "Test–retest reliability",
+    "Statistical power"
+   ],
+   "answer": "A",
+   "rationale": "Content validity is whether the instrument's content adequately captures the construct, judged by experts.",
+   "explanations": [
+    "Correct.",
+    "Two raters.",
+    "Repeated testing.",
+    "Sample size."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 10 Summary (PDF p. 268)",
+   "quote": "content validity (in composite scales, the extent to which an instrument’s content adequately captures the construct)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Reliability coefficients range from 0.00 to 1.00. Which value shows the best reliability?",
+   "options": [
+    "0.90",
+    "0.30",
+    "0.50",
+    "0.10"
+   ],
+   "answer": "A",
+   "rationale": "Higher coefficients indicate greater reliability; 0.80 or higher is desirable.",
+   "explanations": [
+    "Correct.",
+    "Low.",
+    "Low.",
+    "Very low."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 10 Summary (PDF p. 268)",
+   "quote": "Reliability is assessed statistically by computing coefficients that range from .00 to 1.00; higher values indicate greater reliability."
+  }
+ ]
+}

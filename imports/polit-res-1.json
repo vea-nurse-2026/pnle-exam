@@ -1,0 +1,677 @@
+{
+ "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018)",
+ "questions": [
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "Nursing research is best defined as:",
+   "options": [
+    "Systematic inquiry for nursing evidence",
+    "Casual reading of articles",
+    "Following ward tradition",
+    "Learning by trial and error"
+   ],
+   "answer": "A",
+   "rationale": "Nursing research is disciplined, systematic inquiry that develops evidence for nursing practice.",
+   "explanations": [
+    "Correct.",
+    "Only one use of research.",
+    "A non-research source of knowledge.",
+    "A non-research source of knowledge."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 1 Summary (PDF p. 53)",
+   "quote": "Nursing research is systematic inquiry undertaken to develop evidence on problems of importance to nurses."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "A ward keeps turning patients every 2 hours \"because we have always done it this way.\" This source of knowledge is:",
+   "options": [
+    "Tradition",
+    "Disciplined research",
+    "Personal experience",
+    "Trial and error"
+   ],
+   "answer": "A",
+   "rationale": "Tradition is knowledge passed on as custom; EBP replaces custom with research evidence.",
+   "explanations": [
+    "Correct.",
+    "Not systematic study.",
+    "One's own encounters.",
+    "Trying alternatives."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 1 Summary (PDF p. 54)",
+   "quote": "Disciplined research stands in contrast to other knowledge sources for nursing practice, such as tradition, authority, personal experience, and trial and error."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "A nurse reads a published study on kangaroo mother care and decides whether its findings apply to her ward. She is acting as a:",
+   "options": [
+    "Consumer of research",
+    "Producer of research",
+    "Research participant",
+    "Data collector"
+   ],
+   "answer": "A",
+   "rationale": "Consumers read and evaluate studies; producers design and conduct them.",
+   "explanations": [
+    "Correct.",
+    "Designs studies.",
+    "Provides data.",
+    "Gathers data for a study."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 1 Summary (PDF p. 53)",
+   "quote": "consumers of research (who read and evaluate studies) and producers of research (who design and undertake studies)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Which paradigm assumes there is an objective reality that can be measured, and is linked with quantitative research?",
+   "options": [
+    "Positivist",
+    "Constructivist",
+    "Naturalistic",
+    "Critical"
+   ],
+   "answer": "A",
+   "rationale": "Positivism assumes an orderly, objective reality; constructivism holds that reality is constructed by people (qualitative).",
+   "explanations": [
+    "Correct.",
+    "Multiple realities.",
+    "Qualitative.",
+    "Focus on social change."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 1 Summary (PDF p. 54)",
+   "quote": "In the positivist paradigm, it is assumed that there is an objective reality and that natural phenomena are regular and orderly."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A study collects mothers' stories about caring for a child with cancer in their own words. This research is:",
+   "options": [
+    "Qualitative",
+    "Quantitative",
+    "Experimental",
+    "Correlational"
+   ],
+   "answer": "A",
+   "rationale": "Qualitative research gathers subjective, narrative data to understand lived experience.",
+   "explanations": [
+    "Correct.",
+    "Numeric data.",
+    "Intervention testing.",
+    "Numeric relationships."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 1 Summary (PDF p. 54)",
+   "quote": "understanding human experience as it is lived through the collection and analysis of subjective, narrative materials"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "Evidence-based practice integrates the best research evidence with:",
+   "options": [
+    "Expertise and patient values",
+    "Ward tradition only",
+    "The doctor's orders only",
+    "Cost considerations only"
+   ],
+   "answer": "A",
+   "rationale": "EBP combines current best evidence, the clinician's expertise and the patient's values and preferences.",
+   "explanations": [
+    "Correct.",
+    "De-emphasized in EBP.",
+    "Too narrow.",
+    "Too narrow."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 2 Summary (PDF p. 81)",
+   "quote": "emphasizes the integration of research evidence with clinical expertise and patient preferences."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "In most evidence hierarchies, the strongest evidence comes from:",
+   "options": [
+    "Systematic reviews",
+    "Expert opinion",
+    "Single case reports",
+    "Descriptive surveys"
+   ],
+   "answer": "A",
+   "rationale": "Systematic reviews of rigorous studies sit at the top of evidence hierarchies; opinion is at the bottom.",
+   "explanations": [
+    "Correct.",
+    "Lowest level.",
+    "Low level.",
+    "Lower level."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 2 Summary (PDF p. 81)",
+   "quote": "In all evidence hierarchies, however, systematic reviews are at the pinnacle."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "\"Among postpartum mothers (P), does breastfeeding education (I) compared with routine care (C) increase exclusive breastfeeding (O)?\" This question follows the:",
+   "options": [
+    "PICO format",
+    "SOAP format",
+    "PDCA cycle",
+    "SMART format"
+   ],
+   "answer": "A",
+   "rationale": "PICO stands for Population, Intervention, Comparison and Outcome, used to frame answerable clinical questions.",
+   "explanations": [
+    "Correct.",
+    "Charting.",
+    "Quality improvement.",
+    "Objectives."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 2 Summary (PDF p. 82)",
+   "quote": "population (P), intervention or influence (I), comparison (C), and outcome (O)."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Utilization of Research",
+   "situation": "",
+   "stem": "What is the first step a nurse takes in evidence-based practice?",
+   "options": [
+    "Ask an answerable clinical question",
+    "Search the databases",
+    "Appraise the studies",
+    "Evaluate the outcomes"
+   ],
+   "answer": "A",
+   "rationale": "The steps are: ask a question, search for evidence, appraise and synthesize, integrate with other factors, assess effectiveness.",
+   "explanations": [
+    "Correct.",
+    "Second.",
+    "Third.",
+    "Last."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 2 Summary (PDF p. 82)",
+   "quote": "The five basic steps for individual EBP are (1) asking an answerable clinical question"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A hospital's nursing service tracks its own fall rate and changes its bed-rail checks to reduce falls on its wards. This project is mainly:",
+   "options": [
+    "Quality improvement",
+    "Generalizable research",
+    "A systematic review",
+    "A clinical trial"
+   ],
+   "answer": "A",
+   "rationale": "QI improves practices within a specific organization; it does not aim to produce generalizable knowledge.",
+   "explanations": [
+    "Correct.",
+    "Aims to generalize.",
+    "Integrates studies.",
+    "Tests interventions experimentally."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 2 Summary (PDF p. 82)",
+   "quote": "The purpose of quality improvement (QI) is to improve practices and processes within a specific organization—not to generate new knowledge that can be generalized."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Which framework is commonly used to guide quality improvement projects?",
+   "options": [
+    "Plan-Do-Study-Act",
+    "PICO",
+    "IMRAD",
+    "Belmont principles"
+   ],
+   "answer": "A",
+   "rationale": "QI uses PDSA (or PDCA) cycles to test and refine changes.",
+   "explanations": [
+    "Correct.",
+    "Clinical questions.",
+    "Report format.",
+    "Research ethics."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 13 Summary (PDF p. 325)",
+   "quote": "they often use a model called Plan-Do-Study-Act (PDSA) or Plan-Do-Check-Act (PDCA)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A study tests whether music therapy lowers anxiety before surgery. The dependent variable is:",
+   "options": [
+    "Anxiety level",
+    "Music therapy",
+    "Type of surgery",
+    "The nurse giving music"
+   ],
+   "answer": "A",
+   "rationale": "The dependent (outcome) variable is what is affected; the independent variable is the presumed cause (music therapy).",
+   "explanations": [
+    "Correct.",
+    "Independent variable.",
+    "Possible confounder.",
+    "Not a variable here."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 3 Summary (PDF p. 107)",
+   "quote": "The dependent (or outcome) variable is the behavior, characteristic, or outcome the researcher is interested in explaining, predicting, or affecting"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "In a study on the effect of a health teaching program on medication adherence, the health teaching program is the:",
+   "options": [
+    "Independent variable",
+    "Dependent variable",
+    "Confounding variable",
+    "Outcome variable"
+   ],
+   "answer": "A",
+   "rationale": "The independent variable is the presumed cause or influence on the outcome.",
+   "explanations": [
+    "Correct.",
+    "Adherence.",
+    "Extraneous factor.",
+    "Adherence."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 3 Summary (PDF p. 107)",
+   "quote": "The independent variable is the presumed cause of or influence on the dependent variable."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A researcher defines pain as \"the score on a 0–10 numeric rating scale.\" This is a(n):",
+   "options": [
+    "Operational definition",
+    "Conceptual definition",
+    "Hypothesis",
+    "Theory"
+   ],
+   "answer": "A",
+   "rationale": "An operational definition specifies how a variable will be measured; a conceptual definition gives its abstract meaning.",
+   "explanations": [
+    "Correct.",
+    "Abstract meaning.",
+    "Predicted relationship.",
+    "Explains phenomena."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 3 Summary (PDF p. 107)",
+   "quote": "A conceptual definition describes the abstract meaning of a concept being studied. An operational definition specifies how the variable will be measured."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A researcher records the existing smoking habits and lung function of jeepney drivers without giving any intervention. This is:",
+   "options": [
+    "Nonexperimental research",
+    "Experimental research",
+    "Quasi-experimental research",
+    "A clinical trial"
+   ],
+   "answer": "A",
+   "rationale": "Nonexperimental (observational) research collects data on existing phenomena without intervening.",
+   "explanations": [
+    "Correct.",
+    "Requires intervention.",
+    "Requires intervention.",
+    "Requires intervention."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 3 Summary (PDF p. 107)",
+   "quote": "nonexperimental (or observational) research, in which researchers collect data about existing phenomena without intervening."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A nurse researcher wants to understand what it is like to live with a colostomy. Which qualitative tradition fits best?",
+   "options": [
+    "Phenomenology",
+    "Ethnography",
+    "Grounded theory",
+    "Historical research"
+   ],
+   "answer": "A",
+   "rationale": "Phenomenology studies the lived experience of people; ethnography studies cultures; grounded theory studies social processes.",
+   "explanations": [
+    "Correct.",
+    "Culture.",
+    "Social processes.",
+    "Past events."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 3 Summary (PDF p. 107)",
+   "quote": "Phenomenology focuses on the lived experiences of humans"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A study of the health beliefs and practices of an indigenous Aeta community, using long fieldwork and participant observation, is:",
+   "options": [
+    "Ethnography",
+    "Phenomenology",
+    "Experimental research",
+    "Correlational research"
+   ],
+   "answer": "A",
+   "rationale": "Ethnography studies the meanings, patterns and lifeways of a culture holistically.",
+   "explanations": [
+    "Correct.",
+    "Lived experience.",
+    "Intervention.",
+    "Numeric relationships."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 3 Summary (PDF p. 108)",
+   "quote": "Ethnography provides a framework for studying the meanings, patterns, and lifeways of a culture in a holistic fashion."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A researcher studies how new graduate nurses gradually adjust to hospital work and develops a theory from the data. This tradition is:",
+   "options": [
+    "Grounded theory",
+    "Ethnography",
+    "Phenomenology",
+    "Survey research"
+   ],
+   "answer": "A",
+   "rationale": "Grounded theory develops theory inductively about social psychological processes.",
+   "explanations": [
+    "Correct.",
+    "Culture.",
+    "Lived experience.",
+    "Opinions, numeric."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 3 Summary (PDF p. 107)",
+   "quote": "Grounded theory seeks to describe and understand key social psychological processes that occur in a social setting."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Which step belongs to the conceptual phase of a quantitative study?",
+   "options": [
+    "Formulating hypotheses",
+    "Collecting data",
+    "Analyzing statistics",
+    "Publishing results"
+   ],
+   "answer": "A",
+   "rationale": "The conceptual phase includes defining the problem, reviewing literature, developing a framework and formulating hypotheses.",
+   "explanations": [
+    "Correct.",
+    "Empirical phase.",
+    "Analytic phase.",
+    "Dissemination phase."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 3 Summary (PDF p. 108)",
+   "quote": "developing a framework and conceptual definitions, and (5) formulating hypotheses to be tested."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "In qualitative research, the researcher stops recruiting participants when:",
+   "options": [
+    "No new information is emerging",
+    "Exactly 100 people are interviewed",
+    "The budget runs out",
+    "A p-value is significant"
+   ],
+   "answer": "A",
+   "rationale": "Sampling continues until saturation, when information becomes redundant.",
+   "explanations": [
+    "Correct.",
+    "Not the rule.",
+    "Not the principle.",
+    "Quantitative concept."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 3 Summary (PDF p. 108)",
+   "quote": "until saturation (redundancy of information) is achieved."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "In a qualitative study in a rural health unit, the municipal health officer who must approve access to the site is called the:",
+   "options": [
+    "Gatekeeper",
+    "Informant",
+    "Key variable",
+    "Primary investigator"
+   ],
+   "answer": "A",
+   "rationale": "Researchers gain entrée to a site by enlisting the cooperation of gatekeepers.",
+   "explanations": [
+    "Correct.",
+    "Provides data.",
+    "Not a person.",
+    "The researcher."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 3 Summary (PDF p. 108)",
+   "quote": "researchers select a site and seek to gain entrée into it, which typically involves enlisting the cooperation of gatekeepers within the site."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "In the IMRAD format of a research article, the section that explains what the findings mean and their implications is the:",
+   "options": [
+    "Discussion",
+    "Introduction",
+    "Method",
+    "Results"
+   ],
+   "answer": "A",
+   "rationale": "Introduction = problem; Method = strategies; Results = findings; Discussion = interpretation and implications.",
+   "explanations": [
+    "Correct.",
+    "Problem and context.",
+    "How it was done.",
+    "Findings only."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 4 Summary (PDF p. 129)",
+   "quote": "Discussion (interpretation and implications of the findings)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "The brief synopsis at the start of a research article is the:",
+   "options": [
+    "Abstract",
+    "Discussion",
+    "Appendix",
+    "Bibliography"
+   ],
+   "answer": "A",
+   "rationale": "The abstract summarizes the study so readers can judge its relevance quickly.",
+   "explanations": [
+    "Correct.",
+    "Interpretation.",
+    "Supplementary.",
+    "References."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 4 Summary (PDF p. 129)",
+   "quote": "Journal articles often consist of an abstract (a synopsis of the study)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A researcher uses interviews, observation and records to confirm the same finding. This strategy is:",
+   "options": [
+    "Triangulation",
+    "Randomization",
+    "Blinding",
+    "Matching"
+   ],
+   "answer": "A",
+   "rationale": "Triangulation uses multiple sources or methods to draw conclusions about the truth, enhancing credibility.",
+   "explanations": [
+    "Correct.",
+    "Chance assignment.",
+    "Masking.",
+    "Pairing on traits."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 4 Summary (PDF p. 129)",
+   "quote": "Triangulation, the use of multiple sources to draw conclusions about the truth, is one approach to enhancing credibility."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Neither the participants nor the data collectors know who received the new treatment. This is called:",
+   "options": [
+    "Blinding",
+    "Triangulation",
+    "Saturation",
+    "Reflexivity"
+   ],
+   "answer": "A",
+   "rationale": "Blinding (masking) avoids bias from awareness of group assignment or hypotheses.",
+   "explanations": [
+    "Correct.",
+    "Multiple sources.",
+    "Redundancy.",
+    "Self-reflection."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 4 Summary (PDF p. 130)",
+   "quote": "Blinding (or masking) is sometimes used to avoid biases stemming from participants’ or research agents’ awareness of study hypotheses or research status."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A qualitative researcher keeps a journal reflecting on how her own experiences as a mother may color her interpretation. This is:",
+   "options": [
+    "Reflexivity",
+    "Blinding",
+    "Randomization",
+    "Generalization"
+   ],
+   "answer": "A",
+   "rationale": "Reflexivity is critical self-reflection on values that could affect data collection and interpretation.",
+   "explanations": [
+    "Correct.",
+    "Masking.",
+    "Chance assignment.",
+    "Applying findings broadly."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 4 Summary (PDF p. 130)",
+   "quote": "Reflexivity, the process of reflecting critically on the self and of scrutinizing personal values that could affect data collection and interpretation"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "The extent to which findings of a quantitative study apply to other groups and settings is its:",
+   "options": [
+    "Generalizability",
+    "Reliability",
+    "Credibility",
+    "Saturation"
+   ],
+   "answer": "A",
+   "rationale": "Generalizability concerns applying findings beyond the sample; its qualitative counterpart is transferability.",
+   "explanations": [
+    "Correct.",
+    "Consistency of measures.",
+    "Truth value (qualitative).",
+    "Redundancy of data."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 4 Summary (PDF p. 130)",
+   "quote": "Generalizability in a quantitative study concerns the extent to which the findings can be applied to other groups and settings."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "In a study of exercise and blood pressure, participants' age could also affect blood pressure. Age here is a(n):",
+   "options": [
+    "Confounding variable",
+    "Independent variable",
+    "Dependent variable",
+    "Operational definition"
+   ],
+   "answer": "A",
+   "rationale": "Confounding (extraneous) variables are outside influences on the outcome that researchers try to control.",
+   "explanations": [
+    "Correct.",
+    "Exercise.",
+    "Blood pressure.",
+    "Not a variable type."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 4 Summary (PDF p. 130)",
+   "quote": "Researchers seek to control confounding (or extraneous) variables—variables that are extraneous to the purpose of a specific study."
+  }
+ ]
+}

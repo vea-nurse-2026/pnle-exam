@@ -1,0 +1,653 @@
+{
+ "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018)",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Blood type (A, B, AB, O) is measured at which level?",
+   "options": [
+    "Nominal",
+    "Ordinal",
+    "Interval",
+    "Ratio"
+   ],
+   "answer": "A",
+   "rationale": "Nominal measurement classifies attributes into mutually exclusive categories with no order.",
+   "explanations": [
+    "Correct.",
+    "Ranked.",
+    "Equal intervals.",
+    "True zero."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 364)",
+   "quote": "nominal measurement—the classification of attributes into mutually exclusive categories"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Pain rated as mild, moderate or severe is measured at which level?",
+   "options": [
+    "Ordinal",
+    "Nominal",
+    "Interval",
+    "Ratio"
+   ],
+   "answer": "A",
+   "rationale": "Ordinal measurement ranks people by relative standing; distances between ranks are not equal.",
+   "explanations": [
+    "Correct.",
+    "No order.",
+    "Equal distances.",
+    "True zero."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 364)",
+   "quote": "ordinal measurement—the ranking of people based on their relative standing on an attribute"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Body temperature in degrees Celsius is measured at the interval level because it:",
+   "options": [
+    "Equal intervals, no true zero",
+    "It has a true zero point",
+    "It only ranks values",
+    "It only names categories"
+   ],
+   "answer": "A",
+   "rationale": "Interval scales show rank and distance; ratio scales (e.g., weight) also have a rational zero.",
+   "explanations": [
+    "Correct.",
+    "Ratio.",
+    "Ordinal.",
+    "Nominal."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 364)",
+   "quote": "ratio measurement—distinguished from interval measurement by having a rational zero point."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Which is measured at the ratio level?",
+   "options": [
+    "Body weight in kilograms",
+    "Civil status",
+    "Educational rank",
+    "Satisfaction rating"
+   ],
+   "answer": "A",
+   "rationale": "Weight has equal intervals and a true zero; 0 kg means no weight.",
+   "explanations": [
+    "Correct.",
+    "Nominal.",
+    "Ordinal.",
+    "Ordinal."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 364)",
+   "quote": "ratio measurement—distinguished from interval measurement by having a rational zero point."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "The ages of five mothers are 18, 20, 20, 25 and 32. What is the mode?",
+   "options": [
+    "20",
+    "23",
+    "25",
+    "14"
+   ],
+   "answer": "A",
+   "rationale": "The mode is the value that occurs most often (20). The mean is 23 and the median is 20.",
+   "explanations": [
+    "Correct.",
+    "Mean.",
+    "Not the mode.",
+    "Range."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 364)",
+   "quote": "The mode is the value that occurs most frequently"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Hospital stays (days) of seven patients: 2, 3, 3, 4, 5, 6, 20. Which measure best describes the typical stay?",
+   "options": [
+    "Median, 4 days",
+    "Mean, about 6 days",
+    "Range, 18 days",
+    "Mode only"
+   ],
+   "answer": "A",
+   "rationale": "The median (middle value) is not distorted by the extreme value of 20; the mean is pulled upward.",
+   "explanations": [
+    "Correct.",
+    "Skewed by outlier.",
+    "Variability, not center.",
+    "Less informative here."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 364)",
+   "quote": "the median is the point above which and below which 50% of the cases fall"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Which index of central tendency is the most stable?",
+   "options": [
+    "Mean",
+    "Mode",
+    "Median",
+    "Range"
+   ],
+   "answer": "A",
+   "rationale": "The mean is the most stable measure of central tendency.",
+   "explanations": [
+    "Correct.",
+    "Less stable.",
+    "Less stable.",
+    "Variability."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 364)",
+   "quote": "The mean is the most stable index of central tendency."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Which statistic shows how much, on average, scores deviate from the mean?",
+   "options": [
+    "Standard deviation",
+    "Median",
+    "Mode",
+    "Correlation coefficient"
+   ],
+   "answer": "A",
+   "rationale": "The standard deviation is an index of variability; the range is highest minus lowest score.",
+   "explanations": [
+    "Correct.",
+    "Central value.",
+    "Most frequent.",
+    "Relationship."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 365)",
+   "quote": "The standard deviation (SD) indicates how much, on average, scores deviate from the mean."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "In a normal (bell-shaped) distribution, about what percentage of values fall within 2 SDs of the mean?",
+   "options": [
+    "95%",
+    "50%",
+    "68%",
+    "99.9%"
+   ],
+   "answer": "A",
+   "rationale": "About 95% of values lie within ±2 SDs of the mean (about 68% within ±1 SD).",
+   "explanations": [
+    "Correct.",
+    "Too low.",
+    "±1 SD.",
+    "Beyond ±3 SD."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 365)",
+   "quote": "In a normal distribution, 95% of values lie within 2 SDs above and below the mean."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A study reports r = −0.85 between hours of exercise and body weight. This means:",
+   "options": [
+    "Strong negative relationship",
+    "Weak positive relationship",
+    "No relationship",
+    "Exercise causes weight loss"
+   ],
+   "answer": "A",
+   "rationale": "Correlation ranges from −1 to +1; −0.85 is strong and inverse (more exercise, lower weight). It does not prove causation.",
+   "explanations": [
+    "Correct.",
+    "Sign and size wrong.",
+    "It is strong.",
+    "Correlation is not causation."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 365)",
+   "quote": "range from −1.00 (perfect negative correlation) through .00 to +1.00 (perfect positive correlation)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Which correlation coefficient is used when both variables are continuous (interval or ratio)?",
+   "options": [
+    "Pearson's r",
+    "Spearman's rho",
+    "Chi-square",
+    "Cohen's kappa"
+   ],
+   "answer": "A",
+   "rationale": "Pearson's r is for continuous variables; Spearman's rho is for ordinal data.",
+   "explanations": [
+    "Correct.",
+    "Ordinal data.",
+    "Proportions.",
+    "Interrater agreement."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 365)",
+   "quote": "The most frequently used correlation coefficient is Pearson’s r, used with continuous variables."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A researcher compares the mean blood pressure of two groups: one given a low-salt diet and one given a usual diet. The appropriate test is the:",
+   "options": [
+    "t-test",
+    "Chi-square test",
+    "ANOVA for three groups",
+    "Spearman's rho"
+   ],
+   "answer": "A",
+   "rationale": "The t-test compares two group means; ANOVA is used for three or more groups.",
+   "explanations": [
+    "Correct.",
+    "Proportions.",
+    "More than two groups.",
+    "Ordinal correlation."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 366)",
+   "quote": "Two common statistical tests are the t-test and analysis of variance (ANOVA), both of which can be used to test the significance of the difference between group means"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Mean pain scores of patients in three different wards are compared. The appropriate test is:",
+   "options": [
+    "ANOVA",
+    "t-test",
+    "Chi-square",
+    "Pearson's r"
+   ],
+   "answer": "A",
+   "rationale": "ANOVA is used when comparing means of three or more groups.",
+   "explanations": [
+    "Correct.",
+    "Two groups only.",
+    "Proportions.",
+    "Relationship."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 366)",
+   "quote": "ANOVA is used when there are three or more groups."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A researcher compares the proportion of smokers among male and female students. The appropriate test is:",
+   "options": [
+    "Chi-square",
+    "t-test",
+    "ANOVA",
+    "Pearson's r"
+   ],
+   "answer": "A",
+   "rationale": "Chi-square tests differences in proportions (categorical data).",
+   "explanations": [
+    "Correct.",
+    "Means.",
+    "Means.",
+    "Continuous relationship."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 366)",
+   "quote": "The chi-squared test is used to test hypotheses about group differences in proportions."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A study reports p = 0.03 with alpha set at 0.05. The researcher should:",
+   "options": [
+    "Reject the null hypothesis",
+    "Accept the null hypothesis",
+    "Conclude the result is due to chance",
+    "Increase alpha to 0.10"
+   ],
+   "answer": "A",
+   "rationale": "When p is below alpha (0.05), the result is statistically significant and the null hypothesis is rejected.",
+   "explanations": [
+    "Correct.",
+    "p is below alpha.",
+    "Unlikely due to chance.",
+    "Not done after the fact."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 366)",
+   "quote": "statistically significant means that the obtained results are not likely to be due to chance fluctuations at a given probability (p value)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A researcher concludes a new drug works when, in truth, it has no effect. This is a:",
+   "options": [
+    "Type I error",
+    "Type II error",
+    "Sampling frame error",
+    "Measurement error only"
+   ],
+   "answer": "A",
+   "rationale": "A Type I error is wrongly rejecting a true null hypothesis (false positive); Type II is wrongly accepting a false null (false negative).",
+   "explanations": [
+    "Correct.",
+    "False negative.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 366)",
+   "quote": "A Type I error occurs if a null hypothesis is wrongly rejected (false positives)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A small study finds no significant effect of a program that truly works. This is a Type II error, and the best way to reduce it is to:",
+   "options": [
+    "Increase the sample size",
+    "Lower alpha to 0.01",
+    "Use convenience sampling",
+    "Shorten the study"
+   ],
+   "answer": "A",
+   "rationale": "Power (ability to detect true effects) increases with sample size; 0.80 is the usual acceptable power.",
+   "explanations": [
+    "Correct.",
+    "Raises Type II risk.",
+    "Adds bias.",
+    "Not helpful."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 366)",
+   "quote": "Power increases as sample size increases."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "The conventional level of significance (alpha) in nursing research is:",
+   "options": [
+    "0.05",
+    "0.50",
+    "0.80",
+    "0.95"
+   ],
+   "answer": "A",
+   "rationale": "Alpha of 0.05 means a 5% risk of a Type I error; 0.80 is the usual standard for power.",
+   "explanations": [
+    "Correct.",
+    "Too high.",
+    "Power standard.",
+    "Confidence level."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 366)",
+   "quote": "The .05 level (the conventional standard)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A study reports a mean hemoglobin of 11.2 g/dL with a 95% confidence interval of 10.8–11.6. This interval means:",
+   "options": [
+    "True mean likely in this range",
+    "All patients fall in this range",
+    "The result is not significant",
+    "The SD equals 0.4 g/dL"
+   ],
+   "answer": "A",
+   "rationale": "A 95% CI gives the range within which the true population value is expected to fall, with 95% probability.",
+   "explanations": [
+    "Correct.",
+    "Individual values vary more.",
+    "Not what a CI means.",
+    "Not computed this way."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 365)",
+   "quote": "there is a 95% probability that the true population value lies between the upper and lower confidence limits."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A screening test correctly identifies 90% of people who truly have TB. This property is its:",
+   "options": [
+    "Sensitivity",
+    "Specificity",
+    "Reliability",
+    "Prevalence"
+   ],
+   "answer": "A",
+   "rationale": "Sensitivity is the rate of true positives; specificity is the rate of true negatives.",
+   "explanations": [
+    "Correct.",
+    "True negatives.",
+    "Consistency.",
+    "Frequency of disease."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 367)",
+   "quote": "Sensitivity is the instrument’s ability to identify a case correctly (i.e., its rate of yielding true positives)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A dengue rapid test correctly gives a negative result for 95% of people who do not have dengue. This is its:",
+   "options": [
+    "Specificity",
+    "Sensitivity",
+    "Validity coefficient",
+    "Incidence"
+   ],
+   "answer": "A",
+   "rationale": "Specificity is the ability to identify non-cases correctly (true negatives).",
+   "explanations": [
+    "Correct.",
+    "True positives.",
+    "Not this.",
+    "New cases."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 367)",
+   "quote": "Specificity is the instrument’s ability to identify noncases correctly (i.e., its rate of yielding true negatives)."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Descriptive statistics are used to:",
+   "options": [
+    "Summarize and describe data",
+    "Test hypotheses about populations",
+    "Generalize to all patients",
+    "Prove causation"
+   ],
+   "answer": "A",
+   "rationale": "Descriptive statistics summarize data; inferential statistics draw conclusions about populations from samples.",
+   "explanations": [
+    "Correct.",
+    "Inferential.",
+    "Inferential.",
+    "Not possible."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 364)",
+   "quote": "Descriptive statistics are used to summarize and describe quantitative data."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "A drug lowers blood pressure by 1 mmHg with p < 0.001 in a very large study. The nurse recognizes that the result is:",
+   "options": [
+    "Significant but trivial",
+    "Clinically life-saving",
+    "Not statistically significant",
+    "Proof of a large effect"
+   ],
+   "answer": "A",
+   "rationale": "Clinical significance is the practical importance of results in patients' lives; large samples can make tiny effects statistically significant.",
+   "explanations": [
+    "Correct.",
+    "Effect is trivial.",
+    "It is significant.",
+    "Effect is small."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Evaluating",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 15 Summary (PDF p. 389)",
+   "quote": "clinical significance refers to the practical importance of research results"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Repeating a study in another hospital and getting the same results is called:",
+   "options": [
+    "Replication",
+    "Triangulation",
+    "Randomization",
+    "Saturation"
+   ],
+   "answer": "A",
+   "rationale": "Corroboration through replication strengthens confidence in results.",
+   "explanations": [
+    "Correct.",
+    "Multiple sources in one study.",
+    "Chance assignment.",
+    "Qualitative redundancy."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 15 Summary (PDF p. 389)",
+   "quote": "Corroboration (replication) of results, through either internal or external sources"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Statistically combining the results of several randomized trials into one overall effect estimate is a:",
+   "options": [
+    "Meta-analysis",
+    "Metasynthesis",
+    "Case study",
+    "Pilot study"
+   ],
+   "answer": "A",
+   "rationale": "Meta-analysis integrates quantitative findings statistically; metasynthesis integrates qualitative findings.",
+   "explanations": [
+    "Correct.",
+    "Qualitative.",
+    "Single entity.",
+    "Trial run."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 18 Summary (PDF p. 453)",
+   "quote": "Systematic reviews of quantitative studies often involve statistical integration of findings in a meta-analysis"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Studies with nonsignificant results are less likely to be published, which can make a meta-analysis overestimate effects. This is:",
+   "options": [
+    "Publication bias",
+    "Selection by randomization",
+    "Interrater error",
+    "Attrition"
+   ],
+   "answer": "A",
+   "rationale": "Publication bias from underreporting of nonsignificant findings can inflate pooled effects; including grey literature helps.",
+   "explanations": [
+    "Correct.",
+    "Not a bias.",
+    "Not this.",
+    "Dropouts."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 18 Summary (PDF p. 453)",
+   "quote": "publication bias stemming from the underrepresentation of nonsignificant findings in published reports can lead to overestimates of effects."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Quality Improvement & Research",
+   "situation": "",
+   "stem": "Statistics that allow a researcher to draw conclusions about a population from a sample are:",
+   "options": [
+    "Inferential statistics",
+    "Descriptive statistics",
+    "Frequency counts",
+    "Percentages only"
+   ],
+   "answer": "A",
+   "rationale": "Inferential statistics, based on probability, estimate population parameters from sample data.",
+   "explanations": [
+    "Correct.",
+    "Summarize data.",
+    "Descriptive.",
+    "Descriptive."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Polit & Beck, Essentials of Nursing Research, 9th ed. (2018), Ch. 14 Summary (PDF p. 365)",
+   "quote": "Inferential statistics, based on laws of probability, allow researchers to make inferences about population parameters based on data from a sample."
+  }
+ ]
+}
