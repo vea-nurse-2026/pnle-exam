@@ -1,0 +1,701 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024)",
+ "questions": [
+  {
+   "subject": "NP II",
+   "topic": "Theories of Growth and Development",
+   "situation": "",
+   "stem": "At a well-child visit, which skill does the nurse expect a 2-year-old to perform?",
+   "options": [
+    "Kick a ball forward",
+    "Ride a tricycle",
+    "Tie shoelaces",
+    "Cut with blunt scissors"
+   ],
+   "answer": "A",
+   "rationale": "Two-year-olds kick a ball; tricycle and scissors at 3 years; shoelaces about 5 years.",
+   "explanations": [
+    "Correct.",
+    "3 years.",
+    "5 years.",
+    "3 years."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 164)",
+   "quote": "A 2-year-old usually can kick a ball fonvard."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Theories of Growth and Development",
+   "situation": "",
+   "stem": "A 5-year-old screams that all his blood will come out if the bandage is removed after a blood test. This reflects fear of:",
+   "options": [
+    "Loss of body integrity",
+    "Loss of control",
+    "Separation",
+    "Strangers"
+   ],
+   "answer": "A",
+   "rationale": "Preschoolers fear body mutilation and view procedures as invasions that damage the body.",
+   "explanations": [
+    "Correct.",
+    "Different fear.",
+    "Toddler fear.",
+    "Infant fear."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 164)",
+   "quote": "The child does not understand that exsanguination will not occur from an injection site."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the Well Child (Neonate to Adolescent)",
+   "situation": "",
+   "stem": "The best way for parents to handle a toddler's temper tantrum is to:",
+   "options": [
+    "Ignore it while keeping the child safe",
+    "Pick the child up at once",
+    "Reason with the child during it",
+    "Give a treat to stop it"
+   ],
+   "answer": "A",
+   "rationale": "Ignoring tantrums (if safe) avoids reinforcing them; they reflect the toddler's drive for autonomy.",
+   "explanations": [
+    "Correct.",
+    "Reinforces.",
+    "Ineffective.",
+    "Reinforces."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 164)",
+   "quote": "Children who have temper tantrums should be ignored as long as they are safe."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "Which food is best for a child at home after tonsillectomy?",
+   "options": [
+    "Cream soup and sherbet",
+    "Crackers and chips",
+    "Raw carrots",
+    "Hot dogs"
+   ],
+   "answer": "A",
+   "rationale": "Soft, cool foods and liquids are tolerated; avoid hard, scratchy foods until the throat heals.",
+   "explanations": [
+    "Correct.",
+    "Scratchy.",
+    "Hard.",
+    "Hard to swallow."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 164)",
+   "quote": "For the first few days after a T and A, liquids and soft foods are best tolerated by the child while the throat is sore."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "The diet recommended for a child with cystic fibrosis is:",
+   "options": [
+    "High-calorie, high-protein",
+    "Low-protein",
+    "Low-calorie",
+    "Low-carbohydrate"
+   ],
+   "answer": "A",
+   "rationale": "Pancreatic insufficiency causes malabsorption; children need high-calorie, high-protein diets with enzymes.",
+   "explanations": [
+    "Correct.",
+    "Too little.",
+    "Too little.",
+    "Not appropriate."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 164)",
+   "quote": "a moderate fat, hi - rotein;hi -calorie diet is indicated."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "A toddler with tetralogy of Fallot turns blue and breathes fast while crying. The nurse first:",
+   "options": [
+    "Places the child in knee-chest position",
+    "Gets an order for sedation",
+    "Checks the heart rhythm",
+    "Tells the child it will be quick"
+   ],
+   "answer": "A",
+   "rationale": "Knee-chest position increases systemic resistance and reduces right-to-left shunting during a \"tet spell.\"",
+   "explanations": [
+    "Correct.",
+    "Later if needed.",
+    "After positioning.",
+    "Doesn't relieve hypoxia."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 165)",
+   "quote": "The child is experiencing a 'ftet spell\" or hypoxic episode. Therefore the nurse should place the child in a knee-to-chest position."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "To ease painful joints in a child with rheumatic fever, the nurse uses:",
+   "options": [
+    "A bed cradle",
+    "Joint traction",
+    "Joints held fully extended",
+    "Vigorous range of motion"
+   ],
+   "answer": "A",
+   "rationale": "Joints are so tender that even bed linens hurt; a bed cradle keeps linens off them.",
+   "explanations": [
+    "Correct.",
+    "Not indicated.",
+    "Not functional.",
+    "Painful."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 165)",
+   "quote": "Use of a bed cradle is recommended to help remove the weight of the linens on painful joints."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "The priority nursing diagnosis for a newborn with tracheoesophageal fistula is risk for:",
+   "options": [
+    "Aspiration",
+    "Impaired parenting",
+    "Constipation",
+    "Hypothermia only"
+   ],
+   "answer": "A",
+   "rationale": "The blind pouch fills with fluid and secretions, so aspiration pneumonia is the major risk.",
+   "explanations": [
+    "Correct.",
+    "Not priority.",
+    "Not related.",
+    "Not priority."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 166)",
+   "quote": "Because the blind pouch associated with TEF fills quickly xsith fluids, the child is at high risk for aspiration."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "After repair of an imperforate anus, the infant is positioned:",
+   "options": [
+    "On the side with hips elevated",
+    "Prone with legs tucked under",
+    "Supine with legs straight",
+    "Sitting up"
+   ],
+   "answer": "A",
+   "rationale": "Side-lying with hips elevated (or supine with legs suspended) avoids pressure and tension on the perineum.",
+   "explanations": [
+    "Correct.",
+    "Tension on perineum.",
+    "Tension.",
+    "Pressure."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 166)",
+   "quote": "on cither side with the hips elevated to prevent pressure on the perineum."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "A child swallowed a large amount of paracetamol. The antidote the nurse prepares is:",
+   "options": [
+    "Acetylcysteine",
+    "Vitamin K",
+    "Naloxone",
+    "EDTA"
+   ],
+   "answer": "A",
+   "rationale": "Acetylcysteine prevents liver damage; watch for right upper quadrant pain from hepatotoxicity.",
+   "explanations": [
+    "Correct.",
+    "Warfarin.",
+    "Opioids.",
+    "Lead."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 170)",
+   "quote": "Acetylcysteine prevents hepatotoxicity caused by acetaminophen poisoning."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the Well Child (Neonate to Adolescent)",
+   "situation": "",
+   "stem": "An adolescent had surgery for an undescended testis as a child. The most important teaching is:",
+   "options": [
+    "Monthly testicular self-exam",
+    "Sterility counseling",
+    "Avoiding all sports",
+    "Hormone injections"
+   ],
+   "answer": "A",
+   "rationale": "Testicular cancer risk is higher after undescended testes, so monthly self-examination is taught.",
+   "explanations": [
+    "Correct.",
+    "Not the priority.",
+    "Not needed.",
+    "Not indicated."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 167)",
+   "quote": "it is extremely Important to teach the adoQent how to perform the testicular self.examination monthly."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "For a child with acute glomerulonephritis with edema and low urine output, the most important assessment is:",
+   "options": [
+    "Daily weight",
+    "Electrolytes every week",
+    "Vital signs once a day",
+    "I&O every 12 hours only"
+   ],
+   "answer": "A",
+   "rationale": "Weight is the best indicator of fluid balance.",
+   "explanations": [
+    "Correct.",
+    "Not enough.",
+    "Not enough.",
+    "Less precise."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 167)",
+   "quote": "Because weight is the best indicator of fluid balance, obtaining daily weights would be the highest priority."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "A child has a suspected Wilms' tumor. The nurse must avoid:",
+   "options": [
+    "Palpating the abdomen",
+    "Taking blood pressure",
+    "Weighing the child",
+    "Checking urine output"
+   ],
+   "answer": "A",
+   "rationale": "Abdominal palpation may rupture the encapsulated tumor and spread cancer cells; post a sign.",
+   "explanations": [
+    "Correct; avoid it.",
+    "Needed.",
+    "Needed.",
+    "Needed."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 167)",
+   "quote": "Ihe abdomen of the child with Wilm•s tumor should not be palpated because of the danger of disseminating tumor cells."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "Before surgery, a newborn with an unrepaired myelomeningocele is positioned:",
+   "options": [
+    "Prone",
+    "Supine",
+    "Sitting",
+    "On the back with hips flexed"
+   ],
+   "answer": "A",
+   "rationale": "Prone positioning keeps pressure off the sac and allows good hip alignment.",
+   "explanations": [
+    "Correct.",
+    "Pressure on sac.",
+    "Pressure on sac.",
+    "Pressure on sac."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 167)",
+   "quote": "Before surgery. the infant is kept in the prone position to decrease tension on the sac."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "Immediately after insertion of a VP shunt on the right side of the head, the child is positioned:",
+   "options": [
+    "Supine, flat, off shunt",
+    "Right side, head up",
+    "Prone, head up",
+    "Sitting upright"
+   ],
+   "answer": "A",
+   "rationale": "Keep flat at first to avoid rapid CSF drainage and subdural hematoma; avoid lying on the shunt valve.",
+   "explanations": [
+    "Correct.",
+    "Pressure on valve.",
+    "Not indicated.",
+    "Too rapid drainage."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 167)",
+   "quote": "the child is positioned supine with the head of the bed flat to prevent too rapid decrease in CSF pressure."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "An appropriate goal for a child with Down syndrome is to:",
+   "options": [
+    "Develop self-care skills",
+    "Learn something new every day",
+    "Have lenient behavior limits",
+    "Reach age-level social skills"
+   ],
+   "answer": "A",
+   "rationale": "The goal is maximum independence; consistent limits and repetition are needed.",
+   "explanations": [
+    "Correct.",
+    "Unrealistic.",
+    "Need consistent limits.",
+    "Often not achievable."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 168)",
+   "quote": "goal in working with mentally challenged children is to train them to be as independent as possible."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "An adolescent taking valproic acid should report:",
+   "options": [
+    "Yellowing of the skin",
+    "Mild appetite loss",
+    "A single loose stool",
+    "Mild headache"
+   ],
+   "answer": "A",
+   "rationale": "Valproic acid can cause liver toxicity; jaundice must be reported promptly.",
+   "explanations": [
+    "Correct.",
+    "Minor.",
+    "Minor.",
+    "Minor."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 168)",
+   "quote": "A toxic effect of valproic acid (Depakene) is liver toxicity, which may manifest Voith jaundice"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "A hospitalized preschooler is angry that his discharge was delayed. The best play activity is:",
+   "options": [
+    "Pounding on a pegboard",
+    "Listening to a story",
+    "Painting with watercolors",
+    "Stacking blocks"
+   ],
+   "answer": "A",
+   "rationale": "Physical activity gives a safe outlet for anger; fine-motor tasks may add frustration.",
+   "explanations": [
+    "Correct.",
+    "Passive.",
+    "Needs concentration.",
+    "Needs concentration."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 168)",
+   "quote": "Pounding on a pegboard offers the opportunity."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "Parents of a child who nearly drowned say they feel guilty. The best response is:",
+   "options": [
+    "\"Tell me more about your feelings of guilt.\"",
+    "\"You should have watched him closely.\"",
+    "\"Don't feel guilty; he will be fine.\"",
+    "\"These things happen to everyone.\""
+   ],
+   "answer": "A",
+   "rationale": "Open-ended, nonjudgmental responses let parents express guilt; blaming and false reassurance block communication.",
+   "explanations": [
+    "Correct.",
+    "Blaming.",
+    "False reassurance.",
+    "Minimizing."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 168)",
+   "quote": "The parents need to be allowed to express their feelings openly in a nonthreatening, nonjudgmental atmosphere."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "Teaching for parents of an infant in a Pavlik harness includes:",
+   "options": [
+    "Fit the diaper under the straps",
+    "Remove it at night",
+    "Check skin every other day",
+    "Powder the skin under the straps"
+   ],
+   "answer": "A",
+   "rationale": "The harness is worn continuously over a diaper; check skin several times daily and avoid powders and lotions.",
+   "explanations": [
+    "Correct.",
+    "Wear continuously.",
+    "Check more often.",
+    "Cakes, irritates."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 168)",
+   "quote": "The Pavlik harness is wom over a diaper."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "A mother of a boy with Duchenne muscular dystrophy shows understanding when she says:",
+   "options": [
+    "\"He'll likely lose walking ability by about 9 to 11.\"",
+    "\"Muscle relaxants will cure him.\"",
+    "\"Surgery will restore his walking.\"",
+    "\"Activity will stop the disease.\""
+   ],
+   "answer": "A",
+   "rationale": "Duchenne is progressive X-linked; affected boys usually cannot walk independently by 9–11 years.",
+   "explanations": [
+    "Correct.",
+    "No cure.",
+    "Not curative.",
+    "Doesn't stop progression."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 169)",
+   "quote": "Children who are affected by this disease usually are unable to independently by age 9-11 years."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "A 9-month-old with severe diarrhea has metabolic acidosis. The nurse expects:",
+   "options": [
+    "Rapid, deep breathing",
+    "Shallow breathing",
+    "Low platelet count",
+    "Bradycardia"
+   ],
+   "answer": "A",
+   "rationale": "The lungs compensate for metabolic acidosis by increasing ventilation (tachypnea, deep breaths).",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Not related.",
+    "Not typical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 169)",
+   "quote": "The body compensates for metabolic acidosis through the lungs which try to eliminate the buffered acids by increasing alveolar ventilation"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Theories of Growth and Development",
+   "situation": "",
+   "stem": "A 4-year-old wants to finish his board game before his dressing is changed. This reflects Erikson's stage of:",
+   "options": [
+    "Initiative vs. guilt",
+    "Autonomy vs. shame",
+    "Industry vs. inferiority",
+    "Trust vs. mistrust"
+   ],
+   "answer": "A",
+   "rationale": "Preschoolers in initiative vs. guilt feel accomplishment in completing activities they start.",
+   "explanations": [
+    "Correct.",
+    "Toddler.",
+    "School age.",
+    "Infant."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 169)",
+   "quote": "A child who v,ants to finish his game of candyland before his dressing is changed is in the stage of initiative."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "Which finding best shows that a 3-year-old after surgery is no longer in pain?",
+   "options": [
+    "Renewed interest in play",
+    "Faster heart rate",
+    "Less appetite",
+    "Less urine output"
+   ],
+   "answer": "A",
+   "rationale": "A pain-free child resumes play; tachycardia and poor appetite suggest ongoing pain.",
+   "explanations": [
+    "Correct.",
+    "Suggests pain.",
+    "Suggests pain.",
+    "Possible dehydration."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Evaluating",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 169)",
+   "quote": "A child who is pain-free likes to play."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "An infant has repeated middle-ear infections. The most important question for the mother is whether:",
+   "options": [
+    "Full antibiotic course",
+    "Feeding well",
+    "Weight gain",
+    "Current fever"
+   ],
+   "answer": "A",
+   "rationale": "Stopping antibiotics early leads to recurrence, hearing loss or systemic infection.",
+   "explanations": [
+    "Correct.",
+    "Less related.",
+    "Less related.",
+    "Current status only."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 170)",
+   "quote": "If the client is not receiving her full course of antibiotic therapy her ear infections \"ill recur"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Theories of Growth and Development",
+   "situation": "",
+   "stem": "The anterior fontanel normally closes by:",
+   "options": [
+    "12–18 months",
+    "2–3 months",
+    "3–6 months",
+    "6–9 months"
+   ],
+   "answer": "A",
+   "rationale": "The anterior fontanel closes at 12–18 months; the posterior by about 2–3 months.",
+   "explanations": [
+    "Correct.",
+    "Posterior.",
+    "Too early.",
+    "Too early."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 170)",
+   "quote": "It nonnally closes between ages 12 and 1 8 months."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Theories of Growth and Development",
+   "situation": "",
+   "stem": "Which developmental change is typical of adolescence?",
+   "options": [
+    "Abstract thinking",
+    "Egocentrism of toddlers",
+    "Developing hand dominance",
+    "Fear of strangers"
+   ],
+   "answer": "A",
+   "rationale": "Adolescents develop abstract thinking and secondary sex characteristics and often take risks.",
+   "explanations": [
+    "Correct.",
+    "Toddler.",
+    "Preschool.",
+    "Infant."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 170)",
+   "quote": "During adolescence, abstract thinking and secondary sex characteristics are developed and high-risk behaviors are common."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Child Care: Legal, Collaboration & Teamwork",
+   "situation": "",
+   "stem": "Which child should raise the nurse's suspicion of abuse?",
+   "options": [
+    "A withdrawn 3-year-old with back bruises",
+    "A 2-year-old with shin bruises",
+    "A shy 2-year-old who avoids eye contact",
+    "A 10-year-old with a sports fracture"
+   ],
+   "answer": "A",
+   "rationale": "Bruises on protected areas like the back plus withdrawal are red flags; shin bruises are common in toddlers.",
+   "explanations": [
+    "Correct.",
+    "Typical play injury.",
+    "Normal shyness.",
+    "Common injury."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 171)",
+   "quote": "A 3-year old child who acts withdrawn and has bruises on his back may be the victim of child abuse."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "A typical finding in a child with immune thrombocytopenic purpura is:",
+   "options": [
+    "Petechiae and easy bruising",
+    "High fever",
+    "Dark concentrated urine",
+    "Joint swelling"
+   ],
+   "answer": "A",
+   "rationale": "ITP causes petechiae, easy bruising and mucosal bleeding from low platelets.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Dehydration.",
+    "Hemophilia."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Pediatric exercises (PDF p. 171)",
+   "quote": "The common symptoms of idiopathic thrombocytopenic purpura include easy bruising, petechiae, and bleeding from mucous membranes."
+  }
+ ]
+}

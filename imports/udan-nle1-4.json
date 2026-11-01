@@ -1,0 +1,677 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024)",
+ "questions": [
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "The structure left in the ovary after the mature ovum is released is the:",
+   "options": [
+    "Corpus luteum",
+    "Graafian follicle",
+    "Blastocyst",
+    "Chorion"
+   ],
+   "answer": "A",
+   "rationale": "After ovulation the follicle becomes the corpus luteum, which secretes progesterone.",
+   "explanations": [
+    "Correct.",
+    "Before ovulation.",
+    "Early embryo.",
+    "Fetal membrane."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 123)",
+   "quote": "Corpus luteum is the structure left aner the mature ovum is discharged."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Before Birth",
+   "situation": "",
+   "stem": "A normal umbilical cord contains:",
+   "options": [
+    "Two arteries and one vein",
+    "Two veins and one artery",
+    "One artery and one vein",
+    "Two veins only"
+   ],
+   "answer": "A",
+   "rationale": "The cord has two arteries and one vein (AVA); a single artery may signal anomalies.",
+   "explanations": [
+    "Correct.",
+    "Reversed.",
+    "Abnormal.",
+    "Abnormal."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 123)",
+   "quote": "Ihe umbilical cord is composed of 2 arteries and I vein."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Before Birth",
+   "situation": "",
+   "stem": "A woman's obstetric score is G5 P3114. How many preterm births has she had?",
+   "options": [
+    "1",
+    "3",
+    "4",
+    "5"
+   ],
+   "answer": "A",
+   "rationale": "After G5, TPAL = Term 3, Preterm 1, Abortion 1, Living 4.",
+   "explanations": [
+    "Correct.",
+    "Term births.",
+    "Living children.",
+    "Pregnancies."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 123)",
+   "quote": "Gravida 5 Para 3 t 1 4 means that the woman had 5 pregnancies, 3 term deliveries. I preterm delive , I abortion, and 4 livin children."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Before Birth",
+   "situation": "",
+   "stem": "A woman at 8 weeks reports amenorrhea, breast tenderness and a positive urine test. These findings are best classified as:",
+   "options": [
+    "Presumptive and probable signs",
+    "Positive signs",
+    "Signs of false pregnancy",
+    "Danger signs"
+   ],
+   "answer": "A",
+   "rationale": "Amenorrhea and breast changes are presumptive; a positive test is probable. Positive signs are fetal heart tones, fetal movement felt by examiner and fetal outline.",
+   "explanations": [
+    "Correct.",
+    "Need fetal evidence.",
+    "Not this.",
+    "Not danger signs."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 123)",
+   "quote": "Absence of menstruation and quickening are resum tive si nsof re nanc"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Before Birth",
+   "situation": "",
+   "stem": "Using Naegele's rule, the expected date of delivery for a last menstrual period beginning May 10 is:",
+   "options": [
+    "February 17",
+    "February 13",
+    "January 17",
+    "March 10"
+   ],
+   "answer": "A",
+   "rationale": "Subtract 3 months, add 7 days, add 1 year: May 10 → February 17.",
+   "explanations": [
+    "Correct.",
+    "Added 3 days.",
+    "Wrong month.",
+    "Wrong."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 130)",
+   "quote": "From the last normal menstrual period, subtract 3 from the month, add 7 for the day, and add I year."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Before Birth",
+   "situation": "",
+   "stem": "A pregnant woman feels faint while lying on her back. The nurse helps her to lie:",
+   "options": [
+    "On her left side",
+    "Flat with legs raised",
+    "On her right side",
+    "Prone"
+   ],
+   "answer": "A",
+   "rationale": "Left lateral position relieves compression of the inferior vena cava by the uterus (supine hypotension).",
+   "explanations": [
+    "Correct.",
+    "Still supine.",
+    "Less effective.",
+    "Not possible."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 124)",
+   "quote": "This position relieves compression of the inferior vena cava by the gravid utens."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Before Birth",
+   "situation": "",
+   "stem": "Which advice helps a woman with morning sickness in the first trimester?",
+   "options": [
+    "Eat dry crackers before rising",
+    "Take an over-the-counter antiemetic",
+    "Eat large fatty meals",
+    "Drink fluids with every meal"
+   ],
+   "answer": "A",
+   "rationale": "Small frequent meals, dry crackers, low-fat food and fluids between meals help; no drugs without prescription.",
+   "explanations": [
+    "Correct.",
+    "Not without prescription.",
+    "Worsens nausea.",
+    "Take between meals."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 124)",
+   "quote": "To relieve nausea and vomiting during the first trimester, woman is to take dry toast or crackers."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Before Birth",
+   "situation": "",
+   "stem": "Maternal serum alpha-fetoprotein is elevated. This may indicate:",
+   "options": [
+    "Neural tube defect",
+    "Gestational diabetes",
+    "Placenta previa",
+    "Pre-eclampsia"
+   ],
+   "answer": "A",
+   "rationale": "AFP is measured from maternal blood; high levels suggest open neural tube defects.",
+   "explanations": [
+    "Correct.",
+    "Glucose test.",
+    "Ultrasound.",
+    "BP, protein."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 124)",
+   "quote": "High of AFP may indicate-presence of neural tube defect (e. . S ina bifida)"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Before Birth",
+   "situation": "",
+   "stem": "To prevent toxoplasmosis, a pregnant woman should avoid:",
+   "options": [
+    "Raw meat and cat litter",
+    "All travel",
+    "People with colds",
+    "Crowded places"
+   ],
+   "answer": "A",
+   "rationale": "Toxoplasmosis comes from raw meat and cat feces; it crosses the placenta and can cause hydrocephalus or chorioretinitis.",
+   "explanations": [
+    "Correct.",
+    "Not related.",
+    "Not related.",
+    "Not related."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 124)",
+   "quote": "Toxoplasmosis is an infection contacted through eating raw meats or handling cat litters."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother with Complications of Childbearing",
+   "situation": "",
+   "stem": "A woman with severe gestational hypertension is at increased risk of:",
+   "options": [
+    "Abruptio placentae",
+    "Post-term delivery",
+    "Uterine inversion",
+    "Placenta previa"
+   ],
+   "answer": "A",
+   "rationale": "Hypertension impairs uteroplacental circulation and predisposes to premature placental separation.",
+   "explanations": [
+    "Correct.",
+    "Not linked.",
+    "Not linked.",
+    "Implantation problem."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 124)",
+   "quote": "Abruptio placenta, which is premature separation of nonnally implanted placenta in the third trimester is a potential complication of PIH"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother with Complications of Childbearing",
+   "situation": "",
+   "stem": "Which finding supports abruptio placentae rather than placenta previa?",
+   "options": [
+    "Rising fundal height and rigid uterus",
+    "Painless bright red bleeding",
+    "Soft, relaxed uterus",
+    "Normal fetal heart tones always"
+   ],
+   "answer": "A",
+   "rationale": "Abruption causes painful bleeding, board-like uterus and rising fundus from concealed bleeding; previa is painless with a soft uterus.",
+   "explanations": [
+    "Correct.",
+    "Previa.",
+    "Previa.",
+    "Often abnormal."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 126)",
+   "quote": "A manifestation is rising ftndal height from blood trapped behind placenta."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother with Complications of Childbearing",
+   "situation": "",
+   "stem": "Which sign should be posted at the bedside of a client with placenta previa?",
+   "options": [
+    "No vaginal examination",
+    "No BP taking",
+    "No abdominal palpation",
+    "No visitors"
+   ],
+   "answer": "A",
+   "rationale": "The placenta lies over or near the os; vaginal or internal examination can cause massive bleeding.",
+   "explanations": [
+    "Correct.",
+    "BP is needed.",
+    "Gentle exam allowed.",
+    "Not required."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 126)",
+   "quote": "nursing intervention should include avoidance of invasive procedures like vaginal examination"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother During Labor and Birth",
+   "situation": "",
+   "stem": "The presenting part is 2 cm below the ischial spines. The station is:",
+   "options": [
+    "+2",
+    "−2",
+    "0",
+    "−1"
+   ],
+   "answer": "A",
+   "rationale": "Station 0 is at the spines; below is positive, above is negative.",
+   "explanations": [
+    "Correct.",
+    "Above spines.",
+    "At spines.",
+    "Above spines."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 125)",
+   "quote": "If the presenting part of the fetus is at 2 cm. below the ischial spine, it is station (+) 2."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother During Labor and Birth",
+   "situation": "",
+   "stem": "During the first Leopold maneuver, the nurse feels a hard, round, movable part in the fundus. The presentation is:",
+   "options": [
+    "Breech",
+    "Cephalic",
+    "Shoulder",
+    "Vertex"
+   ],
+   "answer": "A",
+   "rationale": "The first maneuver identifies the part in the fundus; if the head is there, the buttocks present (breech).",
+   "explanations": [
+    "Correct.",
+    "Head would be below.",
+    "Transverse lie.",
+    "Head below."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 125)",
+   "quote": "The head is hard, round, and movable. Therefore the resentation is breech"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother During Labor and Birth",
+   "situation": "",
+   "stem": "Which finding indicates false labor?",
+   "options": [
+    "Contractions ease with walking or rest",
+    "Progressive cervical dilatation",
+    "Bloody show",
+    "Back pain not relieved by walking"
+   ],
+   "answer": "A",
+   "rationale": "False labor contractions are irregular and decrease; true labor causes progressive dilatation and effacement.",
+   "explanations": [
+    "Correct.",
+    "True labor.",
+    "True labor.",
+    "True labor."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 125)",
+   "quote": "Contractions that decrease in duration and intensity is false labor."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother During Labor and Birth",
+   "situation": "",
+   "stem": "Which contraction pattern in active labor needs immediate follow-up?",
+   "options": [
+    "Contractions lasting over 90 seconds",
+    "Contractions every 3–5 minutes",
+    "Intensity of 50–60 mmHg",
+    "Contractions lasting 60 seconds"
+   ],
+   "answer": "A",
+   "rationale": "Contractions longer than 90 seconds or closer than 2 minutes risk tetanic contractions, uterine rupture and fetal hypoxia.",
+   "explanations": [
+    "Correct.",
+    "Normal.",
+    "Normal.",
+    "Normal."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 125)",
+   "quote": "Uterine contractions that last more than 90 seconds and with frequency of less than 2 minutes leads to tetanic contractions."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother During Labor and Birth",
+   "situation": "",
+   "stem": "Fetal heart rate decelerations begin with the start of each contraction and mirror it. This indicates:",
+   "options": [
+    "Head compression",
+    "Cord compression",
+    "Uteroplacental insufficiency",
+    "Fetal sleep"
+   ],
+   "answer": "A",
+   "rationale": "Early decelerations = head compression; variable = cord compression; late = uteroplacental insufficiency.",
+   "explanations": [
+    "Correct.",
+    "Variable.",
+    "Late.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 126)",
+   "quote": "Early deceleration indicates head compression; variable deceleration indicates cord compression"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother During Labor and Birth",
+   "situation": "",
+   "stem": "After rupture of membranes, the nurse sees the umbilical cord at the vulva. Which action is inappropriate?",
+   "options": [
+    "Pushing the cord back into the uterus",
+    "Knee-chest position",
+    "Lifting the presenting part with gloved fingers",
+    "Preparing for cesarean section"
+   ],
+   "answer": "A",
+   "rationale": "Do not replace the cord; relieve pressure on it with positioning and manual elevation of the presenting part.",
+   "explanations": [
+    "Correct; avoid it.",
+    "Appropriate.",
+    "Appropriate.",
+    "Appropriate."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 126)",
+   "quote": "When prolapse of the cord occurs; pushing the cord into the uterus is an inappropriate nursing action."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother During Labor and Birth",
+   "situation": "",
+   "stem": "During an oxytocin infusion, the fetal monitor shows signs of fetal distress. The nurse first:",
+   "options": [
+    "Stops the oxytocin",
+    "Increases the oxytocin",
+    "Lays the mother flat on her back",
+    "Encourages pushing"
+   ],
+   "answer": "A",
+   "rationale": "Stop oxytocin, turn to the left side, give oxygen and prepare for possible cesarean.",
+   "explanations": [
+    "Correct.",
+    "Worsens hypoxia.",
+    "Compresses vena cava.",
+    "Not indicated."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 126)",
+   "quote": "During fetal distress, Pitocin drip should be discontinued."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Following Birth",
+   "situation": "",
+   "stem": "Four hours after delivery, the fundus is at the umbilicus and deviated to the right. The nurse suspects:",
+   "options": [
+    "Distended bladder",
+    "Normal involution",
+    "Retained placenta",
+    "Uterine rupture"
+   ],
+   "answer": "A",
+   "rationale": "A full bladder displaces the uterus and impairs contraction, increasing bleeding risk; help her void.",
+   "explanations": [
+    "Correct.",
+    "Should be midline.",
+    "Other signs.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 127)",
+   "quote": "Deviation of the fundus of the uterus to the side of the abdomen indicates distended bladder."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Following Birth",
+   "situation": "",
+   "stem": "A mother with a perineal hematoma after a forceps delivery should first receive:",
+   "options": [
+    "Ice packs for the first 24 hours",
+    "Warm sitz baths in the first 24 hours",
+    "Vigorous massage",
+    "Ambulation only"
+   ],
+   "answer": "A",
+   "rationale": "Cold causes vasoconstriction and limits bleeding; warmth in the first 24 hours increases bleeding.",
+   "explanations": [
+    "Correct.",
+    "Increases bleeding.",
+    "Harmful.",
+    "Not enough."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 127)",
+   "quote": "ice application for the first 24 hours to promote vasoconstriction and to prevent bleeding"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Following Birth",
+   "situation": "",
+   "stem": "On her 4th postpartum day, a mother starts doing things for herself and wants to learn baby care. She is in Rubin's:",
+   "options": [
+    "Taking-hold phase",
+    "Taking-in phase",
+    "Letting-go phase",
+    "Recovery phase"
+   ],
+   "answer": "A",
+   "rationale": "Taking-hold (about days 3–10): more independent, eager to learn mothering tasks.",
+   "explanations": [
+    "Correct.",
+    "Days 1–2, dependent.",
+    "Later.",
+    "Not a Rubin phase."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 127)",
+   "quote": "Taking-hold phase is characterized by the following: mother becomes more independent; she begins to assume tasks of mothering."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother with Complications of Childbearing",
+   "situation": "",
+   "stem": "A postpartum client has thrombophlebitis of the leg. Which action needs correction?",
+   "options": [
+    "Massaging the affected leg",
+    "Elevating the leg",
+    "Applying warm moist packs",
+    "Applying support hose as ordered"
+   ],
+   "answer": "A",
+   "rationale": "Massage may dislodge a clot and cause pulmonary embolism.",
+   "explanations": [
+    "Correct; avoid it.",
+    "Appropriate.",
+    "Appropriate.",
+    "Appropriate."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Evaluating",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 128)",
+   "quote": "Massaging the legs ofa client with thrombophlebitis may dislodge blood clots that will lead to pulmonary embolism."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother with Complications of Childbearing",
+   "situation": "",
+   "stem": "When preterm delivery cannot be stopped, betamethasone is given to the mother to:",
+   "options": [
+    "Speed fetal lung maturity",
+    "Stop contractions",
+    "Induce labor",
+    "Prevent infection"
+   ],
+   "answer": "A",
+   "rationale": "Antenatal corticosteroids increase fetal surfactant production and improve survival.",
+   "explanations": [
+    "Correct.",
+    "Tocolytic role.",
+    "Oxytocin role.",
+    "Antibiotic role."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 128)",
+   "quote": "This medication increases surfactant production and thereby. increasing probability of the fetus to survive."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother with Complications of Childbearing",
+   "situation": "",
+   "stem": "A client on terbutaline to stop preterm labor should be monitored for:",
+   "options": [
+    "Tachycardia",
+    "Bradycardia",
+    "Hypothermia",
+    "Drowsiness"
+   ],
+   "answer": "A",
+   "rationale": "Terbutaline is a beta-agonist: tachycardia, palpitations, tremors, nervousness.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Not typical.",
+    "Not typical."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 128)",
+   "quote": "tachycardia, nervousness, tremors, headache, itations,arrh ias, and hy rtension."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the Well Child (Neonate to Adolescent)",
+   "situation": "",
+   "stem": "Which drug is commonly used as eye prophylaxis for the newborn against gonococcal and chlamydial conjunctivitis?",
+   "options": [
+    "Erythromycin ointment",
+    "Neomycin drops",
+    "Gentamicin injection",
+    "Streptomycin"
+   ],
+   "answer": "A",
+   "rationale": "Erythromycin (or tetracycline) ointment is used for neonatal eye prophylaxis.",
+   "explanations": [
+    "Correct.",
+    "Not used.",
+    "Not used.",
+    "Not used."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 128)",
+   "quote": "Erythromycin and tetracycline are the medications used as eye prophylaxis for gonorrhea and chlamydia."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Reproductive Health (Male & Female)",
+   "situation": "",
+   "stem": "Before a 24-year-old starts combined oral contraceptive pills, the nurse should check especially for:",
+   "options": [
+    "Hypertension",
+    "Acne",
+    "Mild anemia",
+    "Dysmenorrhea"
+   ],
+   "answer": "A",
+   "rationale": "Estrogen can raise BP and clotting risk; hypertension and thrombophlebitis are contraindications.",
+   "explanations": [
+    "Correct.",
+    "Not a contraindication.",
+    "Not a contraindication.",
+    "Pills may help."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 128)",
+   "quote": "Before starting oral contraceptives, the nurse should assess the client for signs and symptoms of hypertension."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Before Birth",
+   "situation": "",
+   "stem": "In the first trimester a woman says, \"I'm not sure I want to be pregnant with all these discomforts.\" The nurse recognizes this as:",
+   "options": [
+    "Normal ambivalence",
+    "Rejection of the baby",
+    "Postpartum depression",
+    "Fear of labor"
+   ],
+   "answer": "A",
+   "rationale": "Ambivalence is normal in the first trimester; acceptance usually follows.",
+   "explanations": [
+    "Correct.",
+    "Overinterpreted.",
+    "Not pregnant period.",
+    "Not stated."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Maternity exercises (PDF p. 130)",
+   "quote": "During the first trimester, it is normal for the pregnant woman to experience ambivalence."
+  }
+ ]
+}

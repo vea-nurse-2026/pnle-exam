@@ -1,0 +1,365 @@
+{
+ "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024)",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "The single most effective practice to prevent the spread of microorganisms is:",
+   "options": [
+    "Handwashing",
+    "Wearing masks",
+    "Using antibiotics",
+    "Restricting visitors"
+   ],
+   "answer": "A",
+   "rationale": "Hand hygiene is the single most effective infection-prevention practice.",
+   "explanations": [
+    "Correct.",
+    "Specific uses only.",
+    "Treatment, not prevention.",
+    "Limited effect."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Infection control (PDF p. 64)",
+   "quote": "Handwashing is the single, most effective practice to prevent spread of microorganisms."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Which PPE should be put on first when entering an isolation room?",
+   "options": [
+    "Gown",
+    "Gloves",
+    "Goggles",
+    "Mask"
+   ],
+   "answer": "A",
+   "rationale": "Donning order: hand hygiene, gown, mask or respirator, goggles or face shield, then gloves.",
+   "explanations": [
+    "Correct.",
+    "Last.",
+    "Third.",
+    "Second."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Donning PPE (PDF p. 65)",
+   "quote": "Put on goøn Put on musk or respirator Put on goggles or face shield Put on gloves"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "After caring for a client in isolation, which item is removed first because it is the most contaminated?",
+   "options": [
+    "Gloves",
+    "Mask",
+    "Goggles",
+    "Cap"
+   ],
+   "answer": "A",
+   "rationale": "Gloves are the most contaminated; the mask or respirator is removed last, followed by hand hygiene.",
+   "explanations": [
+    "Correct.",
+    "Removed last.",
+    "After gloves and gown.",
+    "Not first."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Infection control exercises (PDF p. 66)",
+   "quote": "lhe gloves are considered as the most contanuuatso TheretOre, it should be removed first"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Which PPE must the nurse wear when caring for a client with active pulmonary TB?",
+   "options": [
+    "N95 particulate respirator",
+    "Surgical mask only",
+    "Gloves only",
+    "No PPE needed"
+   ],
+   "answer": "A",
+   "rationale": "Airborne precautions require a negative-pressure room and an N95 respirator for health workers.",
+   "explanations": [
+    "Correct.",
+    "Not enough.",
+    "Not enough.",
+    "Unsafe."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Airborne precaution (PDF p. 64)",
+   "quote": "Particulate respirator/mask, gown and gloves for health care v.orkers (N-95)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "When a client with pulmonary TB must go to the radiology department, the nurse ensures that:",
+   "options": [
+    "The client wears a surgical mask",
+    "The client wears an N95",
+    "The nurse wears a gown in the hallway",
+    "No mask is needed"
+   ],
+   "answer": "A",
+   "rationale": "Clients on airborne isolation wear a surgical mask during transport; N95s are for health workers.",
+   "explanations": [
+    "Correct.",
+    "Not for clients.",
+    "Not needed outside.",
+    "Unsafe."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Airborne precaution (PDF p. 64)",
+   "quote": "Surgical mask for patient during transport outside his room"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Which disease requires droplet precautions?",
+   "options": [
+    "Pertussis",
+    "Shigellosis",
+    "Cellulitis",
+    "RSV bronchiolitis"
+   ],
+   "answer": "A",
+   "rationale": "Pertussis, influenza, diphtheria, mumps, rubella and bacterial pneumonia need droplet precautions; RSV, shigellosis and skin infections need contact precautions.",
+   "explanations": [
+    "Correct.",
+    "Contact.",
+    "Contact.",
+    "Contact."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Infection control exercises (PDF p. 66)",
+   "quote": "Pertussts and pneumoma require droplet precaution."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "An infant has respiratory syncytial virus infection. Which precautions are used?",
+   "options": [
+    "Contact",
+    "Airborne",
+    "Droplet only",
+    "None"
+   ],
+   "answer": "A",
+   "rationale": "RSV spreads by hand-to-mouth or hand-to-eye contact; contact precautions are used.",
+   "explanations": [
+    "Correct.",
+    "Not airborne.",
+    "Not the main route.",
+    "Precautions needed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Infection control exercises (PDF p. 68)",
+   "quote": "Respratoo SynetLal virus tnfecuon rquires contact preeution"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "For a client with MRSA wound infection, the nurse should:",
+   "options": [
+    "Keep a dedicated BP cuff in the room",
+    "Use a face shield when talking",
+    "Use protective isolation",
+    "Share equipment with other rooms"
+   ],
+   "answer": "A",
+   "rationale": "MRSA requires contact precautions; dedicate equipment such as stethoscope and BP cuff to the room.",
+   "explanations": [
+    "Correct.",
+    "Not required.",
+    "For immunocompromised.",
+    "Spreads MRSA."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Infection control exercises (PDF p. 67)",
+   "quote": "MRSA requires contxt Tbaef«e. steth0C0F and the BP cuff should be left in the client's room."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "A client with extensive burns needs which type of isolation?",
+   "options": [
+    "Protective (reverse) isolation",
+    "Airborne precautions",
+    "Droplet precautions",
+    "Contact precautions"
+   ],
+   "answer": "A",
+   "rationale": "Protective isolation shields immunocompromised clients such as those with extensive burns from infection.",
+   "explanations": [
+    "Correct.",
+    "For airborne disease.",
+    "For droplet disease.",
+    "For contact-spread disease."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Infection control exercises (PDF p. 67)",
+   "quote": "Protecuve (Rever*) Isolation technique is to bc implemented jn the client mth extensive burns to prevent infection."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "During a surgical hand scrub, the nurse keeps her hands:",
+   "options": [
+    "Above the elbows",
+    "Below the elbows",
+    "At waist level, pointing down",
+    "Inside the sink"
+   ],
+   "answer": "A",
+   "rationale": "In surgical asepsis water flows from the cleanest area (hands) to elbows; in medical handwashing, hands are kept lower.",
+   "explanations": [
+    "Correct.",
+    "Medical handwashing.",
+    "Contaminates.",
+    "Contaminates."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Infection control exercises (PDF p. 67)",
+   "quote": "Keep hands abo•.e v.ashing and nnsang"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "When opening a sterile drape package, which flap is opened first?",
+   "options": [
+    "The flap farthest from the nurse",
+    "The flap nearest the nurse",
+    "Either side flap",
+    "Any flap, touching edges only"
+   ],
+   "answer": "A",
+   "rationale": "Open the far flap first, then the sides, then the near flap, so the arm never passes over the sterile field.",
+   "explanations": [
+    "Correct.",
+    "Last.",
+    "Second.",
+    "Not correct sequence."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Infection control exercises (PDF p. 67)",
+   "quote": "the flap auay from you should be opened first"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Which principle of surgical asepsis is correct?",
+   "options": [
+    "A 1-inch border of a sterile field is unsterile",
+    "Opened unused sterile items can be restocked",
+    "Moist packages remain sterile",
+    "Sterile items may be held below the waist"
+   ],
+   "answer": "A",
+   "rationale": "The 1-inch edge is unsterile; opened items, torn or moist packages and items below waist level are contaminated.",
+   "explanations": [
+    "Correct.",
+    "Discard them.",
+    "Moisture contaminates.",
+    "Keep above waist."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Infection control exercises (PDF p. 66)",
+   "quote": "An area of one inch from the edge ofa sterile ruck ts considered unstenle."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Which practice about used needles is incorrect?",
+   "options": [
+    "Detaching the needle from the syringe before disposal",
+    "Never recapping used needles",
+    "Using a puncture-proof container",
+    "Using a one-handed scoop if recapping is unavoidable"
+   ],
+   "answer": "A",
+   "rationale": "Detaching needles increases needlestick risk; discard needle and syringe together in a sharps container.",
+   "explanations": [
+    "Correct; avoid it.",
+    "Correct practice.",
+    "Correct practice.",
+    "Correct practice."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Evaluating",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Infection control exercises (PDF p. 66)",
+   "quote": "Choice 6 is incorrect. This nursing action increases nsk foc needle stick."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Touching the skin lesions of a client with scabies without gloves exposes the nurse through which mode of transmission?",
+   "options": [
+    "Contact",
+    "Droplet",
+    "Airborne",
+    "Vector-borne"
+   ],
+   "answer": "A",
+   "rationale": "Scabies spreads by direct contact; measles is airborne and coughing at close range is droplet.",
+   "explanations": [
+    "Correct.",
+    "Close-range coughing.",
+    "Measles, TB.",
+    "Insects."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Infection control exercises (PDF p. 66)",
+   "quote": "Touching skin lesions of patient \"ith scabies with bare hands"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Which client is at greatest risk if placed in the same room as a client with an infection?",
+   "options": [
+    "A postoperative client",
+    "A client with hypertension",
+    "A client with asthma",
+    "A client with gout"
+   ],
+   "answer": "A",
+   "rationale": "Immunocompromised clients (postop, cancer, burns, prolonged steroids) should not room with infected clients.",
+   "explanations": [
+    "Correct.",
+    "Not immunocompromised.",
+    "Not immunocompromised.",
+    "Not immunocompromised."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024), Rooming-in (PDF p. 65)",
+   "quote": "Immune — compromised clicnts should not bc roomed in with clients who have infections."
+  }
+ ]
+}

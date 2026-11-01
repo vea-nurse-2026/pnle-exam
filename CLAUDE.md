@@ -54,6 +54,8 @@ For small changes (site design, a fix), the same flow applies: change, `npm run 
   - spousal consent "required" for sterilization (struck down in Imbong v. Ochoa, 2014; only the client consents)
   - RA 9211 minimum age for buying tobacco (raised from 18 to 21 by RA 11467, 2020)
   - Udan books: old CPR/ACLS (100/min, lidocaine for PVCs, atropine for asystole, bicarbonate), annual Pap/CXR/DRE screening, old DM cutoffs, Lente insulin, renal-dose dopamine, MAST trousers, nothing by mouth for 48 h after burns, 50–100 mL tube-feed residual limits, paper-bag rebreathing, aspirin or gold as the mainstay for RA, elevating a limb above the heart in compartment syndrome, bed rest for disc herniation, "limit dairy" for calcium stones, blood transfusion during hemodialysis, frequent sex as a prostate cancer cause, withdrawn drugs (phenylbutazone, propoxyphene, chymopapain, Xigris, DES)
+  - Udan NLE Vol. 1: normal FHR 120–160 (now 110–160), meconium aspiration as "the" problem of infants of diabetic mothers (it is macrosomia/hypoglycemia), placing newborns on the right side after feeding, ice "inhibits milk" in engorgement, removing the mask before the gown, droplet precautions for Pneumocystis, paper-bag breathing for panic attacks
+  - Maglaya (2009): maternal mortality per 1,000 live births (now per 100,000), International Reference Standard growth tables (now WHO Child Growth Standards), routine postpartum vitamin A for mothers (no longer recommended), nurse-attended home delivery
 - **Topics must be the exact Annex A names below.** A misspelled topic would create a new topic, so `--approve` refuses it instead. NP II and NP V have no "Health Education" topic, and "Acute Biologic Crisis & Emergency Care" exists only under NP V.
 - **Mix the difficulty and Bloom levels.** Keep the correct option's length similar to the others, and avoid NOT/EXCEPT stems.
 
@@ -78,12 +80,15 @@ For small changes (site design, a fix), the same flow applies: change, `npm run 
 | Udan, Comprehensive Nursing Licensure Review Vol. 2 (2024) (`materials/udan/Udan-NLE-V2-2024.pdf`; OCR text in `materials/_text/Udan-NLE-V2-2024.ocr.txt`, PDF page ≈ printed page + 2) | Done, Ch. 1–17 (`imports/udan-nle2-*.json`) |
 | Udan, Healthcare Ethics (2023) (`materials/udan/Udan-Healthcare-Ethics-2023.pdf`) | Done (`imports/udan-eth-*.json`) |
 | Udan, Medical-Surgical Nursing 2nd ed. (`materials/udan/Udan-MS-2e.pdf`, scanned two-up; OCR text in `materials/_text/Udan-MS-2e.ocr.txt`, words often run together) | Done for what NLE Vol. 2 lacked: Ch. 1 adult development, Ch. 3 perioperative, Ch. 19–21 (female reproductive, STIs, immunologic), comprehensive exams (`imports/udan-ms-*.json`). Ch. 4–18 and the practice tests repeat NLE Vol. 2, so they were skipped |
+| Udan, Comprehensive Nursing Licensure Review Vol. 1 (2024) (`materials/udan/Udan-NLE-V1-2024.pdf`, CamScanner two-up; OCR text in `materials/_text/Udan-NLE-V1-2024.ocr.txt`) | Done: fundamentals/ethics/law, pharmacology and dosage computation, infection control, and the maternity, pediatric and psychiatric exercise sets (`imports/udan-nle1-*.json`). US-only parts (NCLEX overview, HIPAA, US ethnic groups, US immunization schedule, herbal medicines "for NCLEX") skipped |
+| Polit & Beck, Essentials of Nursing Research, 9th ed. (2018) (`materials/research/`; text in `materials/_text/Polit-Beck-Essentials-Nursing-Research-2018.txt`) | Done, Ch. 1–18 via the chapter summaries (`imports/polit-res-*.json`). US regulations (IRB rules, HIPAA, Certificates of Confidentiality) and advanced statistics skipped |
+| Maglaya, Nursing Practice in the Community, 5th ed. (2009) (`materials/chn/`; OCR text in `materials/_text/Maglaya-Nursing-Practice-Community.ocr.txt`) | Done: Ch. 1–4, 7–9, 13–15, 17 (`imports/maglaya-chn-*.json`). Ch. 10–12 and 16 skipped (nurse-attended home delivery protocols, OTC "logic trees" with old guidelines); 2004-era statistics and programs (MDGs, FOURmula One, MTPDP) not used |
 | Udan: Fundamentals overview (Scribd 25006096, 29 pp.) | Waiting for the download |
 | DOH Philippine Clinical Standards Manual on Family Planning (2014) | Ch. 1–11 done (`imports/dohfp-*.json`); STI and FP-management chapters left |
 | Philippine laws, full text from Lawphil (30 laws in `materials/laws/`, text in `materials/_text/laws/`) | Started: `imports/law-*.json` (professional practice, maternal/child, mental health, community). Check each law for later amendments before writing |
 | Other free sources in `materials/openstax/` and `materials/doh/` (MNCHN MOP, NTP MOP, Dengue CPG 2023, mhGAP 2.0, PNF; OpenStax nursing books) | Downloaded and extracted; not yet converted |
 
-Bank on 2026-10-31: 4,266 approved (4,250 published; the other 16 are samples). Published by subject: NP I 501 · NP II 722 · NP III 1,394 · NP IV 1,075 · NP V 558. Update this line after each update.
+Bank on 2026-11-01: 4,735 approved (4,719 published; the other 16 are samples). Published by subject: NP I 722 · NP II 789 · NP III 1,541 · NP IV 1,086 · NP V 581. Update this line after each update.
 
 ## Never
 
