@@ -1,0 +1,581 @@
+{
+ "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009)",
+ "questions": [
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Which vitamin can be synthesized by the body when the skin is exposed to sunlight?",
+   "options": [
+    "Vitamin D",
+    "Vitamin A",
+    "Vitamin C",
+    "Vitamin B12"
+   ],
+   "answer": "A",
+   "rationale": "Vitamins cannot be synthesized in the body except vitamin D, formed in the skin by UV exposure.",
+   "explanations": [
+    "Correct.",
+    "From food.",
+    "From food.",
+    "From food."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 13 Vitamins (PDF p. 331)",
+   "quote": "They cannot be synthesized (except vitamin D) in the body"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Which group of vitamins can accumulate in the body and cause toxicity with excessive intake?",
+   "options": [
+    "Fat-soluble vitamins",
+    "Water-soluble vitamins",
+    "B-complex vitamins",
+    "Vitamin C only"
+   ],
+   "answer": "A",
+   "rationale": "Fat-soluble vitamins (A, D, E, K) are stored; water-soluble ones are readily excreted.",
+   "explanations": [
+    "Correct.",
+    "Excreted.",
+    "Water-soluble.",
+    "Water-soluble."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 13 Vitamins (PDF p. 331)",
+   "quote": "Fat soluble vitamins are stored in the body while water soluble vitamins are generally not stored in significant amounts and are readily excreted."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "The main cause of preventable nutritional blindness in young children is lack of:",
+   "options": [
+    "Vitamin A",
+    "Vitamin C",
+    "Iron",
+    "Iodine"
+   ],
+   "answer": "A",
+   "rationale": "Vitamin A is part of rhodopsin; deficiency ranges from night blindness to keratomalacia.",
+   "explanations": [
+    "Correct.",
+    "Scurvy.",
+    "Anemia.",
+    "Goiter, cretinism."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 13 Vitamin A (PDF p. 331)",
+   "quote": "Vitamin A deficiency is the main cause ofpreventable nutritional blindness among young children."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A child has difficulty seeing at dusk. This earliest sign of vitamin A deficiency is:",
+   "options": [
+    "Night blindness",
+    "Keratomalacia",
+    "Corneal ulcer",
+    "Bitot's spots"
+   ],
+   "answer": "A",
+   "rationale": "Night blindness is the earliest functional sign; keratomalacia (softening of cornea) is the most severe.",
+   "explanations": [
+    "Correct.",
+    "Most severe.",
+    "Late.",
+    "Conjunctival sign."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 14 Vitamin A deficiency (PDF p. 344)",
+   "quote": "Nightblindness, a functional sign characterized by difficulty in seeing in dim light"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Foamy, cheesy patches on the temporal part of a child's conjunctiva are:",
+   "options": [
+    "Bitot's spots",
+    "Keratomalacia",
+    "Pterygium",
+    "Cataract"
+   ],
+   "answer": "A",
+   "rationale": "Bitot's spots are a sign of vitamin A deficiency (xerophthalmia).",
+   "explanations": [
+    "Correct.",
+    "Corneal softening.",
+    "Tissue growth.",
+    "Lens opacity."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 14 Vitamin A deficiency (PDF p. 344)",
+   "quote": "Bitot's spot — a cheesy, foamy deposit usually in the temporal quadrant of the eye"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Population Groups",
+   "situation": "",
+   "stem": "For prophylactic vitamin A supplementation, a 3-year-old child receives:",
+   "options": [
+    "200,000 IU every 6 months",
+    "100,000 IU every month",
+    "50,000 IU once only",
+    "10,000 IU daily"
+   ],
+   "answer": "A",
+   "rationale": "Preventive doses: 100,000 IU for infants 6–11 months; 200,000 IU every 6 months for children 1–5 years.",
+   "explanations": [
+    "Correct.",
+    "Wrong schedule.",
+    "Wrong dose.",
+    "Not the program dose."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 14 Vitamin A prevention (PDF p. 344)",
+   "quote": "1-5 years - 200,000 IU"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Population Groups",
+   "situation": "",
+   "stem": "An 8-month-old infant receives which preventive vitamin A dose?",
+   "options": [
+    "100,000 IU",
+    "200,000 IU",
+    "400,000 IU",
+    "25,000 IU"
+   ],
+   "answer": "A",
+   "rationale": "Infants 6 months to under 1 year receive 100,000 IU.",
+   "explanations": [
+    "Correct.",
+    "Ages 1–5.",
+    "Too high.",
+    "Too low."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 14 Vitamin A prevention (PDF p. 344)",
+   "quote": "Infants 6 months to < 1 year of age — 100,000 IU"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "To improve absorption of iron from malunggay and mongo, the mother should serve them with:",
+   "options": [
+    "Calamansi or guava",
+    "A cup of tea",
+    "A glass of milk",
+    "Black coffee"
+   ],
+   "answer": "A",
+   "rationale": "Non-heme iron is poorly absorbed; vitamin C and meat enhance it, while tannins, phytates and oxalates inhibit it.",
+   "explanations": [
+    "Correct.",
+    "Tannins inhibit.",
+    "Calcium competes.",
+    "Inhibits."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 13 Iron (PDF p. 333)",
+   "quote": "To improve absorption of non-heme iron, vitamin C-rich foods and meat should be eaten together with it."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Which form of iron is best absorbed by the body?",
+   "options": [
+    "Heme iron from meat and liver",
+    "Iron from cereals",
+    "Iron from tea",
+    "Iron from leafy vegetables"
+   ],
+   "answer": "A",
+   "rationale": "Heme iron (red meat, organ meats) is well absorbed; plant (non-heme) iron is poorly absorbed.",
+   "explanations": [
+    "Correct.",
+    "Non-heme.",
+    "Tannins inhibit.",
+    "Non-heme."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 13 Iron (PDF p. 333)",
+   "quote": "heme iron which is found in red meat, and organ meats (liver, spleen, kidney heart) and is well absorbed in the body."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Population Groups",
+   "situation": "",
+   "stem": "Which groups are most vulnerable to iron deficiency anemia?",
+   "options": [
+    "Pregnant women and infants",
+    "Adult men",
+    "Office workers",
+    "Retired athletes"
+   ],
+   "answer": "A",
+   "rationale": "Vulnerable: infants, preschoolers, adolescent girls, pregnant and lactating women, the elderly.",
+   "explanations": [
+    "Correct.",
+    "Lower risk.",
+    "Lower risk.",
+    "Lower risk."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 13 Iron (PDF p. 333)",
+   "quote": "the most vulnerable groups are infants, preschool children, adolescent girls, pregnant and lactating women and elderly."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Pallor from anemia should be checked at which body sites?",
+   "options": [
+    "Conjunctiva and palms",
+    "Ear lobes only",
+    "Soles of feet only",
+    "Scalp"
+   ],
+   "answer": "A",
+   "rationale": "Pallor is examined at the conjunctiva, inner lips, nail beds and palms.",
+   "explanations": [
+    "Correct.",
+    "Not standard.",
+    "Not standard.",
+    "Not standard."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 14 Iron deficiency anemia (PDF p. 343)",
+   "quote": "Pallor should be examined at three sites: conjunctiva, the inner lips and nail beds and palm of hands."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Besides poor diet, an important cause of iron deficiency anemia among Filipino children in rural areas is:",
+   "options": [
+    "Hookworm and malaria infection",
+    "Excess vitamin C",
+    "Too much sunlight",
+    "Drinking milk"
+   ],
+   "answer": "A",
+   "rationale": "Increased blood loss from hookworm, malaria and Trichuris contributes to iron deficiency.",
+   "explanations": [
+    "Correct.",
+    "Improves absorption.",
+    "Not related.",
+    "Not a main cause."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 14 Iron deficiency anemia (PDF p. 343)",
+   "quote": "Inereased blood loss due to hookworm and malaria and to a limited extent trichuris"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "A severely wasted child has an \"old man's face,\" thin sparse hair and no edema, and still has a good appetite. This is:",
+   "options": [
+    "Marasmus",
+    "Kwashiorkor",
+    "Rickets",
+    "Scurvy"
+   ],
+   "answer": "A",
+   "rationale": "Marasmus is severe wasting from prolonged starvation; kwashiorkor shows pitting edema and moon face.",
+   "explanations": [
+    "Correct.",
+    "Has edema.",
+    "Bone deformity.",
+    "Bleeding gums."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 14 Marasmus (PDF p. 342)",
+   "quote": "Marasmus results from prolonged starvation and is associated with severe wasting with classical signs of \"old man's facie\""
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "A malnourished toddler has pitting edema of the legs, moon face, flaky-paint skin and alternating light bands in the hair. This is:",
+   "options": [
+    "Kwashiorkor",
+    "Marasmus",
+    "Nephrotic syndrome only",
+    "Hypothyroidism"
+   ],
+   "answer": "A",
+   "rationale": "Kwashiorkor: pitting edema, moon face, flag sign of hair and flaky paint dermatosis.",
+   "explanations": [
+    "Correct.",
+    "No edema.",
+    "Not with these skin and hair signs.",
+    "Different signs."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 14 Kwashiorkor (PDF p. 342)",
+   "quote": "The main sign of kwashiorkor is the presence of pitting edema in the legs and feet"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "In the initial management of a child with severe acute malnutrition, the nurse watches especially for:",
+   "options": [
+    "Hypoglycemia and hypothermia",
+    "Hypertension",
+    "Obesity",
+    "Hyperthermia from overfeeding"
+   ],
+   "answer": "A",
+   "rationale": "Severely malnourished children risk hypoglycemia, hypothermia, dehydration, electrolyte imbalance and infection; stabilize first.",
+   "explanations": [
+    "Correct.",
+    "Not typical.",
+    "Not typical.",
+    "Not the main risk."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 14 Management of PEM (PDF p. 342)",
+   "quote": "Children with severe PEM are at risk of hypoglycemia, hypothermia, dehydration, electrolyte imbalance, micronutrient deficiencies and infection."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the Well Child (Neonate to Adolescent)",
+   "situation": "",
+   "stem": "A child's height-for-age is below −2 SD of the standard. This indicates:",
+   "options": [
+    "Chronic stunting",
+    "Acute wasting",
+    "Normal growth",
+    "Obesity"
+   ],
+   "answer": "A",
+   "rationale": "Low height-for-age reflects past, chronic undernutrition (stunting); low weight-for-height reflects wasting.",
+   "explanations": [
+    "Correct.",
+    "Weight-for-height.",
+    "Below normal.",
+    "Not this index."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 13 Indices of nutritional status (PDF p. 339)",
+   "quote": "Height for age indicates past, chronic undernutlfion and a good index of stunting."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the Well Child (Neonate to Adolescent)",
+   "situation": "",
+   "stem": "Which index best detects a child who is currently wasted (thin for height)?",
+   "options": [
+    "Weight-for-height",
+    "Height-for-age",
+    "Head circumference",
+    "Age alone"
+   ],
+   "answer": "A",
+   "rationale": "Weight-for-height is a sensitive indicator of current nutritional status and distinguishes wasting from stunting.",
+   "explanations": [
+    "Correct.",
+    "Chronic stunting.",
+    "Brain growth.",
+    "Not an index."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 13 Indices of nutritional status (PDF p. 339)",
+   "quote": "Weight for height is a sensitive indicator of current nutritional status."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "An adult weighs 72 kg and is 1.60 m tall. Her BMI is about 28. She is classified as:",
+   "options": [
+    "Overweight",
+    "Normal",
+    "Obese",
+    "Underweight"
+   ],
+   "answer": "A",
+   "rationale": "WHO adult BMI: <18.5 underweight; 18.5–24.9 normal; 25–29.9 overweight; ≥30 obese. 72 ÷ 2.56 ≈ 28.1.",
+   "explanations": [
+    "Correct.",
+    "Below 25.",
+    "30 and above.",
+    "Below 18.5."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 13 BMI classification (PDF p. 339)",
+   "quote": "BMI = Weight (kg)/ Height (m)2"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A mother is asked to recall all the foods her child ate in the past day. This dietary assessment method is the:",
+   "options": [
+    "24-hour food recall",
+    "Food frequency questionnaire",
+    "Food record",
+    "Biochemical method"
+   ],
+   "answer": "A",
+   "rationale": "In the 24-hour recall, the respondent recalls all foods eaten in the previous day; FFQ estimates usual long-term intake.",
+   "explanations": [
+    "Correct.",
+    "Usual intake over time.",
+    "Recorded as eaten.",
+    "Lab tests."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 13 Dietary methods (PDF p. 336)",
+   "quote": "Twenty-four hour food recall"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Population Groups",
+   "situation": "",
+   "stem": "Iodine deficiency during pregnancy may cause which condition in the baby?",
+   "options": [
+    "Cretinism",
+    "Rickets",
+    "Scurvy",
+    "Pellagra"
+   ],
+   "answer": "A",
+   "rationale": "Fetal iodine deficiency causes cretinism (mental and growth retardation, deaf-mutism).",
+   "explanations": [
+    "Correct.",
+    "Vitamin D.",
+    "Vitamin C.",
+    "Niacin."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 14 Iodine deficiency (PDF p. 345)",
+   "quote": "Cretinism results when there is iodine deficiency during fetal life"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Population Groups",
+   "situation": "",
+   "stem": "The national measure credited with dramatically reducing iodine deficiency among Filipino schoolchildren is:",
+   "options": [
+    "Salt iodization",
+    "Water fluoridation",
+    "Rice fortification with iron",
+    "Vitamin A capsules"
+   ],
+   "answer": "A",
+   "rationale": "The Salt Iodization Law (ASIN Law, RA 8172) reduced the proportion of children with deficient urinary iodine.",
+   "explanations": [
+    "Correct.",
+    "Dental caries.",
+    "Anemia.",
+    "VAD."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 14 Iodine deficiency (PDF p. 345)",
+   "quote": "The implementation of the Salt Iodization Law in the Philippines can be regarded as instrumental"
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Population Groups",
+   "situation": "",
+   "stem": "Iodine status of a population is commonly assessed by measuring:",
+   "options": [
+    "Urinary iodine",
+    "Hemoglobin",
+    "Serum albumin",
+    "Blood sugar"
+   ],
+   "answer": "A",
+   "rationale": "Urinary iodine excretion among school-age children is a key biochemical indicator of IDD.",
+   "explanations": [
+    "Correct.",
+    "Anemia.",
+    "Protein.",
+    "Diabetes."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 14 Iodine deficiency (PDF p. 345)",
+   "quote": "Biochemical methods include determination of urinary iodine excretion among school age children"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Gums that bleed easily in a client who eats almost no fruits or vegetables suggest deficiency of:",
+   "options": [
+    "Vitamin C",
+    "Vitamin A",
+    "Vitamin D",
+    "Iodine"
+   ],
+   "answer": "A",
+   "rationale": "Bleeding gums are a suggestive clinical sign of vitamin C deficiency.",
+   "explanations": [
+    "Correct.",
+    "Eye signs.",
+    "Bone signs.",
+    "Goiter."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 13 Clinical signs (PDF p. 340)",
+   "quote": "Bleeding gums"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Where is about 99% of the body's calcium found?",
+   "options": [
+    "Bones and teeth",
+    "Blood plasma",
+    "Muscles",
+    "Liver"
+   ],
+   "answer": "A",
+   "rationale": "Calcium is the most abundant mineral; 99% is in bones and teeth, 1% in body fluids.",
+   "explanations": [
+    "Correct.",
+    "About 1%.",
+    "Small amount.",
+    "Not stored there."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Maglaya, Nursing Practice in the Community, 5th ed. (2009), Ch. 13 Calcium (PDF p. 332)",
+   "quote": "Calcium is the most abundant mineral in the body with 99% found in bones and teeth"
+  }
+ ]
+}
